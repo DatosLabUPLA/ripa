@@ -69,16 +69,9 @@ instituciones = {
     'UV':'17388732461633852730'
 }
 
-'''instituciones = {
-    'UAC':'6219877915722792561',
-    'UAI':'10448777709790852446'
-}'''
-
 for id in instituciones.values():
     url="https://scholar.google.cl/citations?view_op=view_org&org=" + id 
     data.append(url)
-
-#print(data)
 
 for urls in data:
     
@@ -100,4 +93,3 @@ for urls in data:
     datas =  pd.DataFrame(datos, columns=['Autor','Universidad','Correo','Intereses','Cant Citas'])
     datas.to_csv('autores.csv', index=False)
     print(datas)
-
