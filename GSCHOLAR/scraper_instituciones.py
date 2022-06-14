@@ -9,10 +9,10 @@ from selenium.webdriver.chrome.options import Options
 import time,datetime,csv
 from bs4 import BeautifulSoup
 import pandas as pd
-datos = []
-data = []
 
 def uautonoma():
+    autonoma = []
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -48,12 +48,17 @@ def uautonoma():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uautonoma'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uautonoma.cl')
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                autonoma.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(autonoma, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('autonoma.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -62,9 +67,11 @@ def uautonoma():
             print('Termino con la Universidad Autonoma')
             break
     driver.quit()
-uautonoma()#Universidad Autonoma
+
 
 def uadolfoi():
+    adolfo=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -94,18 +101,23 @@ def uadolfoi():
             soup = BeautifulSoup(driver.page_source,'lxml')
             posts = soup.find_all('div', attrs={'class': 'gsc_1usr'})
             time.sleep(2)
-
+            
             for autores in posts:
                 id_gs = 10448777709790852446
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uadolfoi'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uai.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
-
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+                adolfo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+            
+            datas =  pd.DataFrame(adolfo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uadolfoi.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -114,9 +126,11 @@ def uadolfoi():
             print('Termino con la Universidad Adolfo Ibañez')
             break
     driver.quit()
-uadolfoi()#Adolfo Ibañez
+
 
 def uandes():
+    andes=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -152,12 +166,17 @@ def uandes():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uandes'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uandes.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                andes.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(andes, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uandes.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -166,9 +185,11 @@ def uandes():
             print('Termino con la Universidad de los Andes')
             break
     driver.quit()
-uandes()#Universidad de los Andes
+
 
 def udd():
+    desarrollo=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -204,12 +225,17 @@ def udd():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'udd'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('udd.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                desarrollo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(desarrollo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('udd.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -218,9 +244,11 @@ def udd():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-udd()#Universidad del Desarrollo
+
 
 def unab():
+    unab=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -256,12 +284,17 @@ def unab():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'unab'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('unab.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                unab.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(unab, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('unab.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -270,9 +303,11 @@ def unab():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-unab()#Universidad Andres Bello
+
 
 def uss():
+    uss=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -308,12 +343,17 @@ def uss():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uss'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uss.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uss.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uss, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uss.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -322,9 +362,11 @@ def uss():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uss()#Universidad San Sebastian
+
 
 def santotomas():
+    santotomas=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -360,12 +402,17 @@ def santotomas():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'santotomas'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('santotomas.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                santotomas.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(santotomas, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('santotomas.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -374,9 +421,11 @@ def santotomas():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-santotomas()#Universidad Santo Tomas
+
 
 def uc():
+    uc=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -412,12 +461,17 @@ def uc():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uc'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uc.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uc.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -426,9 +480,11 @@ def uc():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uc()#Universidad Catolica de Chile
+
 
 def pucv():
+    pucv=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -464,12 +520,17 @@ def pucv():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'pucv'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('pucv.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                pucv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(pucv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('pucv.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -478,9 +539,11 @@ def pucv():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-pucv()#Universidad Catolica Valparaiso
+
 
 def uach():
+    uach=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -516,12 +579,17 @@ def uach():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uach'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uach.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uach.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -530,9 +598,11 @@ def uach():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uach()#Universidad Austral de Chile
+
 
 def uahurtado():
+    hurtado=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -568,12 +638,17 @@ def uahurtado():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uahurtado'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uahurtado.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                hurtado.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(hurtado, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uahurtado.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -582,9 +657,11 @@ def uahurtado():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uahurtado()#Universidad Alberto Hurtado
+
 
 def ucm():
+    ucm =[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -620,12 +697,17 @@ def ucm():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucm'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ucm.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                ucm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(ucm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ucm.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -634,9 +716,11 @@ def ucm():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ucm()#Universidad Catolica del Maule
+
 
 def ucn():
+    ucn=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -672,12 +756,17 @@ def ucn():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucn'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ucn.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                ucn.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(ucn, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ucn.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -686,9 +775,11 @@ def ucn():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ucn()#Universidad Catolica del Norte
+
 
 def ucsc():
+    ucsc=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -724,12 +815,17 @@ def ucsc():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucsc'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ucsc.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                ucsc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(ucsc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ucsc.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -738,9 +834,11 @@ def ucsc():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ucsc()#Universidad Catolica de la Santisima Concepcion
+
 
 def uct():
+    uct=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -776,12 +874,17 @@ def uct():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uct'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uct.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uct.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uct, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uct.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -790,9 +893,11 @@ def uct():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uct()#Universidad Catolica de Temuco
+
 
 def udec():
+    udec=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -828,12 +933,17 @@ def udec():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'udec'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('udec.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                udec.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(udec, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('udec.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -842,9 +952,11 @@ def udec():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-udec()#Universidad de Concepcion
+
 
 def udp():
+    udp=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -880,12 +992,17 @@ def udp():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'udp'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('udp.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                udp.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(udp, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('udp.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -894,9 +1011,11 @@ def udp():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-udp()#Universidad Diego Portales
+
 
 def usm():
+    usm=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -932,12 +1051,17 @@ def usm():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'usm'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('usm.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                usm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(usm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('usm.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -946,9 +1070,11 @@ def usm():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-usm()#Universidad Santa Maria
+
 
 def uantof():
+    uantof=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -984,12 +1110,17 @@ def uantof():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uantof'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uantof.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uantof.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uantof, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uantof.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -998,9 +1129,11 @@ def uantof():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uantof()#Universidad Antofagasta
+
 
 def ubiobio():
+    biobio=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1036,12 +1169,17 @@ def ubiobio():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ubiobio'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ubiobio.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                biobio.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(biobio, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ubiobio.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1050,9 +1188,11 @@ def ubiobio():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ubiobio()#Universidad Bio Bio
+
 
 def uchile():
+    chile=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1088,12 +1228,17 @@ def uchile():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uchile'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uchile.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                chile.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(chile, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uchile.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1102,9 +1247,11 @@ def uchile():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uchile()#Universidad de Chile
+
 
 def ufrontera():
+    frontera=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1140,12 +1287,17 @@ def ufrontera():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ufrontera'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ufrontera.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                frontera.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(frontera, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ufrontera.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1154,9 +1306,11 @@ def ufrontera():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ufrontera()#Universidad de la Frontera
+
 
 def ulagos():
+    lagos=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1192,12 +1346,17 @@ def ulagos():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ulagos'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('ulagos.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                lagos.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(lagos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('ulagos.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1206,9 +1365,11 @@ def ulagos():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-ulagos()#Universidad de los Lagos
+
 
 def userena():
+    serena=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1244,12 +1405,17 @@ def userena():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'userena'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('userena.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                serena.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(serena, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('userena.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1258,9 +1424,11 @@ def userena():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-userena()#Universidad de la Serena
+
 
 def umag():
+    umag=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1296,12 +1464,17 @@ def umag():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'umag'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('umag.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                umag.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(umag, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('umag.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1310,9 +1483,11 @@ def umag():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-umag()#Universidad Magallanes
+
 
 def unap():
+    unap=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1348,12 +1523,17 @@ def unap():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'unap'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('unap.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                unap.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(unap, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('unap.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1362,9 +1542,11 @@ def unap():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-unap()#Universidad Arturo Prat
+
 
 def upla():
+    upla=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1400,12 +1582,17 @@ def upla():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'upla'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('upla.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                upla.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(upla, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('upla.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1414,9 +1601,11 @@ def upla():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-upla()#universidad de Playa Ancha
+
 
 def usach():
+    usach=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1452,12 +1641,17 @@ def usach():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'usach'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('usach.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                usach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(usach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('usach.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1466,9 +1660,11 @@ def usach():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-usach()#Universidad Santiago de Chile
+
 
 def uta():
+    uta=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1504,12 +1700,17 @@ def uta():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uta'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uta.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uta.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uta, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uta.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1518,9 +1719,11 @@ def uta():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-uta()#Universidad de Tarapaca
+
 
 def utalca():
+    talca=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1556,12 +1759,17 @@ def utalca():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'utalca'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('utalca.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                talca.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(talca, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('utalca.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1570,9 +1778,11 @@ def utalca():
             print('Termino con la Universidad del Desarrollo')
             break
     driver.quit()
-utalca()#Universidad de Talca
+
 
 def uv():
+    uv=[]
+
     options = webdriver.ChromeOptions()
     options.add_argument('--start-maximized')
     options.add_argument('--disable-extensions')
@@ -1608,12 +1818,17 @@ def uv():
                 autor = autores.find(class_='gs_ai_name').text
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uv'
-                email = autores.find(class_='gs_ai_eml').text
-                citaciones = autores.find(class_='gs_ai_cby').text
+                mail = autores.find_all(class_='gs_ai_eml')
+                text=mail[0].get_text()
+                offset=text.index('uv.cl')#arreglar
+                identificador = str(text[offset:46]).strip(' ')
+                citaciones = autores.find_all(class_='gs_ai_cby')
+                cita=citaciones[0].get_text()
+                cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                datos.append([id_gs,autor,cargo,id_institucion,email,citaciones,intereses])
+                uv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(datos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas =  pd.DataFrame(uv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
             datas.to_csv('uv.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
@@ -1621,5 +1836,4 @@ def uv():
         except SE.TimeoutException:
             print('Termino con la Universidad del Desarrollo')
             break
-    driver.quit()
-uv()#Universidad de Valparaiso    
+    driver.quit()  
