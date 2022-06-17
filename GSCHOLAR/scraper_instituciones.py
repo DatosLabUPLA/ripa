@@ -50,8 +50,7 @@ def uautonoma():
                 id_institucion = 'uautonoma'
                 mail = autores.find_all(class_='gs_ai_eml')
                 text=mail[0].get_text()
-                offset=text.index('uautonoma.cl')
-                identificador = str(text[offset:46]).strip(' ')
+                identificador = str(text[33:46]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -59,7 +58,7 @@ def uautonoma():
                 autonoma.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(autonoma, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('autonoma.csv', index=False)    
+            datas.to_csv('DATA/autonoma.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -109,8 +108,7 @@ def uadolfoi():
                 id_institucion = 'uadolfoi'
                 mail = autores.find_all(class_='gs_ai_eml')
                 text=mail[0].get_text()
-                offset=text.index('uai.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -118,7 +116,7 @@ def uadolfoi():
                 adolfo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
             
             datas =  pd.DataFrame(adolfo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uadolfoi.csv', index=False)    
+            datas.to_csv('DATA/uadolfoi.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -168,8 +166,7 @@ def uandes():
                 id_institucion = 'uandes'
                 mail = autores.find_all(class_='gs_ai_eml')
                 text=mail[0].get_text()
-                offset=text.index('uandes.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                identificador = str(text[33:43]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -177,7 +174,7 @@ def uandes():
                 andes.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(andes, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uandes.csv', index=False)    
+            datas.to_csv('DATA/uandes.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -227,8 +224,7 @@ def udd():
                 id_institucion = 'udd'
                 mail = autores.find_all(class_='gs_ai_eml')
                 text=mail[0].get_text()
-                offset=text.index('udd.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -236,7 +232,7 @@ def udd():
                 desarrollo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(desarrollo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('udd.csv', index=False)    
+            datas.to_csv('DATA/udd.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -285,9 +281,8 @@ def unab():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'unab'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('unab.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:41]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -295,12 +290,12 @@ def unab():
                 unab.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(unab, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('unab.csv', index=False)    
+            datas.to_csv('DATA/unab.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Andres Bello')
             break
     driver.quit()
 
@@ -344,9 +339,8 @@ def uss():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uss'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uss.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -354,12 +348,12 @@ def uss():
                 uss.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uss, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uss.csv', index=False)    
+            datas.to_csv('DATA/uss.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad San Sebastian')
             break
     driver.quit()
 
@@ -403,9 +397,8 @@ def santotomas():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'santotomas'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('santotomas.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:47]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -413,12 +406,12 @@ def santotomas():
                 santotomas.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(santotomas, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('santotomas.csv', index=False)    
+            datas.to_csv('DATA/santotomas.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Santo Tomas')
             break
     driver.quit()
 
@@ -462,9 +455,8 @@ def uc():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uc'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uc.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:45]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -472,12 +464,12 @@ def uc():
                 uc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uc.csv', index=False)    
+            datas.to_csv('DATA/uc.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica')
             break
     driver.quit()
 
@@ -521,9 +513,8 @@ def pucv():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'pucv'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('pucv.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()               
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -531,12 +522,12 @@ def pucv():
                 pucv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(pucv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('pucv.csv', index=False)    
+            datas.to_csv('DATA/pucv.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica Valparaiso')
             break
     driver.quit()
 
@@ -580,9 +571,8 @@ def uach():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uach'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uach.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()               
+                identificador = str(text[33:49]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -590,12 +580,12 @@ def uach():
                 uach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uach.csv', index=False)    
+            datas.to_csv('DATA/uach.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Austral')
             break
     driver.quit()
 
@@ -639,9 +629,8 @@ def uahurtado():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uahurtado'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uahurtado.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:46]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -649,12 +638,12 @@ def uahurtado():
                 hurtado.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(hurtado, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uahurtado.csv', index=False)    
+            datas.to_csv('DATA/uahurtado.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Alberto Hurtado')
             break
     driver.quit()
 
@@ -698,9 +687,8 @@ def ucm():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucm'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ucm.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -708,12 +696,12 @@ def ucm():
                 ucm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(ucm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ucm.csv', index=False)    
+            datas.to_csv('DATA/ucm.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica del Maule')
             break
     driver.quit()
 
@@ -757,9 +745,8 @@ def ucn():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucn'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ucn.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -767,12 +754,12 @@ def ucn():
                 ucn.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(ucn, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ucn.csv', index=False)    
+            datas.to_csv('DATA/ucn.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica del Norte')
             break
     driver.quit()
 
@@ -816,9 +803,8 @@ def ucsc():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ucsc'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ucsc.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:41]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -826,12 +812,12 @@ def ucsc():
                 ucsc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(ucsc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ucsc.csv', index=False)    
+            datas.to_csv('DATA/ucsc.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica de la Santisima Concepcion')
             break
     driver.quit()
 
@@ -875,9 +861,8 @@ def uct():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uct'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uct.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:46]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -885,12 +870,12 @@ def uct():
                 uct.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uct, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uct.csv', index=False)    
+            datas.to_csv('DATA/uct.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Catolica de Temuco')
             break
     driver.quit()
 
@@ -934,9 +919,8 @@ def udec():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'udec'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('udec.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:47]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -944,12 +928,12 @@ def udec():
                 udec.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(udec, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('udec.csv', index=False)    
+            datas.to_csv('DATA/udec.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Concepcion')
             break
     driver.quit()
 
@@ -993,9 +977,8 @@ def udp():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'udp'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('udp.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:47]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1003,12 +986,12 @@ def udp():
                 udp.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(udp, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('udp.csv', index=False)    
+            datas.to_csv('DATA/udp.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Diego Portales')
             break
     driver.quit()
 
@@ -1052,9 +1035,8 @@ def usm():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'usm'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('usm.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:40]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1062,12 +1044,12 @@ def usm():
                 usm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(usm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('usm.csv', index=False)    
+            datas.to_csv('DATA/usm.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Santa Maria')
             break
     driver.quit()
 
@@ -1111,9 +1093,8 @@ def uantof():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uantof'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uantof.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:43]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1121,12 +1102,12 @@ def uantof():
                 uantof.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uantof, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uantof.csv', index=False)    
+            datas.to_csv('DATA/uantof.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Antofagasta')
             break
     driver.quit()
 
@@ -1170,9 +1151,8 @@ def ubiobio():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ubiobio'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ubiobio.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:44]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1180,12 +1160,12 @@ def ubiobio():
                 biobio.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(biobio, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ubiobio.csv', index=False)    
+            datas.to_csv('DATA/ubiobio.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad del Bio-Bio')
             break
     driver.quit()
 
@@ -1229,9 +1209,8 @@ def uchile():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uchile'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uchile.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:44]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1239,12 +1218,12 @@ def uchile():
                 chile.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(chile, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uchile.csv', index=False)    
+            datas.to_csv('DATA/uchile.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Chile')
             break
     driver.quit()
 
@@ -1288,9 +1267,8 @@ def ufrontera():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ufrontera'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ufrontera.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:46]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1298,12 +1276,12 @@ def ufrontera():
                 frontera.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(frontera, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ufrontera.csv', index=False)    
+            datas.to_csv('DATA/ufrontera.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de la Frontera')
             break
     driver.quit()
 
@@ -1347,9 +1325,8 @@ def ulagos():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'ulagos'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('ulagos.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:43]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1357,12 +1334,12 @@ def ulagos():
                 lagos.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(lagos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('ulagos.csv', index=False)    
+            datas.to_csv('DATA/ulagos.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de los Lagos')
             break
     driver.quit()
 
@@ -1406,9 +1383,8 @@ def userena():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'userena'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('userena.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:44]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1416,12 +1392,12 @@ def userena():
                 serena.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(serena, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('userena.csv', index=False)    
+            datas.to_csv('DATA/userena.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de la Serena')
             break
     driver.quit()
 
@@ -1465,9 +1441,8 @@ def umag():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'umag'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('umag.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:41]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1475,12 +1450,12 @@ def umag():
                 umag.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(umag, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('umag.csv', index=False)    
+            datas.to_csv('DATA/umag.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Magallanes')
             break
     driver.quit()
 
@@ -1524,9 +1499,8 @@ def unap():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'unap'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('unap.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:41]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1534,12 +1508,12 @@ def unap():
                 unap.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(unap, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('unap.csv', index=False)    
+            datas.to_csv('DATA/unap.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad Arturo Prat')
             break
     driver.quit()
 
@@ -1583,9 +1557,8 @@ def upla():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'upla'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('upla.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:41]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1593,12 +1566,12 @@ def upla():
                 upla.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(upla, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('upla.csv', index=False)    
+            datas.to_csv('DATA/upla.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Playa Ancha')
             break
     driver.quit()
 
@@ -1642,9 +1615,8 @@ def usach():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'usach'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('usach.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:42]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1652,12 +1624,12 @@ def usach():
                 usach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(usach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('usach.csv', index=False)    
+            datas.to_csv('DATA/usach.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Santiago de Chile')
             break
     driver.quit()
 
@@ -1701,9 +1673,8 @@ def uta():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uta'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uta.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:51]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1711,12 +1682,12 @@ def uta():
                 uta.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uta, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uta.csv', index=False)    
+            datas.to_csv('DATA/uta.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Tarapaca')
             break
     driver.quit()
 
@@ -1760,9 +1731,8 @@ def utalca():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'utalca'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('utalca.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:52]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1770,12 +1740,12 @@ def utalca():
                 talca.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(talca, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('utalca.csv', index=False)    
+            datas.to_csv('DATA/utalca.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Talca')
             break
     driver.quit()
 
@@ -1819,9 +1789,8 @@ def uv():
                 cargo = autores.find(class_='gs_ai_aff').text
                 id_institucion = 'uv'
                 mail = autores.find_all(class_='gs_ai_eml')
-                text=mail[0].get_text()
-                offset=text.index('uv.cl')#arreglar
-                identificador = str(text[offset:46]).strip(' ')
+                text=mail[0].get_text()                
+                identificador = str(text[33:39]).strip(' ')
                 citaciones = autores.find_all(class_='gs_ai_cby')
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
@@ -1829,11 +1798,11 @@ def uv():
                 uv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
             datas =  pd.DataFrame(uv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('uv.csv', index=False)    
+            datas.to_csv('DATA/uv.csv', index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
         except SE.TimeoutException:
-            print('Termino con la Universidad del Desarrollo')
+            print('Termino con la Universidad de Valparaiso')
             break
     driver.quit()  
