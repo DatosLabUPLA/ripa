@@ -26,8 +26,8 @@ wait = W(driver,wait_time)
 for url in urls:
     try:      
         driver.get(url)  
-    except:
-        pass
+    except Exception as e:
+        print(e)
       
     while True:
         try:
@@ -39,6 +39,6 @@ for url in urls:
             botton = wait.until(EC.element_to_be_clickable((By.XPATH,locators)))
             botton.click()
 
-        except:
-            pass
+        except Exception as e:
+            print(e)
 driver.quit()
