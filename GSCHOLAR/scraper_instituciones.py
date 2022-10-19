@@ -1,12 +1,10 @@
-from multiprocessing.connection import wait
 from telnetlib import EC
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common import exceptions as SE
-from selenium.webdriver.chrome.options import Options
-import time,datetime,csv
+import time,datetime,urllib
 from bs4 import BeautifulSoup
 import pandas as pd
 
@@ -24,6 +22,7 @@ def uautonoma():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=6219877915722792561" 
     data.append(url)
 
@@ -31,10 +30,8 @@ def uautonoma():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e) 
 
     while button_link:
         try:
@@ -55,10 +52,18 @@ def uautonoma():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                autonoma.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                autonoma.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(autonoma, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/autonoma.csv', index=False)    
+            datas =  pd.DataFrame(autonoma, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/autonoma.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/autonoma.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -82,6 +87,7 @@ def uadolfoi():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=10448777709790852446" 
     data.append(url)
 
@@ -89,10 +95,8 @@ def uadolfoi():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -113,10 +117,18 @@ def uadolfoi():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                adolfo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
-            
-            datas =  pd.DataFrame(adolfo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uadolfoi.csv', index=False)    
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                adolfo.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
+
+            datas =  pd.DataFrame(adolfo, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uadolfoi.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uadolfoi.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -140,6 +152,7 @@ def uandes():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=6615366460316766280" 
     data.append(url)
 
@@ -147,10 +160,8 @@ def uandes():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -171,10 +182,18 @@ def uandes():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                andes.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                andes.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(andes, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uandes.csv', index=False)    
+            datas =  pd.DataFrame(andes, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uandes.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uandes.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -198,6 +217,7 @@ def udd():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=4794720163447555879" 
     data.append(url)
 
@@ -205,10 +225,8 @@ def udd():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -229,10 +247,18 @@ def udd():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                desarrollo.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                desarrollo.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(desarrollo, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/udd.csv', index=False)    
+            datas =  pd.DataFrame(desarrollo, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/udd.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/udd.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -256,6 +282,7 @@ def unab():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=13542589241086358186" 
     data.append(url)
 
@@ -263,10 +290,8 @@ def unab():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -287,10 +312,18 @@ def unab():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                unab.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                unab.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(unab, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/unab.csv', index=False)    
+            datas =  pd.DataFrame(unab, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/unab.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/unab.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -314,6 +347,7 @@ def uss():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=1812728570911196340" 
     data.append(url)
 
@@ -321,10 +355,8 @@ def uss():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -345,10 +377,18 @@ def uss():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uss.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uss.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uss, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uss.csv', index=False)    
+            datas =  pd.DataFrame(uss, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uss.csv', index=False)   
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uss.csv',index=False)     
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -372,6 +412,7 @@ def santotomas():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=14018219609791295521" 
     data.append(url)
 
@@ -379,10 +420,8 @@ def santotomas():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -403,10 +442,18 @@ def santotomas():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                santotomas.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                santotomas.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(santotomas, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/santotomas.csv', index=False)    
+            datas =  pd.DataFrame(santotomas, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/santotomas.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/santotomas.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -430,6 +477,7 @@ def uc():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=7459009050823923954" 
     data.append(url)
 
@@ -437,10 +485,8 @@ def uc():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -461,10 +507,18 @@ def uc():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uc.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uc.csv', index=False)    
+            datas =  pd.DataFrame(uc, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uc.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uc.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -488,6 +542,7 @@ def pucv():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=7698552169257898503" 
     data.append(url)
 
@@ -495,10 +550,8 @@ def pucv():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -519,10 +572,18 @@ def pucv():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                pucv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                pucv.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(pucv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/pucv.csv', index=False)    
+            datas =  pd.DataFrame(pucv, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/pucv.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/pucv.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -546,6 +607,7 @@ def uach():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=16206413231987421209" 
     data.append(url)
 
@@ -553,10 +615,8 @@ def uach():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -577,10 +637,18 @@ def uach():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uach.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uach.csv', index=False)    
+            datas =  pd.DataFrame(uach, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uach.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uach.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -604,6 +672,7 @@ def uahurtado():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=15469411678705648791" 
     data.append(url)
 
@@ -611,10 +680,8 @@ def uahurtado():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -635,10 +702,18 @@ def uahurtado():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                hurtado.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                hurtado.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(hurtado, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uahurtado.csv', index=False)    
+            datas =  pd.DataFrame(hurtado, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uahurtado.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uahurtado.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -662,6 +737,7 @@ def ucm():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=12968600147058256171" 
     data.append(url)
 
@@ -669,10 +745,8 @@ def ucm():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -693,10 +767,18 @@ def ucm():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                ucm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                ucm.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(ucm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ucm.csv', index=False)    
+            datas =  pd.DataFrame(ucm, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ucm.csv', index=False)    
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ucm.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -720,6 +802,7 @@ def ucn():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=17255630398072300451" 
     data.append(url)
 
@@ -727,10 +810,8 @@ def ucn():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -751,10 +832,18 @@ def ucn():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                ucn.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                ucn.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(ucn, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ucn.csv', index=False)    
+            datas =  pd.DataFrame(ucn, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ucn.csv', index=False)   
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ucn.csv',index=False)     
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -778,6 +867,7 @@ def ucsc():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=3702576657308349741" 
     data.append(url)
 
@@ -785,10 +875,8 @@ def ucsc():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -809,10 +897,18 @@ def ucsc():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                ucsc.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                ucsc.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(ucsc, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ucsc.csv', index=False)    
+            datas =  pd.DataFrame(ucsc, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ucsc.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ucsc.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -836,6 +932,7 @@ def uct():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=12740943834737827853" 
     data.append(url)
 
@@ -843,10 +940,8 @@ def uct():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -867,10 +962,18 @@ def uct():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uct.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uct.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uct, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uct.csv', index=False)    
+            datas =  pd.DataFrame(uct, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uct.csv', index=False) 
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uct.csv',index=False)       
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -894,6 +997,7 @@ def udec():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=4555896482842878823" 
     data.append(url)
 
@@ -901,10 +1005,8 @@ def udec():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -925,10 +1027,18 @@ def udec():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                udec.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                udec.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(udec, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/udec.csv', index=False)    
+            datas =  pd.DataFrame(udec, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/udec.csv', index=False)    
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/udec.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -952,6 +1062,7 @@ def udp():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=12216913016116922734" 
     data.append(url)
 
@@ -959,10 +1070,8 @@ def udp():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -983,10 +1092,18 @@ def udp():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                udp.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                udp.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(udp, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/udp.csv', index=False)    
+            datas =  pd.DataFrame(udp, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/udp.csv', index=False) 
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/udp.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1010,6 +1127,7 @@ def usm():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=9225498103198054248" 
     data.append(url)
 
@@ -1017,10 +1135,8 @@ def usm():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1041,10 +1157,18 @@ def usm():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                usm.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                usm.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(usm, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/usm.csv', index=False)    
+            datas =  pd.DataFrame(usm, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/usm.csv', index=False)   
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/usm.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1068,6 +1192,7 @@ def uantof():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=7010446216104013295" 
     data.append(url)
 
@@ -1075,10 +1200,8 @@ def uantof():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1099,10 +1222,18 @@ def uantof():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uantof.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uantof.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uantof, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uantof.csv', index=False)    
+            datas =  pd.DataFrame(uantof, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uantof.csv', index=False) 
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uantof.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1126,6 +1257,7 @@ def ubiobio():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=8365100606562762008" 
     data.append(url)
 
@@ -1133,10 +1265,8 @@ def ubiobio():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1157,10 +1287,18 @@ def ubiobio():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                biobio.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                biobio.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(biobio, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ubiobio.csv', index=False)    
+            datas =  pd.DataFrame(biobio, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ubiobio.csv', index=False) 
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ubiobio.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1184,6 +1322,7 @@ def uchile():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=9232372474901007921" 
     data.append(url)
 
@@ -1191,10 +1330,8 @@ def uchile():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1215,10 +1352,18 @@ def uchile():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                chile.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                chile.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(chile, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uchile.csv', index=False)    
+            datas =  pd.DataFrame(chile, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uchile.csv', index=False)    
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uchile.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1242,6 +1387,7 @@ def ufrontera():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=13908003347799972066" 
     data.append(url)
 
@@ -1249,10 +1395,8 @@ def ufrontera():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1273,10 +1417,18 @@ def ufrontera():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                frontera.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                frontera.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(frontera, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ufrontera.csv', index=False)    
+            datas =  pd.DataFrame(frontera, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ufrontera.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ufrontera.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1300,6 +1452,7 @@ def ulagos():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=13824009975929506544" 
     data.append(url)
 
@@ -1307,10 +1460,8 @@ def ulagos():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1331,10 +1482,18 @@ def ulagos():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                lagos.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                lagos.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(lagos, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/ulagos.csv', index=False)    
+            datas =  pd.DataFrame(lagos, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/ulagos.csv', index=False)
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/ulagos.csv',index=False)        
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1358,6 +1517,7 @@ def userena():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=6030355530770144394" 
     data.append(url)
 
@@ -1365,10 +1525,8 @@ def userena():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1389,10 +1547,18 @@ def userena():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                serena.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                serena.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(serena, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/userena.csv', index=False)    
+            datas =  pd.DataFrame(serena, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/userena.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/userena.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1416,6 +1582,7 @@ def umag():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=14351944662178497517" 
     data.append(url)
 
@@ -1423,10 +1590,8 @@ def umag():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1447,10 +1612,18 @@ def umag():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                umag.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                umag.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(umag, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/umag.csv', index=False)    
+            datas =  pd.DataFrame(umag, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/umag.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/umag.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1474,6 +1647,7 @@ def unap():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=18273373707046377092" 
     data.append(url)
 
@@ -1481,10 +1655,8 @@ def unap():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1505,10 +1677,18 @@ def unap():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                unap.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                unap.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(unap, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/unap.csv', index=False)    
+            datas =  pd.DataFrame(unap, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/unap.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/unap.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1532,6 +1712,7 @@ def upla():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=8337597745079551909" 
     data.append(url)
 
@@ -1539,10 +1720,8 @@ def upla():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1563,10 +1742,18 @@ def upla():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                upla.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                upla.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(upla, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/upla.csv', index=False)    
+            datas =  pd.DataFrame(upla, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/upla.csv', index=False)    
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/upla.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1590,6 +1777,7 @@ def usach():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=605437563739143535" 
     data.append(url)
 
@@ -1597,10 +1785,8 @@ def usach():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1621,10 +1807,18 @@ def usach():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                usach.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                usach.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(usach, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/usach.csv', index=False)    
+            datas =  pd.DataFrame(usach, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/usach.csv', index=False)    
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/usach.csv',index=False)    
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1648,6 +1842,7 @@ def uta():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=4727335469935944428" 
     data.append(url)
 
@@ -1655,10 +1850,8 @@ def uta():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1679,10 +1872,18 @@ def uta():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uta.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uta.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uta, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uta.csv', index=False)    
+            datas =  pd.DataFrame(uta, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uta.csv', index=False) 
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uta.csv',index=False)       
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1706,6 +1907,7 @@ def utalca():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=7732664165981901274" 
     data.append(url)
 
@@ -1713,10 +1915,8 @@ def utalca():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1737,10 +1937,18 @@ def utalca():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                talca.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                talca.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(talca, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/utalca.csv', index=False)    
+            datas =  pd.DataFrame(talca, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/utalca.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/utalca.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
@@ -1764,6 +1972,7 @@ def uv():
     wait = WebDriverWait(driver,2)
 
     data= []
+    articulos=[]
     url="https://scholar.google.cl/citations?view_op=view_org&org=17388732461633852730" 
     data.append(url)
 
@@ -1771,10 +1980,8 @@ def uv():
         driver.get(url)
     try:
         button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
-    except: 
-        pass
-    start_time = time.time()
-    start_timing = datetime.datetime.now()
+    except Exception as e:
+        print(e)
 
     while button_link:
         try:
@@ -1795,10 +2002,18 @@ def uv():
                 cita=citaciones[0].get_text()
                 cantidad = str(cita[11:17]).strip(' ')
                 intereses = autores.find(class_='gs_ai_int').text
-                uv.append([id_gs,autor,cargo,id_institucion,identificador,cantidad,intereses])
+                linkfoto = autores.find('a', attrs={'class': 'gs_ai_pho'})
+                l = linkfoto.get('href')
+                link = urllib.parse.urljoin("https://scholar.google.com", l)
+                id_autor = link.split('=')[-1] or ''
+                        
+                articulos.append([link])
+                uv.append([id_gs,id_autor,autor,cargo,id_institucion,identificador,cantidad,intereses])
 
-            datas =  pd.DataFrame(uv, columns=['id_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
-            datas.to_csv('DATA/uv.csv', index=False)    
+            datas =  pd.DataFrame(uv, columns=['id_institucion_gs','id_autor_gs','autor','cargo','id_institucion','email','citaciones','intereses'])
+            datas.to_csv('AUTORESPORINSTITUCION/uv.csv', index=False)  
+            data = pd.DataFrame(articulos,columns=['detalles'])
+            data.to_csv('PERFILESPORUNIVERSIDAD/uv.csv',index=False)      
             button_link = wait.until(EC.element_to_be_clickable((By.XPATH,button_locators)))
             button_link.click()
 
