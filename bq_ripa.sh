@@ -4,6 +4,9 @@
 echo "Configurando proyecto"
 gcloud config set project ripa-1022
 
+# Definir variable de tiempo de inicio
+start_time=`date +%s`
+
 # Descarga de datos
 echo "Revisando si el proyecto existe y/o actualizandolo"
 git clone https://github.com/DatosLabUPLA/ripa
@@ -75,3 +78,8 @@ SELECT p.id_gs, p.short_js,s.journal,s.id_area, s.area_name, s.id_category,s.cat
 FROM ripa-1022.gscholar.pubs_journal p, ripa-1022.gscholar.scimago s
 where p.short_js = s.journal_short"
 
+# Definir variable de tiempo de finalización
+end_time=`date +%s`
+
+# Mostrar tiempo de ejecución
+echo "Tiempo de ejecución: $((end_time-start_time)) segundos"
