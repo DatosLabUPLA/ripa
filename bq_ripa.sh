@@ -29,23 +29,15 @@ for archivo in `ls .`; do bq load --source_format=CSV --field_delimiter="," --sk
 
 cd ~
 
-#BD Autores Categorias
 
-#bq query \
-#    --use_legacy_sql=false \
-#    'select jc.id_journal,  j.journal, lower(replace(j.journal, " ", "")) as journal_short, j.id_journal, c.id_area, a.area_name, jc.id_category, c.categories
-#from journals_categories jc, journals j, categories c, areas a
-#where jc.id_journal = j.id_journal
-#AND jc.id_category = c.id_category
-#and a.id_area = c.id_area'
-
+# Scimago
 cd ripa/APP\ PROCESA\ DATOS/
 
 bq load --source_format=CSV --field_delimiter="tab" --skip_leading_rows=1 gscholar.scimago scimago_journals_categories.csv id_journal:STRING,journal:STRING,journal_short:STRING,id_journal2:STRING,id_area:STRING,area_name:STRING,id_category:STRING,categories:STRING;
 
-#bq query \
+# bq query \
 #    --use_legacy_sql
-#bq query --use_legacy_sql=false "SELECT lower(
+# bq query --use_legacy_sql=false "SELECT lower(
 #  regexp_replace(
 #    replace(
 #    replace(
@@ -69,7 +61,8 @@ bq load --source_format=CSV --field_delimiter="tab" --skip_leading_rows=1 gschol
 #    ), 'ñ','n'
 
 
-      ),r'([0-9]+)',''
-    )
+#       ),r'([0-9]+)',''
+#     )
 
-from gscholar.pubs"
+# from gscholar.pubs"
+
