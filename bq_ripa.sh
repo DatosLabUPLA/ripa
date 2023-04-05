@@ -41,8 +41,8 @@ bq load --replace=true --source_format=CSV --field_delimiter="tab" --skip_leadin
 
 # Tabla pubs_journal
 echo "Creando tabla de publicaciones con el nombre del pubs_journal"
-bq query --use_legacy_sql=false "
-create or replace TABLE gscholar.pubs_journal as
+bq query --use_legacy_sql=false \
+"create or replace TABLE gscholar.pubs_journal as
 SELECT id_gs, lower(
   regexp_replace(
     replace(
@@ -74,8 +74,9 @@ from gscholar.pubs
 
 # Tabla authors_categories
 echo "Creando tabla de autores con categorias"
-bq query --use_legacy_sql=false "create or replace table gscholar.authors_categories as
+bq query --use_legacy_sql=false \
+"create or replace table gscholar.authors_categories as
 SELECT p.id_gs, p.short_js,s.journal,s.id_area, s.area_name, s.id_category,s.categories  
-FROM `ripa-1022.gscholar.pubs_journal` p, `ripa-1022.gscholar.scimago` s
+FROM ripa-1022.gscholar.pubs_journal p, ripa-1022.gscholar.scimago s
 where p.short_js = s.journal_short"
 
