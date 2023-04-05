@@ -9,11 +9,6 @@ echo "Revisando si el proyecto existe y/o actualizandolo"
 git clone https://github.com/DatosLabUPLA/ripa
 cd ripa
 git pull
-
-# Moviendo script
-echo "Moviendo script a carpeta de nivel superior"
-cp bq_ripa.sh ~/bq_ripa.sh
-chmod +x ~/bq_ripa.sh
 cd ~
 
 #Autores
