@@ -31,19 +31,19 @@ if [ $actualizar = "y" ]; then
 
     #Autores
     echo "Cargando datos a BigQuery - Autores"
-    cd ripa/GSCHOLAR/AUTORESPORINSTITUCION
+    cd ripa/GSCHOLAR/scraper_deprected/AUTORESPORINSTITUCION
     for archivo in `ls .`; do bq load --source_format=CSV --field_delimiter="," --skip_leading_rows=1 gscholar.authors ./$archivo id_institucion_gs:STRING,id_autor_gs:STRING,autor:STRING,cargo:STRING,id_institucion:STRING,email:STRING,citaciones:INT64,intereses:STRING; done
     cd ~
 
     #Publicaciones
     echo "Cargando datos a BigQuery - Publicaciones"
-    cd ripa/GSCHOLAR/ARTICULOS/
+    cd ripa/GSCHOLAR/scraper_deprected/ARTICULOS/
     for archivo in `ls .`; do bq load --source_format=CSV --field_delimiter="," --skip_leading_rows=1 gscholar.pubs ./$archivo id_gs:STRING,id_insttitution:STRING,name:STRING,name_institution:STRING,email:STRING,description:STRING,title:STRING,authors:STRING,journal:STRING,cites:STRING,year:STRING; done
     cd ~
 
     #CoAutores
     echo "Cargando datos a BigQuery - CoAutores"
-    cd ripa/GSCHOLAR/COAUTORES/
+    cd ripa/GSCHOLAR/scraper_deprected/COAUTORES/
     for archivo in `ls .`; do bq load --source_format=CSV --field_delimiter="," --skip_leading_rows=1 gscholar.coauthors ./$archivo id_gs:STRING,idco:STRING,name_coautor:STRING,email:STRING,description:STRING; done
     cd ~
 
