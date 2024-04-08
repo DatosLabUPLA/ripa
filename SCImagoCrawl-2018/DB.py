@@ -137,7 +137,7 @@ def insert_maestro(connection, table):
     file_csv = os.path.join(maestros, table_csv)
     cursor = connection.cursor()
     cursor.executescript(""" separator ";" """)
-    cursro.execute(""" .import %s %s %(file_csv, table)""")
+    cursor.execute(""" .import %s %s %(file_csv, table)""")
 
 
 def get_categories(connection):
