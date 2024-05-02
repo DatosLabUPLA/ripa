@@ -1,0 +1,315 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "9I868BAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Emiro Ibarra",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9I868BAAAAAJ&citpid=2",
+    "affiliation": "Ph.D. Student at Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Biomedical Engineering"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "homepage": "https://www.researchgate.net/profile/Emiro-Ibarra",
+    "citedby": 48,
+    "citedby5y": 39,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2013": 2,
+        "2014": 1,
+        "2015": 2,
+        "2016": 0,
+        "2017": 3,
+        "2018": 1,
+        "2019": 3,
+        "2020": 1,
+        "2021": 3,
+        "2022": 11,
+        "2023": 9,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vj4mHpEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mat\u00edas Za\u00f1artu",
+            "affiliation": "Department of Electronic Engineering, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TmE2fIIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel A. Alzamendi",
+            "affiliation": "National Scientific and Technical Research Council, and Universidad Nacional de Entre R\u00edos"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZTLMwZYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruben Medina",
+            "affiliation": "Universidad de Los Andes, Venezuela"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "10Yag9QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daryush D. Mehta, PhD",
+            "affiliation": "Director of Voice Science and Technology Laboratory, Center for Laryngeal Surgery and Voice"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hSLM6owAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "V\u00edctor M. Espinoza Catal\u00e1n, Ph.D.",
+            "affiliation": "Associate Professor at the Department of Sound, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of subglottal pressure, vocal fold collision pressure, and intrinsic laryngeal muscle activation from neck-surface vibration using a neural network framework and a \u2026",
+                "pub_year": "2021",
+                "citation": "Frontiers in Physiology 12, 732244, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8614429832136075800",
+            "cites_id": [
+                "8614429832136075800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct measurement and modeling of intraglottal, subglottal, and vocal fold collision pressures during phonation in an individual with a hemilaryngectomy",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (16), 7256, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12214233560273042392",
+            "cites_id": [
+                "12214233560273042392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical flow as a tool for cardiac motion estimation",
+                "pub_year": "2015",
+                "citation": "2015 Asia-Pacific Conference on Computer Aided System Engineering, 173-178, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10704130184542438185",
+            "cites_id": [
+                "10704130184542438185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardiac motion estimation in magnetic resonance images using optical flow",
+                "pub_year": "2016",
+                "citation": "IEEE Latin America Transactions 14 (6), 2807-2816, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11487982170405812394",
+            "cites_id": [
+                "11487982170405812394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Corpus (and Language)-Independent Screening of Parkinson\u2019s Disease from Voice and Speech through Domain Adaptation",
+                "pub_year": "2023",
+                "citation": "Bioengineering 10 (11), 1316, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11303858345170219432",
+            "cites_id": [
+                "11303858345170219432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ambulatory Monitoring of Subglottal Pressure Estimated from Neck-Surface Vibration in Individuals with and without Voice Disorders",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (21), 10692, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14334023319783439714",
+            "cites_id": [
+                "14334023319783439714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n del movimiento cardiaco en im\u00e1genes de resonancia magn\u00e9tica usando un algoritmo basado en flujo \u00f3ptico",
+                "pub_year": "2012",
+                "citation": "Saber ULA, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14435630270489902522",
+            "cites_id": [
+                "14435630270489902522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Domain adversarial convolutional neural network for Parkinson\u2019s disease detection from speech",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Models and Analysis of Vocal Emissions for Biomedical \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14379798387406879060",
+            "cites_id": [
+                "14379798387406879060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constrained extended Kalman filter for improving Bayesian inference of vocal function from laryngeal high-speed videoendoscopy",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16499341751281951054",
+            "cites_id": [
+                "16499341751281951054"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sparse based optical flow estimation in cardiac magnetic resonance images",
+                "pub_year": "2013",
+                "citation": "IX International Seminar on Medical Information Processing and Analysis 8922 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2198384985565121252",
+            "cites_id": [
+                "2198384985565121252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2-D segmentation of left ventricle in magnetic resonance images based on an optical flow algorithm",
+                "pub_year": "2013",
+                "citation": "2013 Pan American Health Care Exchanges (PAHCE), 1-6, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2783999753406385751,11257410022431626498",
+            "cites_id": [
+                "2783999753406385751",
+                "11257410022431626498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subject-specific modelling of the Subglottal Pressure Estimation From Neck-Surface Vibration Signals by Domain Adaptation",
+                "pub_year": "2024",
+                "citation": "Authorea Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymmetric triangular body-cover model of the vocal folds with bilateral intrinsic muscle activation",
+                "pub_year": "2024",
+                "citation": "bioRxiv, 2024.03. 18.585590, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A MACHINE LEARNING FRAMEWORK FOR ESTIMATING SUBGLOTTAL PRESSURE DURING RUNNING SPEECH FROM GLOTTAL AIRFLOW MEASURES",
+                "pub_year": "2021",
+                "citation": "AQL 2021 BOOK OF ABSTRACTS, 33, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validaci\u00f3n de un algoritmo robusto para la estimaci\u00f3n del movimiento en secuencias de im\u00e1genes cardiacas",
+                "pub_year": "2015",
+                "citation": "Maskana 6, 37-43, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9I868BAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

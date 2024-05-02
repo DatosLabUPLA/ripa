@@ -1,0 +1,266 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WQPlGVAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Aguirre",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WQPlGVAAAAAJ&citpid=5",
+    "affiliation": "Universidad de Santiago de Chile, Universitat Polit\u00e8cnica de Catalunya",
+    "organization": 605437563739143535,
+    "interests": [
+        "Finite Elements",
+        "Solid Mechanics",
+        "Computational Fluid Dynamics"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://www.researchgate.net/profile/Alejandro_Aguirre9",
+    "citedby": 112,
+    "citedby5y": 104,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 4,
+        "2020": 8,
+        "2021": 30,
+        "2022": 17,
+        "2023": 32,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QGjL-aAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcela Cruchaga",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vLjigV0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ernesto Castillo",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fo3UR1YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joan Baiges",
+            "affiliation": "Associate Professor, UPC. Affiliated Scientist, CIMNE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b1Lf17QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ramon Codina",
+            "affiliation": "Professor, Universitat Polit\u00e8cnica de Catalunya - BarcelonaTech; affiliated scientist at CIMNE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AJSp8EEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dennis A. Siginer, PhD, ScD",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WdTTaLYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Inocencio Casta\u00f1ar Perez",
+            "affiliation": "PhD, Universitat Polit\u00e8cnica de Catalunya"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jB33hNQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M Boutaous",
+            "affiliation": "INSA Lyon"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical study of bifurcation blood flows using three different non-Newtonian constitutive models",
+                "pub_year": "2020",
+                "citation": "Applied Mathematical Modelling 88, 529-549, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12836841962287562402",
+            "cites_id": [
+                "12836841962287562402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stationary and time-dependent numerical approximation of the lid-driven cavity problem for power-law fluid flows at high Reynolds numbers using a stabilized finite element \u2026",
+                "pub_year": "2018",
+                "citation": "Journal of Non-Newtonian Fluid Mechanics 257, 22-43, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6450935215768930126",
+            "cites_id": [
+                "6450935215768930126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical study of the effect of blockage ratio on the flow past one and two cylinders in tandem for different power-law fluids",
+                "pub_year": "2021",
+                "citation": "Applied Mathematical Modelling 89, 1640-1662, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215799960187137275",
+            "cites_id": [
+                "14215799960187137275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pseudoplastic fluid flows for different Prandtl numbers: Steady and time-dependent solutions",
+                "pub_year": "2019",
+                "citation": "International Journal of Thermal Sciences 145, 106022, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17285886500533553434",
+            "cites_id": [
+                "17285886500533553434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variational multiscale stabilized finite element formulation for Reissner\u2013Mindlin plates and Timoshenko beams",
+                "pub_year": "2023",
+                "citation": "Finite Elements in Analysis and Design 217, 103908, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6600647631407196362",
+            "cites_id": [
+                "6600647631407196362"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress\u2013displacement stabilized finite element analysis of thin structures using solid-shell elements, Part I: On the need of interpolating the stresses",
+                "pub_year": "2024",
+                "citation": "Finite Elements in Analysis and Design 236, 104168, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14599965550139500758",
+            "cites_id": [
+                "14599965550139500758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forced convection of elastoviscoplastic fluids in non-circular tubes",
+                "pub_year": "2020",
+                "citation": "Chemical Engineering Science 213, 115318, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3843026941727504573",
+            "cites_id": [
+                "3843026941727504573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress-displacement stabilized finite element analysis of thin structures using Solid-Shell elements\u2014Part II: Finite strain hyperelasticity",
+                "citation": "Submitted, 0"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9342579333809485208",
+            "cites_id": [
+                "9342579333809485208"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilized finite element formulations for Reissner-Mindlin plates and Timoshenko beams based in the VMS framework",
+                "pub_year": "2022",
+                "citation": "Congress on NumericalMethods in Engineering CMN 2022 (2022. Las Palmas de \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Approximation of Generalized Newtonian Fluids Using a Dynamic Term-by-Term Stabilized Finite Element Formulation",
+                "pub_year": "2019",
+                "citation": "Congress on Numerical Methods in Engineering 1, 07, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aproximaci\u00f3n num\u00e9rica de problemas t\u00e9rmicamente acoplados utilizando una formulaci\u00f3n estabilizada FEM del tipo VMS en flujos turbulentos de fluidos de ley de potencia",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WQPlGVAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,359 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "V7Q4D2AAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Cruz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=V7Q4D2AAAAAJ&citpid=3",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Earthquake Engineering",
+        "Structural Damping Estimation",
+        "System Identification",
+        "Structural Engineering",
+        "Performance Based Design"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 367,
+    "citedby5y": 314,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2012": 1,
+        "2013": 4,
+        "2014": 3,
+        "2015": 2,
+        "2016": 5,
+        "2017": 13,
+        "2018": 20,
+        "2019": 32,
+        "2020": 62,
+        "2021": 58,
+        "2022": 70,
+        "2023": 65,
+        "2024": 27
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_lYdXdgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Miranda",
+            "affiliation": "Professor, Dept. of Civil and Environmental Engineering, Stanford University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dfl1iTIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo A Herrera",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8zJ8hAYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Felipe Beltran",
+            "affiliation": "Profesor Asociado, Ingenier\u00eda Civil, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JqQ4lBEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "H\u00e9ctor D\u00e1valos",
+            "affiliation": "Universidad Panamericana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XqLySqoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James Bantis",
+            "affiliation": "PhD Student, Stanford University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the Rayleigh damping model for buildings",
+                "pub_year": "2017",
+                "citation": "Engineering Structures 138, 324-336, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5397424887867839598",
+            "cites_id": [
+                "5397424887867839598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Damping Ratios for the Seismic Analysis of Tall Buildings",
+                "pub_year": "2017",
+                "citation": "Journal of Structural Engineering 143 (1), 04016144, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18150143382914002499",
+            "cites_id": [
+                "18150143382914002499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of soil-structure interaction effects on the damping ratios of buildings subjected to earthquakes",
+                "pub_year": "2017",
+                "citation": "Soil Dynamics and Earthquake Engineering 100, 183-195, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:qUcmZB5y_30C",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2977830884781079555",
+            "cites_id": [
+                "2977830884781079555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape memory alloy CuAlBe strands subjected to cyclic axial loads",
+                "pub_year": "2011",
+                "citation": "Engineering Structures 33 (10), 2910-2918, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17532372876615385236",
+            "cites_id": [
+                "17532372876615385236"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "StEER-EERI: Petrinja, Croatia December 29, 2020, Mw 6.4 Earthquake Joint Reconnaissance Report (JRR)",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17431522068253362745,12142232819172196583",
+            "cites_id": [
+                "17431522068253362745",
+                "12142232819172196583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damping ratios of the first mode for the seismic analysis of buildings",
+                "pub_year": "2021",
+                "citation": "Journal of Structural Engineering 147 (1), 04020300, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17098719577597343056",
+            "cites_id": [
+                "17098719577597343056"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into damping ratios in buildings",
+                "pub_year": "2021",
+                "citation": "Earthquake Engineering & Structural Dynamics 50 (3), 916-934, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:r0BpntZqJG4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5988043145414725696",
+            "cites_id": [
+                "5988043145414725696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reliability of damping ratios inferred from the seismic response of buildings",
+                "pub_year": "2019",
+                "citation": "Engineering Structures 184, 355-368, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9595795544162180928",
+            "cites_id": [
+                "9595795544162180928"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First Mode Damping Ratios Inferred from the Seismic Response of Buildings",
+                "pub_year": "2018",
+                "citation": "11th U.S. National Conference on Earthquake Engineering, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:HDshCWvjkbEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11051679290855655079",
+            "cites_id": [
+                "11051679290855655079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Critical Review of the Rayleigh Damping Model",
+                "pub_year": "2017",
+                "citation": "16th World Conference on Earthquake Engineering, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13347781438539256161",
+            "cites_id": [
+                "13347781438539256161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Damping Ratios Inferred from the Seismic Response of Buildings",
+                "pub_year": "2017",
+                "citation": "Stanford University, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6874862061438426064",
+            "cites_id": [
+                "6874862061438426064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Response spectral damping modification factors for structures built on soft soils",
+                "pub_year": "2022",
+                "citation": "Soil Dynamics and Earthquake Engineering 154, 107153, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:TFP_iSt0sucC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298179637495415359",
+            "cites_id": [
+                "14298179637495415359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the Role of Soil-Structure Interaction on Modal Damping Ratios in Buildings",
+                "pub_year": "2018",
+                "citation": "11th U.S. National Conference on Earthquake Engineering, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:TQgYirikUcIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2073151089440628547",
+            "cites_id": [
+                "2073151089440628547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis del comportamiento de cables trenzados y en paralelo de alambres de CuAlBe, para aplicaciones en ingenier\u00eda s\u00edsmica",
+                "pub_year": "2010",
+                "citation": "Universidad de Chile, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4543953636646010438",
+            "cites_id": [
+                "4543953636646010438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and testing of cables made of cualbe SMA",
+                "pub_year": "2010",
+                "citation": "Proceedings of the 9th US national and 10th Canadian conference on \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:isC4tDSrTZIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16869152397745701301",
+            "cites_id": [
+                "16869152397745701301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Damping Ratios in Tall Buildings Inferred from Instrumented Tall Buildings in California",
+                "pub_year": "2017",
+                "citation": "PESDES 2017 International Workshop on Performance-Based Design of Structures, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Confiabilidad de la Fracci\u00f3n Del Amortiguamiento Cr\u00edtico Inferida a Partir de Registros S\u00edsmicos en Edificios",
+                "pub_year": "2015",
+                "citation": "XI Congreso Chileno de Sismolog\u00eda e Ingenier\u00eda S\u00edsmica ACHISINA 2015, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "V7Q4D2AAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

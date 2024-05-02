@@ -1,0 +1,115 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ZKqlzJMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Manuel Manriquez L\u00f3pez",
+    "affiliation": "Master of Computer Science , Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Streaming",
+        "Parallelism",
+        "Distributed Data",
+        "Load Balancing",
+        "P2P"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 24,
+    "citedby5y": 18,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2013": 2,
+        "2014": 1,
+        "2015": 0,
+        "2016": 0,
+        "2017": 2,
+        "2018": 1,
+        "2019": 4,
+        "2020": 1,
+        "2021": 1,
+        "2022": 8,
+        "2023": 3,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A zipf-like distant supervision approach for multi-document summarization using wikinews articles",
+                "pub_year": "2012",
+                "citation": "International Symposium on String Processing and Information Retrieval, 143-154, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ZKqlzJMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5110162700712960376",
+            "cites_id": [
+                "5110162700712960376"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using low\u2010cost electroencephalography (EEG) sensor to identify perceived relevance on web search",
+                "pub_year": "2016",
+                "citation": "Proceedings of the Association for Information Science and Technology 53 (1 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ZKqlzJMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=560832667227300855",
+            "cites_id": [
+                "560832667227300855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feasibility of P2P-STB based crowdsourcing to speed-up photo classification for natural disasters",
+                "pub_year": "2022",
+                "citation": "Cluster Computing 25 (1), 279-302, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ZKqlzJMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5692108066873519712",
+            "cites_id": [
+                "5692108066873519712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A digital TV-based distributed image processing platform for natural disasters",
+                "pub_year": "2019",
+                "citation": "2019 Winter Simulation Conference (WSC), 2689-2700, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ZKqlzJMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2730971953865099007",
+            "cites_id": [
+                "2730971953865099007"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

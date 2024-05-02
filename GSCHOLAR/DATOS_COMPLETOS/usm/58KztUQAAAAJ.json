@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "58KztUQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Krystian Mu\u00f1oz-Feucht",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=58KztUQAAAAJ&citpid=3",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Energy Conversion",
+        "Combustion",
+        "Fire",
+        "Engineering",
+        "Energy Efficiency"
+    ],
+    "email_domain": "@alumnos.usm.cl",
+    "citedby": 10,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 0,
+        "2016": 0,
+        "2017": 1,
+        "2018": 2,
+        "2019": 0,
+        "2020": 2,
+        "2021": 0,
+        "2022": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y7-gCmAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andres Fuentes",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8C2p824AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean-Louis Consalvi",
+            "affiliation": "Universtit\u00e9 d'Aix-Marseille, IUSTI UMR 7343"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Soot volume fraction measurements in a forest fuel layer",
+                "pub_year": "2014",
+                "citation": "Experimental thermal and fluid science 56, 61-68, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "58KztUQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=523514812622037849",
+            "cites_id": [
+                "523514812622037849"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

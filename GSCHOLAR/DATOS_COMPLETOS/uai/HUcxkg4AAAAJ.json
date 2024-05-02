@@ -1,0 +1,123 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HUcxkg4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Ram\u00edrez-Pico",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HUcxkg4AAAAJ&citpid=1",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Stochastic programming",
+        "Operations Research",
+        "Supply Chain"
+    ],
+    "email_domain": "@edu.uai.cl",
+    "citedby": 21,
+    "citedby5y": 21,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 8,
+        "2023": 7,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Mm1CJHEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Moreno",
+            "affiliation": "Faculty of Engineering and Sciences, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YpJboJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michel De Lara",
+            "affiliation": "Professeur, Ecole des Ponts ParisTech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jBqlEOsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William J. Guerrero",
+            "affiliation": "Faculty of Engineering, Universidad de la Sabana"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized adaptive partition-based method for two-stage stochastic linear programs with fixed recourse",
+                "pub_year": "2021",
+                "citation": "Mathematical Programming, 1-20, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HUcxkg4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12294180148071707384",
+            "cites_id": [
+                "12294180148071707384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benders Adaptive-Cuts Method for Two-Stage Stochastic Programs",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2203.00752, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HUcxkg4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15113851982239652401",
+            "cites_id": [
+                "15113851982239652401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi Stage Stochastic Optimization with decision-hazard-decision framework",
+                "pub_year": "2017",
+                "citation": "xii chilean conference on operations research, 303, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HUcxkg4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Retail Location Problem Under Uncertain Demand",
+                "pub_year": "2017",
+                "citation": "Escuela Colombiana de Ingenier\u00eda Julio Garavito, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HUcxkg4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

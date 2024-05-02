@@ -1,0 +1,73 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jWve0usAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yrina Vera-Dami\u00e1n",
+    "affiliation": "Facultad de Ingenier\u00eda, Arquitectura y Dise\u00f1o. Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Biomatem\u00e1tica"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 28,
+    "citedby5y": 28,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 8,
+        "2021": 6,
+        "2022": 5,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics and bifurcations of a modified Leslie\u2010Gower\u2013type model considering a Beddington\u2010DeAngelis functional response",
+                "pub_year": "2019",
+                "citation": "Mathematical Methods in the Applied Sciences 42 (9), 3179-3210, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jWve0usAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1769281601481284317",
+            "cites_id": [
+                "1769281601481284317"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predator interference in a Leslie\u2013Gower intraguild predation model",
+                "pub_year": "2020",
+                "citation": "Nonlinear Analysis: Real World Applications 51, 102974, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jWve0usAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7667341711362989974",
+            "cites_id": [
+                "7667341711362989974"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

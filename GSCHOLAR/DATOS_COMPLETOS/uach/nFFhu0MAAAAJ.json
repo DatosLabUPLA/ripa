@@ -1,0 +1,511 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nFFhu0MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gonzalo Tampier",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nFFhu0MAAAAJ&citpid=2",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Numerical and experimental hydrodynamics",
+        "marine renewable energy"
+    ],
+    "email_domain": "@uach.cl",
+    "citedby": 181,
+    "citedby5y": 135,
+    "hindex": 8,
+    "hindex5y": 6,
+    "i10index": 6,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2010": 1,
+        "2011": 1,
+        "2012": 0,
+        "2013": 0,
+        "2014": 4,
+        "2015": 8,
+        "2016": 3,
+        "2017": 7,
+        "2018": 19,
+        "2019": 29,
+        "2020": 21,
+        "2021": 20,
+        "2022": 20,
+        "2023": 36,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RBgWV9MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Federico Zilic de Arcos",
+            "affiliation": "University of Oxford"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DSozO9YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Cifuentes",
+            "affiliation": "Assistant Professor, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GV7X4LcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose V. Busquets-Mataix",
+            "affiliation": "Profesor, Universidad Politecnica de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d_-NaaYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher Vogel",
+            "affiliation": "University of Oxford"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fFzh1M8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillaume Serandour",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GlDmnccAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Lazo",
+            "affiliation": "Universidad Austral de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a diffuser-augmented hydrokinetic turbine",
+                "pub_year": "2017",
+                "citation": "Ocean engineering 145, 138-147, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:WF5omc3nYNoC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236804825321695207",
+            "cites_id": [
+                "16236804825321695207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic analysis of a heaving wave energy converter",
+                "pub_year": "2017",
+                "citation": "International Journal of Marine Energy 19, 304-318, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12825677704416526673",
+            "cites_id": [
+                "12825677704416526673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of blockage correction methods for tidal turbines",
+                "pub_year": "2020",
+                "citation": "Journal of Ocean Engineering and Marine Energy 6, 183-197, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18321012668612896267",
+            "cites_id": [
+                "18321012668612896267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of appendage effect on forward resistance reduction",
+                "pub_year": "2013",
+                "citation": "Ciencia y tecnolog\u00eda de buques 7 (13), 37-45, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:ufrVoPGSRksC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16796068173828333725",
+            "cites_id": [
+                "16796068173828333725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the performance of a hydro-foiled Moth by stability and force balance criteria",
+                "pub_year": "2010",
+                "citation": "Bachelor of Engineering Master\u2019s thesis, Tu-Berlin, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=852016024953435594",
+            "cites_id": [
+                "852016024953435594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing teamwork skills in first and second year engineering students",
+                "pub_year": "2014",
+                "citation": "International Journal of engineering education 30 (5), 1225-1233, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8853666633298605999",
+            "cites_id": [
+                "8853666633298605999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic ship design for service conditions",
+                "pub_year": "2014",
+                "citation": "Ocean Engineering 75, 23-29, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15109901997829925014",
+            "cites_id": [
+                "15109901997829925014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic Design of Ship Bulbous Bows Considering Seaway and Operational Conditions",
+                "pub_year": "2010",
+                "citation": "Technische Universit\u00e4t Berlin, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9078336772227116292,12869033750806607579",
+            "cites_id": [
+                "9078336772227116292",
+                "12869033750806607579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural design and optimisation of an aluminium trimaran",
+                "pub_year": "2015",
+                "citation": "Analysis and Design of Marine Structures, 545-553, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12578371829027931973",
+            "cites_id": [
+                "12578371829027931973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wave analysis based on genetic algorithms using data collected from laboratories at different scales",
+                "pub_year": "2022",
+                "citation": "European Journal of Mechanics-B/Fluids 95, 231-239, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1476571159722969721",
+            "cites_id": [
+                "1476571159722969721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost AUV in multiple deployment configurations for oceanographic research",
+                "pub_year": "2013",
+                "citation": "2013 MTS/IEEE OCEANS-Bergen, 1-9, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1063844954479691675",
+            "cites_id": [
+                "1063844954479691675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open sea lab: An integrated coastal ocean observatory powered by wave energy",
+                "pub_year": "2022",
+                "citation": "Journal of Marine Science and Engineering 10 (9), 1249, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8630560272112547442",
+            "cites_id": [
+                "8630560272112547442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Naval and Oceanic Engineering: more than Ships and Offshore",
+                "pub_year": "2018",
+                "citation": "Ship Science and Technology 11 (22), 9-18, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=231693688940519263",
+            "cites_id": [
+                "231693688940519263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural analysis of an aluminum multihull",
+                "pub_year": "2015",
+                "citation": "Ciencia y tecnolog\u00eda de buques 8 (17), 87-99, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5242990561371218697",
+            "cites_id": [
+                "5242990561371218697"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis estructural de un multicasco de aluminio",
+                "pub_year": "2015",
+                "citation": "CIDIN, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6620025597709736568",
+            "cites_id": [
+                "6620025597709736568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the optimitzation of state observers for application in navigation of low cost autonomous vehicles",
+                "pub_year": "2013",
+                "citation": "Martech 2013 5th International Workshop on Marine Technology, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18061361311806824303",
+            "cites_id": [
+                "18061361311806824303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and experimental analysis of a wave energy converter in extreme waves",
+                "pub_year": "2023",
+                "citation": "Ocean Systems Engineering 13 (3), 225-245, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of mooring load levels on a cage designed for exposed aquaculture in chile",
+                "pub_year": "2023",
+                "citation": "International Conference on Offshore Mechanics and Arctic Engineering 86922 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Installation and Maintenance of Offshore Renewable Energy Technologies",
+                "pub_year": "2023",
+                "citation": "CIDIN, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis num\u00e9rico de la respuesta hidrodin\u00e1mica de una plataforma e\u00f3lica flotante en olas regulares",
+                "pub_year": "2023",
+                "citation": "CIDIN, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of the dynamic behavior of a Floating Wind Platform in regular waves",
+                "pub_year": "2023",
+                "citation": "Ship Science and Technology 16 (32), 43-54, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and experimental assessment of the hydrodynamic behaviour of an attenuator wave energy converter device",
+                "pub_year": "2022",
+                "citation": "Trends in Renewable Energies Offshore, 241-249, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo estad\u00edstico para estimaci\u00f3n de resistencia al avance de barcazas",
+                "pub_year": "2019",
+                "citation": "CIDIN, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nontraditional Towing Tank Tests",
+                "pub_year": "2017",
+                "citation": "Pan-American Conference of Naval Engineering, 139-147, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NUEVAS FRONTERAS PARA LA INVESTIGACI\u00d3N EN INGENIER\u00cdA NAVAL Y OCE\u00c1NICA",
+                "pub_year": "2016",
+                "citation": "SIMPOSIO 50 A\u00d1OS IPIN, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to multiple cooperative AUV-ASV in twinned guided schema for coordinated navigation",
+                "pub_year": "2013",
+                "citation": "Martech 2013 5th International Workshop on Marine Technology, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OPTIMIZACI\u00d3N DE LA RESISTENCIA DE UN CASCO ESBELTO MEDIANTE AP\u00c9NDICE DE POPA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio y Validaci\u00f3n de Seakeeping de una Embarcaci\u00f3n Mediante C\u00f3digo de CFD Abierto",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APPENDAGE EFFECT EVALUATION ON THE FORWARD RESISTANCE REDUCTION EVALUACI\u00d3N DE AP\u00c9NDICES PARA DISMINUCI\u00d3N DE LA RESISTENCIA AL AVANCE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "nFFhu0MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wllwAJAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rosangelina Alvarado",
+    "affiliation": "PhD. Student Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "neurobiology",
+        "neurophysiology",
+        "ion channels",
+        "physiology"
+    ],
+    "email_domain": "@postgrado.uv.cl",
+    "citedby": 21,
+    "citedby5y": 21,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 4,
+        "2023": 9,
+        "2024": 8
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BK in double-membrane organelles: A biophysical, pharmacological, and functional survey",
+                "pub_year": "2021",
+                "citation": "Frontiers in Physiology 12, 761474, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wllwAJAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2135312399707503452",
+            "cites_id": [
+                "2135312399707503452"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ca2+- and Voltage-Activated K+ (BK) Channels in the Nervous System: One Gene, a Myriad of Physiological Functions",
+                "pub_year": "2023",
+                "citation": "International Journal of Molecular Sciences 24 (4), 3407, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wllwAJAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=101671922603934429",
+            "cites_id": [
+                "101671922603934429"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large conductance voltage-and calcium-activated K+ (BK) channel in health and disease",
+                "pub_year": "2024",
+                "citation": "Frontiers in Pharmacology 15, 1373507, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wllwAJAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

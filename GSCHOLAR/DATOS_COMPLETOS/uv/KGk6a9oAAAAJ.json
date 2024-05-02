@@ -1,0 +1,125 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "KGk6a9oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "LEONDRY MAYETA REVILLA",
+    "affiliation": "<estudiante de postgrado, Universidad de Valparaiso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "Pattern recognition",
+        "digital signal processing",
+        "Brain Computer Interface",
+        "motor imagery",
+        "Brain tumor segmentation"
+    ],
+    "email_domain": "@postgrado.uv.cl",
+    "citedby": 15,
+    "citedby5y": 6,
+    "hindex": 3,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 2,
+        "2017": 1,
+        "2018": 4,
+        "2019": 0,
+        "2020": 0,
+        "2021": 2,
+        "2022": 1,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the Hilbert-Huang Transform for myoelectric pattern classification: Towards a method to detect movement intention",
+                "pub_year": "2013",
+                "citation": "2013 Pan American Health Care Exchanges (PAHCE), 1-6, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "KGk6a9oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1257077293105817179",
+            "cites_id": [
+                "1257077293105817179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of surface EMG for recognizing forearm movements: Towards the control of an upper extremity exoskeleton",
+                "pub_year": "2012",
+                "citation": "2012 VI Andean Region International Conference, 181-184, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "KGk6a9oAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2761983846204626936",
+            "cites_id": [
+                "2761983846204626936"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing shoulder pre-movements recognition through EEG Riemannian covariance matrices for a BCI-based exoskeleton",
+                "pub_year": "2020",
+                "citation": "2020 IEEE International Conference on Human-Machine Systems (ICHMS), 1-3, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KGk6a9oAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9643203588310825404",
+            "cites_id": [
+                "9643203588310825404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shoulder flexion pre-movement recognition through subject-specific brain regions to command an upper limb exoskeleton",
+                "pub_year": "2020",
+                "citation": "2020 42nd Annual International Conference of the IEEE Engineering in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "KGk6a9oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1726092433451769279",
+            "cites_id": [
+                "1726092433451769279"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrimination of Shoulder Flexion/Extension Motor Imagery Through EEG Spatial Features to Command an Upper Limb Robotic Exoskeleton",
+                "pub_year": "2019",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "KGk6a9oAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

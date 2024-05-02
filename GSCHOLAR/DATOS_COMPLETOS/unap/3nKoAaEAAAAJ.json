@@ -1,0 +1,78 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3nKoAaEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Elizabeth Solis Albanese",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3nKoAaEAAAAJ&citpid=3",
+    "affiliation": "Enfermera, Universidad Arturo Prat",
+    "organization": 18273373707046377092,
+    "interests": [
+        "bio\u00e9tica",
+        "emprendimiento",
+        "enfermer\u00eda",
+        "metodolog\u00eda de la investigaci\u00f3n"
+    ],
+    "email_domain": "@unap.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FpXKIPoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Beatriz Carrasco D\u00edaz",
+            "affiliation": "Facultad de Ciencias de la Salud, Universidad Arturo Prat, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Condiciones \u00e9ticas para la investigaci\u00f3n con personas mayores. Una revisi\u00f3n narrativa",
+                "pub_year": "2023",
+                "citation": "Salud, Ciencia y Tecnolog\u00eda 3, 219-219, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3nKoAaEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7280374422010018212",
+            "cites_id": [
+                "7280374422010018212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metodolog\u00edas de integraci\u00f3n de conocimientos en la actividad curricular de ciencias b\u00e1sicas para el cuidado I en la carrera de Enfermer\u00eda de la Universidad Arturo Prat, Iquique \u2026",
+                "pub_year": "2016",
+                "citation": "Universidad Andr\u00e9s Bello, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3nKoAaEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

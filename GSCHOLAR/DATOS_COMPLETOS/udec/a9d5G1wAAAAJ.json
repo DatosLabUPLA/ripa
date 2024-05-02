@@ -1,0 +1,152 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "a9d5G1wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniela Pinto",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "analisis de marcha",
+        "inteligencia artificial",
+        "equilibrio",
+        "eeg",
+        "ingenier\u00eda biom\u00e9dica"
+    ],
+    "email_domain": "@biomedica.udec.cl",
+    "citedby": 20,
+    "citedby5y": 20,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 6,
+        "2023": 10,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M4jm_KMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Pastene",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non\u2010invasive phrenic nerve stimulation to avoid ventilator\u2010induced diaphragm dysfunction in critical care",
+                "pub_year": "2022",
+                "citation": "Artificial Organs 46 (10), 1988-1997, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13328306390865167512",
+            "cites_id": [
+                "13328306390865167512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel capacitive step sensor to trigger stimulation on functional electrical stimulators devices for drop foot",
+                "pub_year": "2020",
+                "citation": "IEEE transactions on neural systems and rehabilitation engineering 28 (12 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3366331288460069033",
+            "cites_id": [
+                "3366331288460069033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of the Human Balance with one Inertial Sensor in Lower Back",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Global Humanitarian Technology Conference (GHTC), 1-4, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14800495750757433140",
+            "cites_id": [
+                "14800495750757433140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stringent fiber distance measure for dMRI tractography clustering and segmentation",
+                "pub_year": "2018",
+                "citation": "2018 40th Annual International Conference of the IEEE Engineering in \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6290355374429513221",
+            "cites_id": [
+                "6290355374429513221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed\u2010loop parameter optimization for patient\u2010specific phrenic nerve stimulation",
+                "pub_year": "2024",
+                "citation": "Artificial organs 48 (3), 274-284, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Po251/# 854 Noninvasive Closed Loop Diaphragm Stimulation for Ventilated Icu Patients: E-Poster Viewing",
+                "pub_year": "2022",
+                "citation": "Neuromodulation 25 (7), S353, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static Balance Characterization using a single IMU Located in the Lower Back: Preliminary Results",
+                "pub_year": "2022",
+                "citation": "2022 44th Annual International Conference of the IEEE Engineering in \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "a9d5G1wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

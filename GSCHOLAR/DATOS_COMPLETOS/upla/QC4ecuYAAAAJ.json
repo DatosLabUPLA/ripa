@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QC4ecuYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alexis Torres",
+    "affiliation": "Universidad de Playa Ancha",
+    "organization": 8337597745079551909,
+    "interests": [
+        "Educaci\u00f3n",
+        "Tecnolog\u00edas"
+    ],
+    "email_domain": "@upla.cl",
+    "citedby": 72,
+    "citedby5y": 69,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 6,
+        "2020": 13,
+        "2021": 17,
+        "2022": 12,
+        "2023": 17,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Competencias parentales que favorecen el desarrollo de funciones ejecutivas en escolares",
+                "pub_year": "2018",
+                "citation": "Revista Latinoamericana de Ciencias Sociales, Ni\u00f1ez y Juventud 16 (1), 163-176, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QC4ecuYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 72,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16866979282104079564,17034007387845917911",
+            "cites_id": [
+                "16866979282104079564",
+                "17034007387845917911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compet\u00eancias parentais que favorecem o desenvolvimento das fun\u00e7\u00f5es executivas em estudantes",
+                "pub_year": "2018",
+                "citation": "Revista Latinoamericana de Ciencias Sociales, Ni\u00f1ez y Juventud 16 (1), 163-176, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QC4ecuYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

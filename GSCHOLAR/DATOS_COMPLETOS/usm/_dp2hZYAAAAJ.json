@@ -1,0 +1,442 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_dp2hZYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gaston A. Fermandois",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_dp2hZYAAAAJ&citpid=2",
+    "affiliation": "Assistant Professor, Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Real-time hybrid simulation",
+        "structural control",
+        "earthquake engineering",
+        "steel structures"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "https://www.gastonfermandois.com/",
+    "citedby": 184,
+    "citedby5y": 180,
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2018": 4,
+        "2019": 5,
+        "2020": 26,
+        "2021": 37,
+        "2022": 46,
+        "2023": 54,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FlGxpj4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Billie F. Spencer, Jr.",
+            "affiliation": "Professor of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FoF2yd8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando G\u00f3mez S\u00e1nchez",
+            "affiliation": "Professor, Universidad San Francisco de Quito"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kGZwM9QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amirali Najafi",
+            "affiliation": "Assistant Professor, Civil and Environmental Engineering, Texas A&M University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c7H0k0UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jiaqi Xu",
+            "affiliation": "University of New Mexico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d9f_YvcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shirley J. Dyke",
+            "affiliation": "Professor of Mechanical Engineering, Professor of Civil Engineering, Purdue University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8focXygAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yuan-feng Duan",
+            "affiliation": "College of Civil Engineering and Architecture, Zhejiang University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-based framework for multi-axial real-time hybrid simulation testing",
+                "pub_year": "2017",
+                "citation": "Earthquake Engineering and Engineering Vibration 16, 671-691, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16768337124518477946",
+            "cites_id": [
+                "16768337124518477946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of nonlinear energy sinks for mitigation of seismic response on structural systems",
+                "pub_year": "2021",
+                "citation": "Engineering Structures 232, 111756, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14712844062295634032",
+            "cites_id": [
+                "14712844062295634032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic optimisation of buckling restrained braced frames under seismic loading",
+                "pub_year": "2018",
+                "citation": "Structure and Infrastructure Engineering 14 (10), 1386-1401, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8714944578217226536",
+            "cites_id": [
+                "8714944578217226536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of model-based compensation methods to real-time hybrid simulation benchmark",
+                "pub_year": "2019",
+                "citation": "Mechanical Systems and Signal Processing 131, 394-416, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11852821546642303378",
+            "cites_id": [
+                "11852821546642303378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental evaluation of an inertial mass damper and its analytical model for cable vibration mitigation",
+                "pub_year": "2019",
+                "citation": "Smart Structures and Systems 23 (6), 589-613, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3471748367413405546",
+            "cites_id": [
+                "3471748367413405546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupled model-based real-time hybrid simulation with multi-axial load and boundary condition boxes",
+                "pub_year": "2020",
+                "citation": "Engineering Structures 219, 110868, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5909403472214957200",
+            "cites_id": [
+                "5909403472214957200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid simulation with multiple actuators: A state-of-the-art review",
+                "pub_year": "2023",
+                "citation": "Engineering Structures 276, 115284, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1835525269034668256",
+            "cites_id": [
+                "1835525269034668256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust adaptive model\u2010based compensator for the real\u2010time hybrid simulation benchmark",
+                "pub_year": "2022",
+                "citation": "Structural Control and Health Monitoring 29 (7), e2962, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2749808579630353101",
+            "cites_id": [
+                "2749808579630353101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and implementation of a multi-axial real-time hybrid simulation framework",
+                "pub_year": "2018",
+                "citation": "Newmark Structural Engineering Laboratory Report Series 049, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11719889636061817478",
+            "cites_id": [
+                "11719889636061817478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal gain calibration of adaptive model-based compensation for real-time hybrid simulation testing",
+                "pub_year": "2020",
+                "citation": "17th World Conference in Earthquake Engineering (17WCEE), Sendai, Japan., 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13656329186957983103",
+            "cites_id": [
+                "13656329186957983103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and implementation of a multi-axial real-time hybrid simulation framework",
+                "pub_year": "2018",
+                "citation": "University of Illinois at Urbana-Champaign, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14183897285382671450",
+            "cites_id": [
+                "14183897285382671450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online stability analysis for real-time hybrid simulation testing",
+                "pub_year": "2020",
+                "citation": "Frontiers in Built Environment 6, 134, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1377478787907564892",
+            "cites_id": [
+                "1377478787907564892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Framework Development For Multi-Axial Real-Time Hybrid Simulation Testing",
+                "pub_year": "2017",
+                "citation": "16th World Conference on Earthquake Engineering (16WCEE), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6951122542327121750",
+            "cites_id": [
+                "6951122542327121750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization Of Buckling Restrained Braced Frame Under Seismic Loading",
+                "pub_year": "2017",
+                "citation": "16th World Conference on Earthquake Engineering (16WCEE), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Framework development of multi-axial real-time hybrid simulation",
+                "pub_year": "2015",
+                "citation": "EU-US-Asia Workshop on Hybrid Testing, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-axial framework for real-time hybrid simulation and future applications",
+                "pub_year": "2015",
+                "citation": "Engineering Mechanics Institute (EMI) Conference 2015, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semi-active control strategies for seismic protection of civil infrastructures: an updated perspective",
+                "pub_year": "2014",
+                "citation": "1st Huixian International Forum on Earthquake Engineering for Young Researchers, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strength reduction factors for buckling restrained braced frames",
+                "pub_year": "2010",
+                "citation": "10th Chilean Congress of Seismology and Earthquake Engineering, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MARCOS CON RIOSTRAS DE PANDERO RESTRINGIDO: COMPORTAMIENTO Y FACTORES DE MODIFICACION DE LA RESPUESTA SISMICA",
+                "pub_year": "2009",
+                "citation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data-driven multi-rate transitioning for real-time hybrid simulation tests with large nonlinear numerical substructures",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent developments on robust adaptive compensation in multi-axial real-time hybrid simulation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CLIENT-SERVER APPLICATION FOR MULTI-PLATFORM COORDINATION IN REAL-TIME HYBRID SIMULATION TESTING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADAPTIVE COMPENSATION WITH MAGNETORHEOLOGICAL DAMPERS IN REAL-TIME HYBRID SIMULATION TESTING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPENSACI\u00d3N DIN\u00c1MICA ADAPTIVA PARA ENSAYOS DE SIMULACI\u00d3N H\u00cdBRIDA EN TIEMPO REAL",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONTROL \u00d3PTIMO DE SISTEMAS ESTRUCTURALES UTILIZANDO DISIPACI\u00d3N SEMI-ACTIVA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_dp2hZYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

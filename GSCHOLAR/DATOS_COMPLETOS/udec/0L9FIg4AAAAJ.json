@@ -1,0 +1,144 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "0L9FIg4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Willian Miranda",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0L9FIg4AAAAJ&citpid=1",
+    "affiliation": "CI2MA, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Numerical Analysis"
+    ],
+    "email_domain": "@ci2ma.udec.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 3,
+        "2023": 4,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7FNfdxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel N. Gatica",
+            "affiliation": "Professor and Researcher, CI\u00b2MA and Departamento de Ingenieria Matematica, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qTr3xQ0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s A. Barnafi",
+            "affiliation": "Assistant Professor at Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X2d-6CEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Ruiz Baier",
+            "affiliation": "School of Mathematics, Monash University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NwCxlWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Hurtado",
+            "affiliation": "MIT, Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented fully-mixed finite element method for a bioconvective flows model",
+                "pub_year": "2021",
+                "citation": "Journal of Computational and Applied Mathematics 393, 113504, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0L9FIg4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17792680346714587673",
+            "cites_id": [
+                "17792680346714587673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New primal and dual-mixed finite element methods for stable image registration with singular regularization",
+                "pub_year": "2021",
+                "citation": "Mathematical Models and Methods in Applied Sciences 31 (05), 979-1020, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0L9FIg4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3541239467248622809",
+            "cites_id": [
+                "3541239467248622809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive mesh refinement in deformable image registration: a posteriori error estimates for primal and mixed formulations",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Imaging Sciences 14 (3), 1238-1272, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "0L9FIg4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1450317836256464845",
+            "cites_id": [
+                "1450317836256464845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0L9FIg4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for primal and mixed finite element approximations of the deformable image registration problem",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0L9FIg4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

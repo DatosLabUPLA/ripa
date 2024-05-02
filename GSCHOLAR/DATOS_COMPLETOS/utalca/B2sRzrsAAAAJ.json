@@ -1,0 +1,90 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "B2sRzrsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fabian Gonzalez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=B2sRzrsAAAAJ&citpid=1",
+    "affiliation": "Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Bioinform\u00e1tica",
+        "Biolog\u00eda computacional",
+        "Qu\u00edmica computacional"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "homepage": "https://www.linkedin.com/in/fabian-gonzalez-6975568b/",
+    "citedby": 10,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 0,
+        "2020": 4,
+        "2021": 0,
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the affinity between the protein kinase PKA and homoarginine\u2010containing peptides derived from kemptide: Free energy perturbation (FEP) calculations",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Chemistry 39 (16), 986-992, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "B2sRzrsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3363864050276275404",
+            "cites_id": [
+                "3363864050276275404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Key Features of Catechols and \u03b1, \u03b2 Unsaturated Carbonyl Moieties: Interaction With \u03b1\u2010syn Hydrophobic peptide and Activation of Catecholamines Pathway in Cells",
+                "pub_year": "2023",
+                "citation": "ChemistrySelect 8 (19), e202301106, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B2sRzrsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6173617037358927589",
+            "cites_id": [
+                "6173617037358927589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free energy theoretical calculations of PKA\u2013Kemptide complex formation, and effect of mutation of Kemptide arginines to homoarginines.",
+                "pub_year": "2016",
+                "citation": "MDPI AG, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "B2sRzrsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

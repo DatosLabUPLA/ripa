@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "lGjZwYcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Isaac Berm\u00fadez Montiel",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lGjZwYcAAAAJ&citpid=1",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Finite Element Method",
+        "Discontinuous Galerkin Method"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 3,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A perturbed twofold saddle point-based mixed finite element method for the Navier-Stokes equations with variable viscosity",
+                "pub_year": "2024",
+                "citation": "Applied Numerical Mathematics, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "lGjZwYcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5441998101058476220",
+            "cites_id": [
+                "5441998101058476220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GeoGebra, Quizizz, PowToon y Kahoot como recursos tecnol\u00f3gicos en la ense\u00f1anza de la Geometr\u00eda en s\u00e9timo a\u00f1o de la Educaci\u00f3n General B\u00e1sica costarricense",
+                "pub_year": "2020",
+                "citation": "Pensamiento Actual 20 (34), 61-73, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lGjZwYcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3972656307271348602",
+            "cites_id": [
+                "3972656307271348602"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

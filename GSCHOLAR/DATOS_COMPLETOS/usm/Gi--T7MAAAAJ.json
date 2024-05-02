@@ -1,0 +1,426 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Gi--T7MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis P\u00e9rez Pozo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Gi--T7MAAAAJ&citpid=8",
+    "affiliation": "Department of Mechanical Engineering, UTFSM, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Computational solid mechanics",
+        "Nonlinear material behaviour",
+        "Numerical and experimental characterization of composite materials"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://www.lpp.usm.cl/",
+    "citedby": 334,
+    "citedby5y": 190,
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 11,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2007": 1,
+        "2008": 1,
+        "2009": 6,
+        "2010": 9,
+        "2011": 13,
+        "2012": 23,
+        "2013": 9,
+        "2014": 17,
+        "2015": 9,
+        "2016": 19,
+        "2017": 18,
+        "2018": 13,
+        "2019": 34,
+        "2020": 38,
+        "2021": 44,
+        "2022": 24,
+        "2023": 42,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dykQ-RkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Oller",
+            "affiliation": "Nat. Sc.& Tech. Res. Counc.(CONICET); Nat. Univ. of Salta (UNSa); Int. Cent. Num. Method (CIMNE)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive methodology for meshless finite point method",
+                "pub_year": "2008",
+                "citation": "Advances in Engineering Software 39 (3), 156-166, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2310132276968570530",
+            "cites_id": [
+                "2310132276968570530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimator and an adaptive technique in meshless finite points method",
+                "pub_year": "2009",
+                "citation": "Engineering Analysis with Boundary Elements 33 (11), 1322-1338, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5607665162975710498",
+            "cites_id": [
+                "5607665162975710498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simplified fractal FEA model for the estimation of the Young\u2019s modulus of Ti foams obtained by powder metallurgy",
+                "pub_year": "2015",
+                "citation": "Materials & Design 83, 276-283, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:TQgYirikUcIC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16317880281515709858",
+            "cites_id": [
+                "16317880281515709858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of modular structures using particle swarm optimization",
+                "pub_year": "2012",
+                "citation": "Expert Systems with Applications 39 (3), 3507-3515, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6830933754744900931",
+            "cites_id": [
+                "6830933754744900931"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A meshless FPM model for solving nonlinear material problems with proportional loading based on deformation theory",
+                "pub_year": "2009",
+                "citation": "Advances in Engineering Software 40 (11), 1148-1154, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8287317537733705223",
+            "cites_id": [
+                "8287317537733705223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of elastic moduli of particulate-reinforced composites using finite element and modified Halpin\u2013Tsai models",
+                "pub_year": "2016",
+                "citation": "Journal of the Brazilian Society of Mechanical Sciences and Engineering 38 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:HDshCWvjkbEC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8464541655959197939",
+            "cites_id": [
+                "8464541655959197939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEM\u2013FEA estimation of pores arrangement effect on the compressive Young\u2019s modulus for Mg foams",
+                "pub_year": "2015",
+                "citation": "Computational Materials Science 110, 281-286, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16510879666960365912",
+            "cites_id": [
+                "16510879666960365912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solution of the Spare Parts Joint Replenishment Problem with Quantity Discounts Using a Discrete Particle Swarm Optimization Technique",
+                "pub_year": "2013",
+                "citation": "Studies in Informatics and Control 22 (4), 319-328, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5193401649496153695",
+            "cites_id": [
+                "5193401649496153695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bond calibration method for Young\u2019s modulus determination in the discrete element method framework",
+                "pub_year": "2017",
+                "citation": "Granular Matter 19, 1-7, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:hC7cP41nSMkC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4320207226538880366",
+            "cites_id": [
+                "4320207226538880366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of welding parameters using a genetic algorithm: a robotic arm\u2013assisted implementation for recovery of Pelton turbine blades",
+                "pub_year": "2015",
+                "citation": "Advances in Mechanical Engineering 7 (11), 1687814015617669, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6349615224804736226",
+            "cites_id": [
+                "6349615224804736226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manufacturing optimisation of an original nanostructured (beta+ gamma)-TiNbTa material",
+                "pub_year": "2019",
+                "citation": "Journal of Materials Research and Technology 8 (3), 2573-2585, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14194796430323684107",
+            "cites_id": [
+                "14194796430323684107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of fractal distribution of the porosity on mechanical properties of Al foams manufactured by infiltration",
+                "pub_year": "2019",
+                "citation": "Journal of the Brazilian Society of Mechanical Sciences and Engineering 41, 1-8, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:u_35RYKgDlwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=600693982193539632",
+            "cites_id": [
+                "600693982193539632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production and characterisation of mechanical properties of Ti\u2013Nb\u2013Ta\u2013Mn alloys foams for biomedical applications",
+                "pub_year": "2015",
+                "citation": "Powder Metallurgy 58 (1), 12-15, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3814558890807014766",
+            "cites_id": [
+                "3814558890807014766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of the Al\u2013CNT interlayer on the tensile elastic modulus of Al matrix composites with random dispersion of CNTs",
+                "pub_year": "2018",
+                "citation": "Journal of the Brazilian Society of Mechanical Sciences and Engineering 40 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:qUcmZB5y_30C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14474479241216459356",
+            "cites_id": [
+                "14474479241216459356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of alumina particles on the microstructural and mechanical properties of copper foams fabricated by space-holder method",
+                "pub_year": "2018",
+                "citation": "Materials Research Express 5 (5), 056514, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:-f6ydRqryjwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2611347913319873278",
+            "cites_id": [
+                "2611347913319873278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A meshless finite-point approximation for solving the RLW equation",
+                "pub_year": "2012",
+                "citation": "Mathematical Problems in Engineering 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2455264990733126794",
+            "cites_id": [
+                "2455264990733126794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Percentage porosity computation of three-dimensional non-convex porous geometries using the direct Monte Carlo simulation",
+                "pub_year": "2021",
+                "citation": "Engineering with Computers 37, 951-973, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17302549817149647148",
+            "cites_id": [
+                "17302549817149647148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elastic modulus estimation for copper syntactic foams reinforced with iron hollow spheres of different wall thicknesses",
+                "pub_year": "2019",
+                "citation": "Journal of Materials Engineering and Performance 28, 100-106, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2691364039920422722",
+            "cites_id": [
+                "2691364039920422722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A finite points method approach for strain localization using the gradient plasticity formulation",
+                "pub_year": "2014",
+                "citation": "Mathematical Problems in Engineering 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15495507253561848179",
+            "cites_id": [
+                "15495507253561848179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Young's modulus estimation for CNT reinforced metallic foams obtained using different space holder particles",
+                "pub_year": "2017",
+                "citation": "Composite Structures 168, 26-32, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:mB3voiENLucC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5714685038771231222",
+            "cites_id": [
+                "5714685038771231222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction of Meshless FPM Interpolation Sub-domains Using Genetic Algorithms",
+                "pub_year": "2012",
+                "citation": "Studies in Informatics and Control 21 (2), 191-200, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12319478651823926115",
+            "cites_id": [
+                "12319478651823926115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impedance boundary conditions for a time-domain finite-point method",
+                "pub_year": "2018",
+                "citation": "Journal of the Brazilian Society of Mechanical Sciences and Engineering 40, 1-10, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio comparativo de distintos modelos de condiciones de contorno de impedancia en problemas ac\u00fasticos",
+                "pub_year": "2012",
+                "citation": "Revista Internacional de M\u00e9todos Num\u00e9ricos para C\u00e1lculo y Dise\u00f1o en \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Gi--T7MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

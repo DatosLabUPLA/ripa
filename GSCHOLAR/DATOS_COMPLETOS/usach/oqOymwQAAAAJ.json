@@ -1,0 +1,62 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oqOymwQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Crist\u00f3bal Leiva Aburto",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "cryptography"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S-JpQxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Th\u00e9riault",
+            "affiliation": "Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal 2-3 chains for scalar multiplication",
+                "pub_year": "2017",
+                "citation": "International Conference on Cryptology and Information Security in Latin \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "oqOymwQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4973723799743975594",
+            "cites_id": [
+                "4973723799743975594"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

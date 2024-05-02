@@ -1,0 +1,464 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cUZdqhoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ruben Carvajal-Schiaffino",
+    "affiliation": "Departamento de Matematica y Ciencia de la Computacion - Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Distributed Algorithms"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 904,
+    "citedby5y": 36,
+    "hindex": 10,
+    "hindex5y": 4,
+    "i10index": 10,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2001": 3,
+        "2002": 3,
+        "2003": 19,
+        "2004": 26,
+        "2005": 58,
+        "2006": 87,
+        "2007": 68,
+        "2008": 89,
+        "2009": 73,
+        "2010": 77,
+        "2011": 53,
+        "2012": 72,
+        "2013": 57,
+        "2014": 52,
+        "2015": 32,
+        "2016": 37,
+        "2017": 26,
+        "2018": 21,
+        "2019": 16,
+        "2020": 3,
+        "2021": 9,
+        "2022": 5,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of an economy-based file replication strategy for a data grid",
+                "pub_year": "2003",
+                "citation": "CCGrid 2003. 3rd IEEE/ACM International Symposium on Cluster Computing and \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 282,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12275516005107308981",
+            "cites_id": [
+                "12275516005107308981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating scheduling and replica optimisation strategies in OptorSim",
+                "pub_year": "2003",
+                "citation": "Proceedings. First Latin American Web Congress, 52-59, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 210,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13018432868399141538",
+            "cites_id": [
+                "13018432868399141538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of scheduling and replica optimisation strategies for data grids using OptorSim",
+                "pub_year": "2004",
+                "citation": "Journal of Grid Computing 2 (1), 57-69, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 127,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3559692138782415751",
+            "cites_id": [
+                "3559692138782415751"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optorsim: a simulation tool for scheduling and replica optimisation in data grids",
+                "pub_year": "2005",
+                "citation": "CERN, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:Se3iqnhoufwC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16530515387670621444",
+            "cites_id": [
+                "16530515387670621444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim v2. 1 installation and user guide",
+                "pub_year": "2006",
+                "citation": "OptorSim official Sourceforge website: http://sourceforge. net/projects/optorsim, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1094776824165175384",
+            "cites_id": [
+                "1094776824165175384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Catallaxy-based grid markets",
+                "pub_year": "2005",
+                "citation": "Multiagent and Grid Systems 1 (4), 297-307, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:0EnyYjriUFMC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16525134485552134822",
+            "cites_id": [
+                "16525134485552134822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UK grid simulation with OptorSim",
+                "pub_year": "2003",
+                "citation": "UK e-Science all hands meeting 49, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:UebtZRa9Y70C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13705371981323238482",
+            "cites_id": [
+                "13705371981323238482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim: a grid simulator for replica optimisation",
+                "pub_year": "2004",
+                "citation": "UK e-science all hands conference 31, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4648376641165761117",
+            "cites_id": [
+                "4648376641165761117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim v1. 0 Installation and User Guide",
+                "pub_year": "2004",
+                "citation": "February, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=434243596593647856",
+            "cites_id": [
+                "434243596593647856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating scheduling and replica optimization strategies in data grid",
+                "pub_year": "2003",
+                "citation": "IEEE, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10489759013612912038",
+            "cites_id": [
+                "10489759013612912038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim v2. 0 installation and user guide, November 2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3382731595398133816",
+            "cites_id": [
+                "3382731595398133816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an agent-based grid optimisation strategy",
+                "pub_year": "2004",
+                "citation": "Software Agents and Grid Computing, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9690813719471479480",
+            "cites_id": [
+                "9690813719471479480"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim c1. 0 Installation and User Guide",
+                "pub_year": "2004",
+                "citation": "Feb, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8158394805786303249",
+            "cites_id": [
+                "8158394805786303249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reachability graph construction algorithm based on canonical transition firing count vectors",
+                "pub_year": "2001",
+                "citation": "Proceedings 9th International Workshop on Petri Nets and Performance Models \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10044066579038589263",
+            "cites_id": [
+                "10044066579038589263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining structural and enumerative techniques for the validation of bounded Petri nets",
+                "pub_year": "2001",
+                "citation": "Tools and Algorithms for the Construction and Analysis of Systems: 7th \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066955741783534964",
+            "cites_id": [
+                "12066955741783534964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Petri net based modelling of a career syllabus",
+                "pub_year": "2014",
+                "citation": "INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL 9 (4), 397-407, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:roLk4NBRz8UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13218535000258098518",
+            "cites_id": [
+                "13218535000258098518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formal analysis of an agent-based optimisation strategy for Data Grids",
+                "pub_year": "2006",
+                "citation": "Multiagent and Grid Systems 2 (2), 149-162, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6193676410261619887",
+            "cites_id": [
+                "6193676410261619887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining Structural and Enumerative Techniques for the Validation of Bounded Petri Nets: A New'Type 2'Validation Algorithm",
+                "pub_year": "2000",
+                "citation": "Technical Report, DISI-00-10, Dipartimento di Informatica e Scienze dell \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14600811643594119542",
+            "cites_id": [
+                "14600811643594119542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of replica selection protocols for grid data access services",
+                "pub_year": "2005",
+                "citation": "Proceedings of 5th IEEE International Symposium on Cluster Computing and the \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14103970171249278885",
+            "cites_id": [
+                "14103970171249278885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eu datagrid data management services",
+                "citation": "UK e-Science All Hands Conference, Nottingham (September 2003), 0"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9563271032387575617",
+            "cites_id": [
+                "9563271032387575617"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The \u03b1-Groups under Condorcet Clustering",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (5), 718, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5203789826291053526",
+            "cites_id": [
+                "5203789826291053526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OptorSim v2. 0",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Department of Physics & Astronomy",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Department of Physics & Astronomy",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid Performance Measurements with OptorSim",
+                "pub_year": "2003",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Next-Generation EU DataGrid Management Services",
+                "pub_year": "2003",
+                "citation": "Proceedings of Computing in High Energy Physics [CHEP 2003], 2003"
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Reachability Graph Construction Algorithm Amenable to Efficient Distributed Implementation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cUZdqhoAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

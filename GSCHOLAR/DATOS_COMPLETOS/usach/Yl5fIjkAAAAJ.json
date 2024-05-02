@@ -1,0 +1,399 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Yl5fIjkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Caro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Yl5fIjkAAAAJ&citpid=1",
+    "affiliation": "Computer scientist, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Data Engineering",
+        "Computer Science",
+        "Data Science"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 307,
+    "citedby5y": 241,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 8,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2014": 4,
+        "2015": 6,
+        "2016": 19,
+        "2017": 7,
+        "2018": 27,
+        "2019": 38,
+        "2020": 59,
+        "2021": 53,
+        "2022": 35,
+        "2023": 42,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ltsTTI4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Graells-Garrido \ud83d\udc26",
+            "affiliation": "Department of Computer Science, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wSkYQKsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M. Andrea Rodriguez",
+            "affiliation": "Computer Science, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-sCLLPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nieves R. Brisaboa",
+            "affiliation": "Catedr\u00e1tica de Lenguajes y Sistemas Inform\u00e1ticos. U. de A Coru\u00f1a"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MvZTjYkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Fari\u00f1a",
+            "affiliation": "University of A Coru\u00f1a"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KjTakkIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leo Ferres",
+            "affiliation": "Research Professor, Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VQ8kZ6IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Loreto Bravo",
+            "affiliation": "Directora, Instituto Data Science, Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qOv3StkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ciro Cattuto",
+            "affiliation": "ISI Foundation"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "phAg0cAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mariano Beir\u00f3",
+            "affiliation": "Universidad de San Andr\u00e9s - CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_O-lNvwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paula Vasquez-Henriquez",
+            "affiliation": "Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9evGNkUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo de Bernardo",
+            "affiliation": "Universidade da Coru\u00f1a"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YVxNC74AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rossano Schifanella",
+            "affiliation": "University of Turin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YSWMEeQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Peredo",
+            "affiliation": "Liberty Latin America (Telecom)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TFLd2O8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Omar Miranda",
+            "affiliation": "M.Sc. (c) of Computer Science, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2cRi1MgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerardo E Soto",
+            "affiliation": "Instituto de Estad\u00edstica, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "25DoP4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yessica Herrera-Guzm\u00e1n",
+            "affiliation": "Northwestern University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shopping Mall Attraction and Social Mixing at a City Scale",
+                "pub_year": "2018",
+                "citation": "EPJ Data Science 7 (28), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1724809448141216961",
+            "cites_id": [
+                "1724809448141216961"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of Pok\u00e9mon Go on the pulse of the city: a natural experiment",
+                "pub_year": "2017",
+                "citation": "EPJ Data Science 6, 1-19, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16661476720368772996",
+            "cites_id": [
+                "16661476720368772996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inferring modes of transportation using mobile phone data",
+                "pub_year": "2018",
+                "citation": "EPJ Data Science 7 (1), 1-23, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7992126240600157558",
+            "cites_id": [
+                "7992126240600157558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data structures for temporal graphs based on compact sequence representations",
+                "pub_year": "2015",
+                "citation": "Information Systems 51, 1-26, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1144508184238756854",
+            "cites_id": [
+                "1144508184238756854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact data structures for temporal graphs",
+                "pub_year": "2013",
+                "citation": "2013 Data Compression Conference, 477-477, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4247062046651173031",
+            "cites_id": [
+                "4247062046651173031"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressed  -tree for temporal graphs",
+                "pub_year": "2016",
+                "citation": "Knowledge and Information Systems 49 (2), 553-595, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1243751346625945193,12781190820828828379",
+            "cites_id": [
+                "1243751346625945193",
+                "12781190820828828379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The WWW (and an H) of Mobile Application Usage in the City: The What, Where, When, and How",
+                "pub_year": "2018",
+                "citation": "Companion Proceedings of the The Web Conference 2018, 1221-1229, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7289238282734084313",
+            "cites_id": [
+                "7289238282734084313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A compressed suffix-array strategy for temporal-graph indexing",
+                "pub_year": "2014",
+                "citation": "String Processing and Information Retrieval: 21st International Symposium \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754734718070779728",
+            "cites_id": [
+                "1754734718070779728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing Transport Perception using Social Media: Differences in Mode and Gender",
+                "pub_year": "2019",
+                "citation": "Proceedings of the 10th ACM Conference on Web Science, 295-299, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4644787198795433105",
+            "cites_id": [
+                "4644787198795433105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Compressed Suffix-Arrays for a compact representation of temporal-graphs",
+                "pub_year": "2018",
+                "citation": "Information Sciences 465, 459-483, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14536477774403521144",
+            "cites_id": [
+                "14536477774403521144"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward Finding Latent Cities with Non-Negative Matrix Factorization",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1801.09093, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2399573883826318163",
+            "cites_id": [
+                "2399573883826318163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tweets on the Go: Gender Differences in Transport Perception and Its Discussion on Social Media",
+                "pub_year": "2020",
+                "citation": "Sustainability 12 (13), 5405, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9456644091626540967",
+            "cites_id": [
+                "9456644091626540967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Area-restricted search in Magellanic Woodpeckers: importance of tree senescence, forest composition and open habitats",
+                "pub_year": "2021",
+                "citation": "Journal of Ornithology, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12700244449898914095",
+            "cites_id": [
+                "12700244449898914095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond Performing Arts: Network Composition and Collaboration Patterns",
+                "pub_year": "2020",
+                "citation": "Communities 9 (20), 18, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yl5fIjkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

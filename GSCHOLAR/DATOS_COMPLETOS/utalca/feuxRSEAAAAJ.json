@@ -1,0 +1,882 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "feuxRSEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Horacio Poblete",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=feuxRSEAAAAJ&citpid=5",
+    "affiliation": "CBSM, Universidad de Talca, Chile",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Molecular Dynamics",
+        "Nanotechnology",
+        "Neurobiology",
+        "channels",
+        "membrane"
+    ],
+    "email_domain": "@utalca.cl",
+    "citedby": 1025,
+    "citedby5y": 658,
+    "hindex": 18,
+    "hindex5y": 13,
+    "i10index": 24,
+    "i10index5y": 20,
+    "cites_per_year": {
+        "2010": 3,
+        "2011": 8,
+        "2012": 14,
+        "2013": 20,
+        "2014": 24,
+        "2015": 36,
+        "2016": 56,
+        "2017": 72,
+        "2018": 129,
+        "2019": 110,
+        "2020": 105,
+        "2021": 159,
+        "2022": 123,
+        "2023": 123,
+        "2024": 38
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0oHurYYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Emilio I. Alarcon",
+            "affiliation": "Professor, University of Ottawa Heart Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kkA073MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jeffrey Comer",
+            "affiliation": "Kansas State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_zzvUDMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ariela Vergara-Jaque",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iRc-CqIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Caballero",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qiiDifIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Olivero",
+            "affiliation": "Professor (Associate), Universidad de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "arS62x4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jans Alzate Morales",
+            "affiliation": "Associate Professor, Centro de Bioinform\u00e1tica, Simulaci\u00f3n y Modelado (CBSM), University of Talca"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting adsorption affinities of small molecules on carbon nanotubes using molecular dynamics simulation",
+                "pub_year": "2015",
+                "citation": "ACS nano 9 (12), 11761-11774, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 98,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10597263180069697782",
+            "cites_id": [
+                "10597263180069697782"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photophysics and photochemistry of dyes bound to human serum albumin are determined by the dye localization",
+                "pub_year": "2010",
+                "citation": "Photochemical & Photobiological Sciences 9, 93-102, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 83,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10483570437832032041",
+            "cites_id": [
+                "10483570437832032041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular determinants of phosphatidylinositol 4, 5-bisphosphate (PI (4, 5) P2) binding to transient receptor potential V1 (TRPV1) channels",
+                "pub_year": "2015",
+                "citation": "Journal of Biological Chemistry 290 (4), 2086-2098, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14275573332162222800",
+            "cites_id": [
+                "14275573332162222800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New insights into peptide\u2013silver nanoparticle interaction: Deciphering the role of cysteine and lysine in the peptide sequence",
+                "pub_year": "2015",
+                "citation": "Langmuir 32 (1), 265-273, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12317588233499192973",
+            "cites_id": [
+                "12317588233499192973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human serum albumin as protecting agent of silver nanoparticles: role of the protein conformation and amine groups in the nanoparticle stabilization",
+                "pub_year": "2013",
+                "citation": "Journal of nanoparticle research 15, 1-14, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11056728089901798461",
+            "cites_id": [
+                "11056728089901798461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rose Bengal binding to collagen and tissue photobonding",
+                "pub_year": "2017",
+                "citation": "ACS omega 2 (10), 6646-6657, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11782752177535851944",
+            "cites_id": [
+                "11782752177535851944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Allosterism and structure in thermally activated transient receptor potential channels",
+                "pub_year": "2016",
+                "citation": "Annual review of biophysics 45, 371-398, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5538277682944757291",
+            "cites_id": [
+                "5538277682944757291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perspectives of TRPV1 function on the neurogenesis and neural plasticity",
+                "pub_year": "2016",
+                "citation": "Neural Plasticity 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2295934570415019401",
+            "cites_id": [
+                "2295934570415019401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large-scale state-dependent membrane remodeling by a transporter protein",
+                "pub_year": "2019",
+                "citation": "Elife 8, e50576, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16307446806132648495",
+            "cites_id": [
+                "16307446806132648495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamics of adsorption on graphenic surfaces from aqueous solution",
+                "pub_year": "2018",
+                "citation": "Journal of chemical theory and computation 15 (2), 1302-1316, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3127387779067830073",
+            "cites_id": [
+                "3127387779067830073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "KCTD5, a novel TRPM4-regulatory protein required for cell migration as a new predictor for breast cancer prognosis",
+                "pub_year": "2020",
+                "citation": "Wiley, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15581251510660326800",
+            "cites_id": [
+                "15581251510660326800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Association of nicotinic acid with a poly (amidoamine) dendrimer studied by molecular dynamics simulations",
+                "pub_year": "2013",
+                "citation": "Journal of Molecular Graphics and Modelling 39, 71-78, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15059066375502673139",
+            "cites_id": [
+                "15059066375502673139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular basis of drug resistance in A/H1N1 virus",
+                "pub_year": "2012",
+                "citation": "Journal of chemical information and modeling 52 (10), 2650-2656, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9360027165708741983",
+            "cites_id": [
+                "9360027165708741983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of dye\u2010protein interaction and silver nanoparticles on rose Bengal photophysical behavior and protein photocrosslinking",
+                "pub_year": "2013",
+                "citation": "Photochemistry and Photobiology 89 (6), 1433-1441, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12757576781975527310",
+            "cites_id": [
+                "12757576781975527310"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determinants of alanine dipeptide conformational equilibria on graphene and hydroxylated derivatives",
+                "pub_year": "2017",
+                "citation": "The Journal of Physical Chemistry B 121 (15), 3895-3907, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6295903757439403719",
+            "cites_id": [
+                "6295903757439403719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the affinity between the protein kinase PKA and peptide substrates derived from kemptide using molecular dynamics simulations and MM/GBSA",
+                "pub_year": "2014",
+                "citation": "PLoS One 9 (10), e109639, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6917395560818334207",
+            "cites_id": [
+                "6917395560818334207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stereoselective interaction of epimeric naproxen-RGD peptides with human serum albumin",
+                "pub_year": "2010",
+                "citation": "Biomacromolecules 11 (9), 2255-2260, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11556287933566732130",
+            "cites_id": [
+                "11556287933566732130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel specific peptides as superior surface stabilizers for silver nano structures: role of peptide chain length",
+                "pub_year": "2017",
+                "citation": "Journal of materials chemistry B 5 (45), 8925-8928, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:_kc_bZDykSQC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1126237449898234014",
+            "cites_id": [
+                "1126237449898234014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis and in silico analysis of the quantitative structure\u2013activity relationship of heteroaryl\u2013acrylonitriles as AChE inhibitors",
+                "pub_year": "2016",
+                "citation": "Journal of the Taiwan Institute of Chemical Engineers 59, 45-60, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17835058094659447318",
+            "cites_id": [
+                "17835058094659447318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The dynamic nonprime binding of sampatrilat to the C-domain of angiotensin-converting enzyme",
+                "pub_year": "2016",
+                "citation": "Journal of Chemical Information and Modeling 56 (12), 2486-2494, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1006365378094192915",
+            "cites_id": [
+                "1006365378094192915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Light-activated peptide-based materials for sutureless wound closure",
+                "pub_year": "2019",
+                "citation": "ACS applied materials & interfaces 11 (48), 45007-45015, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8334788686848625929",
+            "cites_id": [
+                "8334788686848625929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trans-toxin ion-sensitivity of charybdotoxin-blocked potassium-channels reveals unbinding transitional states",
+                "pub_year": "2019",
+                "citation": "eLife 8, e46170, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4049771926701248888",
+            "cites_id": [
+                "4049771926701248888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theoretical rationalisation of the photophysics of a TICT excited state of cinnamoyl\u2013coumarin derivatives in homogeneous and biological membrane models",
+                "pub_year": "2018",
+                "citation": "Physical Chemistry Chemical Physics 20 (43), 27621-27629, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11900102874850359202",
+            "cites_id": [
+                "11900102874850359202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental and computational characterization of the interaction between gold nanoparticles and polyamidoamine dendrimers",
+                "pub_year": "2018",
+                "citation": "Langmuir 34 (34), 10063-10072, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4678373760328493569",
+            "cites_id": [
+                "4678373760328493569"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanoengineered sprayable therapy for treating myocardial infarction",
+                "pub_year": "2022",
+                "citation": "ACS nano 16 (3), 3522-3537, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:isC4tDSrTZIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5147397233584185995",
+            "cites_id": [
+                "5147397233584185995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanoparticle concentration vs surface area in the interaction of thiol-containing molecules: toward a rational nanoarchitectural design of hybrid materials",
+                "pub_year": "2019",
+                "citation": "ACS applied materials & interfaces 11 (19), 17697-17705, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16169369912352758148",
+            "cites_id": [
+                "16169369912352758148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the affinity between the protein kinase PKA and homoarginine\u2010containing peptides derived from kemptide: Free energy perturbation (FEP) calculations",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Chemistry 39 (16), 986-992, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3363864050276275404",
+            "cites_id": [
+                "3363864050276275404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antioxidant reactivity toward nitroxide probes anchored into human serum albumin. A new model for studying antioxidant repairing capacity of protein radicals",
+                "pub_year": "2009",
+                "citation": "Bioorganic & medicinal chemistry letters 19 (22), 6382-6385, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4446447167886505246",
+            "cites_id": [
+                "4446447167886505246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cinnamoyl\u2013coumarin hybrid derivatives with remarkable fluorescent molecular-rotor properties in mixtures of DPPC: DOPC LUVs",
+                "pub_year": "2020",
+                "citation": "Dyes and Pigments 178, 108356, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14299701254359559576",
+            "cites_id": [
+                "14299701254359559576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A structural model of the inactivation gate of voltage-activated potassium channels",
+                "pub_year": "2019",
+                "citation": "Biophysical journal 117 (2), 377-387, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14548597244391590433",
+            "cites_id": [
+                "14548597244391590433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of nanosilver surfaces on peptide reactivity towards reactive oxygen species",
+                "pub_year": "2018",
+                "citation": "Nanoscale 10 (34), 15911-15917, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14788534037472466502",
+            "cites_id": [
+                "14788534037472466502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-resolved fluorescence and anisotropy-sensitive 1, 2-dimyristoyl-sn-glycero-3-(7-aminocoumarin) phosphoetanolamide probe for studying membrane lipid domains",
+                "pub_year": "2023",
+                "citation": "Dyes and Pigments 217, 111368, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9389950316440507314",
+            "cites_id": [
+                "9389950316440507314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular rotors as reporters for viscosity of solutions of collagen like peptides",
+                "pub_year": "2021",
+                "citation": "Physical Chemistry Chemical Physics 23 (43), 24545-24549, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7851993808527511665",
+            "cites_id": [
+                "7851993808527511665"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of Carbon Nanotubes and Graphene by Tween-80: Mechanistic Insights from Spectroscopic and Simulation Studies",
+                "pub_year": "2022",
+                "citation": "Langmuir 38 (33), 10173-10182, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12736857098749328303",
+            "cites_id": [
+                "12736857098749328303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-Organization Dynamics of Collagen-like Peptides Crosslinking Is Driven by Rose-Bengal-Mediated Electrostatic Bridges",
+                "pub_year": "2022",
+                "citation": "Pharmaceutics 14 (6), 1148, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10417578799131938492",
+            "cites_id": [
+                "10417578799131938492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Structural Model of the Inactivation Gate of Voltage Activated Potassium Channels",
+                "pub_year": "2017",
+                "citation": "Biophysical Journal 112 (3), 247a, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:TQgYirikUcIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2554512457728901287",
+            "cites_id": [
+                "2554512457728901287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Charybdotoxin binding to shaker potassium channels, a case of lock and key equilibrium: Voltage, external potassium, and temperature dependence",
+                "pub_year": "2024",
+                "citation": "Biophysical Journal 123 (3), 527a, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multipurpose On\u2010the\u2010Spot Peptide\u2010Based Hydrogels for Skin, Cornea, and Heart Repair",
+                "pub_year": "2024",
+                "citation": "Advanced Functional Materials, 2402564, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free radical oxidation of antimicrobial peptides in phospholipid membranes",
+                "pub_year": "2023",
+                "citation": "FREE RADICAL BIOLOGY AND MEDICINE 208, S145-S145, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamics of the physisorption of capping agents on silver nanoparticles",
+                "pub_year": "2023",
+                "citation": "Physical Chemistry Chemical Physics 25 (30), 20320-20330, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mending A Broken Heart On The Spot With Spray Nanoparticles",
+                "pub_year": "2022",
+                "citation": "TISSUE ENGINEERING PART A 28, 256-257, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural Insights into the Inhibition Site in the Phosphorylcholine Phosphatase Enzyme of Pseudomonas aeruginosa",
+                "pub_year": "2022",
+                "citation": "Journal of Chemical Information and Modeling 62 (12), 3067-3078, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Methodologies for Exploring Nano-engineered Materials",
+                "pub_year": "2019",
+                "citation": "Nanoengineering Materials for Biomedical Uses, 57-79, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational modeling of the adsorption of capping agent biomolecules to inorganic nanoparticles",
+                "pub_year": "2019",
+                "citation": "Photoactive Inorganic Nanoparticles, 21-41, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Medicinal Chemistry and Drug Design",
+                "pub_year": "2018",
+                "citation": "Medicinal Chemistry 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into the Gating Mechanism of Excitatory Amino Acid Transporters-Associated Anion Channel",
+                "pub_year": "2017",
+                "citation": "Biophysical Journal 112 (3), 336a, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Membrane Remodeling by GltPh in the Inward-and Outward-Facing Conformations Explains Lack of Protomer Cooperativity",
+                "pub_year": "2017",
+                "citation": "Biophysical Journal 112 (3), 129a, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Free energy theoretical calculations of PKA\u2013Kemptide complex formation, and effect of mutation of Kemptide arginines to homoarginines.",
+                "pub_year": "2016",
+                "citation": "MDPI AG, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elucidating the Anion Channel Gating Mechanism in Excitatory Amino Acid Transporters",
+                "pub_year": "2016",
+                "citation": "Biophysical Journal 110 (3), 137a, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Runing title: PI (4, 5) P2 binding site in TRPV1",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photophysics and photochemistry of dyes bound to human serum albumin are determined by the dye localization",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Entendiendo la uni\u00f3n y efecto cooperativo de p\u00e9ptidos protectores de nanosuperficies de plata frente a ataques radicalarios.",
+                "citation": "mental 1, 2, 0"
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supporting Information for Predicting Adsorption Affinities of Small Molecules on Carbon Nanotubes Using Molecular Dynamics Simulation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "feuxRSEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 9,
+        "not_available": 8
+    }
+}

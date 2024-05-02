@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ViuXTPAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mauricio Gomez Barrena",
+    "affiliation": "Facultad de Ingenier\u00eda Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 32,
+    "citedby5y": 30,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 1,
+        "2021": 8,
+        "2022": 4,
+        "2023": 11,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of mesoporous materials from biomass ash with future applications as adsorbent materials",
+                "pub_year": "2020",
+                "citation": "Microporous and Mesoporous Materials 299, 110085, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ViuXTPAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7267492071034551286",
+            "cites_id": [
+                "7267492071034551286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preparation of mesoporous \u03b3-Al2O3 with high surface area from an AlOOH extract of recycling biomass ash",
+                "pub_year": "2021",
+                "citation": "Journal of Environmental Chemical Engineering 9 (5), 105925, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ViuXTPAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2753181558233481728",
+            "cites_id": [
+                "2753181558233481728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical behavior of a twip steel (Twinning Induced Plasticity)",
+                "pub_year": "2015",
+                "citation": "Mat\u00e9ria (Rio de Janeiro) 20, 653-658, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "ViuXTPAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=208350242232647087",
+            "cites_id": [
+                "208350242232647087"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

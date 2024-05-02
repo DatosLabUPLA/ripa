@@ -1,0 +1,542 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "P4eJcxUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Coelho Caro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=P4eJcxUAAAAJ&citpid=1",
+    "affiliation": "Facultad de Ingenier\u00eda, Arquitectura y Dise\u00f1o, Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Digital Imaging Processing"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 257,
+    "citedby5y": 219,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 9,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2012": 1,
+        "2013": 4,
+        "2014": 4,
+        "2015": 5,
+        "2016": 10,
+        "2017": 5,
+        "2018": 8,
+        "2019": 23,
+        "2020": 33,
+        "2021": 41,
+        "2022": 44,
+        "2023": 58,
+        "2024": 20
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YPM6KxAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio N. Torres",
+            "affiliation": "Professor of Electrical Engineering, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ySvy3yoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Braulio Contreras-Trigo",
+            "affiliation": "Facultad de Ingenier\u00eda y Tecnolog\u00eda Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fEK64woAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Pablo Staforelli Vivanco",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TIG9CrIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos A. Toro N.",
+            "affiliation": "Researcher"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b1UsMiEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel G. Sbarbaro-Hofer",
+            "affiliation": "Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fTnhqmAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge E. Pezoa",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "v8FeGAgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio Oyarz\u00fan",
+            "affiliation": "Director de Investigaci\u00f3n, Facultad de Ingenier\u00eda y Tecnolog\u00eda, Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J7nvTDYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "V\u00edctor D\u00edaz-Garc\u00eda",
+            "affiliation": "Profesor asistente - Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NJcglwYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n E. Godoy",
+            "affiliation": "Associate Professor, University of Concepcion, CHILE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6YDZBwgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Saavedra",
+            "affiliation": "Center for Optics and Photonics, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uevYPVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Balladares",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HXsly_4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Tapia",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso (PUCV)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vQoHA10AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Igor Meglinski",
+            "affiliation": "Professor of Quantum Biophotonics and Biomedical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KVpYOnsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Machuca Beltr\u00e1n",
+            "affiliation": "Department of Computer Engineering and Computer Science, Universidad de Atacama, Copiapo, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slight pH fluctuations in the gold nanoparticle synthesis process influence the performance of the citrate reduction method",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (7), 2246, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=922526691224479973",
+            "cites_id": [
+                "922526691224479973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperspectral transmittance imaging of the shell-free cooked clam Mulinia edulis for parasite detection",
+                "pub_year": "2013",
+                "citation": "Journal of food engineering 117 (3), 408-416, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2725160985663040917",
+            "cites_id": [
+                "2725160985663040917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flash smelting copper concentrates spectral emission measurements",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (7), 2009, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10415189526964427184",
+            "cites_id": [
+                "10415189526964427184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagation of Cylindrical Vector Laser Beams in Turbid Tissue-Like Scattering Media",
+                "pub_year": "2019",
+                "citation": "Photonics 56 (2), 12, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5208326755548364507",
+            "cites_id": [
+                "5208326755548364507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infrared light field imaging system free of fixed-pattern noise",
+                "pub_year": "2017",
+                "citation": "Scientific reports 7 (1), 13040, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6754914933891239384",
+            "cites_id": [
+                "6754914933891239384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved antibiotic detection in raw milk using machine learning tools over the absorption spectra of a problem-specific nanobiosensor",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (16), 4552, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:Se3iqnhoufwC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11735537589417694549",
+            "cites_id": [
+                "11735537589417694549"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A machine vision system for automatic detection of parasites Edotea magellanica in shell-off cooked clam Mulinia edulis",
+                "pub_year": "2016",
+                "citation": "Journal of food engineering 181, 84-91, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11420564874343619168",
+            "cites_id": [
+                "11420564874343619168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral characterization of copper and iron sulfide combustion: A multivariate data analysis approach for mineral identification on the blend",
+                "pub_year": "2019",
+                "citation": "Metals 9 (9), 1017, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4239023218291341979",
+            "cites_id": [
+                "4239023218291341979"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple yet effective preanalytical strategy enabling the application of aptamer-conjugated gold nanoparticles for the colorimetric detection of antibiotic residues in raw milk",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (3), 1281, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:0EnyYjriUFMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7150044002607435443",
+            "cites_id": [
+                "7150044002607435443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reference-free image index to simultaneously quantify infrared-imaging fixed-pattern-noise and blur artifacts",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 121593-121607, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6233869319499619564",
+            "cites_id": [
+                "6233869319499619564"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic near-infrared hyperspectral image analysis of copper concentrates",
+                "pub_year": "2019",
+                "citation": "IFAC-PapersOnLine 52 (14), 94-98, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5317975017118132739",
+            "cites_id": [
+                "5317975017118132739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mussel classifier system based on morphological characteristics",
+                "pub_year": "2018",
+                "citation": "IEEE Access 6, 76935-76941, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7004421831444035382",
+            "cites_id": [
+                "7004421831444035382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperspectral Microscopy Technology to Detect Syrups Adulteration of Endemic Guindo Santo and Quillay Honey Using Machine-Learning Tools",
+                "pub_year": "2022",
+                "citation": "Foods 11 (23), 3868, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3015277017837056701",
+            "cites_id": [
+                "3015277017837056701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multidimensional approach for striping noise compensation in hyperspectral imaging devices",
+                "pub_year": "2011",
+                "citation": "Infrared Sensors, Devices, and Applications; and Single Photon Imaging II \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13578546029721461831",
+            "cites_id": [
+                "13578546029721461831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlated flickering of erythrocytes membrane observed with dual time resolved membrane fluctuation spectroscopy under different d-glucose concentrations",
+                "pub_year": "2021",
+                "citation": "Scientific Reports 11 (1), 2429, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:UebtZRa9Y70C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368730490978693781",
+            "cites_id": [
+                "14368730490978693781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated parasites detection in clams by transillumination imaging and pattern classification",
+                "pub_year": "2012",
+                "citation": "Image Processing: Machine Vision Applications V 8300, 122-129, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=294899458258578608",
+            "cites_id": [
+                "294899458258578608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal fluctuation spectroscopy apply to red blood cells membrane: the effect of glucose on the micro rheological properties",
+                "pub_year": "2020",
+                "citation": "Clinical and Translational Biophotonics, TW4B. 6, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3063160955923512511",
+            "cites_id": [
+                "3063160955923512511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Spatial-Spectral Classification Method Based on Deep Learning for Controlling Pelagic Fish Landings in Chile",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (21), 8909, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three-dimensional point spread function estimation method for mid-wave infrared microscope imaging",
+                "pub_year": "2022",
+                "citation": "Applied Optics 61 (28), 8467-8474, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital high-spatial-resolution image reconstruction in visible multispectral microscopy imaging",
+                "pub_year": "2022",
+                "citation": "Latin America Optics and Photonics Conference, W4A. 53, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagation of cylindrical vector laser beams in turbid tissue-like scattering media",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un sistema y un proceso para determinar en l\u00ednea de la temperatura y composici\u00f3n de Cu en matas y metal blanco de Cu a partir de la medici\u00f3n espectral a distancia",
+                "pub_year": "2018",
+                "citation": "ES Patent 56,848, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A process allowing the removal through digital refocusing of fixed-pattern noise in effective images formed by electromagnetic sensor arrays in a light field",
+                "pub_year": "2018",
+                "citation": "US Patent App. 15/780,135, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un sistema de monitoreo m\u00faltiple de llama de combusti\u00f3n en hornos de fusi\u00f3n instant\u00e1nea y/o flash para el procesamiento de concentrados y minerales sulfurados",
+                "pub_year": "2018",
+                "citation": "ES Patent 56,751, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un procedimiento que permite eliminar el ruido de patr\u00f3n fijo en im\u00e1genes efectivas formadas por arreglo de sensores electromagn\u00e9ticos de un campo de luz mediante un reenfoque \u2026",
+                "pub_year": "2018",
+                "citation": "ES Patent 55,615, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o de un sistema y un m\u00e9todo para detecci\u00f3n de cuerpos extra\u00f1os en moluscos bivalvos translucidos",
+                "pub_year": "2015",
+                "citation": "ES Patent 51,625, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "P4eJcxUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

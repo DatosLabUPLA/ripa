@@ -1,0 +1,584 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4zIMzy8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Matthieu Vernier",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4zIMzy8AAAAJ&citpid=2",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Natural Language Processing",
+        "Data Stream Mining"
+    ],
+    "email_domain": "@inf.uach.cl",
+    "homepage": "http://matthieuvernier.com/",
+    "citedby": 293,
+    "citedby5y": 117,
+    "hindex": 11,
+    "hindex5y": 6,
+    "i10index": 12,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2007": 3,
+        "2008": 6,
+        "2009": 7,
+        "2010": 14,
+        "2011": 28,
+        "2012": 24,
+        "2013": 17,
+        "2014": 13,
+        "2015": 15,
+        "2016": 17,
+        "2017": 10,
+        "2018": 17,
+        "2019": 15,
+        "2020": 19,
+        "2021": 20,
+        "2022": 30,
+        "2023": 20,
+        "2024": 13
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "buYLEKk35R4C",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thierry Charnois",
+            "affiliation": "LIPN Universit\u00e9 Paris 13"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KkNJvIoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stergos Afantenos",
+            "affiliation": "Associate Professor, IRIT, University of Toulouse,France"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pensamiento cr\u00edtico de los j\u00f3venes ciudadanos frente a las noticias en Chile",
+                "pub_year": "2018",
+                "citation": "Comunicar: Revista Cient\u00edfica de Comunicaci\u00f3n y Educaci\u00f3n 26 (54), 101-110, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963297391201893942",
+            "cites_id": [
+                "3963297391201893942"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cat\u00e9gorisation des \u00e9valuations dans un corpus de blogs multi-domaine",
+                "pub_year": "2009",
+                "citation": "Revue des nouvelles technologies de l'information, 45--70, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6103609023657638740",
+            "cites_id": [
+                "6103609023657638740"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enrichissement d'un lexique de termes subjectifs \u00e0 partir de tests s\u00e9mantiques",
+                "pub_year": "2010",
+                "citation": "Revue TAL: traitement automatique des langues 51 (1), 125--149, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15892041574393461416",
+            "cites_id": [
+                "15892041574393461416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEFT'09: d\u00e9tection de la subjectivit\u00e9 et cat\u00e9gorisation de textes subjectifs par une approche mixte symbolique et statistique",
+                "pub_year": "2009",
+                "citation": "Atelier D\u00e9fi Fouille de Textes (DEFT'09), 101-112, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2680220969011292961,18052979752286764259",
+            "cites_id": [
+                "2680220969011292961",
+                "18052979752286764259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Annotating opinion\u2014evaluation of blogs: the Blogoscopy corpus",
+                "pub_year": "2011",
+                "citation": "Language Resources and Evaluation 45, 409-437, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1694319858968621576",
+            "cites_id": [
+                "1694319858968621576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Critical Thinking of Young Citizens towards News Headlines in Chile.",
+                "pub_year": "2018",
+                "citation": "Comunicar: Media Education Research Journal 26 (54), 101-110, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679576208534031507",
+            "cites_id": [
+                "15679576208534031507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building a French-speaking community around UIMA, gathering research, education and industrial partners, mainly in Natural Language Processing and Speech Recognizing domains",
+                "pub_year": "2010",
+                "citation": "LREC 2010 Workshop'New Challenges for NLP Frameworks', p64, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2865620241245199301",
+            "cites_id": [
+                "2865620241245199301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification de textes d'opinions: une approche mixte n-grammes et s\u00e9mantique",
+                "pub_year": "2007",
+                "citation": "3\u00e8me D\u00c9fi Fouille de Textes: Atelier DEFT'07 \u00e0 Grenoble, 105-119, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11412421273916356157",
+            "cites_id": [
+                "11412421273916356157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyse \u00e0 granularit\u00e9 fine de la subjectivit\u00e9",
+                "pub_year": "2011",
+                "citation": "Nantes, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7836477641619519124",
+            "cites_id": [
+                "7836477641619519124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Annotating opinion\u2013evaluation of blogs",
+                "pub_year": "2008",
+                "citation": "LREC 2008 Workshop on Sentiment Analysis: Emotion, Metaphor, Ontology and \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1662183193463288345",
+            "cites_id": [
+                "1662183193463288345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagn\u00f3stico de la estrategia editorial de medios informativos chilenos en Twitter mediante un clasificador de noticias automatizado",
+                "pub_year": "2016",
+                "citation": "Revista Austral de Ciencias Sociales, 183-201, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7580979888168117541",
+            "cites_id": [
+                "7580979888168117541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Competitiveness of a non-linear block-space gpu thread map for simplex domains",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Parallel and Distributed Systems 29 (12), 2728-2741, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6638632001833711676",
+            "cites_id": [
+                "6638632001833711676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cat\u00e9gorisation s\u00e9mantico-discursive des \u00e9valuations exprim\u00e9es dans la blogosph\u00e8re",
+                "pub_year": "2009",
+                "citation": "16\u00e8me conf\u00e9rence sur le Traitement Automatique des Langues Naturelles (TALN \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8568095880917842556",
+            "cites_id": [
+                "8568095880917842556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sophia una herramienta para la construcci\u00f3n y an\u00e1lisis de casos noticiosos en la ense\u00f1anza del periodismo",
+                "pub_year": "2017",
+                "citation": "Nuevas ideas en inform\u00e1tica educativa 13, 667-672, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9856096550658190638,287308893975290233",
+            "cites_id": [
+                "9856096550658190638",
+                "287308893975290233"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un \u00e9tiqueteur de r\u00f4les grammaticaux libre pour le fran\u00e7ais int\u00e9gr\u00e9 \u00e0 Apache UIMA",
+                "pub_year": "2010",
+                "citation": "17e Conf\u00e9rence sur le Traitement Automatique des Langues Naturelles, -, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12331222982332182483,10301207398557329711",
+            "cites_id": [
+                "12331222982332182483",
+                "10301207398557329711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Politics and Pandemic: How Do Chilean Media Talk about Disinformation and Fake News in Their Social Networks?",
+                "pub_year": "2023",
+                "citation": "Societies 13 (2), 25, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1982043440855507761",
+            "cites_id": [
+                "1982043440855507761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "(In) Equidad de g\u00e9nero en la prensa chilena: periodistas y fuentes",
+                "pub_year": "2021",
+                "citation": "Revista De Comunicaci\u00f3n 20 (2), 259-275, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8406460445003648415",
+            "cites_id": [
+                "8406460445003648415"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking evaluation in discourse",
+                "pub_year": "2007",
+                "citation": "Workshop at EUROLAN 2007 on Applications of Semantics, Opinions and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1550531492038382850",
+            "cites_id": [
+                "1550531492038382850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classifying discourse in a CSCL platform to evaluate correlations with teacher participation and progress",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1605.07268, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16983973271835747167",
+            "cites_id": [
+                "16983973271835747167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning subjectivity phrases missing from resources through a large set of semantic tests",
+                "pub_year": "2010",
+                "citation": "The 7th International Conference on Language Resources and Evaluation (LREC \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14327473792889389520",
+            "cites_id": [
+                "14327473792889389520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of deep learning to enforce environmental noise regulation in an urban setting",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (4), 3528, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11878654526179752052",
+            "cites_id": [
+                "11878654526179752052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Suivi d'opinion dans le discours",
+                "pub_year": "2007",
+                "citation": "5eme Journ\u00e9es de la Linguistique de corpus, 103-114, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15269187110894605073,4707071121821607465",
+            "cites_id": [
+                "15269187110894605073",
+                "4707071121821607465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the role of micro-blogging in B-learning activities: Kelluwen experiences in Chilean public schools",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Learning Technologies 11 (3), 280-293, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11395954010655011230",
+            "cites_id": [
+                "11395954010655011230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifier la cible d'un passage d'opinion dans un corpus multith\u00e9matique",
+                "pub_year": "2011",
+                "citation": "TALN 2011, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2955087571750996707",
+            "cites_id": [
+                "2955087571750996707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dataset for polyphonic sound event detection tasks in urban soundscapes: The synthetic polyphonic ambient sound source (SPASS) dataset",
+                "pub_year": "2023",
+                "citation": "Data in Brief 50, 109552, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4646469635277321745",
+            "cites_id": [
+                "4646469635277321745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The SPASS dataset: A new synthetic polyphonic dataset with spatiotemporal labels of sound sources",
+                "pub_year": "2023",
+                "citation": "Applied Acoustics 214, 109665, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FuSA: APPLICATION OF A MACHINE LEARNING SYSTEM FOR NOISE MITIGATION ACTION PLANS IN URBAN ENVIRONMENTS",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noticias falsas y redes sociales de la prensa chilena",
+                "pub_year": "2022",
+                "citation": "Redes sociales y ciudadan\u00eda: ciberculturas para el aprendizaje, 1171-1180, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Litt\u00e9rature sur la Subjectivit\u00e9 et la polarit\u00e9",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnosing editorial strategies of Chilean media on Twitter using an automatic news classifier",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1605.07260, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El ecosistema de medios informativos en Chile en Twitter",
+                "pub_year": "2016",
+                "citation": "Retos del periodismo para el ejercicio responsable y libre de la profesi\u00f3n \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifier la cible d\u2019un passage d\u2019opinion dans un corpus multith\u00e9matique (Identifying the target of an opinion transition in a thematic corpus)",
+                "pub_year": "2011",
+                "citation": "Actes de la 18e conf\u00e9rence sur le Traitement Automatique des Langues \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apache UIMA pour le Traitement Automatique des Langues",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noticias falsas y redes sociales de la prensa chilena",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4zIMzy8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

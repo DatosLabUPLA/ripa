@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "26J8e7gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "isabel siefer",
+    "affiliation": "profesora enfermer\u00eda universidad de valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "adultos mayores",
+        "enfermer\u00eda"
+    ],
+    "email_domain": "@uv.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema piloto de entrega de preparaciones alimentarias saludables para adultos mayores autovalentes",
+                "pub_year": "2019",
+                "citation": "Nutr. cl\u00edn. diet. hosp, 92-95, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "26J8e7gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6862066872435504489",
+            "cites_id": [
+                "6862066872435504489"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pilot healthy foods delivery system for autonomous older adults",
+                "pub_year": "2019",
+                "citation": "Clinical Nutrition and Hospital Dietetics 39 (3), 92-95, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "26J8e7gAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

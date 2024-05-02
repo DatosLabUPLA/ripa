@@ -1,0 +1,97 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eaJEdhAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Berta Vizcarra",
+    "affiliation": "Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Nutrition"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 26,
+    "citedby5y": 26,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 2,
+        "2021": 9,
+        "2022": 6,
+        "2023": 7
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2_o6_SkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando Pizarro",
+            "affiliation": "Profesor de Nutrici\u00f3n, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of various calcium salts on non-heme iron bioavailability in fasted women of childbearing age",
+                "pub_year": "2018",
+                "citation": "Journal of Trace Elements in Medicine and Biology 49, 8-12, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "eaJEdhAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3519562595178417725",
+            "cites_id": [
+                "3519562595178417725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ingesta de calcio y densidad mineral \u00f3sea en adolescentes chilenos con desarrollo puberal completo",
+                "pub_year": "2023",
+                "citation": "Revista chilena de nutrici\u00f3n 50 (2), 205-212, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eaJEdhAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10178598677945576030",
+            "cites_id": [
+                "10178598677945576030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estado nutricional, ingesta de alimentos, horas de sue\u00f1o y riesgo cardiovascular en trabajadoras de turno nocturno en una empresa frut\u00edcola de la ciudad de Chill\u00e1n, Chile.",
+                "pub_year": "2020",
+                "citation": "Revista espa\u00f1ola de nutrici\u00f3n comunitaria= Spanish journal of community \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "eaJEdhAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3222662977882631922",
+            "cites_id": [
+                "3222662977882631922"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

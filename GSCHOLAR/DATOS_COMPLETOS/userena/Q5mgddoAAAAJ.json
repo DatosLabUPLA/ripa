@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Q5mgddoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Andres Oyarzun Lucero",
+    "affiliation": "Departamento Ingenieria de Minas, Universidad de La Serena",
+    "organization": 6030355530770144394,
+    "interests": [
+        "Recursos H\u00eddricos y Medio AMbiente"
+    ],
+    "email_domain": "@userena.cl",
+    "homepage": "http://gemmchile.wix.com/gemm",
+    "citedby": 49,
+    "citedby5y": 28,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2006": 1,
+        "2007": 0,
+        "2008": 2,
+        "2009": 1,
+        "2010": 0,
+        "2011": 3,
+        "2012": 2,
+        "2013": 1,
+        "2014": 1,
+        "2015": 1,
+        "2016": 3,
+        "2017": 5,
+        "2018": 1,
+        "2019": 6,
+        "2020": 3,
+        "2021": 6,
+        "2022": 6,
+        "2023": 4,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Las aguas subterr\u00e1neas en Chile",
+                "pub_year": "2006",
+                "citation": "Bolet\u00edn Geol\u00f3gico y Minero, 37-45, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Q5mgddoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3125637713828888001,7806945227382108394",
+            "cites_id": [
+                "3125637713828888001",
+                "7806945227382108394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy based assessment of groundwater intrinsic vulnerability of a volcanic aquifer in Chilean Andean Valley",
+                "pub_year": "2018",
+                "citation": "Environmental Monitoring and Assessment, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Q5mgddoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1787477503595452733",
+            "cites_id": [
+                "1787477503595452733"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NQ0I79MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel Neira",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Operations Research",
+        "Transportation",
+        "Logistics",
+        "Supply chain management",
+        "Scheduling"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 82,
+    "citedby5y": 82,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 9,
+        "2022": 26,
+        "2023": 30,
+        "2024": 13
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "72ciZxEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Godoy",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UOOmJCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto As\u00edn-Ach\u00e1",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dawp_aYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maichel M. Aguayo",
+            "affiliation": "Researcher, Facultad de Ingenier\u00eda y Tecnolog\u00eda, Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oeu314AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo De la Fuente",
+            "affiliation": "Assistant Professor, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "34zH7dUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mathias A. Klapp",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pV1QJ-AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rosa Medina Dur\u00e1n",
+            "affiliation": "Assistant Professor, University of Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New compact integer programming formulations for the multi-trip vehicle routing problem with time windows",
+                "pub_year": "2020",
+                "citation": "Computers & Industrial Engineering 144, 106399, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867977730019761898",
+            "cites_id": [
+                "4867977730019761898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the state-of-the-art in the traveling salesman problem: An anytime automatic algorithm selection",
+                "pub_year": "2022",
+                "citation": "Expert Systems with Applications 187, 115948, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4232114161515873101",
+            "cites_id": [
+                "4232114161515873101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anytime automatic algorithm selection for knapsack",
+                "pub_year": "2020",
+                "citation": "Expert Systems with Applications 158, 113613, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10725834735718202756",
+            "cites_id": [
+                "10725834735718202756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lot streaming for a two-stage assembly system in the presence of handling costs",
+                "pub_year": "2023",
+                "citation": "Journal of Scheduling 26 (4), 335-351, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17521825309052666857",
+            "cites_id": [
+                "17521825309052666857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tourist Design Problem with Synchronization Constraints",
+                "citation": "Available at SSRN 4063502, 0"
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning for Knapsack, an any-time behavior approach.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NQ0I79MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "svnI7gIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Dom\u00ednguez Acosta",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=svnI7gIAAAAJ&citpid=1",
+    "affiliation": "Ph.D. Candidate at Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Industrial process control",
+        "robotics",
+        "artificial intelligence",
+        "faults diagnostic"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 35,
+    "citedby5y": 30,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 5,
+        "2020": 4,
+        "2021": 8,
+        "2022": 7,
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4nMmsdsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adri\u00e1n Rodr\u00edguez Ramos",
+            "affiliation": "Profesor de la Facultad de Autom\u00e1tica y Biom\u00e9dica, Universidad Tecnol\u00f3gica de La Habana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "23WiQvMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Orestes Llanes-Santiago",
+            "affiliation": "Universidad Tecnol\u00f3gica de La Habana Jos\u00e9 Antonio Echeverr\u00eda, CUJAE, La Habana, Cuba"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to multiple fault diagnosis using fuzzy logic",
+                "pub_year": "2019",
+                "citation": "Journal of Intelligent Manufacturing 30, 429-439, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "svnI7gIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17584882295204377880",
+            "cites_id": [
+                "17584882295204377880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling, design and control of a 4-arm delta parallel manipulator employing type-1 and interval type-2 fuzzy logic-based techniques for precision applications",
+                "pub_year": "2024",
+                "citation": "Robotics and Autonomous Systems 175 (104661), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "svnI7gIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

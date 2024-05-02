@@ -1,0 +1,63 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XoDop8IAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jose Dominguez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XoDop8IAAAAJ&citpid=1",
+    "affiliation": "Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Advanced manufacturing",
+        "renewable materials",
+        "additive manufacturing"
+    ],
+    "email_domain": "@fablab.usm.cl",
+    "homepage": "http://www.josetomas.github.io/",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IlnrCIMbJNkC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paloma Gonzalez Rojas",
+            "affiliation": "Postdoctoral Fellow, MIT Climate and Sustainability Consortium"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Micro-Architected Lattice-Based Mesh for Fiber Filters: A Novel Additive Manufacturing Architecture for Molded Fiber Tooling",
+                "pub_year": "2022",
+                "citation": "International Manufacturing Science and Engineering Conference 85802 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XoDop8IAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6145621930360747800",
+            "cites_id": [
+                "6145621930360747800"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

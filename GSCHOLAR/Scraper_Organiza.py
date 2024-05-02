@@ -20,14 +20,19 @@ def get_instituciones_completas():
     return completed_institutions
 def get_autores_completados(dominio):
     autores = set()
-    for filename in os.listdir(f'DATOS_COMPLETOS/{dominio}'):
+    institution_folder = os.path.join('DATOS_COMPLETOS',dominio)
+    if not os.path.exists(institution_folder):
+        os.makedirs(institution_folder)
+    for filename in os.listdir(institution_folder):
+    
+    
         if filename.endswith('.json'):
             autor = filename.split('.')[0]
             autores.add(autor)
     return autores
 def get_autores(org_number):
     pg = ProxyGenerator()
-    success = pg.ScraperAPI('59aeb4de354e5ae852436c2e9f047183')
+    success = pg.ScraperAPI('baddca5da19b48b8926123d9630c7e1d')
     scholarly.use_proxy(pg)
     authors_id = set()
     authors = scholarly.search_author_by_organization(org_number)

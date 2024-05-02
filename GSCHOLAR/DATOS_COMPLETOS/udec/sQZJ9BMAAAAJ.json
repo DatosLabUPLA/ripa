@@ -1,0 +1,1332 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "sQZJ9BMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Guillermo Cabrera-Vives",
+    "affiliation": "Department of Computer Science, University of Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Astroinformatics",
+        "Bioinformatics"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 1357,
+    "citedby5y": 1080,
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 23,
+    "i10index5y": 21,
+    "cites_per_year": {
+        "2006": 7,
+        "2007": 7,
+        "2008": 13,
+        "2009": 12,
+        "2010": 12,
+        "2011": 24,
+        "2012": 20,
+        "2013": 10,
+        "2014": 9,
+        "2015": 21,
+        "2016": 26,
+        "2017": 31,
+        "2018": 83,
+        "2019": 97,
+        "2020": 147,
+        "2021": 153,
+        "2022": 227,
+        "2023": 338,
+        "2024": 118
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SM1ghUEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo A. Estevez, IEEE Fellow",
+            "affiliation": "Department of Electrical Engineering, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ptRI8_sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco F\u00f6rster",
+            "affiliation": "Professor, Data and Artificial Intelligence Initiative (ID&IA), University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hlFnwxwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pavlos Protopapas",
+            "affiliation": "Harvard"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A catalog of visual-like morphologies in the 5 candels fields using deep learning",
+                "pub_year": "2015",
+                "citation": "The Astrophysical Journal Supplement Series 221 (1), 8, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:_kc_bZDykSQC",
+            "num_citations": 168,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16641897684830399030",
+            "cites_id": [
+                "16641897684830399030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The automatic learning for the rapid classification of events (ALeRCE) alert broker",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 161 (5), 242, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:rO6llkc54NcC",
+            "num_citations": 144,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6443851950491997422",
+            "cites_id": [
+                "6443851950491997422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological analysis of the centimeter-wave continuum in the dark cloud LDN 1622",
+                "pub_year": "2006",
+                "citation": "The Astrophysical Journal 639 (2), 951, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 141,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11806193916142310667",
+            "cites_id": [
+                "11806193916142310667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The delay of shock breakout due to circumstellar material evident in most type II supernovae",
+                "pub_year": "2018",
+                "citation": "Nature Astronomy 2 (10), 808-818, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:HDshCWvjkbEC",
+            "num_citations": 127,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=756991977600184833",
+            "cites_id": [
+                "756991977600184833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep-HiTS: Rotation Invariant Convolutional Neural Network for Transient Detection\u2217",
+                "pub_year": "2017",
+                "citation": "The Astrophysical Journal 836 (1), 97, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 121,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12913436554683025595",
+            "cites_id": [
+                "12913436554683025595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alert classification for the ALeRCE broker system: The light curve classifier",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 161 (3), 141, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7246149934768738715",
+            "cites_id": [
+                "7246149934768738715"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The high cadence transient survey (hits). i. survey design and supernova shock breakout constraints",
+                "pub_year": "2016",
+                "citation": "The Astrophysical Journal 832 (2), 155, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=39074912427286209",
+            "cites_id": [
+                "39074912427286209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning for image sequence classification of astronomical events",
+                "pub_year": "2019",
+                "citation": "Publications of the Astronomical Society of the Pacific 131 (1004), 108006, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10783663281181367572",
+            "cites_id": [
+                "10783663281181367572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alert classification for the ALeRCE broker system: The real-time stamp classifier",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 162 (6), 231, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12174972351809247895",
+            "cites_id": [
+                "12174972351809247895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Searching for changing-state agns in massive data sets. i. applying deep learning and anomaly-detection techniques to find agns with anomalous variability behaviors",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 162 (5), 206, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15461084578099704209",
+            "cites_id": [
+                "15461084578099704209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dust-correlated cm wavelength continuum emission from translucent clouds \u03b6 Oph and LDN 1780",
+                "pub_year": "2011",
+                "citation": "Monthly Notices of the Royal Astronomical Society 414 (3), 2424-2435, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370191475790344685",
+            "cites_id": [
+                "16370191475790344685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiband galaxy morphologies for clash: a convolutional neural network transferred from candels",
+                "pub_year": "2019",
+                "citation": "Publications of the Astronomical Society of the Pacific 131 (1004), 108002, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14726434422889803054",
+            "cites_id": [
+                "14726434422889803054"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The morphologies of massive galaxies from z\u223c 3\u2014witnessing the two channels of bulge growth",
+                "pub_year": "2015",
+                "citation": "The Astrophysical Journal 809 (1), 95, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16070388484135822423",
+            "cites_id": [
+                "16070388484135822423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The high cadence transit survey (HiTS): Compilation and characterization of light-curve catalogs",
+                "pub_year": "2018",
+                "citation": "The Astronomical Journal 156 (5), 186, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2503031595964463323",
+            "cites_id": [
+                "2503031595964463323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secretome from human mesenchymal stem cells-derived endothelial cells promotes wound healing in a type-2 diabetes mouse model",
+                "pub_year": "2022",
+                "citation": "International journal of molecular sciences 23 (2), 941, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4273134760536784456",
+            "cites_id": [
+                "4273134760536784456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supernovae detection by using convolutional neural networks",
+                "pub_year": "2016",
+                "citation": "2016 International Joint Conference on Neural Networks (IJCNN), 251-258, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11276840332529449939",
+            "cites_id": [
+                "11276840332529449939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced rotational invariant convolutional neural network for supernovae detection",
+                "pub_year": "2018",
+                "citation": "2018 International Joint Conference on Neural Networks (IJCNN), 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:mB3voiENLucC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12074454149890256518",
+            "cites_id": [
+                "12074454149890256518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asteroids\u2019 size distribution and colors from hits",
+                "pub_year": "2020",
+                "citation": "The Astronomical Journal 159 (4), 148, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18321983690943460289",
+            "cites_id": [
+                "18321983690943460289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic labeling bias: De-biasing where everyone is wrong",
+                "pub_year": "2014",
+                "citation": "2014 22nd International Conference on Pattern Recognition, 4417-4422, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1960370773512805333",
+            "cites_id": [
+                "1960370773512805333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian image reconstruction based on Voronoi diagrams",
+                "pub_year": "2008",
+                "citation": "The Astrophysical Journal 672 (2), 1272, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3110014288808423371",
+            "cites_id": [
+                "3110014288808423371"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systematic labeling bias in galaxy morphologies",
+                "pub_year": "2018",
+                "citation": "The Astronomical Journal 156 (6), 284, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:r0BpntZqJG4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1768785726875681301",
+            "cites_id": [
+                "1768785726875681301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ASTROMER-A transformer-based embedding for the representation of light curves",
+                "pub_year": "2023",
+                "citation": "Astronomy & Astrophysics 670, A54, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:tOudhMTPpwUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16480083392087322831",
+            "cites_id": [
+                "16480083392087322831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of phased recurrent units in the classification of multiple catalogues of astronomical light curves",
+                "pub_year": "2021",
+                "citation": "Monthly Notices of the Royal Astronomical Society 505 (4), 6069-6084, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2119253969885113178",
+            "cites_id": [
+                "2119253969885113178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precision silviculture: Use of UAVs and comparison of deep learning models for the identification and segmentation of tree crowns in pine crops",
+                "pub_year": "2022",
+                "citation": "International Journal of Digital Earth 15 (1), 2223-2238, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3815767855065938589",
+            "cites_id": [
+                "3815767855065938589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delight: Deep learning identification of galaxy hosts of transients using multiresolution images",
+                "pub_year": "2022",
+                "citation": "The Astronomical Journal 164 (5), 195, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:sSrBHYA8nusC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9338732216664896656",
+            "cites_id": [
+                "9338732216664896656"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ConDA: Simplifying Semi-supervised Domain Adaptation by Learning Consistent and Contrastive Feature Representations",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2204.01558, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:SP6oXDckpogC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4547107973927761779",
+            "cites_id": [
+                "4547107973927761779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asteroids in the high cadence transient survey",
+                "pub_year": "2018",
+                "citation": "The Astronomical Journal 155 (3), 135, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:-f6ydRqryjwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6363016966865080584",
+            "cites_id": [
+                "6363016966865080584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HiTS real-time supernova detections",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7149, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=235590294974003733",
+            "cites_id": [
+                "235590294974003733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of tumor-infiltrating T-cell transcriptomes reveal a unique genetic signature across different types of cancer",
+                "pub_year": "2022",
+                "citation": "International Journal of Molecular Sciences 23 (19), 11065, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:LPZeul_q3PIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12176825428141193072",
+            "cites_id": [
+                "12176825428141193072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Data Observatory, a vehicle to foster digital economy using natural advantages in astronomy in Chile",
+                "pub_year": "2018",
+                "citation": "Proceedings of the International Astronomical Union 14 (A30), 591-593, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:M05iB0D1s5AC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17691242965327307742",
+            "cites_id": [
+                "17691242965327307742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward fractal development of data processing-intensive artificial intelligence systems",
+                "pub_year": "2022",
+                "citation": "IEEE Software 39 (6), 28-34, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3290469517628374452",
+            "cites_id": [
+                "3290469517628374452"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical spectrosopy of HiTS supernovae",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7335, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17702451897679778400",
+            "cites_id": [
+                "17702451897679778400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical spectrosopy of SNHiTS15ad (Gabriela)",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7164, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:_xSYboBqXhAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12520519118645668482",
+            "cites_id": [
+                "12520519118645668482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical spectrosopy of SNHiTS15D (Daniela) and SNHiTS15P (Rosemary)",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7162, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12028340159108109790",
+            "cites_id": [
+                "12028340159108109790"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale Stamps for Real-time Classification of Alert Streams",
+                "pub_year": "2023",
+                "citation": "The Astrophysical Journal Letters 952 (2), L43, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:J-pR_7NvFogC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11178846534764186283",
+            "cites_id": [
+                "11178846534764186283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Persistent and occasional: Searching for the variable population of the ZTF/4MOST sky using ZTF Data Release 11",
+                "pub_year": "2023",
+                "citation": "Astronomy & Astrophysics 675, A195, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:1qzjygNMrQYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10708774485634281310",
+            "cites_id": [
+                "10708774485634281310"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALeRCE/ZTF Transient Discovery Report for 2023-05-27",
+                "pub_year": "2023",
+                "citation": "Transient Name Server Discovery Report 2023, 1, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131104426728415461",
+            "cites_id": [
+                "6131104426728415461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Managing the root causes of \u201cinternal api hell\u201d: An experience report",
+                "pub_year": "2022",
+                "citation": "International Conference on Product-Focused Software Process Improvement, 21-36, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:D_sINldO8mEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11921295139923285478",
+            "cites_id": [
+                "11921295139923285478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Amortized variational inference for type ia supernova light curves",
+                "pub_year": "2021",
+                "citation": "Machine Learning and the Physical Sciences Workshop, 35th Conference on \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:eflP2zaiRacC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10367548777990557954",
+            "cites_id": [
+                "10367548777990557954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photometric follow-up observations of ZTF20aaelulu (AT2020oi) with PROMPT3",
+                "pub_year": "2020",
+                "citation": "The Astronomer's Telegram 13396, 1, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151627220094062464",
+            "cites_id": [
+                "151627220094062464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adversarial variational domain adaptation",
+                "pub_year": "2019",
+                "citation": "CoRR, abs/1909.11651, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:GnPB-g6toBAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9295921428212887695",
+            "cites_id": [
+                "9295921428212887695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical spectra of SNHiTS15al, SNHiTS15be, SNHiTS15bs and SNHiTS15by",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7291, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1614512926144148344",
+            "cites_id": [
+                "1614512926144148344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical spectroscopy of SNHiTS15aw",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7246, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1842141516600834593",
+            "cites_id": [
+                "1842141516600834593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alert Classification for the ALeRCE Broker System: The Anomaly Detector",
+                "pub_year": "2023",
+                "citation": "The Astronomical Journal 166 (4), 151, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Mojj43d5GZwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17768336663657258244",
+            "cites_id": [
+                "17768336663657258244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A phylogenetic analysis of galaxies in the Coma Cluster and the field: a new approach to galaxy evolution",
+                "pub_year": "2020",
+                "citation": "Monthly Notices of the Royal Astronomical Society 499 (4), 5607-5622, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:u_35RYKgDlwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8323405696739177260",
+            "cites_id": [
+                "8323405696739177260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "alercebroker/lc_classifier: Release 1.0. 1",
+                "pub_year": "2020",
+                "citation": "Zenodo, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:abG-DnoFyZgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18368576939381933160",
+            "cites_id": [
+                "18368576939381933160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matching Embeddings for Domain Adaptation",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1909.11651, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11501448748994450305",
+            "cites_id": [
+                "11501448748994450305"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matching embeddings for semi-supervised domain adaptation",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5680035157374439097",
+            "cites_id": [
+                "5680035157374439097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphology and Interaction of Galaxies using Deep Learning",
+                "pub_year": "2016",
+                "citation": "Proceedings of the International Astronomical Union 12 (S325), 205-208, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16811245495466377957",
+            "cites_id": [
+                "16811245495466377957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mitigating bias in deep learning: Training unbiased models on biased data for the morphological classification of galaxies",
+                "pub_year": "2024",
+                "citation": "Monthly Notices of the Royal Astronomical Society, stae1088, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALeRCE/ZTF Transient Discovery Report for 2024-02-01",
+                "pub_year": "2024",
+                "citation": "Transient Name Server Discovery Report 2024, 1, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALeRCE/ZTF Transient Discovery Report for 2024-01-06",
+                "pub_year": "2024",
+                "citation": "Transient Name Server Discovery Report 2024, 1, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Two-Phase Approach to Forest Harvesting Optimization Using Cable Logging",
+                "pub_year": "2023",
+                "citation": "Forests 14 (11), 2133, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Domain Adaptation via Minimax Entropy for Real/Bogus Classification of Astronomical Alerts",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.07538, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positional Encodings for Light Curve Transformers: Playing with Positions and Attention",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.06404, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:olpn-zPbct0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.05011, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALeRCE/ZTF Transient Discovery Report for 2023-05-24",
+                "pub_year": "2023",
+                "citation": "Transient Name Server Discovery Report 2023, 1, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VizieR Online Data Catalog: ZTF DR11 classification in ZTF/4MOST sky (Sanchez-Saez+, 2023)",
+                "pub_year": "2023",
+                "citation": "VizieR Online Data Catalog, J/A+ A/675/A195, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Two-Phase Approach to Forest Harvesting Optimization Using Cable Logging. Forests 2023, 14, 2133",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantifying massively parallel microbial growth with spatially mediated interactions",
+                "pub_year": "2023",
+                "citation": "bioRxiv, 2023.10. 10.561814, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A debiasing framework for deep learning applied to the morphological classification of galaxies.",
+                "pub_year": "2023",
+                "citation": "Universidad de Concepci\u00f3n., 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALeRCE/ZTF Transient Discovery Report for 2022-10-08",
+                "pub_year": "2022",
+                "citation": "Transient Name Server Discovery Report 2022, 1, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DELIGHT: Identify host galaxies of transient candidates",
+                "pub_year": "2022",
+                "citation": "Astrophysics Source Code Library, ascl: 2208.012, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ASTROMER: Building light curves embeddings using transfomers",
+                "pub_year": "2022",
+                "citation": "Astrophysics Source Code Library, ascl: 2205.020, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptaci\u00f3n de dominio profunda sobre im\u00e1genes astron\u00f3micas.",
+                "pub_year": "2022",
+                "citation": "Universidad de Concepci\u00f3n., 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bonus computing: towards free-of-charge metacomputing in the public cloud",
+                "pub_year": "2022",
+                "citation": "Computing 104 (1), 123-147, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning within the ALeRCE System: Past, Present and Future",
+                "pub_year": "2021",
+                "citation": "American Astronomical Society Meeting Abstracts 53 (6), 203.06, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VizieR Online Data Catalog: The High Cadence Transit Survey (HiTS)(Martinez-Palomera+, 2018)",
+                "pub_year": "2019",
+                "citation": "VizieR Online Data Catalog, J/AJ/156/186, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The delay of shock breakout due to circumstellar material evident in most type II supernovae (vol 2, pg 808, 2018)",
+                "pub_year": "2019",
+                "citation": "NATURE ASTRONOMY 3 (1), 107-107, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Labeling Bias in Galaxy Morphologies",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1811.03577, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The delay of shock breakout due to circumstellar material seen in most Type II Supernovae",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1809.06379, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiband galaxy morphologies for CLASH: a convolutional neural network transferred from CANDELS",
+                "pub_year": "2018",
+                "citation": "https://arxiv.org/abs/1810.07857, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The morphologies of massive galaxies from z~ 3-Witnessing the 2 channels of bulge growth",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1506.03084, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HiTS additional supernova candidates",
+                "pub_year": "2015",
+                "citation": "The Astronomer's Telegram 7290, 1, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction and classification of objects from astronomical images in the presence of labeling bias",
+                "pub_year": "2015",
+                "citation": "Universidad de Chile, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "5 more SN candidates discovered with DECam",
+                "pub_year": "2014",
+                "citation": "The Astronomer's Telegram 5956, 1, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metodolog\u00eda para la delimitaci\u00f3n y sectorizaci\u00f3n de acu\u00edferos a nivel nacional.",
+                "pub_year": "2014",
+                "citation": "DGA. Divisi\u00f3n de Estudios y Planificaci\u00f3n, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "De-\u2010biasing\" Gold Standard\" Classification for Galaxy Morphologies",
+                "pub_year": "2014",
+                "citation": "School of Computer Science, Carnegie Mellon University, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n hidrogeol\u00f3gica cuenca estero Los Puercos, Regi\u00f3n del Maule.",
+                "pub_year": "2013",
+                "citation": "DGA. Divisi\u00f3n de Estudios y Planificaci\u00f3n, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigaci\u00f3n recarga artificial de acu\u00edferos cuencas del r\u00edo Choapa y Quilimar\u00ed, Regi\u00f3n de Coquimbo.",
+                "pub_year": "2012",
+                "citation": "DGA. Divisi\u00f3n de Estudios y Planificaci\u00f3n, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated Detection of Objects Based on S\u00e9rsic Profiles",
+                "pub_year": "2011",
+                "citation": "American Astronomical Society Meeting Abstracts# 217 217, 344.13, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated Detection and Deblending of Objects Based on S\u00e9rsic Profiles",
+                "pub_year": "2010",
+                "citation": "American Astronomical Society Meeting Abstracts# 216 216, 415.02, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian Image Reconstruction Based on Voronoi Diagrams",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaciones de demanda de agua y proyecciones futuras zona II: Regiones V a XII y Regi\u00f3n Metropolitana.",
+                "pub_year": "2007",
+                "citation": "DGA. Divisi\u00f3n de Estudios y Planificaci\u00f3n, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological analysis of the cm-wave continuum in the dark cloud LDN1622",
+                "pub_year": "2005",
+                "citation": "arXiv preprint astro-ph/0511283, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S\u0131ntesis de Imagenes Interferometricas Basada en Diagramas de Voronoi",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning classification of single cell RNA-seq across different types of cancer",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological evidence for very small grain or molecular continuum emission at 31 GHz in the dark cloud LDN 1622",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "sQZJ9BMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 16,
+        "not_available": 0
+    }
+}

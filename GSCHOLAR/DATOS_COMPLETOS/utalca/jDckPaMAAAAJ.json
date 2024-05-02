@@ -1,0 +1,253 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jDckPaMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jos\u00e9 Luis Vel\u00e1zquez-Libera",
+    "affiliation": "Centro de Bioinform\u00e1tica y Simulaci\u00f3n Molecular (CBSM), Universidad de Talca, Chile",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Theoretical Chemistry",
+        "Computational Chemistry",
+        "Chemoinformatics",
+        "Computer Science"
+    ],
+    "email_domain": "@utalca.cl",
+    "citedby": 201,
+    "citedby5y": 201,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 28,
+        "2021": 48,
+        "2022": 45,
+        "2023": 54,
+        "2024": 19
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iRc-CqIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Caballero",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YJzlGLQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "I\u00f1aki Tu\u00f1\u00f3n",
+            "affiliation": "Universidad de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "93OONH8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruiz-Pernia, J. Javier",
+            "affiliation": "Universitat de Valencia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LigRMSD: A web server for automatic structure matching and RMSD calculations among identical and similar compounds in protein-ligand docking",
+                "pub_year": "2020",
+                "citation": "Bioinformatics 36 (9), 2912-2914, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217375764940824099",
+            "cites_id": [
+                "8217375764940824099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Docking, interaction fingerprint, and three-dimensional quantitative structure\u2013activity relationship (3D-QSAR) of Sigma1 receptor ligands, analogs of the neuroprotective agent \u2026",
+                "pub_year": "2019",
+                "citation": "Frontiers in Chemistry 7, 496, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1105308916321741795",
+            "cites_id": [
+                "1105308916321741795"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of 2D autocorrelation descriptors and 2D Monte Carlo descriptors as a tool to build up predictive models for acetylcholinesterase (AChE) inhibitory activity",
+                "pub_year": "2019",
+                "citation": "Chemometrics and Intelligent Laboratory Systems 184, 14-21, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11355359185093526920",
+            "cites_id": [
+                "11355359185093526920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural Requirements of N-alpha-Mercaptoacetyl Dipeptide (NAMdP) Inhibitors of Pseudomonas Aeruginosa Virulence Factor LasB: 3D-QSAR, Molecular \u2026",
+                "pub_year": "2019",
+                "citation": "International Journal of Molecular Sciences 20 (24), 6133, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17885095588056574745",
+            "cites_id": [
+                "17885095588056574745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Nature of the Enzyme-Substrate Complex and the Reaction Mechanism in Human Arginase I. A Combined Molecular Dynamics and QM/MM Study",
+                "pub_year": "2020",
+                "citation": "ACS Catalysis, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9075701799997181118",
+            "cites_id": [
+                "9075701799997181118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study of the cis\u2013trans isomerization preference of N-alkylated peptides containing phosphorus in the side chain and backbone",
+                "pub_year": "2019",
+                "citation": "New Journal of Chemistry 43 (32), 12804-12813, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12219357208327719154",
+            "cites_id": [
+                "12219357208327719154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Testing affordable strategies for the computational study of reactivity in cysteine proteases: The case of SARS-CoV-2 3CL protease inhibition",
+                "pub_year": "2022",
+                "citation": "Journal of Chemical Theory and Computation 18 (6), 4005-4013, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14043019601119611622",
+            "cites_id": [
+                "14043019601119611622"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into the structural requirements of 2 (S)-amino-6-boronohexanoic acid derivatives as arginase I inhibitors: 3D-QSAR, docking, and interaction fingerprint studies",
+                "pub_year": "2018",
+                "citation": "International Journal of Molecular Sciences 19 (10), 2956, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3968120078595721091",
+            "cites_id": [
+                "3968120078595721091"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis of DiN-substituted glycyl-phenylalanine derivatives by using Ugi four component reaction and their potential as acetylcholinesterase inhibitors",
+                "pub_year": "2019",
+                "citation": "Molecules 24 (1), 189, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6219152464682849738",
+            "cites_id": [
+                "6219152464682849738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational study of the binding orientation and affinity of noncovalent inhibitors of the papain-like protease (PLpro) from SARS-CoV-1 considering the protein flexibility by \u2026",
+                "pub_year": "2023",
+                "citation": "Frontiers in Molecular Biosciences 10, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10167951206545530811",
+            "cites_id": [
+                "10167951206545530811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into the Structural and Energetic Descriptions of Ubiquitin Specific Protease 7 (USP7) Catalytic Mechanisms by Hybrid QM/MM Simulations",
+                "pub_year": "2023",
+                "citation": "ChemCatChem, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de patrones estructurales que participan en la funci\u00f3n de la enzima PLpro de SARS-CoV y SARS-CoV2",
+                "pub_year": "2022",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Bioinform\u00e1tica., 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDckPaMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 2
+    }
+}

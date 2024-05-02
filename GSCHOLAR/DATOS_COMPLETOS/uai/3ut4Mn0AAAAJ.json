@@ -1,0 +1,1602 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3ut4Mn0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto Cominetti",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3ut4Mn0AAAAJ&citpid=2",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez (Chile)",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Convex Analysis",
+        "Optimization",
+        "Game Theory",
+        "Transportation"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 4151,
+    "citedby5y": 1365,
+    "hindex": 32,
+    "hindex5y": 20,
+    "i10index": 60,
+    "i10index5y": 37,
+    "cites_per_year": {
+        "1992": 21,
+        "1993": 26,
+        "1994": 38,
+        "1995": 35,
+        "1996": 43,
+        "1997": 48,
+        "1998": 69,
+        "1999": 66,
+        "2000": 84,
+        "2001": 46,
+        "2002": 72,
+        "2003": 65,
+        "2004": 64,
+        "2005": 100,
+        "2006": 111,
+        "2007": 92,
+        "2008": 97,
+        "2009": 127,
+        "2010": 111,
+        "2011": 126,
+        "2012": 142,
+        "2013": 175,
+        "2014": 159,
+        "2015": 210,
+        "2016": 179,
+        "2017": 187,
+        "2018": 231,
+        "2019": 197,
+        "2020": 245,
+        "2021": 222,
+        "2022": 288,
+        "2023": 273,
+        "2024": 126
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metric regularity, tangent sets, and second-order optimality conditions",
+                "pub_year": "1990",
+                "citation": "Applied mathematics & optimization 21 (1), 265-287, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 341,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8147223203424674686",
+            "cites_id": [
+                "8147223203424674686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A frequency-based assignment model for congested transit networks with strict capacity constraints: characterization and computation of equilibria",
+                "pub_year": "2006",
+                "citation": "Transportation research part B: Methodological 40 (6), 437-459, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 321,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6172387917518416493,17830687064323717587",
+            "cites_id": [
+                "6172387917518416493",
+                "17830687064323717587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Common-lines and passenger assignment in congested transit networks",
+                "pub_year": "2001",
+                "citation": "Transportation science 35 (3), 250-267, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 287,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14563407945830439785",
+            "cites_id": [
+                "14563407945830439785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of oligopolistic competition in networks",
+                "pub_year": "2009",
+                "citation": "Operations Research 57 (6), 1421-1437, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 236,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15263698725026326038,3387798369065970631,16943656473801150207",
+            "cites_id": [
+                "15263698725026326038",
+                "3387798369065970631",
+                "16943656473801150207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second order optimality conditions based on parabolic second order tangent sets",
+                "pub_year": "1999",
+                "citation": "SIAM Journal on Optimization 9 (2), 466-492, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 214,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16181628813311645564,13942964427971765930",
+            "cites_id": [
+                "16181628813311645564",
+                "13942964427971765930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A generalized second-order derivative in nonsmooth optimization",
+                "pub_year": "1990",
+                "citation": "SIAM Journal on Control and Optimization 28 (4), 789-809, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 182,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7790946422561276843",
+            "cites_id": [
+                "7790946422561276843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic analysis for penalty and barrier methods in convex and linear programming",
+                "pub_year": "1997",
+                "citation": "Mathematics of Operations Research 22 (1), 43-62, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 175,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13051243871895873186",
+            "cites_id": [
+                "13051243871895873186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A payoff-based learning procedure and its application to traffic games",
+                "pub_year": "2010",
+                "citation": "Games and Economic Behavior 70 (1), 71-83, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 166,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5538154813530622294,6843461431096250063",
+            "cites_id": [
+                "5538154813530622294",
+                "6843461431096250063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamical approach to convex minimization coupling approximation with the steepest descent method",
+                "pub_year": "1996",
+                "citation": "Journal of Differential Equations 128 (2), 519-540, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 165,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10347501213414326744",
+            "cites_id": [
+                "10347501213414326744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic analysis of the exponential penalty trajectory in linear programming",
+                "pub_year": "1994",
+                "citation": "Mathematical Programming 67, 169-187, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 153,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2629257439240864994",
+            "cites_id": [
+                "2629257439240864994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Markovian traffic equilibrium",
+                "pub_year": "2008",
+                "citation": "Mathematical Programming 111 (1), 33-56, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 143,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7053100531642316866",
+            "cites_id": [
+                "7053100531642316866"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity analysis of optimization problems under second order regular constraints",
+                "pub_year": "1998",
+                "citation": "Mathematics of Operations Research 23 (4), 806-831, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 83,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9602456688293420102",
+            "cites_id": [
+                "9602456688293420102"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First and second order sensitivity analysis of nonlinear programs under directional constraint qualification conditions",
+                "pub_year": "1990",
+                "citation": "Optimization 21 (3), 351-363, 1990"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9622556045029278572",
+            "cites_id": [
+                "9622556045029278572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stable exponential-penalty algorithm with superlinear convergence",
+                "pub_year": "1994",
+                "citation": "Journal of Optimization Theory and Applications 83 (2), 285-309, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7930127922876121272",
+            "cites_id": [
+                "7930127922876121272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convex functions with unbounded level sets and applications to duality theory",
+                "pub_year": "1993",
+                "citation": "SIAM Journal on Optimization 3 (4), 669-687, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14959251014235727829",
+            "cites_id": [
+                "14959251014235727829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrated behavioral model of the land-use and transport systems with network congestion and location externalities",
+                "pub_year": "2010",
+                "citation": "Transportation Research Part B: Methodological 44 (4), 584-596, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:aqlVkmm33-oC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4291364868035597308,10375007286191163886",
+            "cites_id": [
+                "4291364868035597308",
+                "10375007286191163886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the rate of convergence of Krasnosel\u2019ski\u012d-Mann iterations and their connection with sums of Bernoullis",
+                "pub_year": "2014",
+                "citation": "Israel Journal of Mathematics 199, 757-772, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3855312165348824695",
+            "cites_id": [
+                "3855312165348824695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling the proximal point algorithm with approximation methods",
+                "pub_year": "1997",
+                "citation": "Journal of Optimization Theory and Applications 95, 581-600, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16224777376024400649",
+            "cites_id": [
+                "16224777376024400649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strong asymptotic convergence of evolution equations governed by maximal monotone operators with Tikhonov regularization",
+                "pub_year": "2008",
+                "citation": "Journal of Differential Equations 245 (12), 3753-3763, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16430600378686691618",
+            "cites_id": [
+                "16430600378686691618"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On pseudo-differentiability",
+                "pub_year": "1991",
+                "citation": "Transactions of the American Mathematical Society 324 (2), 843-865, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6197393617408910806",
+            "cites_id": [
+                "6197393617408910806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic equilibria in fluid queueing networks",
+                "pub_year": "2015",
+                "citation": "Operations Research 63 (1), 21-34, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2058992461441957854",
+            "cites_id": [
+                "2058992461441957854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modern optimization modelling techniques",
+                "pub_year": "2012",
+                "citation": "Springer Science & Business Media, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8060636266282087090,9636649338875952090,12993326880077980940,10814275402171912850,16207464287629850114,13010706826091759454,11530431686829452892,9886241953566660308,9261082908840627397,8957131515139649794,5137504215852168296,1423608669788579127,415436042797561900",
+            "cites_id": [
+                "8060636266282087090",
+                "9636649338875952090",
+                "12993326880077980940",
+                "10814275402171912850",
+                "16207464287629850114",
+                "13010706826091759454",
+                "11530431686829452892",
+                "9886241953566660308",
+                "9261082908840627397",
+                "8957131515139649794",
+                "5137504215852168296",
+                "1423608669788579127",
+                "415436042797561900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbed optimization in Banach spaces I: A general theory based on a weak directional constraint qualification",
+                "pub_year": "1996",
+                "citation": "SIAM Journal on Control and Optimization 34 (4), 1151-1171, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16713945610352013498",
+            "cites_id": [
+                "16713945610352013498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tangent sets to unilateral convex sets",
+                "pub_year": "1995",
+                "citation": "Comptes rendus de l'Acad\u00e9mie des sciences. S\u00e9rie 1, Math\u00e9matique 321 (12 \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6734060988154740002",
+            "cites_id": [
+                "6734060988154740002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term behavior of dynamic equilibria in fluid queuing networks",
+                "pub_year": "2022",
+                "citation": "Operations Research 70 (1), 516-526, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:u9iWguZQMMsC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4159516292782553097",
+            "cites_id": [
+                "4159516292782553097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrated behavioral model of land use and transport system: a hyper-network equilibrium approach",
+                "pub_year": "2008",
+                "citation": "Networks and Spatial Economics 8, 201-224, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10989083159818818529",
+            "cites_id": [
+                "10989083159818818529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tangent sets of order one and two to the positive cones of some functional spaces",
+                "pub_year": "1997",
+                "citation": "Applied Mathematics and Optimization 36, 291-312, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548114660287041343",
+            "cites_id": [
+                "13548114660287041343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of multifunction differentiability with applications in mathematical programming",
+                "pub_year": "1991",
+                "citation": "Mathematics of Operations Research 16 (2), 240-258, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7642944742727741406",
+            "cites_id": [
+                "7642944742727741406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence and uniqueness of equilibria for flows over time",
+                "pub_year": "2011",
+                "citation": "International Colloquium on Automata, Languages, and Programming, 552-563, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:4DMP91E08xMC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12656130125063182541",
+            "cites_id": [
+                "12656130125063182541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Newton\u2019s method for the continuous quadratic knapsack problem",
+                "pub_year": "2014",
+                "citation": "Mathematical Programming Computation 6 (2), 151-169, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16252236844470282327",
+            "cites_id": [
+                "16252236844470282327"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "There is no variational characterization of the cycles in the method of periodic projections",
+                "pub_year": "2012",
+                "citation": "Journal of Functional Analysis 262 (1), 400-408, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18257636554549218007",
+            "cites_id": [
+                "18257636554549218007"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When is selfish routing bad? The price of anarchy in light and heavy traffic",
+                "pub_year": "2020",
+                "citation": "Operations Research 68 (2), 411-434, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:geHnlv5EZngC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=252690083909138639",
+            "cites_id": [
+                "252690083909138639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Additive consistency of risk measures and its application to risk-averse routing in networks",
+                "pub_year": "2016",
+                "citation": "Mathematics of Operations Research 41 (4), 1510-1521, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16917159124017192609",
+            "cites_id": [
+                "16917159124017192609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling general penalty schemes for convex programming with the steepest descent and the proximal point algorithm",
+                "pub_year": "2002",
+                "citation": "SIAM Journal on Optimization 13 (3), 745-765, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4196827140142232284",
+            "cites_id": [
+                "4196827140142232284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A convergence result for nonautonomous subgradient evolution equations and its application to the steepest descent exponential penalty trajectory in linear programming",
+                "pub_year": "2001",
+                "citation": "Journal of Functional Analysis 187 (2), 263-273, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:8k81kl-MbHgC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16197890558271151402",
+            "cites_id": [
+                "16197890558271151402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The asymptotic behavior of the price of anarchy",
+                "pub_year": "2017",
+                "citation": "Web and Internet Economics: 13th International Conference, WINE 2017 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15705050517842244781",
+            "cites_id": [
+                "15705050517842244781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the Chilean college admissions system",
+                "pub_year": "2021",
+                "citation": "Operations Research 69 (4), 1186-1205, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1881533218848475601",
+            "cites_id": [
+                "1881533218848475601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primal and dual convergence of a proximal point exponential penalty method for linear programming",
+                "pub_year": "2002",
+                "citation": "Mathematical programming 93, 87-96, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14685028811597723643",
+            "cites_id": [
+                "14685028811597723643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the price of anarchy of highly congested nonatomic network games",
+                "pub_year": "2016",
+                "citation": "Algorithmic Game Theory: 9th International Symposium, SAGT 2016, Liverpool \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:abG-DnoFyZgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6798903571321157659",
+            "cites_id": [
+                "6798903571321157659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The price of anarchy in routing games as a function of the demand",
+                "pub_year": "2024",
+                "citation": "Mathematical Programming 203 (1), 531-558, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:WA5NYHcadZ8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=625347800284721939",
+            "cites_id": [
+                "625347800284721939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rates of convergence for inexact Krasnosel\u2019skii\u2013Mann iterations in Banach spaces",
+                "pub_year": "2019",
+                "citation": "Mathematical Programming 175, 241-262, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:UxriW0iASnsC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12284621419856371261",
+            "cites_id": [
+                "12284621419856371261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sharp convergence rates for averaged nonexpansive maps",
+                "pub_year": "2018",
+                "citation": "Israel Journal of Mathematics 227 (1), 163-188, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:xtRiw3GOFMkC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=450814779469358128",
+            "cites_id": [
+                "450814779469358128"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "College admissions problem with ties and flexible quotas",
+                "pub_year": "2014",
+                "citation": "Available at SSRN 2478998, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:P5F9QuxV20EC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14587948377468695100",
+            "cites_id": [
+                "14587948377468695100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lp approximation of variational problems in L1 and L\u221e",
+                "pub_year": "1999",
+                "citation": "Nonlinear Analysis: Theory, Methods & Applications 36 (3), 373-399, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:t6usbXjVLHcC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16399477683853030073",
+            "cites_id": [
+                "16399477683853030073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear averages and convergence of penalty trajectories in convex programming",
+                "pub_year": "1999",
+                "citation": "Ill-posed Variational Problems and Regularization Techniques: Proceedings of \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6593646343059129263",
+            "cites_id": [
+                "6593646343059129263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Price of anarchy in stochastic atomic congestion games with affine costs",
+                "pub_year": "2019",
+                "citation": "Proceedings of the 2019 ACM Conference on Economics and Computation, 579-580, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:HE397vMXCloC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=788310238204060365",
+            "cites_id": [
+                "788310238204060365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbed optimization in Banach spaces II: A theory based on a strong directional constraint qualification",
+                "pub_year": "1996",
+                "citation": "SIAM journal on control and optimization 34 (4), 1172-1189, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4629585619182292552",
+            "cites_id": [
+                "4629585619182292552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sharp uniform bound for the distribution of sums of Bernoulli trials",
+                "pub_year": "2016",
+                "citation": "Combinatorics, Probability and Computing 25 (3), 352-361, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1667468406652125781",
+            "cites_id": [
+                "1667468406652125781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network congestion control with Markovian multipath routing",
+                "pub_year": "2014",
+                "citation": "Mathematical Programming 147 (1), 231-251, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:blknAaTinKkC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2593099966709800798",
+            "cites_id": [
+                "2593099966709800798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic convergence of optimal policies for resource management with application to harvesting of multiple species forest",
+                "pub_year": "2009",
+                "citation": "Mathematics of Operations Research 34 (3), 576-593, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11107942125362261284",
+            "cites_id": [
+                "11107942125362261284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbed optimization in Banach spaces III: Semi-infinite optimization",
+                "pub_year": "1996",
+                "citation": "SIAM journal on control and optimization 34 (5), 1555-1567, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5834780081543400315",
+            "cites_id": [
+                "5834780081543400315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic convergence of the steepest descent method for the exponential penalty in linear programming",
+                "pub_year": "1995",
+                "citation": "J. Convex Anal 2 (1-2), 145-152, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12749754804869436137",
+            "cites_id": [
+                "12749754804869436137"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Price of anarchy for highly congested routing games in parallel networks",
+                "pub_year": "2019",
+                "citation": "Theory of Computing Systems 63, 90-113, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:08ZZubdj9fEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3772862285613583243",
+            "cites_id": [
+                "3772862285613583243"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equilibrium routing under uncertainty",
+                "pub_year": "2015",
+                "citation": "Mathematical Programming 151, 117-151, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:a0OBvERweLwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1688711298312527162",
+            "cites_id": [
+                "1688711298312527162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal error bounds for non-expansive fixed-point iterations in normed spaces",
+                "pub_year": "2023",
+                "citation": "Mathematical Programming 199 (1), 343-374, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:W5xh706n7nkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11695389266153048002",
+            "cites_id": [
+                "11695389266153048002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sur une d\u00e9riv\u00e9e du second ordre en analyse non diff\u00e9rentiable",
+                "pub_year": "1986",
+                "citation": "CR Acad. Sci. Paris 303 (S\u00e9rie I), 861-864, 1986"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16921198423449120680",
+            "cites_id": [
+                "16921198423449120680"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximation and convergence of large atomic congestion games",
+                "pub_year": "2023",
+                "citation": "Mathematics of Operations Research 48 (2), 784-811, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:NJ774b8OgUMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14101115065442887064",
+            "cites_id": [
+                "14101115065442887064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steepest descent evolution equations: asymptotic behavior of solutions and rate of convergence",
+                "pub_year": "1999",
+                "citation": "Transactions of the American Mathematical Society 351 (12), 4847-4860, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9544917058851562327",
+            "cites_id": [
+                "9544917058851562327"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some remarks on convex duality in normed spaces with and without compactness",
+                "pub_year": "1994",
+                "citation": "Control Cybern 23, 123-138, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:ZHo1McVdvXMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12870137621355458079",
+            "cites_id": [
+                "12870137621355458079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal selection of customers for a last-minute offer",
+                "pub_year": "2010",
+                "citation": "Operations research 58 (4-part-1), 878-888, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:HDshCWvjkbEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6173114594210658991",
+            "cites_id": [
+                "6173114594210658991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of large atomic congestion games",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2001.02797, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1903443876165158269",
+            "cites_id": [
+                "1903443876165158269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the asymptotic behavior of the price of anarchy: Is selfish routing bad in highly congested networks",
+                "pub_year": "2017",
+                "citation": "ArXiv e-prints, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10923427420825220923",
+            "cites_id": [
+                "10923427420825220923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic behavior of compositions of under-relaxed nonexpansive operators",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1304.7078, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:JV2RwH3_ST0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16697649985098679567",
+            "cites_id": [
+                "16697649985098679567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadratic rate of convergence for a primal-dual exponential penalty algorithm",
+                "pub_year": "1997",
+                "citation": "Optimization 39 (1), 13-32, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18039378306901370626",
+            "cites_id": [
+                "18039378306901370626"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The buck-passing game",
+                "pub_year": "2022",
+                "citation": "Mathematics of Operations Research 47 (3), 1731-1756, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13073962355076355673",
+            "cites_id": [
+                "13073962355076355673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field methodology for reconstruction of a Pinus radiata log",
+                "pub_year": "2002",
+                "citation": "New Zealand Journal of Forestry Science 32 (3), 309-321, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Tiz5es2fbqcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8786037471246344914",
+            "cites_id": [
+                "8786037471246344914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A useful characterization of Clarke derivatives",
+                "pub_year": "1988",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:zA6iFVUQeVQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10513917935626517735",
+            "cites_id": [
+                "10513917935626517735"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A transit network model with strict capacity constraints: Characterization and computation of equilibria",
+                "pub_year": "2003",
+                "citation": "Universit\u00e9 de Montr\u00e9al, Centre de recherche sur les transports, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:z_wVstp3MssC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16618444159758369253",
+            "cites_id": [
+                "16618444159758369253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic fixed-point iterations for nonexpansive maps: Convergence and error bounds",
+                "pub_year": "2024",
+                "citation": "SIAM Journal on Control and Optimization 62 (1), 191-219, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:35r97b3x0nAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=175065264569559840",
+            "cites_id": [
+                "175065264569559840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Universal bounds for fixed point iterations via optimal transport metrics",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2108.00300, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:dQ2og3OwTAUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7056068609530240357",
+            "cites_id": [
+                "7056068609530240357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Special Issue on Nonlinear Convex Optimization and Variational Inequalities",
+                "pub_year": "2009",
+                "citation": "Springer. Mathematical Programming 116, 1-2, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:fEOibwPWpKIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3640022591269764389",
+            "cites_id": [
+                "3640022591269764389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perturbed optimization in Banach spaces I: a general theory based on a weak directional constraint qualification",
+                "pub_year": "1993",
+                "citation": "INRIA, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:yD5IFk8b50cC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13520078471778414272",
+            "cites_id": [
+                "13520078471778414272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A counterexample to De Pierro's conjecture on the convergence of under-relaxed cyclic projections",
+                "pub_year": "2019",
+                "citation": "Optimization 68 (1), 3-12, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:vRqMK49ujn8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3738439470080007481",
+            "cites_id": [
+                "3738439470080007481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the stability of an adaptive learning dynamics in traffic games",
+                "pub_year": "2018",
+                "citation": "Journal  of Dynamics and Games 5(4), 265--282., 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:8AbLer7MMksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14746608613947067752",
+            "cites_id": [
+                "14746608613947067752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The price of anarchy in light and heavy traffic: When is selfish routing bad",
+                "pub_year": "2017",
+                "citation": "Book of Abstracts, 39, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:5awf1xo2G04C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6503866657653070627",
+            "cites_id": [
+                "6503866657653070627"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monotonicity of equilibria in nonatomic congestion games",
+                "pub_year": "2024",
+                "citation": "European Journal of Operational Research, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:XD-gHx7UXLsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10676654284230299821",
+            "cites_id": [
+                "10676654284230299821"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sufficient conditions for coincidence in \u21131 multifacility location problems",
+                "pub_year": "1997",
+                "citation": "Operations research letters 20 (4), 179-185, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8817404219130824132",
+            "cites_id": [
+                "8817404219130824132"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase transitions of the price-of-anarchy function in multi-commodity routing games",
+                "pub_year": "2024",
+                "citation": "Transportation research part B: methodological 182, 102922, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4056977493576215404",
+            "cites_id": [
+                "4056977493576215404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The interdependence between hospital choice and waiting time--with a case study in urban China",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2306.16256, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8223094873083264936",
+            "cites_id": [
+                "8223094873083264936"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ordinary and prophet planning under uncertainty in Bernoulli congestion games",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1903.03309, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16554382446714737821",
+            "cites_id": [
+                "16554382446714737821"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Price of Anarchy in Atomic Congestion Games with Stochastic Demands and Affine Costs",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1903.03309, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:PR6Y55bgFSsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4528997921753119289",
+            "cites_id": [
+                "4528997921753119289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic Expansion of Penalty-Gradient Flows in Linear Programming",
+                "pub_year": "2009",
+                "citation": "SIAM Journal on Optimization 20 (2), 728-739, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:dhFuZR0502QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14461392085569094390",
+            "cites_id": [
+                "14461392085569094390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de algoritmos de b\u00fasqueda global para la calibraci\u00f3n de asignaci\u00f3n de transporte privado",
+                "pub_year": "2022",
+                "citation": "Estudios de Transporte 23 (2), 1-15, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Universal bounds for fixed point iterations via optimal transport metrics",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:7T2F9Uy0os0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sharp convergence rates for averaged nonexpansive maps.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:uLbwQdceFCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rates of convergence for inexact Krasnosel\u2019skii\u2013Mann iterations in Banach spaces.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:UHK10RUVsp4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adapting to the uncertainties and risks of climate change: advanced methods and models for energy systems an markets.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Fu2w8maKXqMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iteration of nonexpansive maps and first-order descent methods for convex optimization.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:_Ybze24A_UAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Price of Anarchy for Highly Congested Routing Games in Parallel Networks",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large sample properties of an optimization-based matching estimator",
+                "pub_year": "2014",
+                "citation": "Univ. de Chile, Department de Econom\u00eda, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Journal of Convex Analysis",
+                "pub_year": "2012",
+                "citation": "Heldermann, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Model for the Space\u2013Time Spread of Pine Shoot Moth",
+                "pub_year": "2007",
+                "citation": "Handbook Of Operations Research In Natural Resources, 511-524, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lp approximation of variational problems in L1 and L~ - theoretical results",
+                "pub_year": "1999",
+                "citation": "Nonlinear Analysis 36 (3), 373-399, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelos matem\u00e1ticos para la polilla del brote",
+                "pub_year": "1995",
+                "citation": "[sn], 1995"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON A 2ND-ORDER DIRECTIONAL DERIVATIVE IN NON-DIFFERENTIABLE ANALYSIS",
+                "pub_year": "1986",
+                "citation": "COMPTES RENDUS DE L ACADEMIE DES SCIENCES SERIE I-MATHEMATIQUE 303 (17), 861-864, 1986"
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed-Point Iterations in Markov Decision Processes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aprendizaje y equilibrio en redes de transporte",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE HYPER-NETWORK EQUILIBRIUM APPROACH FOR THE LAND USE AND TRANSPORT INTEGRATED MODEL: THE CASE WITH EXTERNALITIES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "C\u00e1lculo Avanzado y Aplicaciones",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3ut4Mn0AAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

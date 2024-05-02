@@ -1,0 +1,1154 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rV7QC9cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Tom\u00e1s P. Barrios",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rV7QC9cAAAAJ&citpid=2",
+    "affiliation": "Associate Professor of Numerical Analysis, UCSC, Chile.",
+    "organization": 3702576657308349741,
+    "interests": [
+        "Numerical method for PDE",
+        "FEM and mixed-FEM",
+        "stabilization",
+        "DG methods",
+        "Adaptivity"
+    ],
+    "email_domain": "@ucsc.cl",
+    "homepage": "https://sites.google.com/site/tomaspbarrios/Home",
+    "citedby": 394,
+    "citedby5y": 204,
+    "hindex": 12,
+    "hindex5y": 9,
+    "i10index": 14,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2003": 3,
+        "2004": 4,
+        "2005": 3,
+        "2006": 12,
+        "2007": 9,
+        "2008": 6,
+        "2009": 11,
+        "2010": 14,
+        "2011": 17,
+        "2012": 7,
+        "2013": 17,
+        "2014": 18,
+        "2015": 16,
+        "2016": 12,
+        "2017": 23,
+        "2018": 7,
+        "2019": 29,
+        "2020": 63,
+        "2021": 33,
+        "2022": 43,
+        "2023": 27,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7FNfdxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel N. Gatica",
+            "affiliation": "Professor and Researcher, CI\u00b2MA and Departamento de Ingenieria Matematica, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bH5tML4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J. Manuel Casc\u00f3n",
+            "affiliation": "Associate Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RLB6UBMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Galina C. Garc\u00eda",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WZD9rDgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Norbert Heuer",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QKQeGscAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erwin Hernandez",
+            "affiliation": "Departamento de Matem\u00e1tica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dLnFUR4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodolfo Araya",
+            "affiliation": "Universidad de Concepcion, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KjDsV0QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Barrenechea",
+            "affiliation": "University of Strathclyde"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dFyyGToAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andreas Wachtel",
+            "affiliation": "Instituto Tecnol\u00f3gico Aut\u00f3nomo de M\u00e9xico"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A residual based a posteriori error estimator for an augmented mixed finite element method in linear elasticity",
+                "pub_year": "2006",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 40 (5), 843-869, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12879225930014826053",
+            "cites_id": [
+                "12879225930014826053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented mixed finite element method with Lagrange multipliers: A priori and a posteriori error analyses",
+                "pub_year": "2007",
+                "citation": "Journal of Computational and Applied Mathematics 200 (2), 653-676, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=556399593863208583",
+            "cites_id": [
+                "556399593863208583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented mixed finite element method for Darcy flow",
+                "pub_year": "2015",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 283 (1), 909-922, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9533052440137798259",
+            "cites_id": [
+                "9533052440137798259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented mixed finite element method for the Oseen problem: a priori and a posteriori error analyses",
+                "pub_year": "2017",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 313, 216-238, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:maZDTaKrznsC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15924878726862257133",
+            "cites_id": [
+                "15924878726862257133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented discontinuous Galerkin method for elliptic problems",
+                "pub_year": "2007",
+                "citation": "Comptes rendus. Math\u00e9matique 344 (1), 53-58, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6031318658001564283",
+            "cites_id": [
+                "6031318658001564283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stabilized mixed methods for generalized Stokes problem based on the velocity\u2013pseudostress formulation: A priori error estimates",
+                "pub_year": "2012",
+                "citation": "Computer methods in applied mechanics and engineering 237, 78-87, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7132051471541542453",
+            "cites_id": [
+                "7132051471541542453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for a mixed-FEM formulation of a non-linear elliptic problem",
+                "pub_year": "2002",
+                "citation": "Computer methods in applied mechanics and engineering 191 (21-22), 2317-2336, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7659264484727010138",
+            "cites_id": [
+                "7659264484727010138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost a posteriori error estimators for an augmented mixed FEM in linear elasticity",
+                "pub_year": "2014",
+                "citation": "Applied Numerical Mathematics 84, 46-65, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7511425960856553179",
+            "cites_id": [
+                "7511425960856553179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis of an augmented discontinuous Galerkin formulation for Darcy flow",
+                "pub_year": "2012",
+                "citation": "Numerische Mathematik 120 (2), 231-269, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:qjMakFHDy7sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17703837026662906372",
+            "cites_id": [
+                "17703837026662906372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analyses of an augmented discontinuous Galerkin formulation",
+                "pub_year": "2010",
+                "citation": "IMA journal of numerical analysis 30 (4), 987-1008, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11960213878021568483",
+            "cites_id": [
+                "11960213878021568483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a Posteriori Error Estimator for a New Stabilized Formulation of the Brinkman Problem",
+                "pub_year": "2015",
+                "citation": "Numerical Mathematics and Advanced Applications - ENUMATH 2013 103, 253-261, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:dhFuZR0502QC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12463758531147813141",
+            "cites_id": [
+                "12463758531147813141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented mixed formulation in linear elasticity with mixed and Dirichlet boundary conditions",
+                "pub_year": "2011",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 200 (1), 101-113, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2679753908725382162",
+            "cites_id": [
+                "2679753908725382162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis of a velocity\u2013pseudostress formulation of the generalized Stokes problem",
+                "pub_year": "2019",
+                "citation": "Journal of Computational and Applied Mathematics 357, 349-365, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6033857997498403133",
+            "cites_id": [
+                "6033857997498403133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimation of a stabilized mixed finite element method for Darcy flow",
+                "pub_year": "2015",
+                "citation": "Boundary and Interior Layers, Computational and Asymptotic Methods-BAIL 2014 \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:TFP_iSt0sucC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14370380752119672071",
+            "cites_id": [
+                "14370380752119672071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of DG approximations for Stokes problem based on velocity\u2010pseudostress formulation",
+                "pub_year": "2017",
+                "citation": "Numerical Methods for Partial Differential Equations 33 (5), 1540-1564, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2870277276996861844",
+            "cites_id": [
+                "2870277276996861844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A wavelet-based stabilization of the mixed finite element method with Lagrange multipliers",
+                "pub_year": "2006",
+                "citation": "Applied mathematics letters 19 (3), 244-250, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12775091018236218885",
+            "cites_id": [
+                "12775091018236218885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stabilized mixed method applied to Stokes system with nonhomogeneous source terms: The stationary case Dedicated to Prof. R. Rodr\u00edguez, on the occasion of his 65th birthday",
+                "pub_year": "2020",
+                "citation": "International Journal for Numerical Methods in Fluids 92 (6), 509-527, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:70eg2SAEIzsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11901601264396955552",
+            "cites_id": [
+                "11901601264396955552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On an adaptive stabilized mixed finite element method for the Oseen problem with mixed boundary conditions",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 365, 113007, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=802442231829852269",
+            "cites_id": [
+                "802442231829852269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented dual-mixed method in linear elasticity with mixed boundary conditions",
+                "pub_year": "2019",
+                "citation": "International Journal of Numerical Analysis and Modeling 16, 804-824, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17073951307087135634",
+            "cites_id": [
+                "17073951307087135634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented discontinuous Galerkin method for stationary Stokes problem",
+                "pub_year": "2010",
+                "citation": "Preprint 20, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2889830743329075976",
+            "cites_id": [
+                "2889830743329075976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error estimate for a dual mixed method applied to Stokes system with non-null source terms",
+                "pub_year": "2021",
+                "citation": "Advances in Computational Mathematics 47, 1-34, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3723676816884227368",
+            "cites_id": [
+                "3723676816884227368"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New a posteriori error estimator for an stabilized mixed method applied to incompressible fluid flows",
+                "pub_year": "2019",
+                "citation": "Applied Mathematics and Computation 351, 37-47, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2370059543856442661",
+            "cites_id": [
+                "2370059543856442661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive numerical solution of a discontinuous Galerkin method for a Helmholtz problem in low-frequency regime.",
+                "pub_year": "2016",
+                "citation": "Journal of Computational and Applied Mathematics, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=563586877435277283",
+            "cites_id": [
+                "563586877435277283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the discontinuous Galerkin method for solving boundary value problems for the Helmholtz equation: A priori and a posteriori error analyses",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1310.2847, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8811928913316146371",
+            "cites_id": [
+                "8811928913316146371"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a-priori error analysis for discontinuous Lagrangian finite elements applied to nonconforming dual-mixed formulations: Poisson and Stokes problems",
+                "pub_year": "2020",
+                "citation": "Electronic Transactions on Numerical Analysis 52, 455-479, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4135869868602127411",
+            "cites_id": [
+                "4135869868602127411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilised finite element methods for a bending moment formulation of the Reissner-Mindlin plate model",
+                "pub_year": "2015",
+                "citation": "Calcolo, DOI: 10.1007/s10092-014-0120-1. 52, 343 - 369, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13074683603642830381",
+            "cites_id": [
+                "13074683603642830381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented DG scheme for porous media equations",
+                "pub_year": "2008",
+                "citation": "Numerical Mathematics and Advanced Applications: Proceedings of ENUMATH 2007 \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8793315768575487184,12955939931249467493",
+            "cites_id": [
+                "8793315768575487184",
+                "12955939931249467493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the numerical analysis of a nonlinear elliptic problem via mixed-FEM and Lagrange multipliers",
+                "pub_year": "2004",
+                "citation": "Applied numerical mathematics 48 (2), 135-155, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2877542579034147411",
+            "cites_id": [
+                "2877542579034147411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error estimator for a non homogeneous Dirichlet problem considering a dual mixed formulation",
+                "pub_year": "2022",
+                "citation": "Trends in Computational and Applied Mathematics 23, 549-568, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14477656877835950522",
+            "cites_id": [
+                "14477656877835950522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a stabilized scheme applied to incompressible elasticity problems with Dirichlet and with mixed boundary conditions",
+                "pub_year": "2022",
+                "citation": "Advances in Computational Mathematics 48 (4), 43, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15079830743293342659",
+            "cites_id": [
+                "15079830743293342659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on a posteriori error estimates for dual mixed methods",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:M05iB0D1s5AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14313265228060837188",
+            "cites_id": [
+                "14313265228060837188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient and reliable a posteriori error estimators for two augmented mixed formulations in linear elasticity",
+                "pub_year": "2010",
+                "citation": "Preprint 2010 5, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8614848219601071539",
+            "cites_id": [
+                "8614848219601071539"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis for the stream function and vorticity formulation of the Stokes Problem",
+                "pub_year": "2009",
+                "citation": "PROGRAMA y RESUMENES, 19, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4807942452161381775",
+            "cites_id": [
+                "4807942452161381775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of a wavelet-based stabilization for the mixed finite element method",
+                "pub_year": "2007",
+                "citation": "Numerical functional analysis and optimization 28 (3-4), 265-286, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14773855038340928860",
+            "cites_id": [
+                "14773855038340928860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis for an augmented discontinuous Galerkin method applied to Stokes problem",
+                "pub_year": "2024",
+                "citation": "Numerical Methods for Partial Differential Equations, e23100, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on a posteriori error analysis for dual mixed methods with mixed boundary conditions",
+                "pub_year": "2023",
+                "citation": "Numerical Methods for Partial Differential Equations 39 (5), 3897-3918, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Crouzeix-Raviart Element for non-conforming dual mixed methods: A Priori Analysis",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2109.07688, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stabilized mixed method applied to Stokes system with nonhomogeneous source terms: The stationary case Dedicated to Prof. R. Rodr\u00edguez, on the occasion of his 65th birthday",
+                "pub_year": "2020",
+                "citation": "Wiley, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Stabilized Scheme Applied to Incompressible Elasticity: A-priori and A-posteriori Analysis",
+                "pub_year": "2019",
+                "citation": "Mec\u00e1nica Computacional 37 (24), 963-963, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive augmented rnixed FEM for the Oseen problem with mixed boundary conditions",
+                "pub_year": "2019",
+                "citation": "Fifteenth International Conference Zaragoza-Pau on Mathematics and its \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element analysis of a stabilised nonconforming scheme applied to Lam\u00e9 equations",
+                "pub_year": "2018",
+                "citation": "1 An\u00e1lisis Num\u00e9rico, 5, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A-priori error estimate for a new DG approach applied to Laplace operator",
+                "pub_year": "2017",
+                "citation": "ACTA DE RES\u00daMENES, 35, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An aposteriori error estimate for an augmented pseudostress-velocity mixed FEM formulation for a generalized Stokes problem",
+                "pub_year": "2017",
+                "citation": "ACTA DE RES\u00daMENES, 36, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on a priori error estimates for augmented mixed methods",
+                "pub_year": "2016",
+                "citation": "Applied Mathematics Letters, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented mixed finite element method for Darcy flow",
+                "pub_year": "2015",
+                "citation": "Elsevier BV, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New a Posteriori Error Estimator for an Augmented Mixed FEM in Linear Elasticity",
+                "pub_year": "2015",
+                "citation": "Numerical Mathematics and Advanced Applications - ENUMATH 2013 103, 263-271, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost a posteriori error estimators for an augmented mixed FEM in linear elasticity. Dedicated to Professor Rodolfo Rodr\u00edguez on the occasion of his 60th birthday.",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Solutions of a Stabilized Mixed Finite Element Method for Porous Media Equations",
+                "pub_year": "2014",
+                "citation": "Mec\u00e1nica Computacional 33 (30), 1909-1917, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost a posteriori error estimators for an augmented mixed FEM in linear elasticity",
+                "pub_year": "2014",
+                "citation": "Elsevier BV* North-Holland, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mec\u00e1nica Computacional, Volume XXXIII. Number 30. Mathematical Foundations of Numerical Methods",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented mixed formulation in linear elasticity with mixed and Dirichlet boundary conditions",
+                "pub_year": "2011",
+                "citation": "Elsevier BV, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una formulaci\u00f3n Galerkin discontinua estabilizada para el problema de Stokes en velocidad y pseudo-esfuerzo",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estabilidad y convergencia del m\u00e9todo LDG para problemas de contorno con condiciones mixtas para la ecuaci\u00f3n de Helmholtz",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimators based on Ritz projection for the augmented mixed FEM in plane linear elasticity",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis for a large-scale ocean circulation finite element model",
+                "pub_year": "2009",
+                "citation": "Actas CEDYA 2009 - ISBN 978-84-692-6473-7., 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una nota sobre las estimas a priori del error para formulaciones mixtas aumentadas",
+                "pub_year": "2009",
+                "citation": "Actas CEDYA 2009 - ISBN 978-84-692-6473-7., 1-8, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A residual-based a posteriori error estimator for an augmented mixed method in elasticity",
+                "pub_year": "2009",
+                "citation": "Computational and Mathematical Methods in Science and Engineering. ISBN:978 \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Stabilized Mixed Discontinuous Formulation for Darcy Flow",
+                "pub_year": "2008",
+                "citation": "Mec\u00e1nica Computacional, 2323-2323, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented LDG method for linear diffusion problems",
+                "pub_year": "2007",
+                "citation": "PAMM: Proceedings in Applied Mathematics and Mechanics 7 (1), 2020057-2020058, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new primal-mixed finite element method for the linear elasticity problem",
+                "pub_year": "2007",
+                "citation": "., 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una nueva formulaci\u00f3n mixta-primal para el problema de la elasticidad lineal en el plano",
+                "pub_year": "2007",
+                "citation": "XX Congreso de ecuaciones diferenciales y aplicaciones y X Congreso de \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A residual based a posteriori error estimator for an augmented mixed finite element method in linear elasticity",
+                "pub_year": "2006",
+                "citation": "EDP Sciences, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de error a-priori y a-posteriori de algunos m\u00e9todos de elementos finitos mixtos estabilizados.",
+                "pub_year": "2006",
+                "citation": "Universidad de Concepci\u00f3n., 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive solutions of an augmented mixed finite element scheme for linear elasticity",
+                "pub_year": "2006",
+                "citation": "SCIENTIA Serie A: Mathematical Sciences 13, 46-56, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error estimator for an incompressible elasticity problem with mixed boundary conditions",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a stabilized mixed method applied to incompressible elasticity problems with Dirichlet and with mixed boundary conditions",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilised finite element methods for a bending moment formulation of the Reissner-Mindlin plate model",
+                "citation": "Calcolo 52, 0"
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A POSTERIORI ERROR ESTIMATORS FOR TWO AUGMENTED MIXED FORMULATIONS IN ELASTICITY",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO II",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A velocity-pseudostress stabilized DG formulation for the Stokes problem",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the discontinuous Galerkin method for solving boundary problems for the Helmholtz equation: A priori and a posteriori error analyses",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO I",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VALPARAISO NUMERICO II",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A-priori and a-posteriori error analysis of a stabilized discontinuous approximation for the Darcy flow",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rV7QC9cAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 10,
+        "not_available": 3
+    }
+}

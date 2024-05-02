@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "fi8Q7EAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "William Quintero",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Bonding",
+        "covalency",
+        "actinides",
+        "lanthanides",
+        "quantum chemistry"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 0,
+        "2021": 2,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast and accurate prediction of proton affinities: revisiting the extended Koopmans' theorem for protons",
+                "pub_year": "2017",
+                "citation": "Physical Chemistry Chemical Physics 19 (37), 25324-25333, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "fi8Q7EAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15486061202711369919",
+            "cites_id": [
+                "15486061202711369919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A nuclear configuration interaction approach to study nuclear spin effects: an application to ortho\u2010 and para\u20103He2@C60",
+                "pub_year": "2024",
+                "citation": "ChemPhysChem, e202300498, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "fi8Q7EAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

@@ -1,0 +1,548 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "lUsZ39UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Osorio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lUsZ39UAAAAJ&citpid=4",
+    "affiliation": "Department of Mathematics, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Applied Statistics",
+        "Regression",
+        "Influence Diagnostics",
+        "Outlier Detection"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://fosorios.mat.utfsm.cl/",
+    "citedby": 540,
+    "citedby5y": 256,
+    "hindex": 10,
+    "hindex5y": 8,
+    "i10index": 12,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2007": 2,
+        "2008": 8,
+        "2009": 16,
+        "2010": 16,
+        "2011": 19,
+        "2012": 22,
+        "2013": 20,
+        "2014": 29,
+        "2015": 27,
+        "2016": 35,
+        "2017": 34,
+        "2018": 48,
+        "2019": 29,
+        "2020": 43,
+        "2021": 53,
+        "2022": 55,
+        "2023": 58,
+        "2024": 18
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7Xn_NGAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ronny Vallejos",
+            "affiliation": "Profesor de Matem\u00e1tica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lPV3RxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Galea",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lNNFsqMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gilberto A. Paula",
+            "affiliation": "Professor of Statistics, Universidade de S\u00e3o Paulo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_B0nizsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Moreno Bevilacqua",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FwFYEO8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Federico Crudu",
+            "affiliation": "University of Siena"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qzUiwgMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Werner Creixell",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of local influence in elliptical linear models with longitudinal structure",
+                "pub_year": "2007",
+                "citation": "Computational statistics & data analysis 51 (9), 4354-4368, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:WF5omc3nYNoC",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12597900049377909675",
+            "cites_id": [
+                "12597900049377909675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation in nonlinear mixed-effects models using heavy-tailed distributions",
+                "pub_year": "2012",
+                "citation": "Statistics and Computing 22, 121-139, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 97,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8345499947251213529",
+            "cites_id": [
+                "8345499947251213529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial Relationships Between Two Georeferenced Variables: With Applications in R",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:ClCfbGk0d_YC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6090540188374140215",
+            "cites_id": [
+                "6090540188374140215"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpatialPack: Package for analysis of spatial data",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16835056985231383669",
+            "cites_id": [
+                "16835056985231383669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective sample size of spatial process models",
+                "pub_year": "2014",
+                "citation": "Spatial Statistics 9, 66-92, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:8k81kl-MbHgC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13941567894267778471",
+            "cites_id": [
+                "13941567894267778471"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of a change-point in Student-t linear regression models",
+                "pub_year": "2006",
+                "citation": "Statistical Papers 47 (1), 31-48, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7062819957336548908",
+            "cites_id": [
+                "7062819957336548908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On estimation and influence diagnostics for the Grubbs' model under heavy-tailed distributions",
+                "pub_year": "2009",
+                "citation": "Computational Statistics & Data Analysis 53 (4), 1249-1263, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:ufrVoPGSRksC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9490609867731271706",
+            "cites_id": [
+                "9490609867731271706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "heavy: Robust estimation using heavy-tailed distributions",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:0EnyYjriUFMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17968583909944727161,13388178989808327365",
+            "cites_id": [
+                "17968583909944727161",
+                "13388178989808327365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpatialPack: Computing the association between two spatial processes",
+                "pub_year": "2016",
+                "citation": "https://arxiv.org/abs/1611.05289, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:edDO8Oi4QzsC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4968038365245516811",
+            "cites_id": [
+                "4968038365245516811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagn\u00f3stico de Influ\u00eancia em Modelos El\u00edpticos com Efeitos Mistos",
+                "pub_year": "2006",
+                "citation": "Department of Statistics, IME-USP, Sao Paulo., 2006"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:5nxA0vEk-isC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6648153635368310523",
+            "cites_id": [
+                "6648153635368310523"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective sample size for line transect sampling models with an application to marine macroalgae",
+                "pub_year": "2016",
+                "citation": "Journal of Agricultural, Biological, and Environmental Statistics 21 (3 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:Ug5p-4gJ2f0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9121729873793063649",
+            "cites_id": [
+                "9121729873793063649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The codispersion map: a graphical tool to visualize the association between two spatial variables",
+                "pub_year": "2015",
+                "citation": "Statistica Neerlandica 69 (3), 298-314, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:xtoqd-5pKcoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9891213125079584879",
+            "cites_id": [
+                "9891213125079584879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence diagnostics for robust P-splines using scale mixture of normal distributions",
+                "pub_year": "2016",
+                "citation": "Annals of the Institute of Statistical Mathematics 68 (3), 589-619, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:HbR8gkJAVGIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7431850370753366529",
+            "cites_id": [
+                "7431850370753366529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of local influence for the analysis of agreement",
+                "pub_year": "2019",
+                "citation": "Biometrical Journal 61 (4), 955-972, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:0N-VGjzr574C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979919713922349469",
+            "cites_id": [
+                "16979919713922349469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical estimation of the structural similarity index for image quality assessment",
+                "pub_year": "2022",
+                "citation": "Signal, Image and Video Processing 16 (4), 1035-1042, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:PVjk1bu6vJQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6930601355485929897",
+            "cites_id": [
+                "6930601355485929897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the effective sample size for large spatial datasets: A block likelihood approach",
+                "pub_year": "2021",
+                "citation": "Computational Statistics & Data Analysis 162, 107282, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:5qfkUJPXOUwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072185711119602879",
+            "cites_id": [
+                "1072185711119602879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "L1pack: Routines for L1 estimation",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:q3CdL3IzO_QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16313715430681500407",
+            "cites_id": [
+                "16313715430681500407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bilinear form test statistics for extremum estimation",
+                "pub_year": "2020",
+                "citation": "Economics Letters 187, 108885, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13155348309953393230",
+            "cites_id": [
+                "13155348309953393230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MVT: Estimation and testing for the multivariate t-distribution",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:ruyezt5ZtCIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8877384998563820432",
+            "cites_id": [
+                "8877384998563820432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Point-process modeling and divergence measures applied to the characterization of passenger flow patterns of a metro system",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 26529-26540, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:86PQX7AUzd4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8584257159497631454",
+            "cites_id": [
+                "8584257159497631454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The gradient test statistic for outlier detection in generalized estimating equations",
+                "pub_year": "2024",
+                "citation": "Statistics & Probability Letters 209, 110087, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:kh2fBNsKQNwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing two spatial variables with the probability of agreement",
+                "pub_year": "2024",
+                "citation": "Biometrics 80 (1), ujae009, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:Ri6SYOTghG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "india: Influence diagnostics in statistical models",
+                "pub_year": "2023",
+                "citation": "https://cran.r-project.org/package=india, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:YohjEiUPhakC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Addressing non-normality in multivariate analysis using the t-distribution",
+                "pub_year": "2023",
+                "citation": "AStA Advances in Statistical Analysis 107, 785-813, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:_axFR9aDTf0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "fastmatrix: Fast computation of some matrices useful in statistics",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:hCrLmN-GePgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n de puntos de cambio usando regresi\u00f3n segmentada para datos del brote de COVID-19 en Chile",
+                "pub_year": "2020",
+                "citation": "http://matematica.usm.cl/wp-content/uploads/2020/05/reporte_segmentos_May-15.pdf, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:rmuvC79q63oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Chemometrics approach to analysis volatile molecules released by post-mortem bovine fast-twitch muscles",
+                "pub_year": "2016",
+                "citation": "CyTA - Journal of Food 14 (3), 399-404, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:XoXfffV-tXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smoothing parameter selection and outliers accommodation for smoothing splines",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 58th World Statistics Congress, 6037-6042, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exact estimation procedures in a spatial mixed\u2013effects probit model with binary outcomes",
+                "pub_year": "2010",
+                "citation": "JSM Proceedings, 3629-3637, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of the economic activity from the short and long-term interest rate differential: new evidences in Chile and the United States of America cases",
+                "pub_year": "2008",
+                "citation": "Applied Economics Letters 15 (9), 707-712, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "lUsZ39UAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

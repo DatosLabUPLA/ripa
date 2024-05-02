@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "c5UNZHsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Henrry Morales",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=c5UNZHsAAAAJ&citpid=2",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Regional diversification",
+        "regional studies",
+        "mining regions"
+    ],
+    "email_domain": "@ce.ucn.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rHf-mZMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Atienza",
+            "affiliation": "Universidad Cat\u00f3lica del Norte"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New path capture. Insights from the diversification process in mining regions",
+                "pub_year": "2022",
+                "citation": "The Extractive Industries and Society 11, 101091, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "c5UNZHsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15200658221973792878",
+            "cites_id": [
+                "15200658221973792878"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

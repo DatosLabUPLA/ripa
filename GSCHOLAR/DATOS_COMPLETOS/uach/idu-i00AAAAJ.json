@@ -1,0 +1,141 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "idu-i00AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "R. Guillen-Rujano",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=idu-i00AAAAJ&citpid=2",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Mechanical Engineering",
+        "Stress Analysis",
+        "Composite Materials",
+        "Finite Elements Method",
+        "Mechanical Design"
+    ],
+    "email_domain": "@uach.cl",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 3,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IQqo60cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francis Aviles",
+            "affiliation": "CICY"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "74LFAfoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "AGUSTIN VIDAL-LESSO",
+            "affiliation": "UNIVERSIDAD DE GUANAJUATO"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sNNN2AMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J. J. Ku-Herrera",
+            "affiliation": "Centro de Investigaci\u00f3n en Qu\u00edmica Aplicada"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-form solution and analysis of the plate twist test in sandwich and laminated composites",
+                "pub_year": "2021",
+                "citation": "Mechanics of Materials 155, 103753, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "idu-i00AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6832284049474686488",
+            "cites_id": [
+                "6832284049474686488"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mode III fracture toughness measurement using the transverse shear cracked plate specimen",
+                "pub_year": "2021",
+                "citation": "Experimental Mechanics 61, 1419-1430, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "idu-i00AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4561874583748094167",
+            "cites_id": [
+                "4561874583748094167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Examination of the plate twist specimen for thick specially orthotropic laminated composites and sandwich plates by using first-order shear deformation theory",
+                "pub_year": "2019",
+                "citation": "Journal of Sandwich Structures & Materials 21 (7), 2239-2265, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "idu-i00AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13912990726112854912",
+            "cites_id": [
+                "13912990726112854912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatigue Life Estimation Model of Repaired Components with the Expanded Stop-Hole Technique",
+                "pub_year": "2024",
+                "citation": "Metals 14 (2), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "idu-i00AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical and Numerical Study of The Plate Twist Test in Composite Laminates and Sandwich Panels",
+                "pub_year": "2020",
+                "citation": "Universidad de Guanajuato, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "idu-i00AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

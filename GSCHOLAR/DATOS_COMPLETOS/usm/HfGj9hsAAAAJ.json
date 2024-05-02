@@ -1,0 +1,609 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HfGj9hsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Allendes",
+    "affiliation": "Assistant Professor, Department of Mathematics, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Numerical analysis of partial differential equations"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://aallendes.mat.utfsm.cl/",
+    "citedby": 288,
+    "citedby5y": 199,
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 12,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2010": 3,
+        "2011": 1,
+        "2012": 6,
+        "2013": 9,
+        "2014": 4,
+        "2015": 9,
+        "2016": 11,
+        "2017": 19,
+        "2018": 21,
+        "2019": 20,
+        "2020": 26,
+        "2021": 42,
+        "2022": 28,
+        "2023": 55,
+        "2024": 28
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully computable a posteriori error bounds for stabilised FEM approximations of convection\u2013reaction\u2013diffusion problems in three dimensions",
+                "pub_year": "2013",
+                "citation": "International Journal for Numerical Methods in Fluids 73 (9), 765-790, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:WF5omc3nYNoC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17303099789203672873",
+            "cites_id": [
+                "17303099789203672873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for the Stokes problem with singular sources",
+                "pub_year": "2019",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 345, 1007-1032, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739059226469020039",
+            "cites_id": [
+                "4739059226469020039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A divergence-free low-order stabilized finite element method for a generalized steady state Boussinesq problem",
+                "pub_year": "2018",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 340, 90-120, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15414656009328717065",
+            "cites_id": [
+                "15414656009328717065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the adaptive selection of the parameter in stabilized finite element approximations",
+                "pub_year": "2013",
+                "citation": "SIAM Journal on Numerical Analysis 51 (3), 1585-1609, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3659869308867233112",
+            "cites_id": [
+                "3659869308867233112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive finite element methods for an optimal control problem involving Dirac measures",
+                "pub_year": "2017",
+                "citation": "Numerische Mathematik 137 (1), 159-197, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046546777085783837",
+            "cites_id": [
+                "2046546777085783837"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilized finite element approximations for a generalized Boussinesq problem: a posteriori error analysis",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 361, 112703, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:5nxA0vEk-isC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9544094383616210561",
+            "cites_id": [
+                "9544094383616210561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully computable error estimation of a nonlinear, positivity-preserving discretization of the convection-diffusion-reaction equation",
+                "pub_year": "2017",
+                "citation": "SIAM Journal on Scientific Computing 39 (5), A1903-A1927, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1500332373203755029",
+            "cites_id": [
+                "1500332373203755029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computable error bounds for nonconforming Fortin\u2013Soulie finite element approximation of the Stokes problem",
+                "pub_year": "2012",
+                "citation": "IMA Journal of Numerical Analysis 32 (2), 417-447, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16071387741884420530",
+            "cites_id": [
+                "16071387741884420530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiplicity results for extremal operators through bifurcation",
+                "pub_year": "2011",
+                "citation": "Discrete Contin. Dyn. Syst 29 (1), 51-65, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17059830956169700493",
+            "cites_id": [
+                "17059830956169700493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimation for low-order adaptive finite element approximations for fluid flow problems",
+                "pub_year": "2016",
+                "citation": "IMA Journal of Numerical Analysis 36 (4), 1715-1747, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16951191471909936531",
+            "cites_id": [
+                "16951191471909936531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive finite element methods for sparse PDE-constrained optimization",
+                "pub_year": "2020",
+                "citation": "IMA Journal of Numerical Analysis 40 (3), 2106-2142, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17672015070707351704",
+            "cites_id": [
+                "17672015070707351704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Posteriori Error Estimates for the Stationary Navier--Stokes Equations with Dirac Measures",
+                "pub_year": "2020",
+                "citation": "SIAM Journal on Scientific Computing 42 (3), A1860-A1884, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12575737330736383696",
+            "cites_id": [
+                "12575737330736383696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An adaptive FEM for the pointwise tracking optimal control problem of the Stokes equations",
+                "pub_year": "2019",
+                "citation": "SIAM Journal on Scientific Computing 41 (5), A2967-A2998, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12932919533033537063",
+            "cites_id": [
+                "12932919533033537063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The stationary Boussinesq problem under singular forcing",
+                "pub_year": "2021",
+                "citation": "Mathematical Models and Methods in Applied Sciences 31 (04), 789-827, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:4TOpqqG69KYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13535680514199113721",
+            "cites_id": [
+                "13535680514199113721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-level enriched finite element method for a mixed problem",
+                "pub_year": "2011",
+                "citation": "Mathematics of computation 80 (273), 11-41, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=744567243713166160",
+            "cites_id": [
+                "744567243713166160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Divergence-Free Stabilized Finite Element Method for the Evolutionary Navier--Stokes Equations",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Scientific Computing 43 (6), A3809-A3836, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:_kc_bZDykSQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9400023381412287076",
+            "cites_id": [
+                "9400023381412287076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis for an optimal control problem with point sources",
+                "pub_year": "2018",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 52 (5), 1617-1650, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13829431044812738093",
+            "cites_id": [
+                "13829431044812738093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Darcy\u2019s problem coupled with the heat equation under singular forcing: analysis and discretization",
+                "pub_year": "2024",
+                "citation": "IMA Journal of Numerical Analysis, drad094, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15988338445718884271",
+            "cites_id": [
+                "15988338445718884271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical discretization of a Darcy-Forchheimer problem coupled with a singular heat equation",
+                "pub_year": "2023",
+                "citation": "SIAM Journal on Scientific Computing 45 (5), A2755-A2780, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16866618843629103996",
+            "cites_id": [
+                "16866618843629103996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Posteriori Error Estimates for a Distributed Optimal Control Problem of the Stationary Navier--Stokes Equations",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Control and Optimization 59 (4), 2898-2923, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15025615137610450693",
+            "cites_id": [
+                "15025615137610450693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for a pointwise tracking optimal control problem of a semilinear elliptic equation",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Control and Optimization 60 (3), 1763-1790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6730796981621717553",
+            "cites_id": [
+                "6730796981621717553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimators for stabilized finite element approximations of an optimal control problem",
+                "pub_year": "2018",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 340, 147-177, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18295268529149499439",
+            "cites_id": [
+                "18295268529149499439"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust numerical method for a control problem involving singularly perturbed equations",
+                "pub_year": "2016",
+                "citation": "Computers & Mathematics with Applications 72 (4), 974-991, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11684693902499913955",
+            "cites_id": [
+                "11684693902499913955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for semilinear optimal control problems",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55 (5), 2293-2322, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15069242908777429989",
+            "cites_id": [
+                "15069242908777429989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimation for a PDE-constrained optimization problem involving the generalized Oseen equations",
+                "pub_year": "2018",
+                "citation": "SIAM Journal on Scientific Computing 40 (4), A2200-A2233, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17801395556465085656",
+            "cites_id": [
+                "17801395556465085656"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element discretizations of a convective Brinkman\u2013Forchheimer model under singular forcing",
+                "pub_year": "2024",
+                "citation": "Journal of Scientific Computing 99 (2), 58, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13319629420794685301",
+            "cites_id": [
+                "13319629420794685301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully computable a posteriori error estimators for stabilized finite element approximations of an optimal control problem",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1605.03927, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2462518726728430136",
+            "cites_id": [
+                "2462518726728430136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The linear elasticity system under singular forces",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.10866, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical discretization of a Brinkman-Darcy-Forchheimer model under singular forcing",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2305.04427, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pointwise error estimates for a generalized Oseen problem and an application to an optimal control problem",
+                "pub_year": "2019",
+                "citation": "Mathematical Methods in the Applied Sciences 42 (10), 3549-3567, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum-norm a posteriori error estimates for an optimal control problem",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1711.06707, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimation for finite element approximations of a PDE-constrained optimization problem in fluid dynamics",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1708.00590, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FINITE ELEMENT DISCRETIZATION OF A BRINKMAN\u2013DARCY\u2013FORCHHEIMER MODEL UNDER SINGULAR FORCING",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A POSTERIORI ERROR ESTIMATES FOR THE TWO DIMENSIONAL STATIONARY NAVIER STOKES EQUATIONS WITH DIRAC MEASURES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LOW-ORDER DIVERGENCE-FREE FINITE ELEMENT METHODS IN FLUID MECHANICS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN AFEM FOR THE POINTWISE TRACKING OPTIMAL CONTROL PROBLEM OF THE STOKES EQUATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimation for finite element approximations of optimal control problems",
+                "citation": "umaUNION, 88, 0"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un m\u00e9todo de elementos finitos estabilizados de bajo orden a divergencia nula para el problema de Boussinesq estacionario",
+                "citation": "ACTA DE RES\u00daMENES, 47, 0"
+            },
+            "filled": false,
+            "author_pub_id": "HfGj9hsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 1
+    }
+}

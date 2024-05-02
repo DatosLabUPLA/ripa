@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8A7lrWkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Garrido S\u00e1nchez",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Educaci\u00f3n",
+        "STEM",
+        "F\u00edsica",
+        "Ense\u00f1anza de las ciencias"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the learning of electrostatic concepts in pre-service physics teachers",
+                "pub_year": "2019",
+                "citation": "Journal of Physics: Conference Series 1287 (1), 012034, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8A7lrWkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17069400013264616907",
+            "cites_id": [
+                "17069400013264616907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the explanations of pre-service physics teachers about the Faraday Cage Effect and the Pointed Conductor Effect",
+                "pub_year": "2021",
+                "citation": "Journal of Physics: Conference Series 1929, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8A7lrWkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

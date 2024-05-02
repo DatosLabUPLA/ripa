@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "G6rBFd4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo Antonio Sep\u00falveda Gonz\u00e1lez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=G6rBFd4AAAAJ&citpid=4",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Science Education",
+        "STEM",
+        "Inorganic Chemistry"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://laboratoriogrecia.cl/",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "meY9FcEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erick Flores",
+            "affiliation": "Universidad de Santiago de Chile, Departamento de Qu\u00edmica de los Materiales"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel organometallic chalcones functionalized with a crown ether fragment as optical ion chemosensors",
+                "pub_year": "2018",
+                "citation": "Applied Organometallic Chemistry 32 (3), e4115, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "G6rBFd4AAAAJ:hC7cP41nSMkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4386734294672113769",
+            "cites_id": [
+                "4386734294672113769"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

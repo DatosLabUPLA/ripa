@@ -1,0 +1,112 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "xM7RuXoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Natalia Karstegl Villalobos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xM7RuXoAAAAJ&citpid=2",
+    "affiliation": "Investigador Asociado, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Operaciones",
+        "Optimizaci\u00f3n",
+        "An\u00e1lisis Multicriterio",
+        "Simulaci\u00f3n"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 40,
+    "citedby5y": 40,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 6,
+        "2022": 14,
+        "2023": 16,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PiMqj28AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Eduardo Vargas Guzm\u00e1n",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0zwnLpAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "miguel domingo alfaro marchant",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "D8a6nLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Fuertes",
+            "affiliation": "Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reverse logistics for solid waste from the construction industry",
+                "pub_year": "2021",
+                "citation": "Advances in Civil Engineering 2021, 1-11, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xM7RuXoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6666983646492379945",
+            "cites_id": [
+                "6666983646492379945"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "National health systems and COVID-19 death toll doubling time",
+                "pub_year": "2021",
+                "citation": "Frontiers in Public Health 9, 669038, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xM7RuXoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307415344158619858",
+            "cites_id": [
+                "5307415344158619858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forecasting Time Series Covid 19 Using Deep Learning Methods: South America Comparative Case Study",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "xM7RuXoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

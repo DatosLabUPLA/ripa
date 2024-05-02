@@ -1,0 +1,229 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6A5Kd8UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier E. Soto",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [],
+    "email_domain": "@udec.cl",
+    "citedby": 72,
+    "citedby5y": 64,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 2,
+        "2017": 2,
+        "2018": 3,
+        "2019": 0,
+        "2020": 3,
+        "2021": 11,
+        "2022": 15,
+        "2023": 31,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high-throughput hardware accelerator for network entropy estimation using sketches",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 85823-85838, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15975812802134111562",
+            "cites_id": [
+                "15975812802134111562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face Recognition on a Smart Image Sensor Using Local Gradients",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (9), 2901, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9942913649794751972",
+            "cites_id": [
+                "9942913649794751972"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hardware accelerator for entropy estimation using the top-k most frequent elements",
+                "pub_year": "2020",
+                "citation": "2020 23rd Euromicro Conference on Digital System Design (DSD), 141-148, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=707083979977590891",
+            "cites_id": [
+                "707083979977590891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An embedded face-classification system for infrared images on an FPGA",
+                "pub_year": "2014",
+                "citation": "Electro-Optical and Infrared Systems: Technology and Applications XI 9249 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636200668571504514",
+            "cites_id": [
+                "6636200668571504514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardware acceleration of k-mer clustering using locality-sensitive hashing",
+                "pub_year": "2019",
+                "citation": "2019 22nd Euromicro Conference on Digital System Design (DSD), 659-662, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11482332566807188751",
+            "cites_id": [
+                "11482332566807188751"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JACC-FPGA: A hardware accelerator for Jaccard similarity estimation using FPGAs in the cloud",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 138, 26-42, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14740999842574307686",
+            "cites_id": [
+                "14740999842574307686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An intelligent readout integrated circuit (iROIC) with on-chip local gradient operations",
+                "pub_year": "2017",
+                "citation": "2017 24th IEEE International Conference on Electronics, Circuits and Systems \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12548986716401723350",
+            "cites_id": [
+                "12548986716401723350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An embedded system for image segmentation and multimodal registration in noninvasive skin cancer screening",
+                "pub_year": "2017",
+                "citation": "2017 39th Annual International Conference of the IEEE Engineering in \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1138511726431413846",
+            "cites_id": [
+                "1138511726431413846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A streaming algorithm and hardware accelerator to estimate the empirical entropy of network flows",
+                "pub_year": "2023",
+                "citation": "Computer Networks 237, 110035, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Sketch-Based Algorithm for Network-Flow Entropy Estimation on Programmable Switches Using P4",
+                "pub_year": "2023",
+                "citation": "2023 26th Euromicro Conference on Digital System Design (DSD), 79-86, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multimodal registration of visible, SWIR and LWIR images in a distributed smart camera system",
+                "pub_year": "2020",
+                "citation": "Microprocessors and Microsystems 73, 102987, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Streaming Algorithm to Estimate the Empirical Entropy of Network Flows for Memory-Constrained Devices",
+                "citation": "Available at SSRN 4457367, 0"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardware Acceleration of Genomic Similarity Estimation Using Fpgas in the Cloud",
+                "citation": "Available at SSRN 4049516, 0"
+            },
+            "filled": false,
+            "author_pub_id": "6A5Kd8UAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

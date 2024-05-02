@@ -1,0 +1,178 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pxSu-rgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Reinier L\u00f3pez Ahuar",
+    "affiliation": "Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Distributed control",
+        "Microgrids",
+        "Power electronic",
+        "MPC"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 1,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0gRNgsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Silva",
+            "affiliation": "Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wSXnYFYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan C. Ag\u00fcero",
+            "affiliation": "Universidad Tecnica Federico Santa Maria (Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IOncymAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angel L. Cede\u00f1o",
+            "affiliation": "Federico Santa Mar\u00eda Technical University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tYkSQiQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Carvajal",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-FeCQt8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Olivares",
+            "affiliation": "Profesor Auxiliar, Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KxQSBI0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Perez Ibacache",
+            "affiliation": "The Thinking Pod innovation, Nottingham, United Kingdom"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Control for Photovoltaic Plants with Non-Ideal Energy Storage Using Mixed Integer Linear Programming",
+                "pub_year": "2022",
+                "citation": "Energies 15 (17), 6427, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3492403665416295530",
+            "cites_id": [
+                "3492403665416295530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FPGA Implementation of ADMM for Model Predictive Control in a DC/AC Converter",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4480792567655533142",
+            "cites_id": [
+                "4480792567655533142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on the numerical efficiency of constrained mpc of an inverter with lc output filter",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17106088439826122182",
+            "cites_id": [
+                "17106088439826122182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Reference Adaptive Control for Ball-and-Plate System",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5564850021633406547",
+            "cites_id": [
+                "5564850021633406547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed Secondary Control Based on MPC for Microgrids",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partial Feedback Linearization and Reference Signal Tracking Control for Ball-and-Plate System",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pxSu-rgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

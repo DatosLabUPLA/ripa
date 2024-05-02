@@ -1,0 +1,81 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "mtCEYVIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel Mart\u00ednez-Lema",
+    "affiliation": "Acad\u00e9mico Universidad Arturo Prat",
+    "organization": 18273373707046377092,
+    "interests": [
+        "Fisiolog\u00eda humana",
+        "Educaci\u00f3n"
+    ],
+    "email_domain": "@unap.cl",
+    "citedby": 7,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "07h_XTkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos S. Mancilla",
+            "affiliation": "Academico Universidad Arturo Prat"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Immediate effects of a direct myofascial release technique on hip and cervical flexibility in inactive females with hamstring shortening: A randomized controlled trial",
+                "pub_year": "2021",
+                "citation": "Journal of Bodywork and Movement Therapies 26, 57-63, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "mtCEYVIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12379343514877554148",
+            "cites_id": [
+                "12379343514877554148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of a sprint and plyometric warm-up protocol on vertical jump height and power in adolescent female volleyball players: A randomized crossover study",
+                "pub_year": "2023",
+                "citation": "Retos: nuevas tendencias en educaci\u00f3n f\u00edsica, deporte y recreaci\u00f3n, 304-311, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "mtCEYVIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12310565761483666284",
+            "cites_id": [
+                "12310565761483666284"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

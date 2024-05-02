@@ -1,0 +1,807 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uQ16sMcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Lizana",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uQ16sMcAAAAJ&citpid=2",
+    "affiliation": "Universidad Catolica de la Santisima Concepci\u00f3n",
+    "organization": 3702576657308349741,
+    "interests": [
+        "Power Electronics",
+        "Multilevel Converters",
+        "Energy Storage Systems"
+    ],
+    "email_domain": "@ucsc.cl",
+    "citedby": 3150,
+    "citedby5y": 1948,
+    "hindex": 21,
+    "hindex5y": 18,
+    "i10index": 27,
+    "i10index5y": 23,
+    "cites_per_year": {
+        "2012": 11,
+        "2013": 40,
+        "2014": 61,
+        "2015": 175,
+        "2016": 246,
+        "2017": 302,
+        "2018": 358,
+        "2019": 350,
+        "2020": 307,
+        "2021": 331,
+        "2022": 442,
+        "2023": 445,
+        "2024": 72
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X5xPjmkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samir Kouro",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7kF1RSMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Rivera",
+            "affiliation": "Technische Universiteit Delft"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0pPswyQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Apparao Dekka",
+            "affiliation": "Assistant Professor, Lakehead University, Thunder Bay, Canada"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0QKlSrMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angel V. Peterchev",
+            "affiliation": "Duke University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uZMP-_oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zhongxi Li",
+            "affiliation": "Duke University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Wk2naEgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 R. Espinoza",
+            "affiliation": "Professor, Electrical Engineering Department, Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circuit topologies, modeling, control schemes, and applications of modular multilevel converters",
+                "pub_year": "2014",
+                "citation": "IEEE transactions on power electronics 30 (1), 4-17, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1436,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13542193744755875220",
+            "cites_id": [
+                "13542193744755875220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of an AFE rectifier with dynamic references",
+                "pub_year": "2011",
+                "citation": "IEEE transactions on power electronics 27 (7), 3128-3136, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 298,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4538185840486534130",
+            "cites_id": [
+                "4538185840486534130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of an AFE rectifier with dynamic references",
+                "pub_year": "2011",
+                "citation": "IEEE transactions on power electronics 27 (7), 3128-3136, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 298,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4538185840486534130",
+            "cites_id": [
+                "4538185840486534130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric vehicle charging infrastructure: From grid to battery",
+                "pub_year": "2021",
+                "citation": "IEEE Industrial Electronics Magazine 15 (2), 37-51, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 188,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12436515589689777892",
+            "cites_id": [
+                "12436515589689777892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A space-vector PWM-based voltage-balancing approach with reduced current sensors for modular multilevel converter",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Industrial Electronics 63 (5), 2734-2745, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 135,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10609363652257730115",
+            "cites_id": [
+                "10609363652257730115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bipolar DC power conversion: State-of-the-art and emerging technologies",
+                "pub_year": "2020",
+                "citation": "IEEE Journal of Emerging and Selected Topics in Power Electronics 9 (2 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:4DMP91E08xMC",
+            "num_citations": 128,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8241012623603713589",
+            "cites_id": [
+                "8241012623603713589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic voltage balancing algorithm for modular multilevel converter: A unique solution",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on power electronics 31 (2), 952-963, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 108,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7093017354302523267",
+            "cites_id": [
+                "7093017354302523267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel converter for large-scale multistring photovoltaic energy conversion system",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Energy Conversion Congress and Exposition, 1941-1946, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:qjMakFHDy7sC",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13258905669602863135",
+            "cites_id": [
+                "13258905669602863135"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupled current model and control of modular multilevel converters",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Industrial Electronics 62 (9), 5382-5392, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 100,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=865495553742162494",
+            "cites_id": [
+                "865495553742162494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of arm capacitor voltages in modular multilevel converters",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Power Electronics 31 (2), 1774-1784, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6700390748280665984",
+            "cites_id": [
+                "6700390748280665984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Module implementation and modulation strategy for sensorless balancing in modular multilevel converters",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Power Electronics 34 (9), 8405-8416, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14047441602657191440",
+            "cites_id": [
+                "14047441602657191440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed balancing control for modular multilevel series/parallel converter with capability of sensorless operation",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Energy Conversion Congress and Exposition (ECCE), 1787-1793, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:8k81kl-MbHgC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6979522027633749556",
+            "cites_id": [
+                "6979522027633749556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupled current control of modular multilevel converter for HVDC applications",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Symposium on Industrial Electronics, 1979-1984, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6054777074989320526",
+            "cites_id": [
+                "6054777074989320526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modular multilevel series/parallel converter for a wide frequency range operation",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Power Electronics 34 (10), 9854-9865, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3886067780273546389",
+            "cites_id": [
+                "3886067780273546389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current injection methods for ripple-current suppression in delta-configured split-battery energy storage",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Power Electronics 34 (8), 7411-7421, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:Zph67rFs4hoC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4790077439215530774",
+            "cites_id": [
+                "4790077439215530774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage-balancing approach with improved harmonic performance for modular multilevel converters",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Power Electronics 32 (8), 5878-5884, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:UebtZRa9Y70C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13871173398483450105",
+            "cites_id": [
+                "13871173398483450105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DC voltage balance control in a modular multilevel cascaded converter",
+                "pub_year": "2012",
+                "citation": "2012 IEEE international symposium on industrial electronics, 1973-1978, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10829749535776322340",
+            "cites_id": [
+                "10829749535776322340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel cascaded converter based on current source H-bridges cells",
+                "pub_year": "2012",
+                "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15953187135039669765",
+            "cites_id": [
+                "15953187135039669765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partial-Power Converter Topology of Type II for Efficient Electric Vehicle Fast Charging",
+                "pub_year": "2021",
+                "citation": "IEEE Journal of Emerging and Selected Topics in Power Electronics, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:IWHjjKOFINEC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3757209384408956036",
+            "cites_id": [
+                "3757209384408956036"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ripple current suppression methods for star-configured modular multilevel converters",
+                "pub_year": "2017",
+                "citation": "IECON 2017-43rd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3243580985964268201",
+            "cites_id": [
+                "3243580985964268201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of modular multilevel series/parallel converter for battery systems",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Energy Conversion Congress and Exposition (ECCE), 5685-5691, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10699578286066970071",
+            "cites_id": [
+                "10699578286066970071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Capacitor voltage balance of MMC converters in bidirectional power flow operation",
+                "pub_year": "2012",
+                "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5849212442795350881",
+            "cites_id": [
+                "5849212442795350881"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modulation and control of series/parallel module for ripple-current reduction in star-configured split-battery applications",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Power Electronics 35 (12), 12977-12987, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9520954466023577443",
+            "cites_id": [
+                "9520954466023577443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel series/parallel converter with switched-inductor energy transfer between modules",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Power Electronics 34 (5), 4844-4852, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16847392477844382135",
+            "cites_id": [
+                "16847392477844382135"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Different parallel connections generated by the Modular Multilevel Series/Parallel Converter: an overview",
+                "pub_year": "2019",
+                "citation": "IECON 2019-45th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2555300843301702947",
+            "cites_id": [
+                "2555300843301702947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage balancing of a modular neutral-point-clamped converter with a carrier-based modulation scheme",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Power Electronics 33 (10), 8208-8212, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11942302892860412833",
+            "cites_id": [
+                "11942302892860412833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel series/parallel converter for bipolar DC distribution and transmission",
+                "pub_year": "2020",
+                "citation": "IEEE Journal of Emerging and Selected Topics in Power Electronics 9 (2 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2260910330232726957",
+            "cites_id": [
+                "2260910330232726957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular Multilevel Converter based on 5-level submodule with DC fault blocking capability",
+                "pub_year": "2016",
+                "citation": "IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:roLk4NBRz8UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12380075032450558453",
+            "cites_id": [
+                "12380075032450558453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel converter based on current source H-bridge cells implemented with low cost reversing conducting IGCT",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Energy Conversion Congress and Exposition, 3363-3367, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12589925607770613107",
+            "cites_id": [
+                "12589925607770613107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Capacitor voltage balancing method for modular multilevel converter with flying capacitor submodules",
+                "pub_year": "2017",
+                "citation": "2017 IEEE international conference on industrial technology (ICIT), 60-65, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6354737889727773510",
+            "cites_id": [
+                "6354737889727773510"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of voltage balancing versus energy balancing approach for modular multilevel converters",
+                "pub_year": "2016",
+                "citation": "IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14293692597492929079",
+            "cites_id": [
+                "14293692597492929079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of HVDC transmission system based on MMC with three-level flying capacitor submodule",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Industrial Technology (ICIT), 3046-3051, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18284108275712575061",
+            "cites_id": [
+                "18284108275712575061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular multilevel converter machine drive using current source H-bridges",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071528184466083712",
+            "cites_id": [
+                "5071528184466083712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid energy storage system based on modular multilevel series parallel converter",
+                "pub_year": "2022",
+                "citation": "IECON 2022\u201348th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13204778180674954231",
+            "cites_id": [
+                "13204778180674954231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of MMC-HVDC transmission system operating with local variables",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 23rd International Symposium on Industrial Electronics (ISIE \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6420208078284811701",
+            "cites_id": [
+                "6420208078284811701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Energy Storage System based on a Multi-Output Multilevel Converter",
+                "pub_year": "2023",
+                "citation": "IEEE Journal of Emerging and Selected Topics in Power Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16790522436837056046",
+            "cites_id": [
+                "16790522436837056046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alternative Feedback Quantizer Using Space Vector Modulation",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Conference on Industrial Technology (ICIT), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13069436215477594519",
+            "cites_id": [
+                "13069436215477594519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage Balancing of 5 Level Modular Flying Capacitor Converter With a Carrier-Based Modulation Scheme",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:aqlVkmm33-oC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9727216854801053151",
+            "cites_id": [
+                "9727216854801053151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bipolar-type DC microgrids for high-quality power distribution",
+                "pub_year": "2018",
+                "citation": "DC Distribution Systems and Microgrids, 245-266, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13369619282118384804",
+            "cites_id": [
+                "13369619282118384804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-Phase MMC Based on Modular Multilevel Series/Parallel Converter for Back to Back Power Systems",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hexagonal Power Converter Based on Modular Multilevel Series Parallel Converter for Decoupled DC Terminals",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular Multilevel Series-Parallel Converter with Parallel-Connected Phases and Coupled Inductors for High-Current Applications",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart-Building Applications: Deep Learning-Based, Real-Time Load Monitoring",
+                "pub_year": "2021",
+                "citation": "IEEE INDUSTRIAL ELECTRONICS MAGAZINE 15 (2), 37-51, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extension Topologies for Modular Multilevel Series/Parallel Converter With Switched-Inductor Energy Transfer Between Modules",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EMI/EMC",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPECIAL ISSUE ON MODULAR MULTILEVEL CONVERTERS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uQ16sMcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 6
+    }
+}

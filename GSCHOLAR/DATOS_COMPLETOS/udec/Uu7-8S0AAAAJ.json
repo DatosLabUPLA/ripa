@@ -1,0 +1,139 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Uu7-8S0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier C\u00e1rdenas",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Image processing",
+        "embedded systems",
+        "reconfigurable hardware design",
+        "computer architecture"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 155,
+    "citedby5y": 111,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 12,
+        "2018": 29,
+        "2019": 24,
+        "2020": 28,
+        "2021": 23,
+        "2022": 17,
+        "2023": 14,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-dimensional decoy-state quantum key distribution over multicore telecommunication fibers",
+                "pub_year": "2017",
+                "citation": "Physical Review A 96 (2), 022317, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 133,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10791219884818297481",
+            "cites_id": [
+                "10791219884818297481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded registration of visible and infrared images in real time for noninvasive skin cancer screening",
+                "pub_year": "2017",
+                "citation": "Microprocessors and Microsystems 55, 70-81, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4850968225490061717",
+            "cites_id": [
+                "4850968225490061717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded multimodal registration of visible images on long-wave infrared video in real time",
+                "pub_year": "2016",
+                "citation": "2016 Euromicro Conference on Digital System Design (DSD), 176-183, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14096512920550103953",
+            "cites_id": [
+                "14096512920550103953"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A custom hardware classifier for bruised apple detection in hyperspectral images",
+                "pub_year": "2015",
+                "citation": "Applications of Digital Image Processing XXXVIII 9599, 766-776, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13131727307841605605",
+            "cites_id": [
+                "13131727307841605605"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multimodal image registration between SWIR and LWIR images in an embedded system",
+                "pub_year": "2018",
+                "citation": "2018 21st Euromicro Conference on Digital System Design (DSD), 91-98, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9597846237456619291",
+            "cites_id": [
+                "9597846237456619291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multimodal registration of visible, SWIR and LWIR images in a distributed smart camera system",
+                "pub_year": "2020",
+                "citation": "Microprocessors and Microsystems 73, 102987, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Uu7-8S0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "9MNfah0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nestor S\u00e1nchez Goycochea",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9MNfah0AAAAJ&citpid=2",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Numerical Analysis",
+        "Mixed Finite Elements",
+        "Hybridizable Discontinuous Galerkin",
+        "Computational Fluid Dynamics"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://www.researchgate.net/profile/Nestor-Sanchez-Goycochea",
+    "citedby": 45,
+    "citedby5y": 43,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 4,
+        "2021": 9,
+        "2022": 15,
+        "2023": 9,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y1lcwVEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Oyarz\u00faa",
+            "affiliation": "Universidad del Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N_Z4QEsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tonatiuh S\u00e1nchez-Vizuet",
+            "affiliation": "The University of Arizona. Department of Mathematics."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NX5yi50AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Solano",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7FNfdxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel N. Gatica",
+            "affiliation": "Professor and Researcher, CI\u00b2MA and Departamento de Ingenieria Matematica, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "D6wcghgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Caucao",
+            "affiliation": "Assistant Professor, Departamento de Matem\u00e1tica y F\u00edsica Aplicadas, Universidad Cat\u00f3lica de la"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fully-mixed formulation for the steady double-diffusive convection system based upon Brinkman\u2013Forchheimer equations",
+                "pub_year": "2020",
+                "citation": "Journal of Scientific Computing 85 (2), 44, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6697060325764888998",
+            "cites_id": [
+                "6697060325764888998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of an augmented mixed-FEM for the Navier\u2013Stokes\u2013Brinkman problem",
+                "pub_year": "2018",
+                "citation": "Computers & Mathematics with Applications 75 (7), 2420-2444, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5450134254775797985,10858662153065077637",
+            "cites_id": [
+                "5450134254775797985",
+                "10858662153065077637"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of an unfitted HDG method for semi-linear elliptic problems",
+                "pub_year": "2021",
+                "citation": "Numerische Mathematik 148 (4), 919-958, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12285525281648687506",
+            "cites_id": [
+                "12285525281648687506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of an unfitted HDG method for a class of non-linear elliptic problems",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 90 (3), 92, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17173743761146576010",
+            "cites_id": [
+                "17173743761146576010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Afternote to \u201cCoupling at a Distance\u201d: Convergence Analysis and A Priori Error Estimates",
+                "pub_year": "2022",
+                "citation": "Computational Methods in Applied Mathematics 22 (4), 945-970, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2405583348320747572",
+            "cites_id": [
+                "2405583348320747572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Friction Stir Welding of Curved Plates",
+                "pub_year": "1999",
+                "citation": "1999 NASA/ASEE Summer Faculty Fellowship Program, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vacuum in Plane and Curved Space-Times",
+                "pub_year": "1987",
+                "citation": "Vth Brazilian School of Cosmology and Gravitation, 343, 1987"
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an unfitted HDG method for no-linear elliptic problems in curved domains",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9MNfah0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

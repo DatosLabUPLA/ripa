@@ -1,0 +1,170 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "GFS6fv4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Franco Jorquera",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "rob\u00f3tica m\u00f3vil"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 10
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zqJKF2EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "C\u00e9sar Leonardo Guevara",
+            "affiliation": "University of Lincoln, Lincoln Institute for Agri-food Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0FZ0cZQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Krzysztof Walas",
+            "affiliation": "Assistant Professor, Institute of Robotics and Machine Intelligence, Poznan University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F7KkYr4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nestor N. Deniz",
+            "affiliation": "AC3E de la USM"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust control strategy for generalized N-trailer vehicles based on a dual-stage disturbance observer",
+                "pub_year": "2023",
+                "citation": "Control Engineering Practice 131, 105382, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15109091204440754623",
+            "cites_id": [
+                "15109091204440754623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioremoval of copper by filamentous fungi isolated from contaminated soils of Puchuncav\u00ed-Ventanas Central Chile",
+                "pub_year": "2023",
+                "citation": "Environmental Geochemistry and Health 45 (7), 4275-4293, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5419142451816934291",
+            "cites_id": [
+                "5419142451816934291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Addition of Trichoderma consortia to Chilean endemic flora compost teas strongly enhances in vitro and in vivo biocontrol of phytopathogenic fungi",
+                "pub_year": "2023",
+                "citation": "Journal of Applied Microbiology 134 (3), lxad011, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14071296910470930839",
+            "cites_id": [
+                "14071296910470930839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive path-following framework for generalised N-trailer vehicles in the presence of dynamic obstacles modelled as soft constraints",
+                "pub_year": "2024",
+                "citation": "Authorea Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive path-following controller for Generalised N-Trailer vehicles with noisy sensors and disturbances",
+                "pub_year": "2024",
+                "citation": "Control Engineering Practice 142, 105747, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimisation-based Reference Generation for Off-tracking Minimisation of Generalised N-trailers Vehicles",
+                "pub_year": "2023",
+                "citation": "Authorea Preprints, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absolute joint-angle estimation of Generalised N-Trailer vehicles equipped with incremental encoders using moving horizon estimation",
+                "pub_year": "2023",
+                "citation": "ISA transactions 143, 678-691, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote Instantaneous Power Consumption Estimation of Electric Vehicles from Satellite Information",
+                "pub_year": "2023",
+                "citation": "Robotics 12 (6), 151, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GFS6fv4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

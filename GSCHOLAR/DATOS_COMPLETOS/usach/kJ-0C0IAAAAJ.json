@@ -1,0 +1,123 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kJ-0C0IAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto Ortega Aguilera",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Flexible Multibody Dynamics",
+        "Contact Mechanics",
+        "Numerical Simulation"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 4,
+    "citedby5y": 0,
+    "hindex": 1,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2012": 1,
+        "2013": 1,
+        "2014": 0,
+        "2015": 0,
+        "2016": 0,
+        "2017": 1,
+        "2018": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy considerations for the stabilization of constrained mechanical systems with velocity projection",
+                "pub_year": "2010",
+                "citation": "Multibody Dynamics: Computational Methods and Applications, 153-171, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8332639131669301990",
+            "cites_id": [
+                "8332639131669301990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulaci\u00f3n conservativa de restricciones en sistemas multicuerpo",
+                "pub_year": "2006",
+                "citation": "Trabajo de investigaci\u00f3n) Universidad Polit\u00e9cnica de Madrid, Madrid, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9439140317544139254",
+            "cites_id": [
+                "9439140317544139254"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulaci\u00f3n del Contacto en Sistemas Multicuerpo mediante Superficies Impl\u00edcitas",
+                "pub_year": "2014",
+                "citation": "Mec\u00e1nica Computacional 33 (36), 2367-2367, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tratamiento consistente de restricciones e impacto en din\u00e1mica de sistemas multicuerpo",
+                "pub_year": "2013",
+                "citation": "Caminos, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis din\u00e1mico de l\u00e1minas planas",
+                "pub_year": "2003",
+                "citation": "Universidad de Concepci\u00f3n, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mec\u00e1nica Computacional, Volume XXXIII. Number 36. Multibody Systems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kJ-0C0IAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

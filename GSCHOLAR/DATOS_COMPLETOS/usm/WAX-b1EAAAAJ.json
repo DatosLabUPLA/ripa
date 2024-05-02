@@ -1,0 +1,318 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WAX-b1EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pavez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WAX-b1EAAAAJ&citpid=5",
+    "affiliation": "Graduate Student. Universidad T\u00e9cnica Federico Santa Mar\u00eda.",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Probability and Statistics"
+    ],
+    "email_domain": "@alumnos.usm.cl",
+    "citedby": 845,
+    "citedby5y": 783,
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 10,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2016": 6,
+        "2017": 16,
+        "2018": 32,
+        "2019": 106,
+        "2020": 182,
+        "2021": 170,
+        "2022": 168,
+        "2023": 116,
+        "2024": 41
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximating likelihood ratios with calibrated discriminative classifiers",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1506.02169, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 201,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355372284103512784",
+            "cites_id": [
+                "10355372284103512784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constraining effective field theories with machine learning",
+                "pub_year": "2018",
+                "citation": "Physical review letters 121 (11), 111801, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 186,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16478558520658200622",
+            "cites_id": [
+                "16478558520658200622"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A guide to constraining effective field theories with machine learning",
+                "pub_year": "2018",
+                "citation": "Physical Review D 98 (5), 052004, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 165,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1302547549587204116",
+            "cites_id": [
+                "1302547549587204116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mining gold from implicit models to improve likelihood-free inference",
+                "pub_year": "2020",
+                "citation": "Proceedings of the National Academy of Sciences 117 (10), 5242-5249, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 163,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862948520861870522",
+            "cites_id": [
+                "13862948520861870522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Likelihood-free inference with an improved cross-entropy estimator",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1808.00973, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7730860926358835546",
+            "cites_id": [
+                "7730860926358835546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working memory networks: Augmenting memory networks with a relational reasoning module",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1805.09354, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11890266934883284115",
+            "cites_id": [
+                "11890266934883284115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective LHC measurements with matrix elements and machine learning",
+                "pub_year": "2020",
+                "citation": "Journal of Physics: Conference Series 1525 (1), 012022, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:WF5omc3nYNoC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2554894140766765935",
+            "cites_id": [
+                "2554894140766765935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large scale cathodic exfoliation of graphite using deep eutectic solvent and water mixture",
+                "pub_year": "2018",
+                "citation": "Fullerenes, Nanotubes and Carbon Nanostructures 26 (2), 123-129, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:UebtZRa9Y70C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3522953565945663203",
+            "cites_id": [
+                "3522953565945663203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experiments using machine learning to approximate likelihood ratios for mixture models",
+                "pub_year": "2016",
+                "citation": "Journal of Physics: Conference Series 762 (1), 012034, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3870073031623569378",
+            "cites_id": [
+                "3870073031623569378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "carl: a likelihood-free inference toolbox.",
+                "pub_year": "2016",
+                "citation": "J. Open Source Softw. 1 (1), 11, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18437998050768627442",
+            "cites_id": [
+                "18437998050768627442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WriteWise: software that guides scientific writing",
+                "pub_year": "2020",
+                "citation": "DE LING\u00dc\u00cdSTICA COMPUTACIONAL Y DE CORPUS, 332, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209242975294118298",
+            "cites_id": [
+                "12209242975294118298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sentence encoders as a method for helping users identify and improve semantic similarity in bio-medical text",
+                "pub_year": "2020",
+                "citation": "DE LING\u00dc\u00cdSTICA COMPUTACIONAL Y DE CORPUS, 327, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A deep-learning model for discursive segmentation shows high accuracies for sentences classification in biomedical scientific papers",
+                "pub_year": "2020",
+                "citation": "DE LING\u00dc\u00cdSTICA COMPUTACIONAL Y DE CORPUS, 32, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WriteWise: software that guides scientific writing",
+                "pub_year": "2020",
+                "citation": "Actas III Congreso Internacional de Ling\u00fc\u00edstica Computacional y de Corpus \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constraining Effective Field Theories with Machine Learning",
+                "pub_year": "2018",
+                "citation": "Physical Review Letters 121 (arXiv: 1805.00013), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural networks for the reconstruction and separation of high energy particles in a preshower calorimeter",
+                "pub_year": "2018",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximating likelihood ratios with calibrated classifiers",
+                "pub_year": "2016",
+                "citation": "Second Machine Learning in High Energy Physics Summer School 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revealing the collaborative dynamics of a large-scale arXiv text collection by means of k-shell decomposition",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Working Memory Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WAX-b1EAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

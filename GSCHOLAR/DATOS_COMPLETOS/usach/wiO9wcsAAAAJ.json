@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wiO9wcsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Parra",
+    "affiliation": "Candidato a doctor, Universidad de Santiago",
+    "organization": 605437563739143535,
+    "interests": [
+        "Ciencia de datos espacial"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 4,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de proveniencia y ambiente de dep\u00f3sito de las unidades sedimentarias de la Isla Diego de Almagro (51'30\u00b0 S)",
+                "pub_year": "2015",
+                "citation": "Universidad de Chile, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "wiO9wcsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16425930739149755445",
+            "cites_id": [
+                "16425930739149755445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and evaluation of the susceptibility to landslide events using machine learning algorithms in the province of Cha\u00f1aral, Atacama region, Chile",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (24), 16806, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wiO9wcsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15626360798277699060",
+            "cites_id": [
+                "15626360798277699060"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

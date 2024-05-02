@@ -1,0 +1,91 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "z0zDjYEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Isis Vivanco",
+    "affiliation": "Ayudante de investigaci\u00f3n, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Fluidos",
+        "ondas"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generation of gravity waves by pedal-wavemakers",
+                "pub_year": "2021",
+                "citation": "Fluids 6 (6), 222, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "z0zDjYEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12009562787485810476",
+            "cites_id": [
+                "12009562787485810476"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Highly peaked resonance in a synchrotron water waveguide",
+                "pub_year": "2023",
+                "citation": "Bulletin of the American Physical Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "z0zDjYEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pedal underwater motion triggers highly-peaked resonance on water waves",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2209.00748, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "z0zDjYEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generation of Water Waves by Underwater Multi-Point Action",
+                "pub_year": "2019",
+                "citation": "APS Division of Fluid Dynamics Meeting Abstracts, Q01. 008, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "z0zDjYEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

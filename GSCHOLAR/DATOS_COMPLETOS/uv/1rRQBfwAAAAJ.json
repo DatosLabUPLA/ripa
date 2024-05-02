@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1rRQBfwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilo Ravelo",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "IA",
+        "Machine learning",
+        "Metaheuristics"
+    ],
+    "email_domain": "@uv.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A learning\u2014based particle swarm optimizer for solving mathematical combinatorial problems",
+                "pub_year": "2023",
+                "citation": "Axioms 12 (7), 643, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1rRQBfwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15511032649296678701",
+            "cites_id": [
+                "15511032649296678701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Escaping Stagnation through Improved Orca Predator Algorithm with Deep Reinforcement Learning for Feature Selection",
+                "pub_year": "2024",
+                "citation": "Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1rRQBfwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orca Predator Algorithm for Feature Selection",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Computational Methods in Systems and Software, 26-34, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1rRQBfwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

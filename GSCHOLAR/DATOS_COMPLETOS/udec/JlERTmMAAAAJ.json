@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JlERTmMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Leonardo Vargas Ovando",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Geographic information systems",
+        "Hydrology",
+        "Natural resource economics",
+        "Remote sensing",
+        "Water valuation"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 22,
+    "citedby5y": 22,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 7,
+        "2022": 4,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water demand in the Chilean manufacturing industry: analysis of the economic value of water and demand elasticities",
+                "pub_year": "2020",
+                "citation": "Water resources and economics 32, 100159, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JlERTmMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215258319829362717",
+            "cites_id": [
+                "14215258319829362717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valor econ\u00f3mico del agua en la industria manufacturera chilena: Enfoque de productividad marginal de factores.",
+                "pub_year": "2015",
+                "citation": "Universidad de Concepci\u00f3n., 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JlERTmMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cambios y din\u00e1mica de uso del suelo en un \u00e1rea de agricultura bajo riego. Sistema de riego Canal Biob\u00edo-Negrete, regi\u00f3n del Biob\u00edo, Chile",
+                "pub_year": "2010",
+                "citation": "Universidad de Concepci\u00f3n, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "JlERTmMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

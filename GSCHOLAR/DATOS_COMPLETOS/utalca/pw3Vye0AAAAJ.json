@@ -1,0 +1,112 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pw3Vye0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto D\u00edaz",
+    "affiliation": "universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "algebraic geometry"
+    ],
+    "email_domain": "@utalca.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the automorphism group of non-necessarily normal affine toric varieties",
+                "pub_year": "2024",
+                "citation": "International Mathematics Research Notices 2024 (2), 1624-1649, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "pw3Vye0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6553341438385102732",
+            "cites_id": [
+                "6553341438385102732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On toric ind-varieties and pro-affine semigroups",
+                "pub_year": "2021",
+                "citation": "Journal of Algebra 569, 442-465, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pw3Vye0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2409787257188329459",
+            "cites_id": [
+                "2409787257188329459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topologically integrable derivations and additive group actions on affine ind-schemes",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2012.14302, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "pw3Vye0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5827667678198648505",
+            "cites_id": [
+                "5827667678198648505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the characterization of affine toric varieties by their automorphism group",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.08040, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pw3Vye0AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Derivations on the algebras of the one-point compactification of affine semigroups",
+                "pub_year": "2022",
+                "citation": "Communications in Algebra 50 (7), 3164-3177, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pw3Vye0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

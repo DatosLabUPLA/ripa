@@ -1,0 +1,2234 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rc8K-IwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jean-Gabriel Minonzio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rc8K-IwAAAAJ&citpid=3",
+    "affiliation": "Universidad de Valparaiso (d\u00e9tachement CNRS Laboratoire Imagerie Biom\u00e9dicale (LIB) Sorbonne",
+    "organization": 17388732461633852730,
+    "interests": [
+        "ultrasound",
+        "guided waves",
+        "cortical bone",
+        "signal processing",
+        "machine learning"
+    ],
+    "email_domain": "@uv.cl",
+    "homepage": "https://informatica.uv.cl/10-escuela/academicos-jornada-completa/234-jean-gabriel-minonzio",
+    "citedby": 1654,
+    "citedby5y": 855,
+    "hindex": 24,
+    "hindex5y": 17,
+    "i10index": 37,
+    "i10index5y": 22,
+    "cites_per_year": {
+        "2005": 7,
+        "2006": 7,
+        "2007": 5,
+        "2008": 33,
+        "2009": 42,
+        "2010": 57,
+        "2011": 38,
+        "2012": 47,
+        "2013": 56,
+        "2014": 103,
+        "2015": 81,
+        "2016": 95,
+        "2017": 91,
+        "2018": 124,
+        "2019": 206,
+        "2020": 123,
+        "2021": 208,
+        "2022": 190,
+        "2023": 103,
+        "2024": 25
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VAQIBw0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "P Laugier",
+            "affiliation": "Sorbonne Universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X6AkNigAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claire Prada",
+            "affiliation": "Directrice de Recherche"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vc0Z600AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mathias Fink",
+            "affiliation": "Institut Langevin, ESPCI Paris, PSL University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2oE9VlcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josquin Foiret",
+            "affiliation": "Department of Radiology, Stanford University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lTcawHIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Bochud",
+            "affiliation": "Institut Langevin - Ondes et Images"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2428PJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kailiang Xu (\u8bb8\u51ef\u4eae)",
+            "affiliation": "Department of Biomedical Engineering, Fudan University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oe5EVLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kay Raum",
+            "affiliation": "Charit\u00e9 - Universit\u00e4tsmedizin Berlin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7iQp_xIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexandre Aubry",
+            "affiliation": "Institut Langevin - ESPCI Paris, CNRS UMR7587"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Zv-ApRYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Quentin Grimal",
+            "affiliation": "Sorbonne Universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MCxmycQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Follet H\u00e9l\u00e8ne",
+            "affiliation": "Inserm"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w42I3ZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yohann Bala",
+            "affiliation": "University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WCz_ATQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Mitton",
+            "affiliation": "Univ Lyon, Univ Gustave Eiffel, Univ Claude Bernard Lyon 1, LBMC UMR_T9406,  F69622 \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "E-rHSVEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Olivares Ordenes",
+            "affiliation": "Escuela de Ingenier\u00eda Inform\u00e1tica, Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "37vTQFMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Moreau Ludovic",
+            "affiliation": "Assistant Professor, University Grenoble Alpes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "K_zhRIYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthieu Davy",
+            "affiliation": "IETR, Universit\u00e9 de Rennes 1."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zYvd7DUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Audren Boulm\u00e9",
+            "affiliation": "MODULEUS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TjSt42YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "adrien etcheto",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qH8tuZAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "karine briot",
+            "affiliation": "Hopital Cochin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-gqc8dAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Emmanuel Bossy",
+            "affiliation": "Professor, LIPhy, Universit\u00e9 Grenoble Alpes, CNRS, France"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XJeBt7MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karine Bruy\u00e8re",
+            "affiliation": "Ifsttar-TS2, LBMC, Site de Lyon-Bron"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "E-kfQRsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "gianluca iori",
+            "affiliation": "Beamline Scientist, Synchrotron-light for Experimental Science and Applications in the \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iLaBvHQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Riquelme",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QGnIJQona2sC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Danilo Carvajal",
+            "affiliation": "Universidad de La Serena"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9j05SPgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simon Bernard",
+            "affiliation": "Universit\u00e9 du Havre, Laboratoire Ondes et Milieux Complexes (LOMC)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guided wave phase velocity measurement using multi-emitter and multi-receiver arrays in the axial transmission configuration",
+                "pub_year": "2010",
+                "citation": "The Journal of the Acoustical Society of America 127 (5), 2913-2919, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 126,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13986007598026887361",
+            "cites_id": [
+                "13986007598026887361"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combined estimation of thickness and velocities using ultrasound guided waves: A pioneering study on in vitro cortical bone samples",
+                "pub_year": "2014",
+                "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 61 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:blknAaTinKkC",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9806858596610356519",
+            "cites_id": [
+                "9806858596610356519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental detection and focusing in shallow water by decomposition of the time reversal operator",
+                "pub_year": "2007",
+                "citation": "The Journal of the Acoustical Society of America 122 (2), 761-768, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4327428868958730817",
+            "cites_id": [
+                "4327428868958730817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting bone strength with ultrasonic guided waves",
+                "pub_year": "2017",
+                "citation": "Scientific reports 7 (1), 43628, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 78,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14993754478783244806",
+            "cites_id": [
+                "14993754478783244806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of attenuation on guided mode wavenumber measurement in axial transmission on bone mimicking plates",
+                "pub_year": "2011",
+                "citation": "The Journal of the Acoustical Society of America 130 (6), 3574-3582, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 72,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7563007256623821701",
+            "cites_id": [
+                "7563007256623821701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sparse SVD method for high-resolution extraction of the dispersion curves of ultrasonic guided waves",
+                "pub_year": "2016",
+                "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 63 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14155639342536033032",
+            "cites_id": [
+                "14155639342536033032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bone cortical thickness and porosity assessment using ultrasound guided waves: An ex vivo validation study",
+                "pub_year": "2018",
+                "citation": "Bone 116, 111-119, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:SP6oXDckpogC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11374509220754203171",
+            "cites_id": [
+                "11374509220754203171"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In Vivo Characterization of Cortical Bone Using Guided Waves Measured by Axial Transmission",
+                "pub_year": "2016",
+                "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 63 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:u_35RYKgDlwC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2141960688881248495",
+            "cites_id": [
+                "2141960688881248495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultrasound\u2010based estimates of cortical bone thickness and porosity are associated with nontraumatic fractures in postmenopausal women: a pilot study",
+                "pub_year": "2019",
+                "citation": "Journal of Bone and Mineral Research 34 (9), 1585-1596, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14630872034709787123",
+            "cites_id": [
+                "14630872034709787123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of noise on subwavelength imaging of two close scatterers using time reversal method: Theory and experiments",
+                "pub_year": "2009",
+                "citation": "Progress In Electromagnetics Research 98, 333-358, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8806200574410075402",
+            "cites_id": [
+                "8806200574410075402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic algorithms-based inversion of multimode guided waves for cortical bone characterization",
+                "pub_year": "2016",
+                "citation": "Physics in Medicine & Biology 61 (19), 6953, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14471950878581753920",
+            "cites_id": [
+                "14471950878581753920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of subwavelength elastic cylinders with the decomposition of the time-reversal operator: Theory and experiment",
+                "pub_year": "2005",
+                "citation": "The Journal of the Acoustical Society of America 117 (2), 789-798, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13513707474171356093",
+            "cites_id": [
+                "13513707474171356093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vivo measurements of cortical thickness and porosity at the proximal third of the tibia using guided waves: Comparison with site-matched peripheral quantitative computed \u2026",
+                "pub_year": "2019",
+                "citation": "Ultrasound in medicine & biology 45 (5), 1234-1242, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:WbkHhVStYXYC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394333963782297326",
+            "cites_id": [
+                "15394333963782297326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of guided mode wavenumbers in soft tissue\u2013bone mimicking phantoms using ultrasonic axial transmission",
+                "pub_year": "2012",
+                "citation": "Physics in Medicine & Biology 57 (10), 3025, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9710813851654341381",
+            "cites_id": [
+                "9710813851654341381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "eHomeSeniors dataset: An infrared thermal sensor dataset for automatic fall detection research",
+                "pub_year": "2019",
+                "citation": "Sensors 19 (20), 4565, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13759920137345302906",
+            "cites_id": [
+                "13759920137345302906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring the wavenumber of guided modes in waveguides with linearly varying thickness",
+                "pub_year": "2014",
+                "citation": "The Journal of the Acoustical Society of America 135 (5), 2614-2624, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:k_IJM867U9cC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12654646031761245909",
+            "cites_id": [
+                "12654646031761245909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispersive radon transform",
+                "pub_year": "2018",
+                "citation": "The Journal of the Acoustical Society of America 143 (5), 2729-2743, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:dshw04ExmUIC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402868992079118338",
+            "cites_id": [
+                "16402868992079118338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel processing for dispersion curves extraction of ultrasonic axial-transmission signals: Comparisons and case studies",
+                "pub_year": "2016",
+                "citation": "The Journal of the Acoustical Society of America 140 (3), 1758-1770, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4210658404275891717",
+            "cites_id": [
+                "4210658404275891717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A free plate model can predict guided modes propagating in tubular bone-mimicking phantoms",
+                "pub_year": "2015",
+                "citation": "The Journal of the Acoustical Society of America 137 (1), EL98-EL104, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:GnPB-g6toBAC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10978837487933713847",
+            "cites_id": [
+                "10978837487933713847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A capacitive micromachined ultrasonic transducer probe for assessment of cortical bone",
+                "pub_year": "2014",
+                "citation": "IEEE transactions on ultrasonics, ferroelectrics, and frequency control 61 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:maZDTaKrznsC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12375894054302623294",
+            "cites_id": [
+                "12375894054302623294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gaussian beams and Legendre polynomials as invariants of the time reversal operator for a large rigid cylinder",
+                "pub_year": "2006",
+                "citation": "The Journal of the Acoustical Society of America 120 (5), 2746-2754, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15188324427455280023",
+            "cites_id": [
+                "15188324427455280023"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proceedings of Meetings on Acoustics",
+                "pub_year": "2009",
+                "citation": "Proceedings of Meetings on Acoustics 6 (032001), 1, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17832824675414408713,17601870238482784697",
+            "cites_id": [
+                "17832824675414408713",
+                "17601870238482784697"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ex vivo cortical porosity and thickness predictions at the tibia using full-spectrum ultrasonic guided-wave analysis",
+                "pub_year": "2019",
+                "citation": "Archives of osteoporosis 14, 1-11, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:738O_yMBCRsC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17828560301035090765",
+            "cites_id": [
+                "17828560301035090765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Roof-integrated dew water harvesting in Combarbal\u00e1, Chile",
+                "pub_year": "2018",
+                "citation": "Journal of Water Supply: Research and Technology - AQUA 67 (4), 357-374, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:tOudhMTPpwUC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2076837722301593802",
+            "cites_id": [
+                "2076837722301593802"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic classifying of patients with non-traumatic fractures based on ultrasonic guided wave spectrum image using a dynamic support vector machine",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 194752-194764, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:geHnlv5EZngC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7566401947453601869",
+            "cites_id": [
+                "7566401947453601869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of an elastic cylinder and an elastic sphere with the time-reversal operator: application to the sub-resolution limit",
+                "pub_year": "2008",
+                "citation": "Inverse Problems 24 (2), 025014, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13450802629313763682",
+            "cites_id": [
+                "13450802629313763682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple scattering between two elastic cylinders and invariants of the time-reversal operator: Theory and experiment",
+                "pub_year": "2006",
+                "citation": "The Journal of the Acoustical Society of America 120 (2), 875-883, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10972552090821754313",
+            "cites_id": [
+                "10972552090821754313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guided waves in cortical bone",
+                "pub_year": "2011",
+                "citation": "Bone quantitative ultrasound, 147-179, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:lSLTfruPkqcC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14583968579671420799",
+            "cites_id": [
+                "14583968579671420799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate measurement of guided modes in a plate using a bidirectional approach",
+                "pub_year": "2014",
+                "citation": "The Journal of the Acoustical Society of America 135 (1), EL15-EL21, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12496789343793903861",
+            "cites_id": [
+                "12496789343793903861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispersion characteristics of the flexural wave assessed using low frequency (50\u2013150 kHz) point-contact transducers: A feasibility study on bone-mimicking phantoms",
+                "pub_year": "2017",
+                "citation": "Ultrasonics 81, 1-9, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8976034366061585501",
+            "cites_id": [
+                "8976034366061585501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bone quantitative ultrasound",
+                "pub_year": "2011",
+                "citation": "Guided Waves in Cortical Bones (Springer, New York, 2010), 147-179, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12921069229633771295",
+            "cites_id": [
+                "12921069229633771295"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of an elastic target in a shallow water waveguide by decomposition of the time-reversal operator",
+                "pub_year": "2008",
+                "citation": "The Journal of the Acoustical Society of America 124 (2), 779-787, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=326895185066321341",
+            "cites_id": [
+                "326895185066321341"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of circumferential guided waves in a cylindrical cortical bone-mimicking phantom",
+                "pub_year": "2012",
+                "citation": "The Journal of the Acoustical Society of America 131 (4), EL289-EL294, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:ufrVoPGSRksC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14475371572365710912",
+            "cites_id": [
+                "14475371572365710912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D\u00e9composition de l'Op\u00e9rateur de Retournement Temporel appliqu\u00e9e \u00e0 l'imagerie et \u00e0 la caract\u00e9risation ultrasonore",
+                "pub_year": "2006",
+                "citation": "Universit\u00e9 Paris-Diderot-Paris VII, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9833634780892380073",
+            "cites_id": [
+                "9833634780892380073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical bone quality assessment using quantitative ultrasound on long bones",
+                "pub_year": "2012",
+                "citation": "2012 Annual International Conference of the IEEE Engineering in Medicine and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14164743963648026442",
+            "cites_id": [
+                "14164743963648026442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of guided mode wave vectors by analysis of the transfer matrix obtained with multi-emitters and multi-receivers in contact",
+                "pub_year": "2011",
+                "citation": "Journal of physics: Conference series 269 (1), 012003, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4557523313235850198",
+            "cites_id": [
+                "4557523313235850198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental study of the invariants of the time-reversal operator for a dielectric cylinder using separate transmit and receive arrays",
+                "pub_year": "2010",
+                "citation": "IEEE transactions on antennas and propagation 58 (4), 1349-1356, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18006715850858765926",
+            "cites_id": [
+                "18006715850858765926"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvement of patient classification using feature selection applied to bidirectional axial transmission",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 69 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:1qzjygNMrQYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10633088320253877201",
+            "cites_id": [
+                "10633088320253877201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-destructive assessment of human ribs mechanical properties using quantitative ultrasound",
+                "pub_year": "2014",
+                "citation": "Journal of Biomechanics 47 (6), 1548-1553, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:IWHjjKOFINEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10097886324873007811",
+            "cites_id": [
+                "10097886324873007811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theory of the time-reversal operator for a dielectric cylinder using separate transmit and receive arrays",
+                "pub_year": "2009",
+                "citation": "IEEE transactions on antennas and propagation 57 (8), 2331-2340, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4556107144580765556",
+            "cites_id": [
+                "4556107144580765556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using low-resolution non-invasive infrared sensors to classify activities and falls in older adults",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (6), 2321, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1099493665968349084",
+            "cites_id": [
+                "1099493665968349084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low frequency cMUT technology: Application to measurement of brain movement and assessment of bone quality",
+                "pub_year": "2013",
+                "citation": "IRBM 34 (2), 159-166, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15468312606581369621",
+            "cites_id": [
+                "15468312606581369621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of a time reversal mirror for medium scale experiments",
+                "pub_year": "2005",
+                "citation": "Europe Oceans 2005 2, 1210-1213, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12900498406465038032",
+            "cites_id": [
+                "12900498406465038032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HER2 classification in breast cancer cells: A new explainable machine learning application for immunohistochemistry",
+                "pub_year": "2023",
+                "citation": "Oncology Letters 25 (2), 1-9, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:bnK-pcrLprsC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490532478335588907",
+            "cites_id": [
+                "4490532478335588907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vivo pulse-echo measurement of apparent broadband attenuation and Q factor in cortical bone: a preliminary study",
+                "pub_year": "2021",
+                "citation": "Physics in Medicine & Biology 66 (15), 155002, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:LPZeul_q3PIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12782360581921878267",
+            "cites_id": [
+                "12782360581921878267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multichannel wideband mode-selective excitation of ultrasonic guided waves in long cortical bone",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Ultrasonics Symposium (IUS), 1-4, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:yD5IFk8b50cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13482121024953655946",
+            "cites_id": [
+                "13482121024953655946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for the measurement of dispersion curves of circumferential guided waves radiating from curved shells: experimental validation and application to a femoral neck \u2026",
+                "pub_year": "2016",
+                "citation": "Physics in Medicine & Biology 61 (13), 4746, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:rO6llkc54NcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11710587315568526837",
+            "cites_id": [
+                "11710587315568526837"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circumferential guided wave measurements of a cylindrical fluid-filled bone-mimicking phantom",
+                "pub_year": "2014",
+                "citation": "The Journal of the Acoustical Society of America 135 (2), 994-1001, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:8k81kl-MbHgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12282234096472394974",
+            "cites_id": [
+                "12282234096472394974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid FDTD-Rayleigh integral computational method for the simulation of the ultrasound measurement of proximal femur",
+                "pub_year": "2014",
+                "citation": "Ultrasonics 54 (5), 1197-1202, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=90740919069145175",
+            "cites_id": [
+                "90740919069145175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultrasonic method and device for characterizing a medium",
+                "pub_year": "2015",
+                "citation": "US Patent 9,121,810, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9853688855601570973",
+            "cites_id": [
+                "9853688855601570973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vivo measurements of guided waves at the forearm",
+                "pub_year": "2014",
+                "citation": "2014 IEEE International Ultrasonics Symposium, 931-934, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:BqipwSGYUEgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020256352612545745",
+            "cites_id": [
+                "17020256352612545745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-invasive assessment of human ribs mechanical properties",
+                "pub_year": "2011",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 14 (sup1), 195-196, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449621597367124847",
+            "cites_id": [
+                "2449621597367124847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposition of the time-reversal operator applied to quantitative characterization of small elastic cylinders",
+                "pub_year": "2005",
+                "citation": "Proc. IEEE Ultrasonics Symposium, 1147-1150, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12153294365586748551",
+            "cites_id": [
+                "12153294365586748551"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First tests of the DORT method at 12 kHz in a shallow water waveguide",
+                "pub_year": "2005",
+                "citation": "Europe Oceans 2005 2, 1205-1209, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8318226353664044222",
+            "cites_id": [
+                "8318226353664044222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of dispersion curves of circumferential guided waves radiating from curved shells: Theory and numerical validation",
+                "pub_year": "2016",
+                "citation": "The Journal of the Acoustical Society of America 139 (2), 790-799, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13014838443528423411",
+            "cites_id": [
+                "13014838443528423411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of guided mode phase velocities using multi-emitters and multi-receivers arrays in contact and transmission matrix analysis",
+                "pub_year": "2009",
+                "citation": "2009 IEEE International Ultrasonics Symposium, 1-4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2753073216822172416",
+            "cites_id": [
+                "2753073216822172416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of the DORT method to the detection and characterization of two targets in a shallow water wave-guide",
+                "pub_year": "2005",
+                "citation": "Europe Oceans 2005 2, 1001-1006, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11622231039316791088",
+            "cites_id": [
+                "11622231039316791088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fracture discrimination using cortical thickness and porosity index obtained with ultrasound.",
+                "pub_year": "2017",
+                "citation": "Journal of Bone and Mineral Research 32, S245-S245, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:KxtntwgDAa4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6303184820723091625",
+            "cites_id": [
+                "6303184820723091625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sparse inversion SVD method for dispersion extraction of ultrasonic guided waves in cortical bone",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-3, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:70eg2SAEIzsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16256564233313950240",
+            "cites_id": [
+                "16256564233313950240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial transmission measurements of guided modes on bone phantoms and in vitro human bone specimen",
+                "pub_year": "2013",
+                "citation": "Proceedings of Meetings on Acoustics 19 (1), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13639231006001109155",
+            "cites_id": [
+                "13639231006001109155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling of finite difference elastodynamic and semi-analytic Rayleigh integral codes for the modeling of ultrasound propagation at the hip",
+                "pub_year": "2013",
+                "citation": "The Journal of the Acoustical Society of America 133 (5_Supplement), 3498-3498, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:r0BpntZqJG4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17007561778573859593,6648506850665084694",
+            "cites_id": [
+                "17007561778573859593",
+                "6648506850665084694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi\u2010emitters and multi\u2010receivers probe for long cortical bone assessment.",
+                "pub_year": "2010",
+                "citation": "The Journal of the Acoustical Society of America 127 (3_Supplement), 2032-2032, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3344294068418590825,3849164496379945678",
+            "cites_id": [
+                "3344294068418590825",
+                "3849164496379945678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of a multi-frequency sequence of measurements on first arriving signal velocity on a bone plate model",
+                "pub_year": "2009",
+                "citation": "2009 IEEE International Ultrasonics Symposium, 574-577, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2605432682073801824",
+            "cites_id": [
+                "2605432682073801824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orthogonal Matching Pursuit based Sparse Dispersive Radon Transform for Ultrasonic Guided Mode Extraction",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Ultrasonics Symposium (IUS), 1-4, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:5ugPr518TE4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14571951925223229815",
+            "cites_id": [
+                "14571951925223229815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real Time Waveguide Parameter Estimation Using Sparse Multimode Disperse Radon Transform",
+                "pub_year": "2021",
+                "citation": "2021 IEEE UFFC Latin America Ultrasonics Symposium (LAUS), 1-4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16175931261020127894",
+            "cites_id": [
+                "16175931261020127894"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extraction of the first-arriving-signal and fundamental flexural guided wave using a radon transform based approach applied to ultrasonic characterization of cortical bone",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Ultrasonics Symposium (IUS), 1-4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:D_sINldO8mEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7143011921634618764",
+            "cites_id": [
+                "7143011921634618764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ex vivo radius fracture discrimination from cortical thickness and porosity obtained by axial transmission",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Ultrasonics Symposium (IUS), 1-4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:p2g8aNsByqUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=496011533271688655",
+            "cites_id": [
+                "496011533271688655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An anisotropic bilayer model to gain insight into in-vivo guided wave measurements",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-4, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:ldfaerwXgEUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16261933753222623620",
+            "cites_id": [
+                "16261933753222623620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multisite ultrasound axial transmission study in postmenopausal women using optimized first arriving signal velocity measurements",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-4, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11851619380949105212",
+            "cites_id": [
+                "11851619380949105212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical estimation of femoral neck cortical bone thickness based on time domain topological energy and sparse signal approximation",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-4, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18136124160879930298",
+            "cites_id": [
+                "18136124160879930298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of basic to clinical studies of quantitative ultrasound of cortical bone",
+                "pub_year": "2015",
+                "citation": "Journal of the Acoustical Society of America 137 (4_Supplement), 2285-2285, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2188581093535015273",
+            "cites_id": [
+                "2188581093535015273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards cortical bone biomarkers using measurement of guided waves at the forearm",
+                "pub_year": "2014",
+                "citation": "Journal of Orthopaedic Translation 4 (2), 238, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7395591939507873948",
+            "cites_id": [
+                "7395591939507873948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of bone properties from Lamb type of waves",
+                "pub_year": "2013",
+                "citation": "The Journal of the Acoustical Society of America 133 (5_Supplement), 3585-3585, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3664036359834862065",
+            "cites_id": [
+                "3664036359834862065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultrasound based assessment of cortical bone: A multi-mode and multi-frequency approach: The ANR-TECSAN EVA project",
+                "pub_year": "2010",
+                "citation": "Itbm Rbm 31 (2), 92-96, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:HDshCWvjkbEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11578932596688636927",
+            "cites_id": [
+                "11578932596688636927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decompostion of the time reversal operator applied to detection and focusing in a 12\u2010m\u2010deep channel in Brest Bay",
+                "pub_year": "2006",
+                "citation": "The Journal of the Acoustical Society of America 119 (5_Supplement), 3428-3429, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5819783340967395414",
+            "cites_id": [
+                "5819783340967395414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high frequency time reversal array deployment in a very shallow water environment",
+                "pub_year": "2005",
+                "citation": "The Journal of the Acoustical Society of America 117 (4_Supplement), 2462-2462, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5839419064983084280",
+            "cites_id": [
+                "5839419064983084280"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bi-Directional Axial Transmission measurements applied in a clinical environment",
+                "pub_year": "2022",
+                "citation": "Plos one 17 (12), e0277831, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:XiVPGOgt02cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10463641578656642778",
+            "cites_id": [
+                "10463641578656642778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Can guided wave ultrasound predict bone mechanical properties at the femoral neck in patients undergoing hip arthroplasty?",
+                "pub_year": "2022",
+                "citation": "Journal of the mechanical behavior of biomedical materials 136, 105468, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:J-pR_7NvFogC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=631779016175638503",
+            "cites_id": [
+                "631779016175638503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified homogenization model applied to viscoelastic behavior of cortical bone at ultrasonic frequencies",
+                "pub_year": "2022",
+                "citation": "Journal of Biomechanics 131, 110868, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:eflP2zaiRacC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3586247537054831154",
+            "cites_id": [
+                "3586247537054831154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection of Bone fragility-Related Features Obtained with Bi-Directional Axial Transmission, Through a Machine Learning Strategy",
+                "pub_year": "2021",
+                "citation": "2021 IEEE UFFC Latin America Ultrasonics Symposium (LAUS), 1-3, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15111679166535928762",
+            "cites_id": [
+                "15111679166535928762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bi-directional Axial Transmission measurements is an easy to apply methodology allowing risk assessment of fracture in elderly",
+                "pub_year": "2020",
+                "citation": "Hal Open Science, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:8AbLer7MMksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18433359251628526399",
+            "cites_id": [
+                "18433359251628526399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultrasound method and device for representing the propagation of ultrasound waves in a guide of linearly variable thickness",
+                "pub_year": "2019",
+                "citation": "US Patent 10,365,246, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17933548146528266700",
+            "cites_id": [
+                "17933548146528266700"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In Vivo Estimation of Cortical Thickness and Porosity by Axial Transmission: Comparison with High Resolution Computed Tomography",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Ultrasonics Symposium (IUS), 1-4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3511088658867129064",
+            "cites_id": [
+                "3511088658867129064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long Cortical Bone Fracture Evaluation Using Ultrasonic Guided Waves: A Tubular Phantom Study",
+                "pub_year": "2018",
+                "citation": "6th International Conference on the Development of Biomedical Engineering in \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:abG-DnoFyZgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17930273482471618730",
+            "cites_id": [
+                "17930273482471618730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human tibial cortical thickness can predict its strength",
+                "pub_year": "2016",
+                "citation": "22d congress of the European Society of Biomechanics, 1 p, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8352111117124073338",
+            "cites_id": [
+                "8352111117124073338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical thickness and porosity assessment using guided waves measured by axial transmission: an ex vivo study",
+                "pub_year": "2016",
+                "citation": "22nd Congress of the European Society of Biomechanics (ESB), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:f2IySw72cVMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5357435268703124933",
+            "cites_id": [
+                "5357435268703124933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prospective discrimination of vertebral fractures by axial transmission ultrasound using optimized first arriving signal velocity measurements",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Ultrasonics Symposium (IUS), 1-4, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2634024407165570479",
+            "cites_id": [
+                "2634024407165570479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Imaging of the femoral neck cortical bone based on iterative time domain topological energy",
+                "pub_year": "2015",
+                "citation": "The Journal of the Acoustical Society of America 138 (3_Supplement), 1747-1747, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4602162169291002227",
+            "cites_id": [
+                "4602162169291002227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A genetic algorithms-based optimization method for estimating thickness and porosity of cortical bone from guided wave measurements",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-4, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:M05iB0D1s5AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15175019269668205792",
+            "cites_id": [
+                "15175019269668205792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale assessment of cortical bone properties with quantitative ultrasound",
+                "pub_year": "2015",
+                "citation": "Journal of the Acoustical Society of America 137 (4_Supplement), 2286-2287, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551907255902543412",
+            "cites_id": [
+                "6551907255902543412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of elastic guided waves using an axial transmission method: Performance comparison between PZT and cMUT technologies",
+                "pub_year": "2014",
+                "citation": "2014 IEEE International Ultrasonics Symposium, 2100-2103, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2021620554710959331",
+            "cites_id": [
+                "2021620554710959331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of bone properties from Lamb type of waves",
+                "pub_year": "2013",
+                "citation": "Proceedings of Meetings on Acoustics 19 (1), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17534062379148037486",
+            "cites_id": [
+                "17534062379148037486"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guided mode measurement on bone phantoms with realistic geometry",
+                "pub_year": "2011",
+                "citation": "2011 IEEE International Ultrasonics Symposium, 1610-1613, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10584768964930809497",
+            "cites_id": [
+                "10584768964930809497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement of guided mode wave numbers in anisotropic absorbing material: Application to cortical bone evaluation",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Ultrasonics Symposium, 2159-2162, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10176728687277217288",
+            "cites_id": [
+                "10176728687277217288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of small flaws in solids with the DORT method",
+                "pub_year": "2008",
+                "citation": "AIP Conference Proceedings 975 (1), 778-785, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4666571251971418873",
+            "cites_id": [
+                "4666571251971418873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposition of the time\u2010reversal operator in the Rayleigh limit",
+                "pub_year": "2007",
+                "citation": "The Journal of the Acoustical Society of America 121 (5_Supplement), 3047-3047, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15550176915328938480",
+            "cites_id": [
+                "15550176915328938480"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Machine Learning method to quantify tissue quality and correct bias due to preanalytical process applied to HER2 Immunohistochemistry diagnosis in breast cancer",
+                "pub_year": "2024",
+                "citation": "Authorea Preprints, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current Challenges in Ultrasound Imaging of Cortical Bone Thickness",
+                "pub_year": "2023",
+                "citation": "Academic Radiology 30 (12), 3162-3164, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BDAT \u2013 a robust tool to examine bone fragility",
+                "pub_year": "2023",
+                "citation": "Research Features 150, 58-61, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Hip Fragility Fractures in Older Adults Using an Ultrasonic Device",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Ultrasonics Symposium (IUS), 1-4, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances in phase-array based wideband multimodal dispersion curves extraction and plate-waveguide parameter inversion",
+                "pub_year": "2022",
+                "citation": "The Journal of the Acoustical Society of America 152 (4), A268-A268, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Systematic approach to improve Support Vector Machine applied to ultrasonic guided wave spectrum image classification",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Ultrasonics Symposium (IUS), 1-3, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vivo cortical parameter measurement at the one-third distal radius using HR-pQCT and ultrasonic axial transmission",
+                "pub_year": "2020",
+                "citation": "Bone Reports 13, 100315, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HAL Id: hal-02110320",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Notice of Removal: The elastic properties of human cortical bone measured by resonant ultrasound spectroscopy at multiple skeletal sites",
+                "pub_year": "2017",
+                "citation": "2017 IEEE International Ultrasonics Symposium (IUS), 1-1, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Session 26: Biosignal processing and monitoring II",
+                "pub_year": "2017",
+                "citation": "Biomedical Engineering/Biomedizinische Technik 62 (s1), s253-s255, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient dispersion analysis of guided waves in cortical bone",
+                "pub_year": "2016",
+                "citation": "The Journal of the Acoustical Society of America 140 (4_Supplement), 3078-3078, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:a0OBvERweLwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bone cortical thickness and porosity assessment using guided waves-based axial transmission technique",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Ultrasonics Symposium, 1 p, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investissement social: repenser la protection sociale. Introduction",
+                "pub_year": "2016",
+                "citation": "Informations sociales 2016 (192), 4-7, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative ultrasound yields biomarkers of bone mechanical competence",
+                "pub_year": "2015",
+                "citation": "CFM 2015-22\u00e8me Congr\u00e8s Fran\u00e7ais de M\u00e9canique, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrimination of fractured from non-fractured post-menopausal women using guided wave-based ultrasound: A pilot clinical study",
+                "pub_year": "2015",
+                "citation": "2015 6th European Symposium on Ultrasonic Characterization of Bone, 1-3, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procede et dispositif ultrasonores pour caracteriser un milieu",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design, characterization and test of a multi-transmitters, multi-receivers probe based on cMUTs for cortical bone evaluation",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Ultrasonics Symposium, 1-4, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispersion curve measurements of a fluid filled femoral neck mimicking phantom",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Ultrasonics Symposium, 1023-1026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subject-specific bone mechanical properties: is there an alternative to X-rays modalities?",
+                "pub_year": "2012",
+                "citation": "Virtual Physiological Human 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bone properties determination from guided wave velocities: an in vitro test case study",
+                "pub_year": "2012",
+                "citation": "Acoustics 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of a bone mimicking phantom by means of circumferential guided waves dispersion curves",
+                "pub_year": "2012",
+                "citation": "Acoustics 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Progress and challenges in axial transmission measurements of guided modes in cortical bone",
+                "pub_year": "2012",
+                "citation": "The Journal of the Acoustical Society of America 131 (4_Supplement), 3424-3424, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Les op\u00e9rateurs de l\u2019\u00e9valuation \u00e9conomique et de l\u2019am\u00e9lioration de la qualit\u00e9 des soins en Europe",
+                "pub_year": "2011",
+                "citation": "Experts, expertises et sant\u00e9 publique: entre diff\u00e9rentes acceptions et \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circumferential guided wave measurement in a cortical bone-mimicking cylindrical phantom",
+                "pub_year": "2011",
+                "citation": "2011 IEEE International Ultrasonics Symposium, 1036-1039, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mesure des courbes de dispersion des ondes guid\u00e9es circonf\u00e9rentielles dans une coque elliptique par retournement temporel",
+                "pub_year": "2011",
+                "citation": "CFM 2011-20\u00e8me Congr\u00e8s Fran\u00e7ais de M\u00e9canique, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispositif pour la d\u00e9termination de facteurs de qualit\u00e9 osseuse (\u00e9paisseurs corticales, vitesses) par ultrasons: approche multimodale et multifr\u00e9quence: le projet ANR-TecSan EVA",
+                "pub_year": "2010",
+                "citation": "Irbm 31 (2), 92-96, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the invariants of the time-reversal operator for a dielectric cylinder using separate transmit and receive arrays: theory and experiments",
+                "pub_year": "2009",
+                "citation": "2009 International Radar Conference\" Surveillance for a Safer World\"(RADAR \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Invariants of the time-reversal operator for a dielectric cylinder using different Tx and Rx arrays",
+                "pub_year": "2009",
+                "citation": "2009 IEEE Antennas and Propagation Society International Symposium, 1-4, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guided waves analysis using multiemitter and multireceiver arrays.",
+                "pub_year": "2009",
+                "citation": "The Journal of the Acoustical Society of America 125 (4_Supplement), 2651-2651, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Invariants of the time reversal operator for an elastic target in a water waveguide",
+                "pub_year": "2008",
+                "citation": "The Journal of the Acoustical Society of America 123 (5_Supplement), 3186-3186, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection and target echo enhancement in shallow water using the Decomposition of the Time Reversal Operator",
+                "pub_year": "2007",
+                "citation": "The Journal of the Acoustical Society of America 121 (5_Supplement), 3085-3085, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETECTION AND FOCUSING WITH THE DORT METHOD IN A REAL SHALLOW WATER ENVIRONMENT",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposition of the time reversal operator applied to subwavelength localization of scatterers",
+                "pub_year": "2004",
+                "citation": "The Journal of the Acoustical Society of America 116 (4_Supplement), 2568-2568, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of scattering object with the decomposition of the time\u2010reversal operator: Theory and experiment",
+                "pub_year": "2004",
+                "citation": "The Journal of the Acoustical Society of America 115 (5_Supplement), 2596-2596, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circumferential guided wave measurements of a cylindrical",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sparse SVD Method for High Resolution Extraction of the Dispersion Curves of Ultrasonic Guided 2",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long Cortical Bone Fracture Evaluation using Ultrasonic Guided Waves: Modeling and Experiments in Free Pipes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rc8K-IwAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 10,
+        "not_available": 5
+    }
+}

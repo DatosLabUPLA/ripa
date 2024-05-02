@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JqV4LggAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Stella Moisan",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JqV4LggAAAAJ&citpid=1",
+    "affiliation": "Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "economic sciences",
+        "time series econometrics"
+    ],
+    "email_domain": "@utalca.cl",
+    "citedby": 70,
+    "citedby5y": 69,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 9,
+        "2020": 13,
+        "2021": 19,
+        "2022": 14,
+        "2023": 11,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic multiple equation approach for forecasting PM2. 5 pollution in Santiago, Chile",
+                "pub_year": "2018",
+                "citation": "International Journal of Forecasting 34 (4), 566-581, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JqV4LggAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4340180345446277797",
+            "cites_id": [
+                "4340180345446277797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic multiple equation approach for forecasting PM2. 5 pollution in Santiago, Chile (vol 34, pg 566, 2018)",
+                "pub_year": "2021",
+                "citation": "INTERNATIONAL JOURNAL OF FORECASTING 37 (3), 1331-1331, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JqV4LggAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

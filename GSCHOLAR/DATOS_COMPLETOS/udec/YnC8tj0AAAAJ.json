@@ -1,0 +1,483 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YnC8tj0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Esteban Cea-Klapp",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YnC8tj0AAAAJ&citpid=3",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Thermodynamics",
+        "Equation of State",
+        "SAFT",
+        "Molecular Simulation",
+        "Deep eutectic solvents"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 157,
+    "citedby5y": 157,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 5,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2019": 5,
+        "2020": 1,
+        "2021": 10,
+        "2022": 44,
+        "2023": 63,
+        "2024": 34
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p7Ruh58AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Mat\u00edas Garrido",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s_sG3p8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ilya Polishuk",
+            "affiliation": "Department of Chemical Engineering, Biotechnology and Materials, Ariel University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1ZMDDq8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "H\u00e9ctor Quinteros-Lama",
+            "affiliation": "Departamento de Tecnolog\u00edas Industriales, Universidad de Talca. Merced 437, 3341717, Curic\u00f3, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "j2YSiZgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto I. Canales",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "awH9t5sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s F. Gajardo-Parra",
+            "affiliation": "Laboratory of Thermodynamics, Department of Biochemical and Chemical Engineering, Technische"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iUVtsUMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christoph Held",
+            "affiliation": "Thermodynamics, TU Dortmund University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7lyMVXcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel M Pi\u00f1eiro",
+            "affiliation": "Universidade de Vigo, Spain"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of thermodynamic properties and phase equilibria in systems of deep eutectic solvents by PC-SAFT EoS",
+                "pub_year": "2020",
+                "citation": "Industrial & Engineering Chemistry Research 59 (51), 22292-22300, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5345506357616954273",
+            "cites_id": [
+                "5345506357616954273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of CP-PC-SAFT and CS-SAFT-VR-Mie for Predicting the Thermodynamic Properties of C1\u2013C3 Halocarbon Systems. II. Inter-Relation between \u2026",
+                "pub_year": "2021",
+                "citation": "Industrial & Engineering Chemistry Research 60 (35), 13084-13093, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17722567707143969662",
+            "cites_id": [
+                "17722567707143969662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into the orientation and hydrogen bond influence on thermophysical and transport properties in choline-based deep eutectic solvents and methanol",
+                "pub_year": "2022",
+                "citation": "Journal of Molecular Liquids 345, 117019, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10935341714697711235",
+            "cites_id": [
+                "10935341714697711235"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of CP-PC-SAFT and CS-SAFT-VR-Mie for Predicting Thermodynamic Properties of C1\u2013C3 Halocarbon Systems. I. Pure Compounds and Mixtures \u2026",
+                "pub_year": "2021",
+                "citation": "Industrial & Engineering Chemistry Research 60 (26), 9624-9636, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14727693141679917684",
+            "cites_id": [
+                "14727693141679917684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of CP-PC-SAFT and SAFT-VR-Mie in predicting phase equilibria of binary systems comprising gases and 1-alkyl-3-methylimidazolium ionic liquids",
+                "pub_year": "2021",
+                "citation": "Molecules 26 (21), 6621, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2665129969481235808",
+            "cites_id": [
+                "2665129969481235808"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some observations regarding the association kernel of SAFT-VR-Mie. Is the molecularly inspired contribution always necessary?",
+                "pub_year": "2018",
+                "citation": "Industrial & Engineering Chemistry Research 57 (46), 15869-15883, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2629866782313743832",
+            "cites_id": [
+                "2629866782313743832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of water and hydrogen bond acceptor on the density and viscosity of glycol-based eutectic solvents",
+                "pub_year": "2023",
+                "citation": "Journal of Molecular Liquids 389, 122856, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4595167039650365738",
+            "cites_id": [
+                "4595167039650365738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interfacial properties of fluorinated (F)-gases in azeotropic condition",
+                "pub_year": "2022",
+                "citation": "Journal of Molecular Liquids 350, 118604, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13648107290258609778",
+            "cites_id": [
+                "13648107290258609778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interfacial properties of deep eutectic solvents by density gradient theory",
+                "pub_year": "2022",
+                "citation": "Industrial & Engineering Chemistry Research 61 (6), 2580-2591, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3912977480054410593",
+            "cites_id": [
+                "3912977480054410593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Osmolyte effect on enzymatic stability and reaction equilibrium of formate dehydrogenase",
+                "pub_year": "2022",
+                "citation": "Physical Chemistry Chemical Physics 24 (45), 27930-27939, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13798527773804960993",
+            "cites_id": [
+                "13798527773804960993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of SAFT-VR-Mie and CP-PC-SAFT in Estimating the Phase Behavior of Acetone + n-Alkane Systems",
+                "pub_year": "2020",
+                "citation": "Industrial & Engineering Chemistry Research 59 (49), 21567-21578, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15353459510261678868",
+            "cites_id": [
+                "15353459510261678868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the activity of horseradish peroxidase in betaine-based natural deep eutectic systems",
+                "pub_year": "2023",
+                "citation": "RSC Sustainability 1 (4), 886-897, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15913020397829088271",
+            "cites_id": [
+                "15913020397829088271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular modelling techniques for predicting liquid\u2013liquid interfacial properties of methanol plus alkane (n-hexane, n-heptane, n-octane) mixtures",
+                "pub_year": "2020",
+                "citation": "Physical Chemistry Chemical Physics 22 (46), 27121-27133, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12444770049716684350",
+            "cites_id": [
+                "12444770049716684350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaling theories for predicting the viscosity of binary and ternary refrigerant mixtures",
+                "pub_year": "2023",
+                "citation": "International Journal of Refrigeration 155, 73-80, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2734781653032055552",
+            "cites_id": [
+                "2734781653032055552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Hansen solubility parameters in deep eutectic solvents for solubility predictions",
+                "pub_year": "2023",
+                "citation": "Journal of Molecular Liquids 388, 122669, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17360976308245570299",
+            "cites_id": [
+                "17360976308245570299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous prediction of vapor-liquid and liquid-liquid phase equilibria in systems of ionic liquids belonging to [Cnmim][BF4] and [Cnmim][PF6] families by CP-PC-SAFT and \u2026",
+                "pub_year": "2022",
+                "citation": "Journal of Molecular Liquids 365, 120141, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17128753313872354675",
+            "cites_id": [
+                "17128753313872354675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Separation of furfuryl alcohol from water using hydrophobic deep eutectic solvents",
+                "pub_year": "2023",
+                "citation": "Journal of Molecular Liquids 384, 122232, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9927809076323702101",
+            "cites_id": [
+                "9927809076323702101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface anomalies in ethanol plus n-octane mixture: An effect of molecular orientations and hydrogen bonds",
+                "pub_year": "2022",
+                "citation": "Journal of Molecular Liquids 361, 119630, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8563147315460221449",
+            "cites_id": [
+                "8563147315460221449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interfacial properties of hydrogen-methane system from inhomogeneous fluid theories",
+                "pub_year": "2021",
+                "citation": "International Journal of Hydrogen Energy 46 (80), 39719-39727, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12255199250758603316",
+            "cites_id": [
+                "12255199250758603316"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Separation of Isoeugenol from Methylcyclohexane as a Model Mixture of Biojet Fuel Purification: Solvent Selection and Liquid\u2013Liquid Equilibrium",
+                "pub_year": "2023",
+                "citation": "Industrial & Engineering Chemistry Research 62 (30), 12006-12020, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7064865149887662993",
+            "cites_id": [
+                "7064865149887662993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular Insights into the Wettability and Adsorption of Acid Gas\u2013Water Mixture",
+                "pub_year": "2024",
+                "citation": "The Journal of Physical Chemistry B, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modulation of protein-saccharide interactions by deep-sea osmolytes under high pressure stress",
+                "pub_year": "2024",
+                "citation": "International Journal of Biological Macromolecules 255, 128119, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction to \u201cComparison of CP-PC-SAFT and CS-SAFT-VR-Mie in Predicting Fluid Phase Behavior in Systems of Phenolic Compounds, Aromatic Amines, Acetophenone, and Benzaldehyde\u201d",
+                "pub_year": "2023",
+                "citation": "Industrial & Engineering Chemistry Research 62 (40), 16521-16521, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of CP-PC-SAFT and CS-SAFT-VR-Mie in Predicting Fluid Phase Behavior in Systems of Phenolic Compounds, Aromatic Amines, Acetophenone, and Benzaldehyde",
+                "pub_year": "2023",
+                "citation": "Industrial & Engineering Chemistry Research 62 (30), 11977-11991, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of size disparity on the gas-liquid interfacial properties of Lennard-Jones monomer plus dimer mixtures",
+                "pub_year": "2020",
+                "citation": "Journal of Molecular Liquids 311, 113280, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YnC8tj0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 2
+    }
+}

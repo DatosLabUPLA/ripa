@@ -17,5 +17,7 @@ Dentro del codigo principal se encuentran 3 funciones principales
 
 3.- main(): funcion principal que compara las universidades terminadas con las que estan por terminar y en base a las universidades restantes se corre el codigo para guardar informacion faltante
 
+guardar la info en dos log nuevo uno de autor y otro de universidades
 
+resta conjuntos 
 

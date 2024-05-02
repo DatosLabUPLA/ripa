@@ -1,0 +1,103 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ail54Y8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Arturo Morales",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ail54Y8AAAAJ&citpid=3",
+    "affiliation": "M.Sc. Student, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Electronic Engineering",
+        "Automatic Control",
+        "System Identification",
+        "Instrumentation"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalable and accurate method for neuronal ensemble detection in spiking neural networks",
+                "pub_year": "2021",
+                "citation": "Plos one 16 (7), e0251647, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ail54Y8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11720320006005828364",
+            "cites_id": [
+                "11720320006005828364"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Glottal Airflow Estimation using Neck Surface Acceleration and Low-Order Kalman Smoothing",
+                "pub_year": "2023",
+                "citation": "IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ail54Y8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7404979004761402481",
+            "cites_id": [
+                "7404979004761402481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced order modeling for glottal airflow estimation using a Kalman smoother",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ail54Y8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1712891005655025191",
+            "cites_id": [
+                "1712891005655025191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalable and accurate automated method for neuronal ensemble detection in spiking neural networks",
+                "pub_year": "2020",
+                "citation": "bioRxiv, 2020.10. 12.335901, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ail54Y8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

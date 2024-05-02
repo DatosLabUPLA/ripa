@@ -1,0 +1,149 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "B404yMwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yaime Fern\u00e1ndez Jim\u00e9nez",
+    "affiliation": "PhD Student Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "security in digital communications",
+        "hardware accelerators for scientific computing"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 4,
+        "2023": 9,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zu4sQAQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cecilia Hern\u00e1ndez",
+            "affiliation": "Department of Computer Science, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tRxVpaUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Figueroa",
+            "affiliation": "Professor of Electrical Engineering, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6A5Kd8UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier E. Soto",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xewIFOAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yasmany Prieto Hern\u00e1ndez",
+            "affiliation": "Departamento de Ingenier\u00eda Inform\u00e1tica, Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high-throughput hardware accelerator for network entropy estimation using sketches",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 85823-85838, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15975812802134111562",
+            "cites_id": [
+                "15975812802134111562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A streaming algorithm and hardware accelerator to estimate the empirical entropy of network flows",
+                "pub_year": "2023",
+                "citation": "Computer Networks 237, 110035, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Sketch-Based Algorithm for Network-Flow Entropy Estimation on Programmable Switches Using P4",
+                "pub_year": "2023",
+                "citation": "2023 26th Euromicro Conference on Digital System Design (DSD) DOI: 10.1109 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DESEMPE\u00d1O DE C\u00d3DIGOS CORRECTORES DE ERROR EN LA T\u00c9CNICA SECURE SKETCH PARA LA RECONCILIACI\u00d3N DE LA INFORMACI\u00d3N",
+                "pub_year": "2019",
+                "citation": "Telem\u00e1tica 18 (3), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "T\u00c9CNICAS Y ALGORITMOS PARA LA TRANSMISI\u00d3N EFICIENTE DE DATOS EN REDES RADIO COGNITIVAS.",
+                "pub_year": "2017",
+                "citation": "Anales de la Academia de Ciencias de Cuba, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EVALUACI\u00d3N DE LOS ALGORITMOS DE RENDEZVOUS CIEGO PARA REDES RADIO COGNITIVA",
+                "pub_year": "2016",
+                "citation": "Universidad Central \"Marta Abreu\" de Las Villas. Facultad de Ingenier\u00eda \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "B404yMwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

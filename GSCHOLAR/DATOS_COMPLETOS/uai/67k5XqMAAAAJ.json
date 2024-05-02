@@ -1,0 +1,270 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "67k5XqMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Tamara Fernandez",
+    "affiliation": "Assistant Professor, Adolfo Ibanez University",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Kernel methods",
+        "non-parametric statistics"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 186,
+    "citedby5y": 167,
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 7,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 7,
+        "2018": 10,
+        "2019": 15,
+        "2020": 21,
+        "2021": 40,
+        "2022": 33,
+        "2023": 37,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7yULPkgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s Rivera",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OUv7J6QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arthur Gretton",
+            "affiliation": "Gatsby Computational Neuroscience Unit and Google Deepmind"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y-nUzMwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yee Whye Teh",
+            "affiliation": "Professor of Statistical Machine Learning, Oxford, Research Scientist, DeepMind"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QBI4S8QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wenkai Xu",
+            "affiliation": "Postdoc, Foundations of Machine Learning Systems group, Tuebingen AI Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AF5sexwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marc Ditzhaus",
+            "affiliation": "Otto-von-Guericke-University Magdeburg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "v8Dg1lIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dino Sejdinovic",
+            "affiliation": "Professor of Statistical Machine Learning, University of Adelaide"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gaussian processes for survival analysis",
+                "pub_year": "2016",
+                "citation": "Advances in Neural Information Processing Systems 29, 5021-5029, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1003003481370784505",
+            "cites_id": [
+                "1003003481370784505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kernelized Stein Discrepancy Tests of Goodness-of-fit for Time-to-Event Data",
+                "pub_year": "2020",
+                "citation": "International Conference on Machine Learning, 3112-3122, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2580697566264334186",
+            "cites_id": [
+                "2580697566264334186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A maximum-mean-discrepancy goodness-of-fit test for censored data",
+                "pub_year": "2019",
+                "citation": "The 22nd International Conference on Artificial Intelligence and Statistics \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16071288263640451448",
+            "cites_id": [
+                "16071288263640451448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composite goodness-of-fit tests with kernels",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2111.10275, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5834096909937286247",
+            "cites_id": [
+                "5834096909937286247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A kernel log-rank test of independence for right-censored data",
+                "pub_year": "2021",
+                "citation": "Journal of the American Statistical Association, 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12856827623300677126",
+            "cites_id": [
+                "12856827623300677126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kaplan-Meier V-and U-statistics",
+                "pub_year": "2020",
+                "citation": "Electronic Journal of Statistics 14 (1), 1872-1916, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11142005042367793066",
+            "cites_id": [
+                "11142005042367793066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reproducing kernel Hilbert space log\u2010rank test for the two\u2010sample problem",
+                "pub_year": "2021",
+                "citation": "Scandinavian Journal of Statistics 48 (4), 1384-1432, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12303206658363052938",
+            "cites_id": [
+                "12303206658363052938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A general framework for the analysis of kernel-based tests",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2209.00124, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4678118418155877531",
+            "cites_id": [
+                "4678118418155877531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A kernel test for quasi-independence",
+                "pub_year": "2020",
+                "citation": "Advances in Neural Information Processing Systems 33, 15326-15337, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1643953637342588840",
+            "cites_id": [
+                "1643953637342588840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Posterior Consistency for a Non-parametric Survival Model under a Gaussian Process Prior",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1611.02335, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1821783807935019616",
+            "cites_id": [
+                "1821783807935019616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Multiple kernel testing procedure for non-proportional hazards in factorial designs",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2206.07239, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "67k5XqMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8183406762833368532",
+            "cites_id": [
+                "8183406762833368532"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 0
+    }
+}

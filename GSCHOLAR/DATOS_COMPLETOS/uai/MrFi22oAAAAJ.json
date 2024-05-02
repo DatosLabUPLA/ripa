@@ -1,0 +1,785 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "MrFi22oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andres Peters",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MrFi22oAAAAJ&citpid=4",
+    "affiliation": "Faculty of Engineering and Sciences, Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Control Theory",
+        "Performance Bounds",
+        "String Stability",
+        "Control of Multi-agent Systems"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 466,
+    "citedby5y": 329,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 9,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2009": 2,
+        "2010": 2,
+        "2011": 7,
+        "2012": 6,
+        "2013": 2,
+        "2014": 12,
+        "2015": 17,
+        "2016": 16,
+        "2017": 36,
+        "2018": 37,
+        "2019": 35,
+        "2020": 33,
+        "2021": 65,
+        "2022": 56,
+        "2023": 104,
+        "2024": 36
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1i1ScxEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco J Vargas",
+            "affiliation": "Universidad Tecnica Federico Santa Maria, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XXnd_4YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Richard Middleton",
+            "affiliation": "Professor, University of Newcastle"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FNOcRYQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oliver Mason",
+            "affiliation": "Maynooth University Dept. of Mathematics and Statistics/Hamilton Institute & Lero"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Dq5PxJoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dante Kalise",
+            "affiliation": "Department of Mathematics, Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LVh5SEEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Villenas Cortez",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bKWlH0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Anthony Gord\u00f3n Almeida, PhD",
+            "affiliation": "Federico Santa Mar\u00eda Technical University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AVwEx_0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Young-Pil Choi",
+            "affiliation": "Yonsei University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kov68wMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro I. Maass",
+            "affiliation": "Assistant Professor - Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mf_6J3IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jan Peszek",
+            "affiliation": "Institute of Applied Mathematics and Mechanics, University of Warsaw"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8MJh6JcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Rojas",
+            "affiliation": "Universidad de Concepci\u00f3n, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leader tracking in homogeneous vehicle platoons with broadcast delays",
+                "pub_year": "2014",
+                "citation": "Automatica 50 (1), 64-74, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:WF5omc3nYNoC",
+            "num_citations": 198,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17197110430835366490",
+            "cites_id": [
+                "17197110430835366490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A collisionless singular Cucker--Smale model with decentralized formation control",
+                "pub_year": "2019",
+                "citation": "SIAM Journal on Applied Dynamical Systems 18 (4), 1954-1981, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2545181308156781097",
+            "cites_id": [
+                "2545181308156781097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cyclic interconnection for formation control of 1-D vehicle strings",
+                "pub_year": "2016",
+                "citation": "European Journal of Control 27, 36-44, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:roLk4NBRz8UC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10566635071798354107",
+            "cites_id": [
+                "10566635071798354107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String stability for predecessor following platooning over lossy communication channels",
+                "pub_year": "2018",
+                "citation": "Hong Kong University of Science and Technology, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7921588802381494706",
+            "cites_id": [
+                "7921588802381494706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pl-toon: A low-cost experimental platform for teaching and research on decentralized cooperative control",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (6), 2072, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:blknAaTinKkC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12019945449068781253",
+            "cites_id": [
+                "12019945449068781253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of simple strategies for vehicular platooning with lossy communication",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 103996-104010, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6185720395148372907",
+            "cites_id": [
+                "6185720395148372907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leader velocity tracking and string stability in homogeneous vehicle formations with a constant spacing policy",
+                "pub_year": "2011",
+                "citation": "2011 9th IEEE International Conference on Control and Automation (ICCA), 42-46, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:qjMakFHDy7sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8760090518620848339",
+            "cites_id": [
+                "8760090518620848339"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance bounds in linear control of unstable MIMO systems with pole location constraint",
+                "pub_year": "2008",
+                "citation": "Systems & Control Letters 57 (5), 392-399, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18162459234185887954",
+            "cites_id": [
+                "18162459234185887954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Bounds in H-inf Optimal Control for Stable SISO Plants With Arbitrary Relative Degree",
+                "pub_year": "2009",
+                "citation": "Automatic Control, IEEE Transactions on 54 (8), 1987-1990, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10790122785388777378",
+            "cites_id": [
+                "10790122785388777378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mean square stability conditions for platoons with lossy inter-vehicle communication channels",
+                "pub_year": "2023",
+                "citation": "Automatica 147, 110710, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2893580329172530220",
+            "cites_id": [
+                "2893580329172530220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Platoon stability conditions under inter-vehicle additive noisy communication channels",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 3150-3155, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3249255732742468981",
+            "cites_id": [
+                "3249255732742468981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Normalized-Model Reference System for Parameter Estimation of Induction Motors",
+                "pub_year": "2022",
+                "citation": "Energies 15 (13), 4542, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13408838751453517296",
+            "cites_id": [
+                "13408838751453517296"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability and String Stability Analysis of Formation Control Architectures for Platooning.",
+                "pub_year": "2015",
+                "citation": "National University of Ireland Maynooth, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3699390237014032029",
+            "cites_id": [
+                "3699390237014032029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the error estimates for the finite element approximation of a class of boundary optimal control systems",
+                "pub_year": "2011",
+                "citation": "Numerical functional analysis and optimization 32 (4), 383-396, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13604902112120130326",
+            "cites_id": [
+                "13604902112120130326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leader following with non-homogeneous weights for control of vehicle formations",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Conference on Control Applications (CCA), 109-113, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:UebtZRa9Y70C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5131007592855799323",
+            "cites_id": [
+                "5131007592855799323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance bounds in MIMO linear control with pole location constraint",
+                "pub_year": "2007",
+                "citation": "2007 Mediterranean Conference on Control & Automation, 1-6, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7258931714925011586",
+            "cites_id": [
+                "7258931714925011586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Kalman-based compensation strategy for platoons subject to data loss: Numerical and empirical study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (5), 1228, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402102112501622545",
+            "cites_id": [
+                "9402102112501622545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of speed saturation in a predecessor-following vehicle platoon",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5966546066201968543",
+            "cites_id": [
+                "5966546066201968543"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Time-Delay Observer-Based Control to Estimate Vehicle States: Lateral Vehicle Model",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 110459-110472, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:35N4QoGY0k4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716416039245973359",
+            "cites_id": [
+                "13716416039245973359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensor Calibration and Filtering for an Agent of the PL-TOON Platooning Platform",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6030647263891876117",
+            "cites_id": [
+                "6030647263891876117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Algebraic Formula for Performance Bounds of a Weighted  Optimal Control Problem",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Automatic Control 66 (2), 781-786, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4202889684986802688",
+            "cites_id": [
+                "4202889684986802688"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Cooperative Control Algorithm for Line and Predecessor Following Platoons Subject to Unreliable Distance Measurements",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (4), 801, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:ldfaerwXgEUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7048014342185639466",
+            "cites_id": [
+                "7048014342185639466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collisionless and decentralized formation control for strings",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2102.13621, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5829379492299449141",
+            "cites_id": [
+                "5829379492299449141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constant Time-Headway Spacing Policy with Limited Communication Range for Discrete Time Platoon Systems",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 15198-15203, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15828645572144104253",
+            "cites_id": [
+                "15828645572144104253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low cost experimental platform for the study of scalability issues in multi-agent systems",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10782598098866824849",
+            "cites_id": [
+                "10782598098866824849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance bounds of a SISO H\u221econtrol problem with non-minimum phase plants",
+                "pub_year": "2017",
+                "citation": "2017 11th Asian Control Conference (ASCC), 180-185, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11854398516381170806",
+            "cites_id": [
+                "11854398516381170806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stochastic string stability with applications to platooning over additive noise channels",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.05718, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:D03iK_w7-QYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9715829252595720872",
+            "cites_id": [
+                "9715829252595720872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Role of Sampling Time in String Stabilization for Platooning: An Experimental Case Study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (13), 2923, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7855476733995865861",
+            "cites_id": [
+                "7855476733995865861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical study of a Kalman filtering based strategy for platooning with lossy communication",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:70eg2SAEIzsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6093556247916019831",
+            "cites_id": [
+                "6093556247916019831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String Stability of a PI-controlled Vehicular Platoon",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5632075822321206239",
+            "cites_id": [
+                "5632075822321206239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the eigenvalues of a class of matrices with displacement structure arising in optimal control",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1808.10730, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2393435560024792511",
+            "cites_id": [
+                "2393435560024792511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Lp string stability analysis in predecessor-following platoons under packet losses",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.11043, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RUPU: An Experimental Platform to Study Line-Following Platooning Problems",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LQI Control of a Self Balancing Robot: A Numerical Study of the Impact of the Integral Approximation",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cooperative Identification of Multi-Agent Systems in Presence of Integral Action: Insights from a Two-Agent Framework",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 10216-10221, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Port Hamiltonian based model for platooning applications including air drag effects",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 3917-3922, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Validation of Cooperative Adaptive Cruise Control Schemes Under the Presence of Time Delays",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Two Control Strategies for Platoons with Communication Losses",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String stability of a leader following formation control with dynamic weights",
+                "pub_year": "2017",
+                "citation": "2017 22nd International Conference on Methods and Models in Automation and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cyclic interconnection in 1-D vehicle formation control",
+                "pub_year": "2014",
+                "citation": "2014 European Control Conference (ECC), 1548-1553, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytic characterization of a stabilizing feedback for LTI plants",
+                "pub_year": "2009",
+                "citation": "2009 European Control Conference (ECC), 231-235, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ren\u00e9 Galindo Orozco Optimal Nonlinear Regulation of Euler-Lagrange Dynamic Systems....................... 34 Ren\u00e9 Galindo Orozco and Yaiko Orlando Unufio Torres Comparison of \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leader following with non-homogeneous weights for control of vehicle formations",
+                "citation": "CCA 2016, 0"
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decentralized formation control for the Cucker-Dong model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "MrFi22oAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 2
+    }
+}

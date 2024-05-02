@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "vpusqLAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicolas Camus-Fullerton",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vpusqLAAAAAJ&citpid=1",
+    "affiliation": "Estudiante, Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Space science",
+        "Aging",
+        "BioInformatics",
+        "Optimization Problems"
+    ],
+    "email_domain": "@alumnos.uai.cl",
+    "citedby": 22,
+    "citedby5y": 22,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3,
+        "2021": 2,
+        "2022": 3,
+        "2023": 7,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel system configuration with activated sludge like-geometry to develop aerobic granular biomass under continuous flow",
+                "pub_year": "2018",
+                "citation": "Bioresource technology 267, 778-781, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "vpusqLAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9579506772854578986",
+            "cites_id": [
+                "9579506772854578986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring the stability of aerobic granular sludge using fractal dimension analysis",
+                "pub_year": "2021",
+                "citation": "Environmental Science: Water Research & Technology 7 (4), 706-713, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "vpusqLAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8624409100824266115",
+            "cites_id": [
+                "8624409100824266115"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

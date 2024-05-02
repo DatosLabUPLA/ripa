@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_l5ITgEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mirko Zitkovich",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_l5ITgEAAAAJ&citpid=1",
+    "affiliation": "Master Student, Adolfo Iba\u00f1ez University",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Elastic Optical Networks (EONs)",
+        "Network Resource Management",
+        "allocation strategies",
+        "Routing and Spe"
+    ],
+    "email_domain": "@alumnos.uai.cl",
+    "homepage": "https://www.researchgate.net/profile/Mirko-Zitkovich",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometric constellation shaping in elastic optical networks: performance analysis on resource allocation",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Optical Network Design and Modeling (ONDM), 1-3, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_l5ITgEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=439926817018031983",
+            "cites_id": [
+                "439926817018031983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Input Buffer in Dynamic Elastic Optical Networks",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_l5ITgEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event-Oriented Simulation Module for Dynamic Elastic Optical Networks with Space Division Multiplexing",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_l5ITgEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WU1pslwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Let\u00edcia Lira Tacca",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WU1pslwAAAAJ&citpid=3",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Quantum Optics",
+        "Quantum Information"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 5,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z6cXcTEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thomas Frauenheim",
+            "affiliation": "Professor f\u00fcr Computational Materials Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kpzJuu8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andreia Luisa da Rosa",
+            "affiliation": "Professor de F\u00edsica, Universidade Federal de Goias"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electronic and optical properties of Mn impurities in ultra-thin ZnO nanowires: insights from density-functional theory",
+                "pub_year": "2019",
+                "citation": "Physica E: Low-dimensional Systems and Nanostructures 109, 6-10, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WU1pslwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11157013746948105786",
+            "cites_id": [
+                "11157013746948105786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring Surface Effects in Co Doped ZnO Nanowires With Hybrid\u2010Density Functional Theory",
+                "pub_year": "2018",
+                "citation": "physica status solidi (b) 255 (12), 1800421, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WU1pslwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15792764739657359159",
+            "cites_id": [
+                "15792764739657359159"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid density-functional theory calculations on surface effects in Co doped ZnO nanowires",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1808.02463, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WU1pslwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

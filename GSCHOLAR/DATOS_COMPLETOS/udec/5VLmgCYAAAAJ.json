@@ -1,0 +1,860 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "5VLmgCYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Christian Correa",
+    "affiliation": "Professor, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Artificial Intelligence",
+        "Robotic",
+        "Image processing",
+        "Agricultural engineering"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "http://www.lpftag.upm.es/",
+    "citedby": 416,
+    "citedby5y": 218,
+    "hindex": 8,
+    "hindex5y": 5,
+    "i10index": 8,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2012": 9,
+        "2013": 11,
+        "2014": 22,
+        "2015": 40,
+        "2016": 33,
+        "2017": 37,
+        "2018": 43,
+        "2019": 43,
+        "2020": 33,
+        "2021": 46,
+        "2022": 54,
+        "2023": 35,
+        "2024": 7
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B5nxJ94AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Constantino Valero",
+            "affiliation": "Universidad Polit\u00e9cnica de Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P0YhYL0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Rivera",
+            "affiliation": "Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bk5HgVUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo A. Vel\u00e1squez Cisterna",
+            "affiliation": "UdeC"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uEdct-oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "miguel garrido izard",
+            "affiliation": "UPM"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grapevine yield and leaf area estimation using supervised classification methodology on RGB images taken under field conditions",
+                "pub_year": "2012",
+                "citation": "Sensors 12 (12), 16988-17006, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:4TOpqqG69KYC",
+            "num_citations": 193,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9639291844883714244",
+            "cites_id": [
+                "9639291844883714244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low-cost IoT based environmental monitoring system. A citizen approach to pollution awareness",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN conference on electrical, electronics engineering, information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:fEOibwPWpKIC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825883063265994497",
+            "cites_id": [
+                "5825883063265994497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reliability of different color spaces to estimate nitrogen SPAD values in maize",
+                "pub_year": "2017",
+                "citation": "Computer and electronics un agriculture 143 (12), 14-22, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:UHK10RUVsp4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5460367934419675734",
+            "cites_id": [
+                "5460367934419675734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of fuzzy clustering algorithms applied to feature extraction on vineyard",
+                "pub_year": "2011",
+                "citation": "Proceedings of the XIV Conference of the Spanish Association for Artificial \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15581164880665614153",
+            "cites_id": [
+                "15581164880665614153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eliciting expert judgements to estimate risk and protective factors for Piscirickettsiosis in Chilean salmon farming",
+                "pub_year": "2019",
+                "citation": "Aquaculture 507, 402-410, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11659931622841129466",
+            "cites_id": [
+                "11659931622841129466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and field testing of a data acquisition system to assess the quality of spraying in fruit orchards",
+                "pub_year": "2012",
+                "citation": "Computers and electronics in agriculture 84, 62-67, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10636456663271257770",
+            "cites_id": [
+                "10636456663271257770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CHARACTERIZATION OF VINEYARD'S CANOPY THROUGH FUZZY CLUSTERING AND SVM OVER COLOR IMAGES",
+                "pub_year": "2012",
+                "citation": "3rd CIGR International Conference of Agricultural Engineering (CIGR-AgEng2012) 1, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8260757606049437858",
+            "cites_id": [
+                "8260757606049437858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature extraction on vineyard by Gustafson Kessel FCM and K-means",
+                "pub_year": "2012",
+                "citation": "2012 16th IEEE Mediterranean Electrotechnical Conference, 481-484, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17176984404483034358",
+            "cites_id": [
+                "17176984404483034358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocotea quixos essential oil: A systematic review about the ethno-medicinal uses, phytochemistry and biological activity",
+                "pub_year": "2017",
+                "citation": "MOL2NET 2017, International Conference on Multidisciplinary Sciences, 3rd \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:VLnqNzywnoUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8461056283167691863",
+            "cites_id": [
+                "8461056283167691863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Escherichia Coli productora de Nueva Delhi metalo-\u03b2-lactamasa en Colombia: reporte de caso",
+                "pub_year": "2017",
+                "citation": "Infectio 21 (2), 132-134, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:tYavs44e6CUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16442474556203342273",
+            "cites_id": [
+                "16442474556203342273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usando Kinect como Sensor para Pulverizaci\u00f3n Inteligente",
+                "pub_year": "2013",
+                "citation": "Congreso Ib\u00e9rico de Agroingenier\u00eda, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7048703353512582608",
+            "cites_id": [
+                "7048703353512582608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and implementation of an embedded edge-processing water quality monitoring system for underground waters",
+                "pub_year": "2022",
+                "citation": "IEEE Embedded Systems Letters, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:L7CI7m0gUJcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6039500658867435487",
+            "cites_id": [
+                "6039500658867435487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image analysis of real-time classification of cherry fruit from colour features",
+                "pub_year": "2021",
+                "citation": "Journal of Agricultural Engineering 52 (4), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10257424023281143477",
+            "cites_id": [
+                "10257424023281143477"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online dose optimization applied on tree volume through a laser device.",
+                "pub_year": "2012",
+                "citation": "First International Conference on Robotics and Associated High-Technologies \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9165314707136448948",
+            "cites_id": [
+                "9165314707136448948"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoreo de Caudales en Canales Usando Redes de Sensores Inal\u00e1mbricas",
+                "pub_year": "2008",
+                "citation": "XVIII  Congreso de la Asociacion Chilena de Control Autom\u00e1tico, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:_kc_bZDykSQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11167261099074606582",
+            "cites_id": [
+                "11167261099074606582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithms, for path following and planning, for agricultural robots.",
+                "pub_year": "2012",
+                "citation": "First International Conference on Robotics and Associated High-Technologies \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1457621467838975796",
+            "cites_id": [
+                "1457621467838975796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Row Crop's Identication Through Hough Transform using Images Segmented by Robust Fuzzy Possibilistic C-Means",
+                "pub_year": "2011",
+                "citation": "Agronomos, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:vbGhcppDl1QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14727294458160132363",
+            "cites_id": [
+                "14727294458160132363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Row Crop\u2019s Identification Through Hough Transform using Images Segmented by Robust Fuzzy Possibilistic C-Means",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=557545318011506978",
+            "cites_id": [
+                "557545318011506978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n de desempe\u00f1o de una c\u00e1mara de profundidad comercial y un LIDAR en explotaciones agr\u00edcolas.",
+                "pub_year": "2013",
+                "citation": "Agronomos, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:p__nRnzSRKYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13467630968097647131",
+            "cites_id": [
+                "13467630968097647131"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of fuzzy clustering algorithms applied to feature extraction on vineyard",
+                "pub_year": "2011",
+                "citation": "Agronomos, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:BwyfMAYsbu0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4962861385735037153",
+            "cites_id": [
+                "4962861385735037153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of an automated management system for the traceability of spraying in fruit orchads",
+                "pub_year": "2011",
+                "citation": "Journal of Agricultural Machinery Science 7 (1), 67-72, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17539765667463100990",
+            "cites_id": [
+                "17539765667463100990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antibacterial effect of a copper surface in the germination of alfalfa seeds (Medicago sativa L.).",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:vDijr-p_gm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Antibacterial Activity of Copper Sheets in the Germination of Alfalfa Seeds (Medicago sativa L.) within a Rotating Drum",
+                "pub_year": "2020",
+                "citation": "Asian Journal of Agriculture and Food Sciences (ISSN: 2321\u20131571) 8 (4), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:Z5m8FVwuT1cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Future Trends in the Chilean Agricultural Machinery Industry",
+                "pub_year": "2019",
+                "citation": "AMA-AGRICULTURAL MECHANIZATION IN ASIA AFRICA AND LATIN AMERICA 50 (2), 88-93, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:z_wVstp3MssC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polyphenols of chuchuhuazo (Maytenus macrocarpa bark) as antioxidant and preservative in fresh sausage.",
+                "pub_year": "2018",
+                "citation": "MDPI AG, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:URolC5Kub84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generaci\u00f3n Creativa: XII Encuentro de Semilleros de Investigaci\u00f3n UNAB.\u201cEl Intercambio del conocimiento: base para el desarrollo\u201d",
+                "pub_year": "2018",
+                "citation": "Universidad Aut\u00f3noma de Bucaramanga UNAB, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:g3aElNc5_aQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of robotic system for humus productions. A strategy for recycling awareness",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:-_dYPAW6P2MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low-cost IoT based environmental monitoring system. A citizen approach to pollution awareness",
+                "pub_year": "2017",
+                "citation": "CHILEAN Conference on Electrical, Electronics Engineering, Information and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:uLbwQdceFCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracci\u00f3n de caracter\u00edsticas en vi\u00f1edos mediante algoritmos de clasificaci\u00f3n difusa y t\u00e9cnicas de inteligencia artificial",
+                "pub_year": "2017",
+                "citation": "Universidad Polit\u00e9cnica de Madrid, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract TP251: Onset-to-Door Times and Means of Transportation for Acute Ischemic Stroke Patients Attending a Public Hospital in Bogota DC, Colombia. Is an Ambulance the \u2026",
+                "pub_year": "2016",
+                "citation": "Stroke 47 (suppl_1), ATP251-ATP251, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:TIZ-Mc8IlK0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does a 24/7 Stroke Service Make a Difference in Hyperacute Stroke Care? Early Experience of a Public Hospital in Bogota DC, Colombia",
+                "pub_year": "2016",
+                "citation": "STROKE 47, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:KUbvn5osdkgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract TP235: Does a 24/7 Stroke Service Make a Difference in Hyperacute Stroke Care? Early Experience of a Public Hospital in Bogota DC, Colombia",
+                "pub_year": "2016",
+                "citation": "Stroke 47 (suppl_1), ATP235-ATP235, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:hMsQuOkrut0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Onset-to-Door Times and Means of Transportation for Acute Ischemic Stroke Patients Attending a Public Hospital in Bogota DC, Colombia. Is an Ambulance the Fastest Way to Reach \u2026",
+                "pub_year": "2016",
+                "citation": "STROKE 47, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:ILKRHgRFtOwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracci\u00f3n de Caracter\u00edsticas en Vi\u00f1edos Mediante Algoritmos de Clasificaci\u00f3n Difusa y T\u00e9cnicas de Inteligencia Artificial",
+                "pub_year": "2016",
+                "citation": "Agronomica, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:hkOj_22Ku90C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n de desempe\u00f1o de una c\u00e1mara de profundidad comercial y un LIDAR en explotaciones agr\u00edcolas",
+                "pub_year": "2013",
+                "citation": "Congreso Ib\u00e9rico de Agroingenier\u00eda, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usando Kinect como sensor para una pulverizaci\u00f3n inteligente.",
+                "pub_year": "2013",
+                "citation": "Agronomos, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:4MWp96NkSFoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avances en vendimiadoras",
+                "pub_year": "2013",
+                "citation": "Tierras de Castilla y Le\u00f3n: Agricultura, 88-93, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos de Planificaci\u00f3n y Seguimiento de Trayectorias para Robots Agr\u00edcolas",
+                "pub_year": "2012",
+                "citation": "X Congreso Latinoamericano y del Caribe de Ingenier\u00eda Agr\u00edcola, 70-80, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature Extraction on Vineyard by Gustafson Kessel FCM and K-means",
+                "pub_year": "2012",
+                "citation": "Agronomos, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward a wireless systems integration on agricultural environment.",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:b1wdh0AR-JQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardi Iris-2: calidad visible",
+                "pub_year": "2012",
+                "citation": "Vida Rural, 16-26, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Prototype of Automatic Pressure Pump (Type Sch\u00f6lander Pump)",
+                "pub_year": "2011",
+                "citation": "Acta horticulturae, 609, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El control de las cosechadoras por Internet permite diagnosticar a distancia y en unos minutos fallos, aver\u00edas o avisos de mantenimiento",
+                "pub_year": "2011",
+                "citation": "Tierras de Castilla y Le\u00f3n. Agricultura (Espa\u00f1a), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:kuK5TVdYjLIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La seguridad en las cosechadoras",
+                "pub_year": "2011",
+                "citation": "Tierras de Castilla y Le\u00f3n: Agricultura, 118-121, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:AvfA0Oy_GE0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The control of harvesters on the Internet allows to diagnose remotely and within minutes failures, breakdowns or maintenance notifications",
+                "pub_year": "2011",
+                "citation": "Tierras de Castilla y Le\u00f3n. Agricultura (Espa\u00f1a), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesamiento de im\u00e1genes para la identificaci\u00f3n de uva y follaje usando t\u00e9cnicas de clasificaci\u00f3n no supervisadas",
+                "pub_year": "2011",
+                "citation": "Escuela Tecnica Superior de Ingenieros Agronomos, UPM, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracci\u00f3n de caracter\u00edsticas de la cubierta vegetal del vi\u00f1edo mediante im\u00e1genes RGB y RGIR obtenidas de forma din\u00e1mica",
+                "pub_year": "2011",
+                "citation": "Agronomos, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wireless Sensor Network to Estimate Streamflow in Channel Networks",
+                "pub_year": "2009",
+                "citation": "7th World Congress on Computers in Agriculture Conference, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de soporte a la decisi\u00f3n basado en la telemetr\u00eda de variables ambientales",
+                "pub_year": "2008",
+                "citation": "University of Concepci\u00f3n 1 (1), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de soporte a la decisi\u00f3n basado en la telemetr\u00eda de variables ambientales",
+                "pub_year": "2008",
+                "citation": "Universidad de Concepci\u00f3n 1 (1), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n y evaluaci\u00f3n de un sistema de bombeo fotovoltaico de acople directo con seguidor solar",
+                "pub_year": "2006",
+                "citation": "VII Congreso Latinoamericano y del Caribe de Ingenier\u00eda Agr\u00edcola (CLIA-2006 \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance of a direct coupled photovoltaic pumping system driven by a solar tracker device.",
+                "pub_year": "2006",
+                "citation": "WORLD RENEWABLE ENERGY CONGRESS IX\u201d., 2006"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DISE\u00d1O, CONSTRUCCI\u00d3N Y EVALUACI\u00d3N DE UN SISTEMA DE PROGRAMACI\u00d3N AUTOM\u00c1TICA DE RIEGO CON PC",
+                "pub_year": "2003",
+                "citation": "Universidad de Concepci\u00f3n 1 (1), 2003"
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polyphenols of chuchuhuazo (Maytenus macrocarpa bark) as antioxidant and preservative in fresh sausage.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:uWiczbcajpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Prototype of Automatic Pressure Pump (Type Sch\u00f6lander Pump)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:XD-gHx7UXLsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of Robotic System for Humus Productions. A Strategy for recycling Awareness",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First RHEA Internationa Robotics and as and Equipment for",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:35r97b3x0nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Prototype of Automatic Pressure Pump (Type Sch\u00f6lander Pump).",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5VLmgCYAAAAJ:2KloaMYe4IUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 0
+    }
+}

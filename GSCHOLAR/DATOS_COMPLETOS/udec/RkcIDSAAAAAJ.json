@@ -1,0 +1,151 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RkcIDSAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe I. Lamas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RkcIDSAAAAAJ&citpid=2",
+    "affiliation": "Part-Time Lecturer of Microwaves and Antennas, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Microwaves",
+        "Antennas",
+        "Deep Learning",
+        "Digital Signal Processing",
+        "Radar Systems"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fTnhqmAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge E. Pezoa",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8flfTOMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Montalva",
+            "affiliation": "Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YPM6KxAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio N. Torres",
+            "affiliation": "Professor of Electrical Engineering, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NJcglwYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n E. Godoy",
+            "affiliation": "Associate Professor, University of Concepcion, CHILE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x5HOolYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Saavedra",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crowd detection and estimation for an earthquake early warning system using deep learning",
+                "pub_year": "2022",
+                "citation": "Pattern Recognition and Tracking XXXIII 12101, 142-148, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RkcIDSAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519476345175159544",
+            "cites_id": [
+                "17519476345175159544"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dual Reconstructive Autoencoder for Crowd Localization and Estimation in Density and FIDT Maps",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 117399-117410, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RkcIDSAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10506024327135167471",
+            "cites_id": [
+                "10506024327135167471"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A prototype for crowd location and counting via deep learning over 5G SA network using 24/7 panoramic imaging for crowd handling during earthquakes",
+                "pub_year": "2023",
+                "citation": "SPIE Future Sensing Technologies 2023 12327, 42-47, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RkcIDSAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dual reconstructive autoencoder for crowd localization and estimation in density and FIDT maps.",
+                "pub_year": "2022",
+                "citation": "Universidad de Concepci\u00f3n, Facultad de Ingenier\u00eda, Departamento de \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RkcIDSAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio, dise\u00f1o y creaci\u00f3n de radar de onda continua para m\u00faltiples aplicaciones",
+                "pub_year": "2019",
+                "citation": "Universidad de Concepci\u00f3n, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RkcIDSAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 2
+    }
+}

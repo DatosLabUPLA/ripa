@@ -1,0 +1,320 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "VSUrWEMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andrea V\u00e1zquez Varela",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VSUrWEMAAAAJ&citpid=16",
+    "affiliation": "Master's Degree in Computer Science, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Digital Image Processing",
+        "Neuroimaging"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 243,
+    "citedby5y": 243,
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2019": 4,
+        "2020": 11,
+        "2021": 41,
+        "2022": 75,
+        "2023": 74,
+        "2024": 36
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Bf2VTFYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pamela Guevara",
+            "affiliation": "Full Professor Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ETLNaMEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cyril Poupon",
+            "affiliation": "CEA NeuroSpin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s02fQuIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean-Fran\u00e7ois Mangin",
+            "affiliation": "Neurospin, CEA, CNRS, Universit\u00e9 Paris-Saclay, France"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vkq6LnoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josselin Houenou",
+            "affiliation": "APHP - INSERM - CEA Neurospin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uyCYTT8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Susana Ladra",
+            "affiliation": "University of A Coru\u00f1a, Centro de investigaci\u00f3n CITIC"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u6tsueAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicole Labra-Avila",
+            "affiliation": "PhD Candidate"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tractography dissection variability: what happens when 42 groups dissect 14 white matter bundles on the same dataset?",
+                "pub_year": "2021",
+                "citation": "NeuroImage 243, 118502, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:ldfaerwXgEUC",
+            "num_citations": 129,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6752808325718768461",
+            "cites_id": [
+                "6752808325718768461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FFClust: Fast fiber clustering for large tractography datasets for a detailed study of brain connectivity",
+                "pub_year": "2020",
+                "citation": "NeuroImage 220, 117070, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:35N4QoGY0k4C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17451697297398140982",
+            "cites_id": [
+                "17451697297398140982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From coarse to fine-grained parcellation of the cortical surface using a fiber-bundle atlas",
+                "pub_year": "2020",
+                "citation": "Frontiers in neuroinformatics 14, 32, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3286392546060183378",
+            "cites_id": [
+                "3286392546060183378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel Optimization of Fiber Bundle Segmentation for Massive Tractography Datasets",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:hMod-77fHWUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12647100852360430424",
+            "cites_id": [
+                "12647100852360430424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GeoSP: A parallel method for a cortical surface parcellation based on geodesic distance",
+                "pub_year": "2020",
+                "citation": "2020 42nd Annual International Conference of the IEEE Engineering in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:70eg2SAEIzsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3288016012130957638",
+            "cites_id": [
+                "3288016012130957638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic group-wise whole-brain short association fiber bundle labeling based on clustering and cortical surface information",
+                "pub_year": "2020",
+                "citation": "BioMedical Engineering OnLine 19 (1), 1-24, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:lSLTfruPkqcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6376594873069608125",
+            "cites_id": [
+                "6376594873069608125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-Subject Clustering of Brain Fibers from Whole-Brain Tractography",
+                "pub_year": "2020",
+                "citation": "2020 42nd Annual International Conference of the IEEE Engineering in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355727053260641596",
+            "cites_id": [
+                "10355727053260641596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced Automatic Segmentation for Superficial White Matter Fiber Bundles for Probabilistic Tractography Datasets",
+                "pub_year": "2021",
+                "citation": "2021 43rd Annual International Conference of the IEEE Engineering in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906744586111301963",
+            "cites_id": [
+                "5906744586111301963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fiber Clustering Acceleration With a Modified Kmeans++ Algorithm Using Data Parallelism",
+                "pub_year": "2021",
+                "citation": "Frontiers in Neuroinformatics 15, 727859, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:M05iB0D1s5AC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042211274556507400",
+            "cites_id": [
+                "7042211274556507400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical surface parcellation based on intra-subject white matter fiber clustering",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:blknAaTinKkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16579376029729219186",
+            "cites_id": [
+                "16579376029729219186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group-Wise Cortical Surface Parcellation Based on Inter-Subject Fiber Clustering*",
+                "pub_year": "2021",
+                "citation": "2021 43rd Annual International Conference of the IEEE Engineering in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1336866728805968632",
+            "cites_id": [
+                "1336866728805968632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FiberVis: a tool for a fast fiber tractography visualization and segmentation",
+                "pub_year": "2019",
+                "citation": "Organization for Human Brain Mapping Annual Meeting, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:BqipwSGYUEgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4125169943311781356",
+            "cites_id": [
+                "4125169943311781356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tractography dissection variability",
+                "pub_year": "2021",
+                "citation": "ACADEMIC PRESS INC ELSEVIER SCIENCE, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis tools for the study of brain connectivity based on diffusion MRI",
+                "pub_year": "2019",
+                "citation": "Make Health Chile, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizaci\u00f3n paralela para la segmentaci\u00f3n de fasc\u00edculos en conjuntos masivos de datos de tractograf\u00eda",
+                "pub_year": "2018",
+                "citation": "XXVII Congreso de Electr\u00f3nica-Electricidad (INGELECTRA 2018), Valdivia \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "VSUrWEMAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 9,
+        "not_available": 1
+    }
+}

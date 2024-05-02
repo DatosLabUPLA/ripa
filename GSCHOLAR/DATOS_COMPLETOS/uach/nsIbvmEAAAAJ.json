@@ -1,0 +1,130 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nsIbvmEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe A. Quezada",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Artificial Intelligence",
+        "High Performance Computing",
+        "Computer Graphics",
+        "IoT"
+    ],
+    "email_domain": "@uach.cl",
+    "citedby": 16,
+    "citedby5y": 16,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 8,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Squeeze: Efficient compact fractals for tensor core gpus",
+                "pub_year": "2022",
+                "citation": "Future Generation Computer Systems 135, 10-19, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9608103969770961748",
+            "cites_id": [
+                "9608103969770961748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient GPU thread mapping on embedded 2D fractals",
+                "pub_year": "2020",
+                "citation": "Future Generation Computer Systems 113, 158-169, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13976425267508827981",
+            "cites_id": [
+                "13976425267508827981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling GPU Dynamic Parallelism for self similar density workloads",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 145, 239-253, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4908069717012629507",
+            "cites_id": [
+                "4908069717012629507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating range minimum queries with ray tracing cores",
+                "pub_year": "2024",
+                "citation": "Future Generation Computer Systems 157, 98-111, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782957144512630231",
+            "cites_id": [
+                "2782957144512630231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A scalable and energy efficient GPU thread map for m-simplex domains",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 141, 651-662, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating Compact Fractals with Tensor Core GPUs",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2110.12952, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "nsIbvmEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

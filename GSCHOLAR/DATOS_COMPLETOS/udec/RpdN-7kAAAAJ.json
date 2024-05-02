@@ -1,0 +1,62 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RpdN-7kAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis Cabrera-Crot",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RpdN-7kAAAAJ&citpid=1",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Boolean networks"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trajectory Patterns Based on Segment-Cutting Clustering.",
+                "pub_year": "2019",
+                "citation": "AMW, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RpdN-7kAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18378768674224951586",
+            "cites_id": [
+                "18378768674224951586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operador bloque-secuencial en redes Booleanas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RpdN-7kAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

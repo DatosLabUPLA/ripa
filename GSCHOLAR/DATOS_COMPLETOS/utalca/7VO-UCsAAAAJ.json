@@ -1,0 +1,90 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7VO-UCsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Y\u00e1\u00f1ez Vidal",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7VO-UCsAAAAJ&citpid=1",
+    "affiliation": "Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Auditor\u00eda",
+        "Recursos Humanos",
+        "Responsabilidad Social"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 2,
+        "2023": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FWrfw6EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge S\u00e1nchez Henr\u00edquez",
+            "affiliation": "Profesor de auditoria y recursos humanos, Universidad de Talca"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Auditor\u00eda de recursos humanos: an\u00e1lisis bibliom\u00e9trico",
+                "pub_year": "2021",
+                "citation": "Revista Venezolana de Gerencia 26 (94), 467-491, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7VO-UCsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17755065319692801216",
+            "cites_id": [
+                "17755065319692801216"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Responsabilidad social, un estudio bibliom\u00e9trico",
+                "pub_year": "2021",
+                "citation": "CAPIC REVIEW 19, 1-16, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7VO-UCsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis a la producci\u00f3n cient\u00edfica en auditor\u00eda de recursos humanos",
+                "pub_year": "2020",
+                "citation": "CAPIC REVIEW 18 (1), 5, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7VO-UCsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

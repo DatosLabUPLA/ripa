@@ -1,0 +1,98 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2fRgzkMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Hector Bruna",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Corrosi\u00f3n",
+        "metales",
+        "acero",
+        "ciencia de materiales."
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 6,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardening by transformation and cold working in a Hadfield steel cone crusher liner",
+                "pub_year": "2021",
+                "citation": "Metals 11 (6), 961, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2fRgzkMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17538820587418180285",
+            "cites_id": [
+                "17538820587418180285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Silicon Effect and Microstructural Characterization of Hot Dip Galvanized Coating of Structural Steels",
+                "pub_year": "2023",
+                "citation": "Preprints, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2fRgzkMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6610104286092513017",
+            "cites_id": [
+                "6610104286092513017"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Silicon Effect and Microstructural Evolution of Hot Dip Galvanized Coating of Structural Steels",
+                "pub_year": "2023",
+                "citation": "Metals 13 (11), 1892, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2fRgzkMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardening by Transformation and Cold Working in a Hadfield Steel Cone Crusher Liner. Metals 2021, 11, 961",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2fRgzkMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

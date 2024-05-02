@@ -1,0 +1,121 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "y1JqKc4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alexander Rojas Aceituno",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=y1JqKc4AAAAJ&citpid=2",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Power Electronics",
+        "Renewable Energies"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://www.linkedin.com/in/alexander-rojas-aceituno-259a321ab/",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-43YaJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mat\u00edas D\u00edaz",
+            "affiliation": "University of Santiago of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental assessment of a modular multilevel converter using opal-rt control and power stages",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Biennial Congress of Argentina (ARGENCON), 1-5, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1JqKc4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=411353182865332030",
+            "cites_id": [
+                "411353182865332030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of Modular Multilevel Converters Applied to High Voltage AC and DC Transmission Systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1JqKc4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15152387522463222111",
+            "cites_id": [
+                "15152387522463222111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Assessment of a Modular Multilevel Converter using OPAL-RT Control and Power Stages for Low-Frequency AC transmission systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1JqKc4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131411959857748841",
+            "cites_id": [
+                "6131411959857748841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of a Back-to-Back Modular Multilevel Matrix Converter for Low Frequency AC Transmission",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y1JqKc4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Modular Multilevel Converter Topology For Green Hydrogen Production",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y1JqKc4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

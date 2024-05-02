@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WUlT8voAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel Moreno-Cartagena",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WUlT8voAAAAJ&citpid=1",
+    "affiliation": "Master's student in Computer Science, University of Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Deep learning",
+        "Astroinformatics"
+    ],
+    "email_domain": "@inf.udec.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positional encodings for light curve transformers: an evaluation of their impact in the pretraining and classification task.",
+                "pub_year": "2024",
+                "citation": "Universidad de Concepci\u00f3n, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WUlT8voAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positional Encodings for Light Curve Transformers: Playing with Positions and Attention",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.06404, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WUlT8voAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ATAT: Astronomical Transformer for time series And Tabular data",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WUlT8voAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

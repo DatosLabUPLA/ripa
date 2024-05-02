@@ -1,0 +1,155 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "BxOUKJoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gustavo Bittner",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BxOUKJoAAAAJ&citpid=1",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Control Theory",
+        "System Identification"
+    ],
+    "email_domain": "@alumnos.usm.cl",
+    "citedby": 46,
+    "citedby5y": 46,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 10,
+        "2021": 12,
+        "2022": 12,
+        "2023": 10,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7g3r_ykAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Carvajal",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wSXnYFYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan C. Ag\u00fcero",
+            "affiliation": "Universidad Tecnica Federico Santa Maria (Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X5xPjmkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samir Kouro",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ah1GGpIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael Orellana",
+            "affiliation": "Doctor in Electronics Engineering, USACH, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "04ViXpUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s M\u00fcller",
+            "affiliation": "Assistant Professor, Universidad Austral de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy storage sizing strategy for grid-tied PV plants under power clipping limitations",
+                "pub_year": "2019",
+                "citation": "Energies 12 (9), 1812, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BxOUKJoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7183899677781917555",
+            "cites_id": [
+                "7183899677781917555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood estimation for non-minimum-phase noise transfer function with Gaussian mixture noise distribution",
+                "pub_year": "2022",
+                "citation": "Automatica 135, 109937, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "BxOUKJoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027064874440162402",
+            "cites_id": [
+                "7027064874440162402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood identification for Linear Dynamic Systems with finite Gaussian mixture noise distribution",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BxOUKJoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1281678432632767739",
+            "cites_id": [
+                "1281678432632767739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IDENTIFICACION DE SISTEMAS DINAMICOS LINEALES MEDIANTE MAXIMA VEROSIMILITUD CON MEZCLA FINITA DE DISTRIBUCIONES NORMALES",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BxOUKJoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Storage Sizing Strategy for Grid-Tied PV Plants under Power Clipping Limitations",
+                "citation": "Energies 12 (9), 0"
+            },
+            "filled": false,
+            "author_pub_id": "BxOUKJoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

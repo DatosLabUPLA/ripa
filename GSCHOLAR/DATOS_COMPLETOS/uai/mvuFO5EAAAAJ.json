@@ -1,0 +1,328 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "mvuFO5EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudia Arellano",
+    "affiliation": "Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Computer Vision",
+        "Artificial Intelligence",
+        "Pattern Recognition",
+        "Robust Statistics"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 213,
+    "citedby5y": 171,
+    "hindex": 8,
+    "hindex5y": 6,
+    "i10index": 7,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2012": 3,
+        "2013": 8,
+        "2014": 7,
+        "2015": 3,
+        "2016": 5,
+        "2017": 8,
+        "2018": 8,
+        "2019": 16,
+        "2020": 26,
+        "2021": 29,
+        "2022": 40,
+        "2023": 36,
+        "2024": 24
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JXesYX4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joseph Edward Govan",
+            "affiliation": "Facultad de Ciencias Agronomias, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deepblueberry: Quantification of blueberries in the wild using instance segmentation",
+                "pub_year": "2019",
+                "citation": "Ieee Access 7, 105776-105788, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2019587995970394950",
+            "cites_id": [
+                "2019587995970394950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust ellipse detection with Gaussian mixture models",
+                "pub_year": "2016",
+                "citation": "Pattern Recognition 58, 12-26, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3034354152818616531",
+            "cites_id": [
+                "3034354152818616531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Soft-biometrics encoding conditional GAN for synthesis of NIR periocular images",
+                "pub_year": "2019",
+                "citation": "Future Generation Computer Systems 97, 503-511, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17301456977735107945",
+            "cites_id": [
+                "17301456977735107945"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sex-classification from cellphones periocular iris images",
+                "pub_year": "2019",
+                "citation": "Selfie Biometrics: Advances and Challenges, 227-242, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6309909895051518072",
+            "cites_id": [
+                "6309909895051518072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an efficient segmentation algorithm for near-infrared eyes images",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 171598-171607, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3806171291859279248",
+            "cites_id": [
+                "3806171291859279248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extrinsic camera parameters estimation for shape-from-depths",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=541878885606169112",
+            "cites_id": [
+                "541878885606169112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape model fitting algorithm without point correspondence",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7415941132871245227",
+            "cites_id": [
+                "7415941132871245227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gender classification from Iris texture images using a new set of binary statistical image features",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on Biometrics (ICB), 1-7, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14578447205340382985",
+            "cites_id": [
+                "14578447205340382985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mean shift algorithm for robust rigid registration between gaussian mixture models",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7265270788441013699",
+            "cites_id": [
+                "7265270788441013699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust bayesian fitting of 3d morphable model",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 10th European Conference on Visual Media Production, 1-10, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8552098869459021665",
+            "cites_id": [
+                "8552098869459021665"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the synthetic periocular iris images for robust Presentation Attacks Detection algorithms",
+                "pub_year": "2022",
+                "citation": "IET Biometrics 11 (4), 343-354, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6104973650142184335",
+            "cites_id": [
+                "6104973650142184335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient dense network for semantic segmentation of eyes images captured with virtual reality lens",
+                "pub_year": "2019",
+                "citation": "2019 15th International Conference on Signal-Image Technology & Internet \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10916023466734236387",
+            "cites_id": [
+                "10916023466734236387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthetic periocular iris pai from a small set of near-infrared-images",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2107.12014, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=348218509079866097",
+            "cites_id": [
+                "348218509079866097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust shape from depth images with GR2T",
+                "pub_year": "2014",
+                "citation": "Pattern Recognition Letters 50, 43-54, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7547380918713258699",
+            "cites_id": [
+                "7547380918713258699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape model fitting using non-isotropic gmm",
+                "pub_year": "2012",
+                "citation": "IET Irish Signals and Systems Conference (ISSC 2012), 1-6, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13084671066215026607",
+            "cites_id": [
+                "13084671066215026607"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning Techniques for Improving Nanosensors in Agroenvironmental Applications",
+                "pub_year": "2024",
+                "citation": "Agronomy 14 (2), 341, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17441769463042828731",
+            "cites_id": [
+                "17441769463042828731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "STEREO IMAGES FOR 3D FACE APPLICATIONS: A LITERATURE REVIEW",
+                "pub_year": "2020",
+                "citation": "14th International Machine Vision and Image Processing Conference: IMVIP 2010, 2, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "mvuFO5EAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

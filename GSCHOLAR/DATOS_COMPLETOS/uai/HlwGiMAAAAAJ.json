@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HlwGiMAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Denis Berroeta",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HlwGiMAAAAAJ&citpid=3",
+    "affiliation": "Master in Artificial Intelligence, Adolfo Ib\u00e1\u00f1ez University",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Artificial Intelligence",
+        "Remote Sensing",
+        "Spatio-temporal Analysis"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delimitation of burned areas in Chile based on dNBR thresholds adjusted according to region and land cover Delimitaci\u00f3n de \u00e1reas quemadas en Chile a partir de umbrales dNBR \u2026",
+                "pub_year": "2023",
+                "citation": "Revista de Teledetecci\u00f3n 2023 (61), 43-58, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HlwGiMAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2796909641032377602",
+            "cites_id": [
+                "2796909641032377602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delimitaci\u00f3n de \u00e1reas quemadas en Chile a partir de umbrales dNBR ajustados seg\u00fan regi\u00f3n y cubiertas del suelo",
+                "pub_year": "2023",
+                "citation": "Revista de Teledetecci\u00f3n, 43-58, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HlwGiMAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5292933435434834558",
+            "cites_id": [
+                "5292933435434834558"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

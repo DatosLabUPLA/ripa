@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1hJePNgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alan Fritz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1hJePNgAAAAJ&citpid=3",
+    "affiliation": "university of Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "cell biology"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 17,
+    "citedby5y": 9,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2015": 3,
+        "2016": 2,
+        "2017": 1,
+        "2018": 2,
+        "2019": 1,
+        "2020": 5,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cellular and molecular characterization of a novel primary osteoblast culture from the vertebrate model organism Xenopus tropicalis",
+                "pub_year": "2015",
+                "citation": "Histochemistry and cell biology 143, 431-442, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1hJePNgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=495680004332317757",
+            "cites_id": [
+                "495680004332317757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A single chance to contact multiple targets: distinct osteocyte morphotypes shed light on the cellular mechanism ensuring the robust formation of osteocytic networks",
+                "pub_year": "2016",
+                "citation": "Journal of Experimental Zoology Part B: Molecular and Developmental \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1hJePNgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8079983508017168978",
+            "cites_id": [
+                "8079983508017168978"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "VeQY-MIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicolas A. Castro",
+    "affiliation": "Msc Electronics Eng. Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Computer Vision",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Robotics"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 13,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 3,
+        "2021": 4,
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate fire detection through fully convolutional network",
+                "pub_year": "2017",
+                "citation": "IET Digital Library, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "VeQY-MIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13666031952906957612",
+            "cites_id": [
+                "13666031952906957612"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

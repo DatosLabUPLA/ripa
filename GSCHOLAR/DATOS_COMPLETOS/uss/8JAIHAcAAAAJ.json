@@ -1,0 +1,108 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8JAIHAcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudia Mart\u00ednez-Carrasco",
+    "affiliation": "Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Neurorehabilitation",
+        "Older Adults",
+        "Executive Function"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 28,
+    "citedby5y": 28,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 4,
+        "2021": 4,
+        "2022": 9,
+        "2023": 8,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ObdgODsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro O. Rossel",
+            "affiliation": "Computer Science Department & CIBAS, Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hZvxhjYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valeria Herskovic",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evitapp: Persuasive Application for Physical Activity and Smoking Cessation",
+                "pub_year": "2018",
+                "citation": "Multidisciplinary Digital Publishing Institute Proceedings 2 (19), 1208, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8JAIHAcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=590941861907788347",
+            "cites_id": [
+                "590941861907788347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spanish version of the mini-BESTest: a translation, transcultural adaptation and validation study in patients with Parkinson's disease.",
+                "pub_year": "2020",
+                "citation": "International Journal of Rehabilitation Research 43 (2), 129-134, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8JAIHAcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1203523129999478274",
+            "cites_id": [
+                "1203523129999478274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SAS4P: Providing automatic smoking detection for a persuasive smoking cessation application",
+                "pub_year": "2019",
+                "citation": "International Journal of Distributed Sensor Networks 15 (11), 1550147719888167, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8JAIHAcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8912934483670384864",
+            "cites_id": [
+                "8912934483670384864"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

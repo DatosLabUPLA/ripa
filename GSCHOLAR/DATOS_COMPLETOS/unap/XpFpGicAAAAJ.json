@@ -1,0 +1,251 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XpFpGicAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mauricio Oyarz\u00fan",
+    "affiliation": "Universidad Arturo Prat",
+    "organization": 18273373707046377092,
+    "interests": [
+        "Data compression",
+        "information retrieval."
+    ],
+    "email_domain": "@unap.cl",
+    "citedby": 147,
+    "citedby5y": 50,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 5,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2011": 3,
+        "2012": 11,
+        "2013": 8,
+        "2014": 18,
+        "2015": 15,
+        "2016": 10,
+        "2017": 14,
+        "2018": 10,
+        "2019": 13,
+        "2020": 10,
+        "2021": 6,
+        "2022": 7,
+        "2023": 11,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J6BRiDwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Arroyuelo",
+            "affiliation": "Department of Computer Science, Escuela de Ingenier\u00eda, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0-RzjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Marin",
+            "affiliation": "University of Santiago, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eQUn8ugAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Torsten Suel",
+            "affiliation": "Professor of Computer Science, NYU Tandon School of Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hwXEZ0IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Veronica Gil-Costa",
+            "affiliation": "UNSL - CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n9GPFCUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Max Chacon",
+            "affiliation": "Profesor Titular, Universidad de Santiago de chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6LYRTPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Mendoza",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile, researcher at CENIA and IMFD"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Document identifier reassignment and run-length-compressed inverted indexes for improved search performance",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 36th international ACM SIGIR conference on Research and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14018390036728152169",
+            "cites_id": [
+                "14018390036728152169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressed self-indices supporting conjunctive queries on document collections",
+                "pub_year": "2010",
+                "citation": "International Symposium on String Processing and Information Retrieval, 43-54, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16103986258625055966",
+            "cites_id": [
+                "16103986258625055966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed search based on self-indexed compressed text",
+                "pub_year": "2012",
+                "citation": "Information processing & management 48 (5), 819-827, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14141287502057715611",
+            "cites_id": [
+                "14141287502057715611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To index or not to index: time-space trade-offs in search engines with positional ranking functions",
+                "pub_year": "2012",
+                "citation": "Proceedings of the 35th international ACM SIGIR conference on Research and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11263195604487411244",
+            "cites_id": [
+                "11263195604487411244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid compression of inverted lists for reordered document collections",
+                "pub_year": "2018",
+                "citation": "Information Processing & Management 54 (6), 1308-1324, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:qjMakFHDy7sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5554819640201327373",
+            "cites_id": [
+                "5554819640201327373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To index or not to index: Time\u2013space trade-offs for positional ranking functions in search engines",
+                "pub_year": "2020",
+                "citation": "Information Systems 89, 101466, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5271398092725797396",
+            "cites_id": [
+                "5271398092725797396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COVID-19 transmission during a tsunami evacuation in a lockdown city",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15929990802793259826",
+            "cites_id": [
+                "15929990802793259826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A vector model for routing queries in web search engines",
+                "pub_year": "2010",
+                "citation": "Procedia Computer Science 1 (1), 457-464, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4615543726495987698",
+            "cites_id": [
+                "4615543726495987698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Devs Modeling and Simulation of The Loading and Hauling Process in Open Pit Mines",
+                "pub_year": "2023",
+                "citation": "2023 Winter Simulation Conference (WSC), 3082-3093, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RustSim: A Process-Oriented Simulation Framework for the Rust Language",
+                "pub_year": "2023",
+                "citation": "2023 Winter Simulation Conference (WSC), 3118-3129, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XpFpGicAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

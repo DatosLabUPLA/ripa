@@ -1,0 +1,75 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "CUl03ToAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristi\u00e1n Gidi",
+    "affiliation": "Doctoral Student, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Chromatin Dynamics",
+        "Gene Regulation",
+        "Promoter Architecture"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 18,
+    "citedby5y": 13,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 1,
+        "2020": 2,
+        "2021": 1,
+        "2022": 5,
+        "2023": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of Nhp6 and Hmo1 in SWI/SNF occupancy and nucleosome landscape at gene regulatory regions",
+                "pub_year": "2017",
+                "citation": "Biochimica Et Biophysica Acta (BBA)-Gene Regulatory Mechanisms 1860 (3), 316-326, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "CUl03ToAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12734290021931296908",
+            "cites_id": [
+                "12734290021931296908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The linker histone Hho1 modulates the activity of ATP-dependent chromatin remodeling complexes",
+                "pub_year": "2022",
+                "citation": "Biochimica et Biophysica Acta (BBA)-Gene Regulatory Mechanisms 1865 (1), 194781, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CUl03ToAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8715176082085808328",
+            "cites_id": [
+                "8715176082085808328"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

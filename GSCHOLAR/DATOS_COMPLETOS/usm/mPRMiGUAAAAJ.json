@@ -1,0 +1,110 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "mPRMiGUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s C\u00e1rdenas-Pantoja",
+    "affiliation": "Research Engineer, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Maintenance",
+        "Asset Management",
+        "Reliability Engineering"
+    ],
+    "email_domain": "@alumnos.usm.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 4,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2NjccrYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fredy Kristjanpoller",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Criticality analysis based on reliability and failure propagation effect for a complex wastewater treatment plant",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (22), 10836, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "mPRMiGUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7744687993031472049",
+            "cites_id": [
+                "7744687993031472049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the impact of virtual standby systems in failure propagation for complex wastewater treatment processes",
+                "pub_year": "2021",
+                "citation": "Complexity 2021, 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "mPRMiGUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042974478489305749",
+            "cites_id": [
+                "7042974478489305749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind farm life cycle cost modelling based on oversizing capacity under load sharing configuration",
+                "pub_year": "2023",
+                "citation": "Reliability Engineering & System Safety 236, 109307, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "mPRMiGUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4543188552302572497",
+            "cites_id": [
+                "4543188552302572497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article Assessing the Impact of Virtual Standby Systems in Failure Propagation for Complex Wastewater Treatment Processes",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "mPRMiGUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

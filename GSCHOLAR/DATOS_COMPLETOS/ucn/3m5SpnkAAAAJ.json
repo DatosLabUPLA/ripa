@@ -1,0 +1,114 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3m5SpnkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camila Arr\u00f3spide V\u00e1squez",
+    "affiliation": "PhD Student, Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Coastal Geomorphology",
+        "Numerical Modelling",
+        "Tectonic Geomorphology",
+        "Geological Hazards"
+    ],
+    "email_domain": "@alumnos.ucn.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "m9ST1qMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Germ\u00e1n Aguilar",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QlDpO8AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vincent Regard",
+            "affiliation": "GET, University of Toulouse, Universit\u00e9 Paul Sabatier, Observatoire Midi Pyr\u00e9n\u00e9es, CNRS, IRD, CNES"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DFtp1MkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joseph Martinod",
+            "affiliation": "ISTerre, Universit\u00e9 de Savoie Mont Blanc"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coastal cliff evolution: Modelling the long-term interplay between marine erosion, initial topography, and uplift in an arid environment",
+                "pub_year": "2023",
+                "citation": "Geomorphology 428, 108642, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3m5SpnkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15870906423577640210",
+            "cites_id": [
+                "15870906423577640210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Atacama Desert rock coast: an underrated witnesses of long-term wave erosion",
+                "pub_year": "2024",
+                "citation": "EGU24, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3m5SpnkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unraveling the landscape evolution of the Atacama Desert coast of Northern Chile through numerical models: the Pan de Az\u00facar National Park study case (26\u00b0 S).",
+                "pub_year": "2022",
+                "citation": "EGU General Assembly Conference Abstracts, EGU22-3135, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3m5SpnkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Origen y evoluci\u00f3n del gran acantilado costero en el Parque Nacional Pan de Az\u00facar, Norte de Chile (~ 26\u00b0 S): reconstrucci\u00f3n del relieve pret\u00e9rito y modelamiento de la erosi\u00f3n \u2026",
+                "pub_year": "2019",
+                "citation": "Universidad de Chile, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3m5SpnkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

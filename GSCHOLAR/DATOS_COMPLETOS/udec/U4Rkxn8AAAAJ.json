@@ -1,0 +1,98 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "U4Rkxn8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Adolfo Bahamonde",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=U4Rkxn8AAAAJ&citpid=1",
+    "affiliation": "University of Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "turbulence",
+        "active matter",
+        "information theory",
+        "complexity"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://adbahamonde.github.io/",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Usefulness and limitations of convergent cross sorting and continuity scaling methods for their application in simulated and real-world time series",
+                "pub_year": "2023",
+                "citation": "Royal Society Open Science 10 (7), 221590, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "U4Rkxn8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13154984109720914548",
+            "cites_id": [
+                "13154984109720914548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy and Information Fluxes at Upper Ocean Density Fronts",
+                "pub_year": "2023",
+                "citation": "Fluids 8 (1), 17, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "U4Rkxn8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9169688629280811573",
+            "cites_id": [
+                "9169688629280811573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laminar to turbulent transition in terms of information theory",
+                "pub_year": "2023",
+                "citation": "Physica A: Statistical Mechanics and its Applications 629, 129190, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "U4Rkxn8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Teor\u00eda de la Informaci\u00f3n en la Transici\u00f3n Laminar-Turbulenta.",
+                "pub_year": "2022",
+                "citation": "Universidad de Concepci\u00f3n., 2022"
+            },
+            "filled": false,
+            "author_pub_id": "U4Rkxn8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

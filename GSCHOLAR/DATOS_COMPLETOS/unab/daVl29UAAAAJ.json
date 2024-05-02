@@ -1,0 +1,96 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "daVl29UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Constanza Far\u00edas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=daVl29UAAAAJ&citpid=2",
+    "affiliation": "PhD student at Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Statistical Mechanics",
+        "Phase transitions",
+        "Complex Systems",
+        "Inferential Statistics"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "homepage": "https://www.researchgate.net/profile/Constanza_Farias3",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wxyYwU0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Davis",
+            "affiliation": "P2mc Research Center, Comisi\u00f3n Chilena de Energ\u00eda Nuclear"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple metastable states in an off-lattice potts model",
+                "pub_year": "2021",
+                "citation": "Physica A: Statistical Mechanics and Its Applications 581, 126215, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "daVl29UAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13867747704668026915",
+            "cites_id": [
+                "13867747704668026915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temperature distribution in finite systems: application to the one-dimensional Ising chain",
+                "pub_year": "2023",
+                "citation": "The European Physical Journal B, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "daVl29UAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6434759732545185462",
+            "cites_id": [
+                "6434759732545185462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sufficient condition for superstatistics in steady state ensembles",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.04283, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "daVl29UAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

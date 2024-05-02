@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "IoXIGJcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Naileth Gonz\u00e1lez",
+    "affiliation": "Estudiante doctorado Centro de Neurociencias Universidad de Valparaiso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "canales ionicos",
+        "BK channel",
+        "biofisica"
+    ],
+    "email_domain": "@postgrado.uv.cl",
+    "citedby": 70,
+    "citedby5y": 70,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 16,
+        "2022": 20,
+        "2023": 21,
+        "2024": 10
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Loss-of-function BK channel mutation causes impaired mitochondria and progressive cerebellar ataxia",
+                "pub_year": "2020",
+                "citation": "Proceedings of the National Academy of Sciences 117 (11), 6023-6034, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "IoXIGJcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5267588030505076758",
+            "cites_id": [
+                "5267588030505076758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Adenylyl-Imidodiphosphate on K+/Ca2+-Exchanger Activity in Human Red Blood Cells",
+                "pub_year": "2018",
+                "citation": "Biophysical Journal 114 (3), 331a, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "IoXIGJcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

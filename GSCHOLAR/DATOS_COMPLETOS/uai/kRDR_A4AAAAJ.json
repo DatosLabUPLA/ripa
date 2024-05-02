@@ -1,0 +1,817 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kRDR_A4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Martinez-Villalobos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=kRDR_A4AAAAJ&citpid=1",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Climate Science",
+        "Tropical Climate",
+        "Precipitation",
+        "Ocean-Atmosphere coupling",
+        "Stochastic modeling"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "https://cristianmartinezvillalobos.com/",
+    "citedby": 420,
+    "citedby5y": 379,
+    "hindex": 12,
+    "hindex5y": 11,
+    "i10index": 16,
+    "i10index5y": 15,
+    "cites_per_year": {
+        "2008": 3,
+        "2009": 0,
+        "2010": 2,
+        "2011": 5,
+        "2012": 3,
+        "2013": 2,
+        "2014": 7,
+        "2015": 4,
+        "2016": 2,
+        "2017": 3,
+        "2018": 10,
+        "2019": 27,
+        "2020": 31,
+        "2021": 41,
+        "2022": 91,
+        "2023": 129,
+        "2024": 59
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ytRqlfcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J David Neelin",
+            "affiliation": "Professor of Atmospheric and Oceanic Sciences, UCLA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HQGIKbwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Vimont",
+            "affiliation": "Professor of Atmospheric and Oceanic Sciences, University of Wisconsin - Madison"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "O_Y98T8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cecile Penland",
+            "affiliation": "NOAA/Physical Sciences Laboratory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EZqIGN4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew Newman",
+            "affiliation": "NOAA/PSL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IdIN7b8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bo Liu",
+            "affiliation": "China University of Geosciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P4p0JccAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guoyu Ren",
+            "affiliation": "National Climate Center, CMA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aNv8LaAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yi-Hung Kuo",
+            "affiliation": "Princeton AOS & NOAA GFDL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OTl3HEQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tianjun Zhou",
+            "affiliation": "LASG, Institute of Atmospheric Physics, Chinese Academy of Sciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6F7EWsAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fiaz Ahmed",
+            "affiliation": "UCLA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "te_dpZUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M. Loewe",
+            "affiliation": "Professor of Physics, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RbUL5EgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gorazd Cvetic",
+            "affiliation": "Universidad Tecnica Santa Maria, Valparaiso, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZpLiGoMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angeline G Pendergrass",
+            "affiliation": "Cornell University and National Center for Atmospheric Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fTW9GS0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shaocheng Xie",
+            "affiliation": "Lawrence Livermore National Laboratory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wylrk1gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "S Vishnu",
+            "affiliation": "Assistant Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "H9w6cYwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew Priestley",
+            "affiliation": "University of Exeter"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Why do precipitation intensities tend to follow gamma distributions?",
+                "pub_year": "2019",
+                "citation": "Journal of the Atmospheric Sciences 76 (11), 3611-3631, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:0EnyYjriUFMC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13407403481952508689",
+            "cites_id": [
+                "13407403481952508689"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shifts in Precipitation Accumulation Extremes during the Warm Season over the United States",
+                "pub_year": "2018",
+                "citation": "Geophysical Research Letters 45, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5221809862706156252",
+            "cites_id": [
+                "5221809862706156252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modified contour-improved perturbation theory",
+                "pub_year": "2010",
+                "citation": "Physical Review D 82 (9), 093007, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3355566130866291783",
+            "cites_id": [
+                "3355566130866291783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revealing the Circulation Pattern Most Conducive to Precipitation Extremes in Henan Province of North China",
+                "pub_year": "2022",
+                "citation": "Geophysical Research Letters, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1864758314752326752",
+            "cites_id": [
+                "1864758314752326752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precipitation extremes and water vapor: Relationships in current climate and implications for climate change",
+                "pub_year": "2022",
+                "citation": "Current Climate Change Reports 8 (1), 17-33, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:aqlVkmm33-oC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11058840838727617070",
+            "cites_id": [
+                "11058840838727617070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Changes in extreme precipitation accumulations during the warm season over continental China",
+                "pub_year": "2020",
+                "citation": "Journal of Climate 33 (24), 10799-10811, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3441088025817196714",
+            "cites_id": [
+                "3441088025817196714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observed El Ni\u00f1o\u2010La Ni\u00f1a asymmetry in a linear model",
+                "pub_year": "2019",
+                "citation": "Geophysical Research Letters 46 (16), 9909-9919, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16004633244061778640",
+            "cites_id": [
+                "16004633244061778640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploratory precipitation metrics: Spatiotemporal characteristics, process-oriented, and phenomena-based",
+                "pub_year": "2022",
+                "citation": "Journal of Climate 35 (12), 3659-3686, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1689260052080222306",
+            "cites_id": [
+                "1689260052080222306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytical framework for understanding tropical meridional modes",
+                "pub_year": "2017",
+                "citation": "Journal of Climate 30 (9), 3303-3323, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6964705768862477342",
+            "cites_id": [
+                "6964705768862477342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of the mean state in meridional mode structure and growth",
+                "pub_year": "2016",
+                "citation": "Journal of Climate 29 (10), 3907-3921, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3674574394030789511",
+            "cites_id": [
+                "3674574394030789511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculating state-dependent noise in a linear inverse model framework",
+                "pub_year": "2018",
+                "citation": "Journal of the Atmospheric Sciences 75 (2), 479-496, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=967572095710792435",
+            "cites_id": [
+                "967572095710792435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal corrections to  scattering lengths in the linear sigma model",
+                "pub_year": "2008",
+                "citation": "Physical Review D 77 (10), 105006, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10413309373506891159",
+            "cites_id": [
+                "10413309373506891159"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of stochastic forcing in generating ENSO diversity",
+                "pub_year": "2018",
+                "citation": "Journal of Climate 31 (22), 9125-9150, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3723074724019590875",
+            "cites_id": [
+                "3723074724019590875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding future increases in precipitation extremes in global land monsoon regions",
+                "pub_year": "2022",
+                "citation": "Journal of Climate 35 (6), 1839-1851, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3695380836496553599",
+            "cites_id": [
+                "3695380836496553599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Climate models capture key features of extreme precipitation probabilities across regions",
+                "pub_year": "2021",
+                "citation": "Environmental Research Letters 16 (2), 024017, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10049874401818529388",
+            "cites_id": [
+                "10049874401818529388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regionally high risk increase for precipitation extreme events under global warming",
+                "pub_year": "2023",
+                "citation": "Scientific Reports 13 (1), 5579, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590431957710491486",
+            "cites_id": [
+                "13590431957710491486"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metrics for Evaluating CMIP6 Representation of Daily Precipitation Probability Distributions",
+                "pub_year": "2022",
+                "citation": "Journal of Climate 35 (17), 5719-5743, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5702078947106512548",
+            "cites_id": [
+                "5702078947106512548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanisms of tropical Pacific decadal variability",
+                "pub_year": "2023",
+                "citation": "Nature Reviews Earth & Environment 4 (11), 754-769, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:mB3voiENLucC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11287411738749473896",
+            "cites_id": [
+                "11287411738749473896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The ENSO-induced South Pacific Meridional Mode",
+                "pub_year": "2023",
+                "citation": "Frontiers in Climate 4, 1-18, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6546412142713161592",
+            "cites_id": [
+                "6546412142713161592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deterministic and stochastic models of tropical climate variability",
+                "pub_year": "2016",
+                "citation": "The University of Wisconsin-Madison, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14980339438045047053",
+            "cites_id": [
+                "14980339438045047053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative Contribution of Moisture Transport during TC-Active and TC-Inactive Periods to the Precipitation in Henan Province of North China: Mean State and an Extreme Event",
+                "pub_year": "2023",
+                "citation": "Journal of Climate 36 (11), 3611-3623, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15264214673102852400",
+            "cites_id": [
+                "15264214673102852400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What sets the probability distribution of precipitation?",
+                "pub_year": "2018",
+                "citation": "AGU Fall Meeting Abstracts 2018, NG11A-04, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1692614668114378362",
+            "cites_id": [
+                "1692614668114378362"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precipitation accumulations, intensities and durations",
+                "pub_year": "2018",
+                "citation": "APS March Meeting Abstracts 2018, R47. 001, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=897899532203209724",
+            "cites_id": [
+                "897899532203209724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shifts in summertime precipitation accumulation distributions over the US",
+                "pub_year": "2017",
+                "citation": "AGU Fall Meeting Abstracts 2017, A41K-06, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11219541048957946233",
+            "cites_id": [
+                "11219541048957946233"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modification of contour-improved perturbation theory",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2259021710279681169",
+            "cites_id": [
+                "2259021710279681169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marine Heat Waves in a Changing World IV Oral",
+                "pub_year": "2024",
+                "citation": "2024 Ocean Sciences Meeting, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The 2023 Coastal El Ni\u00f1o Event",
+                "pub_year": "2024",
+                "citation": "2024 Ocean Sciences Meeting, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extreme coastal El Ni\u00f1o events are tightly linked to the development of the Pacific Meridional Modes",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two types of Coastal El Ni\u00f1o events",
+                "pub_year": "2022",
+                "citation": "EGU General Assembly Conference Abstracts, EGU22-6406, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metrics for Evaluating CMIP6 Simulation of Daily Precipitation Probability Distributions",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, GC104-0002, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Changes in probability of large precipitation events under global warming: Using theory to understand projections in the CMIP6 ensemble.",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, A165-06, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENSO Asymmetry in Amplitude and Duration in a Linear Model with State-Dependent Noise",
+                "pub_year": "2020",
+                "citation": "100th American Meteorological Society Annual Meeting, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precipitation probability distributions in CMIP6 models: relationship to the thermodynamic environment and of daily to sub-daily timescales",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting Abstracts 2019, A12E-04, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controls on Deep-Convective Precipitation and the Dialogue with the Mesoscale",
+                "pub_year": "2019",
+                "citation": "99th American Meteorological Society Annual Meeting, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The dialogue between fast-process diagnostics and stochastic process models for precipitation",
+                "pub_year": "2018",
+                "citation": "AGU Fall Meeting Abstracts 2018, A12F-05, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El Nino-La Nina Asymmetry in a Linear Inverse Model Framework",
+                "pub_year": "2018",
+                "citation": "https://doi.org/10.13140/RG.2.2.15218.45767, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytical framework for understanding Meridional Mode dynamics",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How do meridional modes structure and growth depend on mean state asymmetry?",
+                "pub_year": "2015",
+                "citation": "95th American Meteorological Society Annual Meeting, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incertezas en la evaluaci\u00f3n del decaimiento semihadr\u00f3nico del lept\u00f3n tau y una nueva expansi\u00f3n perturbativa",
+                "pub_year": "2010",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THERMAL CORRECTIONS TO PI-PI SCATTERING LENGTHS IN THE LINEAR SIGMA MODEL",
+                "pub_year": "2010",
+                "citation": "UNIVERSITY OF CHICAGO PRESS, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODIFIED CONTOUR-IMPROVED PERTURBATION THEORY",
+                "pub_year": "2010",
+                "citation": "PUBLIC LIBRAY OF SCIENCE, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal corrections to \u03c0-\u03c0 scattering lengths in the linear sigma model",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correciones t\u00e9rmicas a las longitudes de scattering pion-pion en el modelos sigma lineal",
+                "pub_year": "2007",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marine Heatwaves in a Changing World",
+                "citation": "2024 Ocean Sciences Meeting, 0"
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Why daily precipitation intensities tend to follow Gamma distributions\u2014theory and applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kRDR_A4AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 17,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "sqzMm-cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Villalobos Aguilera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sqzMm-cAAAAJ&citpid=1",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Model Predictive control",
+        "port Hamiltonian systems",
+        "Irreversible port Hamiltonian system",
+        "Advance control system"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GfDkTtgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yann Le Gorrec",
+            "affiliation": "Professeur d'Automatique ENSMM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "27SqpPsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Ramirez Estay",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy shaping plus damping injection of irreversible port Hamiltonian systems",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 11539-11544, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sqzMm-cAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17386116731008578142",
+            "cites_id": [
+                "17386116731008578142"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

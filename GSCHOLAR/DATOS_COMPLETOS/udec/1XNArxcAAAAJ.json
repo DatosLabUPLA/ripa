@@ -1,0 +1,81 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1XNArxcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Estefan\u00eda V\u00e9lez Pe\u00f1a",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [],
+    "email_domain": "@udec.cl",
+    "citedby": 67,
+    "citedby5y": 67,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2020": 7,
+        "2021": 18,
+        "2022": 20,
+        "2023": 14,
+        "2024": 8
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inactivation of carbapenem-resistant Klebsiella pneumoniae by photo-Fenton: Residual effect, gene evolution and modifications with citric acid and persulfate",
+                "pub_year": "2019",
+                "citation": "Water research 161, 354-363, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1XNArxcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6075969584109878257",
+            "cites_id": [
+                "6075969584109878257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-cleaning and antimicrobial photo-induced properties under indoor lighting irradiation of chitosan films containing Melon/TiO2 composites",
+                "pub_year": "2020",
+                "citation": "Applied Surface Science 508, 144895, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1XNArxcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12112552390036232522",
+            "cites_id": [
+                "12112552390036232522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-cleaning and antimicrobial properties of chitosan films containing Melon/TiO2 nanoparticles under indoor lighting irradiation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1XNArxcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "N-Mp2LoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Blanca Araya",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=N-Mp2LoAAAAJ&citpid=1",
+    "affiliation": "Postdoctoral researcher, Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "Bacterial biotechnology",
+        "lipid accumulation",
+        "bioreactor engineering"
+    ],
+    "email_domain": "@miuandes.cl",
+    "citedby": 57,
+    "citedby5y": 37,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2015": 3,
+        "2016": 4,
+        "2017": 5,
+        "2018": 8,
+        "2019": 4,
+        "2020": 7,
+        "2021": 6,
+        "2022": 8,
+        "2023": 6,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7MPNMlkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Scott",
+            "affiliation": "Universidad de los Andes, Facultad de Ingenier\u00eda y Ciencias Aplicadas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BamCl30AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ALBERTO VERGARA-FERNANDEZ",
+            "affiliation": "Universidad de los Andes - Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the simultaneous production of lutein and lipids using a vertical alveolar panel bioreactor for three Chlorella species",
+                "pub_year": "2014",
+                "citation": "Algal Research 6, 218-222, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "N-Mp2LoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7203632005497649038",
+            "cites_id": [
+                "7203632005497649038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two internal bottlenecks cause the overflow metabolism leading to poly (3-hydroxybutyrate) production in Azohydromonas lata DSM1123",
+                "pub_year": "2021",
+                "citation": "Journal of Environmental Chemical Engineering 9 (4), 105665, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "N-Mp2LoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13464622388997166311",
+            "cites_id": [
+                "13464622388997166311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biodegradation of 2,5\u2010dimethylpyrazine in gas and liquid phase by the fungus Fusarium solani",
+                "pub_year": "2022",
+                "citation": "Journal of Chemical Technology & Biotechnology 97 (6), 1408-1415, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "N-Mp2LoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17997056867069781533",
+            "cites_id": [
+                "17997056867069781533"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

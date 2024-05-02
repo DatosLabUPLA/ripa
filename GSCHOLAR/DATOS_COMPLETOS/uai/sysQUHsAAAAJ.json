@@ -1,0 +1,617 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "sysQUHsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier Lopatin",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sysQUHsAAAAJ&citpid=4",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Remote Sensing of Vegetation",
+        "plant strategies",
+        "plant traits"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "https://ingenieria.uai.cl/javier-lopatin",
+    "citedby": 896,
+    "citedby5y": 801,
+    "hindex": 13,
+    "hindex5y": 13,
+    "i10index": 13,
+    "i10index5y": 13,
+    "cites_per_year": {
+        "2016": 14,
+        "2017": 31,
+        "2018": 45,
+        "2019": 87,
+        "2020": 107,
+        "2021": 182,
+        "2022": 175,
+        "2023": 180,
+        "2024": 70
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8_qLwZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabian Ewald Fassnacht",
+            "affiliation": "Professor, Freie Universit\u00e4t Berlin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pgzIvAcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Teja Kattenborn",
+            "affiliation": "Department for Sensor-based Geoinformatics, University of Freiburg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RG9y4EQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Galleguillos",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez, Facultad de Ingenier\u00eda y Ciencias"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M_pk3DsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Schmidtlein",
+            "affiliation": "Karlsruhe Institute of Technology (KIT)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nN9sECUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge F Perez-Quezada",
+            "affiliation": "Professor, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TBLgcVsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Foerster",
+            "affiliation": "TU Berlin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mhS-mVUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simon Pierce",
+            "affiliation": "Lecturer in Agricultural Botany and Plant Ecology, University of Milan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "63jHWwgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Reginald Guuroh",
+            "affiliation": "Doctoral Fellow, University of Bonn"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SknW80YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anja Linstaedter",
+            "affiliation": "University of Potsdam, Institute for Biochemistry and Biology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Nc_e0fcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aurora Gaxiola",
+            "affiliation": "Departamento de Ecolog\u00eda, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "teQu8kgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Constanza Becerra-Rodas",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dYeZp8QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Lara",
+            "affiliation": "Professor Facultad de Ciencias Forestales y Recursos Naturales, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6vnaq10AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rocio Araya-L\u00f3pez",
+            "affiliation": ""
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UAV data as alternative to field sampling to map woody invasive species based on combined Sentinel-1 and Sentinel-2 data",
+                "pub_year": "2019",
+                "citation": "Remote sensing of environment 227, 61-73, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:olpn-zPbct0C",
+            "num_citations": 211,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6777587655874127904",
+            "cites_id": [
+                "6777587655874127904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing generalized linear models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile",
+                "pub_year": "2016",
+                "citation": "Remote Sensing of Environment 173, 200-210, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 162,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4519814149044626129",
+            "cites_id": [
+                "4519814149044626129"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping plant species in mixed grassland communities using close range imaging spectroscopy",
+                "pub_year": "2017",
+                "citation": "Remote Sensing of Environment 201, 12-23, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3644903230403441040",
+            "cites_id": [
+                "3644903230403441040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How canopy shadow affects invasive plant species classification in high spatial resolution remote sensing",
+                "pub_year": "2019",
+                "citation": "Remote Sensing in Ecology and Conservation 5 (4), 302-317, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:5ugPr518TE4C",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14514954943926543663",
+            "cites_id": [
+                "14514954943926543663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linking plant strategies and plant traits derived by radiative transfer modelling",
+                "pub_year": "2017",
+                "citation": "Journal of Vegetation Science 28 (4), 717-727, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:D_sINldO8mEC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13225704550784310529",
+            "cites_id": [
+                "13225704550784310529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring Andean high altitude wetlands in central Chile with seasonal optical data: A comparison between Worldview-2 and Sentinel-2 imagery",
+                "pub_year": "2018",
+                "citation": "ISPRS journal of photogrammetry and remote sensing 145, 213-224, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7256123605623802796",
+            "cites_id": [
+                "7256123605623802796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disentangling effects of climate and land-use change on West African drylands\u2019 forage supply",
+                "pub_year": "2018",
+                "citation": "Global Environmental Change 53, 24-38, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:1qzjygNMrQYC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9194563382504202519",
+            "cites_id": [
+                "9194563382504202519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using aboveground vegetation attributes as proxies for mapping peatland belowground carbon stocks",
+                "pub_year": "2019",
+                "citation": "Remote Sensing of Environment 231, 111217, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:t6usbXjVLHcC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1216782295276200911",
+            "cites_id": [
+                "1216782295276200911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using a multistructural object-based LiDAR approach to estimate vascular plant richness in Mediterranean forests with complex structure",
+                "pub_year": "2014",
+                "citation": "IEEE Geoscience and Remote Sensing Letters 12 (5), 1008-1012, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15722428334365972541",
+            "cites_id": [
+                "15722428334365972541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Sentinel-2 and canopy height models to derive a landscape-level biomass map covering multiple vegetation types",
+                "pub_year": "2020",
+                "citation": "International Journal of Applied Earth Observation and Geoinformation 94, 102236, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:Mojj43d5GZwC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12231339779413391542",
+            "cites_id": [
+                "12231339779413391542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting vascular plant diversity in anthropogenic peatlands: comparison of modeling methods with free satellite data",
+                "pub_year": "2017",
+                "citation": "Remote Sensing 9 (7), 681, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7326837951141922438",
+            "cites_id": [
+                "7326837951141922438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biotic and abiotic drivers of carbon, nitrogen and phosphorus stocks in a temperate rainforest",
+                "pub_year": "2021",
+                "citation": "Forest Ecology and Management 494, 119341, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3381725629870479094",
+            "cites_id": [
+                "3381725629870479094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pilot study on the retrieval of DBH and diameter distribution of deciduous forest stands using cast shadows in uav-based orthomosaics",
+                "pub_year": "2018",
+                "citation": "ISPRS annals of the photogrammetry, remote sensing and spatial information \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:J-pR_7NvFogC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6645159751319302720",
+            "cites_id": [
+                "6645159751319302720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disturbance alters relationships between soil carbon pools and aboveground vegetation attributes in an anthropogenic peatland in Patagonia",
+                "pub_year": "2022",
+                "citation": "Ecology and Evolution 12 (3), e8694, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:PELIpwtuRlgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2405614010697044447",
+            "cites_id": [
+                "2405614010697044447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interannual variability of remotely sensed phenology relates to plant communities",
+                "pub_year": "2023",
+                "citation": "IEEE Geoscience and Remote Sensing Letters, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:SdhP9T11ey4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15545699552177633521",
+            "cites_id": [
+                "15545699552177633521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surviving in a hostile landscape: Nothofagus alessandrii remnant forests threatened by mega-fires and exotic pine invasion in the coastal range of central Chile",
+                "pub_year": "2022",
+                "citation": "Oryx, 1-11, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2203450647037244678",
+            "cites_id": [
+                "2203450647037244678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperspectral classification of grassland species: towards a UAS application for semi-automatic field surveys",
+                "pub_year": "2017",
+                "citation": "EGU General Assembly Conference Abstracts, 8703, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:eflP2zaiRacC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17403393835898505110",
+            "cites_id": [
+                "17403393835898505110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of aerial biomass using discrete-wave LiDAR data in combination with different vegetation indices in plantations of Pinus radiata (D. DON), Regi\u00f3n del Maule, Chile.",
+                "pub_year": "2014",
+                "citation": "Sustainability, Agri, Food and Environmental Research 2 (3), 30-49, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5808455533929553362",
+            "cites_id": [
+                "5808455533929553362"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Indicators of ecosystem degradation along an elevational gradient in the Mediterranean Andes",
+                "pub_year": "2023",
+                "citation": "Ecological Indicators 153, 110388, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=158792814846195986",
+            "cites_id": [
+                "158792814846195986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linking plant strategies (CSR) and remotely sensed plant traits",
+                "pub_year": "2016",
+                "citation": "2016 8th Workshop on Hyperspectral Image and Signal Processing: Evolution in \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13232263740926725883",
+            "cites_id": [
+                "13232263740926725883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Post-fire Pinus radiata invasion in a threatened biodiversity hotspot forest: A multi-scale remote sensing assessment",
+                "pub_year": "2024",
+                "citation": "Forest Ecology and Management 561, 121861, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is the change deforestation? Using time-series analysis of satellite data to disentangle deforestation from other forest degradation causes",
+                "pub_year": "2024",
+                "citation": "Remote Sensing Applications: Society and Environment, 101210, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of carbon and water fluxes and the drivers of ecosystem water use efficiency in a temperate rainforest and a peatland in southern South America",
+                "pub_year": "2024",
+                "citation": "Biogeosciences 21 (5), 1371-1389, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drivers of ecosystem water use efficiency in a temperate rainforest and a peatland in southern South America",
+                "pub_year": "2023",
+                "citation": "EGUsphere 2023, 1-26, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:5awf1xo2G04C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of foliar carotenoid content using spectroscopy wavelet-based vegetation indices",
+                "pub_year": "2023",
+                "citation": "IEEE Geoscience and Remote Sensing Letters 20, 1-5, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hate Speech Recognition in Chilean Tweets",
+                "pub_year": "2023",
+                "citation": "IEEE International Conference of the Chilean Computer Science Society (SCCC \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unmanned Aerial Vehicles for Vegetation Mapping: Opportunities and Challenges",
+                "pub_year": "2019",
+                "citation": "Karlsruhe Institute of Technology, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring Andean High Altitude Wetlands in Central Chile with Seasonal Optical Data: A Comparison between Worldview-2 and Sentinel-2 Imagery.",
+                "pub_year": "2018",
+                "citation": "AGU Fall Meeting Abstracts 2018, H31K-2061, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping peatland belowground C stock by using UAV-based aboveground vegetation attributes as proxies",
+                "pub_year": "2018",
+                "citation": "AGU Fall Meeting Abstracts 2018, B33K-2810, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping of invasive plant species with Sentinel-1 and-2 data calibrated with UAV-based training data",
+                "pub_year": "2018",
+                "citation": "Friedrich-Schiller-Universit\u00e4t Jena, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using multi-temporal Sentinal-2 imagery for mapping Andean meadows and surface soil moisture in central Chile",
+                "pub_year": "2017",
+                "citation": "EGU General Assembly Conference Abstracts, 17961, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Empirical Modelation of Runoff in Small Watersheds Using LiDAR Data",
+                "pub_year": "2013",
+                "citation": "AGU Fall Meeting Abstracts 2013, H13J-1502, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "sysQUHsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

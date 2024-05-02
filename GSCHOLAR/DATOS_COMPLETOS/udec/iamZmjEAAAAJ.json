@@ -1,0 +1,59 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "iamZmjEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Marcelo L\u00f3pez Gonz\u00e1lez",
+    "affiliation": "Facultad de ciencias forestales, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Ciencias forestales"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1q2QpcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sim\u00f3n Sandoval",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n de la densidad de rodal a partir de informaci\u00f3n LiDAR a\u00e9rea integrando el m\u00e9todo de masa y \u00e1rbol individual en plantaciones de Pinus radiata",
+                "pub_year": "2023",
+                "citation": "Bosque (Valdivia) 44 (2), 377-386, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iamZmjEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17807122815872087891",
+            "cites_id": [
+                "17807122815872087891"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

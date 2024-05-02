@@ -1,0 +1,761 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "TPvBzXoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Saravanakumar Rajendran",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=TPvBzXoAAAAJ&citpid=6",
+    "affiliation": "Post Doctoral Fellow, University of Santiago of Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Digital twin",
+        "Machine learning",
+        "Condition monitoring of power converters",
+        "Nonlinear controller",
+        "Wind Turbine"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 595,
+    "citedby5y": 413,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 9,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2015": 17,
+        "2016": 31,
+        "2017": 66,
+        "2018": 66,
+        "2019": 70,
+        "2020": 64,
+        "2021": 58,
+        "2022": 92,
+        "2023": 96,
+        "2024": 32
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5MfmudEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Debashisha Jena",
+            "affiliation": "NITK SURATHKAL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-43YaJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mat\u00edas D\u00edaz",
+            "affiliation": "University of Santiago of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validation of an integral sliding mode control for optimal control of a three blade variable speed variable pitch wind turbine",
+                "pub_year": "2015",
+                "citation": "International Journal of Electrical Power & Energy Systems 69, 421-429, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 167,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16560699908473188170",
+            "cites_id": [
+                "16560699908473188170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of estimation of effective wind speed based control of wind turbines",
+                "pub_year": "2015",
+                "citation": "Renewable and Sustainable Energy Reviews 43, 1046-1062, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 151,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4911282935137346412",
+            "cites_id": [
+                "4911282935137346412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Backstepping sliding mode control of a variable speed wind turbine for power optimization",
+                "pub_year": "2015",
+                "citation": "Journal of Modern Power Systems and Clean Energy 3 (3), 402-410, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380324044561778710",
+            "cites_id": [
+                "14380324044561778710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of variable speed variable pitch wind turbine at above and below rated wind speed",
+                "pub_year": "2014",
+                "citation": "Journal of Wind Energy 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:Zph67rFs4hoC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13322703621034351890",
+            "cites_id": [
+                "13322703621034351890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variable speed wind turbine for maximum power capture using adaptive fuzzy integral sliding mode control",
+                "pub_year": "2014",
+                "citation": "Journal of Modern Power Systems and Clean Energy 2 (2), 114-125, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7950504171192924184",
+            "cites_id": [
+                "7950504171192924184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of fractional order PI and integer order PI based controller for hybrid standalone wind energy conversion system",
+                "pub_year": "2020",
+                "citation": "Environmental Progress & Sustainable Energy 39 (2), e13293, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:mB3voiENLucC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8966849516799868042",
+            "cites_id": [
+                "8966849516799868042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of generators and power converters for multi-mw wind energy conversion systems",
+                "pub_year": "2022",
+                "citation": "Processes 10 (11), 2302, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:r0BpntZqJG4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9940452481047591913",
+            "cites_id": [
+                "9940452481047591913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control of wind turbine with optimal power capture and load mitigation",
+                "citation": "Energy Systems, 1-20, 0"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13956387786049401076",
+            "cites_id": [
+                "13956387786049401076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Analysis of DSOGI-PLL& Adaptive Frequency Loop-PLL for Voltage and Frequency Control of PMSG-BESS based Hybrid Standalone WECS",
+                "pub_year": "2018",
+                "citation": "2018 8th International Conference on Power and Energy Systems (ICPES), 234-239, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1442944570185941306",
+            "cites_id": [
+                "1442944570185941306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control of a wind turbine based on nonlinear estimation techniques for maximum power extraction",
+                "pub_year": "2016",
+                "citation": "International Journal of Green Energy 13 (3), 309-319, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:0EnyYjriUFMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033217806120542290",
+            "cites_id": [
+                "7033217806120542290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital twin based identification of degradation parameters of DC-DC converters using an Arithmetic Optimization Algorithm",
+                "pub_year": "2022",
+                "citation": "2022 3rd International Conference for Emerging Technology (INCET), 1-5, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12075242966488156046",
+            "cites_id": [
+                "12075242966488156046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Terminal synergetic control for variable speed wind turbine using a two mass model",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12550867673088809934",
+            "cites_id": [
+                "12550867673088809934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Proportional Integral Terminal Sliding Mode Control for variable speed standalone wind energy conversion system",
+                "pub_year": "2021",
+                "citation": "Environmental Progress & Sustainable Energy 40 (2), e13520, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17985947816126101138",
+            "cites_id": [
+                "17985947816126101138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of complementary sliding mode control for variable speed wind turbine",
+                "pub_year": "2018",
+                "citation": "2018 8th International Conference on Power and Energy Systems (ICPES), 171-175, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:IWHjjKOFINEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16716598011346220820",
+            "cites_id": [
+                "16716598011346220820"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive nonsingular terminal sliding mode control for variable speed wind turbine",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 28th Canadian Conference on Electrical and Computer Engineering \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:_kc_bZDykSQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15881283072013853725",
+            "cites_id": [
+                "15881283072013853725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear estimation and control of wind turbine",
+                "pub_year": "2013",
+                "citation": "Electronics, Computing and Communication Technologies (CONECCT), 2013 IEEE \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14796946619259320745",
+            "cites_id": [
+                "14796946619259320745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Terminal integral synergetic control for wind turbine at region II using a two-mass model",
+                "pub_year": "2023",
+                "citation": "Processes 11 (2), 616, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15203530831735041166",
+            "cites_id": [
+                "15203530831735041166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive SRF-PLL based voltage and frequency control of hybrid standalone WECS with PMSG-BESS",
+                "pub_year": "2018",
+                "citation": "International Journal of Emerging Electric Power Systems 19 (6), 20180072, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4251171573784942708",
+            "cites_id": [
+                "4251171573784942708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of double integral sliding mode control for variable speed wind turbine at partial load region",
+                "pub_year": "2017",
+                "citation": "2017 IEEE International Conference on Computational Intelligence and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:dhFuZR0502QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2378466741583090323",
+            "cites_id": [
+                "2378466741583090323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control strategy to maximize power extraction in wind turbine",
+                "pub_year": "2016",
+                "citation": "Distributed Generation & Alternative Energy Journal 31 (4), 27-49, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8944383562583367145",
+            "cites_id": [
+                "8944383562583367145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind Turbine Emulators\u2014A Review",
+                "pub_year": "2023",
+                "citation": "Processes 11 (3), 747, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:ldfaerwXgEUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12733740227001064142",
+            "cites_id": [
+                "12733740227001064142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum power extraction from a wind turbine using terminal synergetic control",
+                "pub_year": "2023",
+                "citation": "IETE Journal of Research 69 (2), 1152-1159, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:HDshCWvjkbEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6597536288234418979",
+            "cites_id": [
+                "6597536288234418979"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of an Ultrafast Electric Vehicle Charger based on a Series-Parallel Modular Multilevel Converter",
+                "pub_year": "2022",
+                "citation": "2022 Second International Conference on Sustainable Mobility Applications \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:isC4tDSrTZIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5116512518945364502",
+            "cites_id": [
+                "5116512518945364502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative Studyof Different Optimization Algorithms for Estimation of Degradation Parameters of DC-DC Converters",
+                "pub_year": "2022",
+                "citation": "2022 6th International Conference on Trends in Electronics and Informatics \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4565317077741496801",
+            "cites_id": [
+                "4565317077741496801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Fuzzy Sliding Mode Control of Variable Speed Wind Turbine for Maximum Power Extraction.",
+                "pub_year": "2014",
+                "citation": "WSEAS Transactions on Power Systems 9, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11251027507966032732",
+            "cites_id": [
+                "11251027507966032732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of an Isolated AC-DC Matrix Converter for Vehicle-to-Grid Applications",
+                "pub_year": "2022",
+                "citation": "2022 Second International Conference on Sustainable Mobility Applications \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755246146930285594",
+            "cites_id": [
+                "3755246146930285594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of PID, I-PD and fractional order PI-PD for a DC-DC converter",
+                "pub_year": "2022",
+                "citation": "2022 IEEE North Karnataka Subsection Flagship International Conference \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:M05iB0D1s5AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16109628459558073434",
+            "cites_id": [
+                "16109628459558073434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning based condition monitoring of a DC-link capacitor in a Back-to-Back converter",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:BqipwSGYUEgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15066949210857540632",
+            "cites_id": [
+                "15066949210857540632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Overview of Digital Twins Methods Applied to Lithium-Ion Batteries",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:hMod-77fHWUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7891127812576695747",
+            "cites_id": [
+                "7891127812576695747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of different machine learning techniques for condition monitoring of capacitors in a sepic converter",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Global Conference on Computing, Power and Communication \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9074824886430421477",
+            "cites_id": [
+                "9074824886430421477"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast terminal integral synergetic control for variable speed wind turbine",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Global Conference on Computing, Power and Communication \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8134879298461950412",
+            "cites_id": [
+                "8134879298461950412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Moving average filter-pll-based voltage and frequency control of standalone wecs",
+                "pub_year": "2022",
+                "citation": "IETE Journal of Research 68 (5), 3628-3637, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:TQgYirikUcIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2772522706339100705",
+            "cites_id": [
+                "2772522706339100705"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Load mitigation and optimal power capture for variable speed wind turbine in region 2",
+                "pub_year": "2015",
+                "citation": "Journal of Renewable Energy 2015, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14577826490598851532",
+            "cites_id": [
+                "14577826490598851532"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Assessment of a Decentralized Control Strategy for a Back-to-Back Modular Multilevel Converter Operating in Low-Frequency AC Transmission",
+                "pub_year": "2024",
+                "citation": "Processes 12 (1), 155, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Assessment of a Back-to-Back Modular Multilevel Converter for HVDC Applications",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Condition Monitoring of Submodule Capacitors in Modular Multilevel Converter Using Digital Twin",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Power, Instrumentation, Control and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complementary Terminal Sliding Mode Control for Variable Speed Wind Turbine",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Power, Instrumentation, Control and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Condition monitoring of degradation parameters using dynamic mode decomposition",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Power, Instrumentation, Control and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent Proportional Integral-Sliding Mode Control for Standalone Variable-Speed Wind Energy Conversion Systems",
+                "pub_year": "2022",
+                "citation": "Distributed Energy Systems, 169-183, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent 12 Sliding Mode Proportional Control for Integral-Standalone Variable-Speed Wind Energy Conversion Systems",
+                "pub_year": "2022",
+                "citation": "Distributed Energy Systems: Design, Modeling, and Control, 169, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of a Shunt-Series Modular Multilevel Converter for Low-Frequency AC Transmission Systems",
+                "pub_year": "2022",
+                "citation": "2022 Second International Conference on Sustainable Mobility Applications \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Analysis of Fractional-Order PI-Based Controller for Variable Speed Hybrid Standalone WECS",
+                "pub_year": "2020",
+                "citation": "Renewable Energy and Climate Change: Proceedings of REC 2019, 23-37, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double integral sliding surface based intelligent proportional integral control for standalone wind energy conversion system",
+                "pub_year": "2019",
+                "citation": "8th Renewable Power Generation Conference (RPG 2019), 1-8, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Backstepping sliding mode control for variable speed wind turbine",
+                "pub_year": "2014",
+                "citation": "2014 Annual IEEE India Conference (INDICON), 1-6, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ISMC based variable speed wind turbine for maximum power capture",
+                "pub_year": "2014",
+                "citation": "Proceedings of The 2014 International Conference on Control, Instrumentation \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second Order ISMC for Variable Speed Wind Turbine",
+                "pub_year": "2013",
+                "citation": "Industrial and Information Systems (ICIIS), 2013 8th IEEE International \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "POSITION CONTROL OF DC MOTOR USING ADVANCED SOFT COMPUTING TECHNIQUE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "TPvBzXoAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

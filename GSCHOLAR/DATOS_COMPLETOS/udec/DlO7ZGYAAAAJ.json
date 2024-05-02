@@ -1,0 +1,386 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DlO7ZGYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pablo Sanhueza",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DlO7ZGYAAAAJ&citpid=7",
+    "affiliation": "Departamento de Ingenier\u00eda Materiales, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Phase transformation",
+        "Metallurgy",
+        "Thermodynamic",
+        "Computational Modelling"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 240,
+    "citedby5y": 207,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 1,
+        "2016": 4,
+        "2017": 12,
+        "2018": 14,
+        "2019": 18,
+        "2020": 20,
+        "2021": 43,
+        "2022": 23,
+        "2023": 72,
+        "2024": 31
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7-gC6RMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Rojas Jara",
+            "affiliation": "Universidad de Concepci\u00f3n, DIMAT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SuMGdgsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Garcia",
+            "affiliation": "Technology manager, AB Sandvik Coromant"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n3070HkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Suarez",
+            "affiliation": "Dept. of Materials Science and Engineering - Saarland University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of nucleation, growth and coarsening of precipitates in a novel 9% Cr heat resistant steel: Experimental and modeling",
+                "pub_year": "2014",
+                "citation": "Materials Chemistry and Physics 143 (2), 754-764, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8577117481828602819",
+            "cites_id": [
+                "8577117481828602819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precipitation kinetics in a 10.5% Cr heat resistant steel: Experimental results and simulation by TC-PRISMA/DICTRA",
+                "pub_year": "2017",
+                "citation": "Materials Chemistry and Physics 200, 342-353, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3050557966292766024",
+            "cites_id": [
+                "3050557966292766024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulation of a multifunctional coating based on polyphenols extracted from the Pine radiata bark and functionalized zinc oxide nanoparticles: Evaluation of hydrophobic and \u2026",
+                "pub_year": "2019",
+                "citation": "Progress in Organic Coatings 135, 191-204, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11396797305268374551",
+            "cites_id": [
+                "11396797305268374551"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of the concentration of copper nanoparticles on the thermo\u2010mechanical and antibacterial properties of nanocomposites based on poly (butylene adipate\u2010co\u2010terephthalate)",
+                "pub_year": "2019",
+                "citation": "Polymer Composites 40 (5), 1870-1882, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6981416062374258229",
+            "cites_id": [
+                "6981416062374258229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of Ta-MX/Z-phase and Laves phase as precipitation hardening particles in a 12 pct Cr heat-resistant steel",
+                "pub_year": "2018",
+                "citation": "Metallurgical and Materials Transactions A 49, 2951-2962, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18432090848138906825",
+            "cites_id": [
+                "18432090848138906825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supervised machine learning-based multi-class phase prediction in high-entropy alloys using robust databases",
+                "pub_year": "2023",
+                "citation": "Journal of Alloys and Compounds 962, 171224, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17682353747859111840",
+            "cites_id": [
+                "17682353747859111840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of boron in the coarsening rate of chromium-rich carbides in 9%\u201312% chromium martensitic creep-resistant steel: experiment and modeling at 650\u00b0 C",
+                "pub_year": "2021",
+                "citation": "Metals and Materials International 27, 3097-3104, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17581035624973726925",
+            "cites_id": [
+                "17581035624973726925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational modeling of the effect of B and W in the phase transformation of M23C6 carbides in 9 to 12 pct Cr martensitic/ferritic steels",
+                "pub_year": "2019",
+                "citation": "Materials Research Express 6 (11), 1165d3, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9967650715511977914",
+            "cites_id": [
+                "9967650715511977914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Characterization of Super Austenitic Stainless Steel Stabilized with Niobium Produced by Induction Melting at Open Atmosphere",
+                "pub_year": "2018",
+                "citation": "steel research international 89 (11), 1800215, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16973090707713234506",
+            "cites_id": [
+                "16973090707713234506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of Nb-Si-doped low-carbon steel treated by quenching and partitioning: Thermic treatment in two stages supported by computational thermodynamical simulation \u2026",
+                "pub_year": "2023",
+                "citation": "Materials Today Communications 34, 105335, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5237998100577836051",
+            "cites_id": [
+                "5237998100577836051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of Fe36. 29Cr28. 9Ni26. 15Cu4. 17Ti1. 67V2. 48C0. 46 HEA using a new criterion based on VEC: Microstructural study and multiscale mechanical response",
+                "pub_year": "2023",
+                "citation": "Materials Today Communications 35, 105681, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16757169734738099286",
+            "cites_id": [
+                "16757169734738099286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of solution annealing temperature on the localised corrosion behaviour of a modified super austenitic steel produced in an open-air atmosphere",
+                "pub_year": "2023",
+                "citation": "Materials Chemistry and Physics 299, 127498, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9173916010314114355",
+            "cites_id": [
+                "9173916010314114355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of Nb-doped super duplex stainless steel based on recycled material: A study of the microstructural characterization, corrosion, and mechanical behavior",
+                "pub_year": "2023",
+                "citation": "Materials Chemistry and Physics 308, 128294, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18387600098630708229",
+            "cites_id": [
+                "18387600098630708229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Impact of Cooling Rate on Microstructural Features, Mechanical Properties, and Corrosion Resistance of a Novel Nb-Stabilized Super Duplex Stainless Steel in \u2026",
+                "pub_year": "2023",
+                "citation": "Crystals 13 (8), 1192, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14387407941241072672",
+            "cites_id": [
+                "14387407941241072672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laves Phase in a 12% Cr Martensitic/Ferritic Steel: Evolution and Characterization of Nanoparticles at 650\u00b0 C",
+                "pub_year": "2019",
+                "citation": "Journal of nanoscience and nanotechnology 19 (5), 2971-2976, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15192081278385041116",
+            "cites_id": [
+                "15192081278385041116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biocidal effects of organometallic materials supported on ZSM-5 Zeolite: Influence of the physicochemical and surface properties",
+                "pub_year": "2024",
+                "citation": "Heliyon, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sigma Phase Stabilization by Nb Doping in a New High-Entropy Alloy in the FeCrMnNiCu System: A Study of Phase Prediction and Nanomechanical Response",
+                "pub_year": "2024",
+                "citation": "Metals 14 (1), 74, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Sintering Temperature on Phase Formation and Mechanical Properties of Al\u2013Cu\u2013Li Alloy Prepared from Secondary Aluminum Powders",
+                "pub_year": "2023",
+                "citation": "Metals 14 (1), 12, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laves phase formation in Fe-based alloys from strengthening particle to self-healing agent: a Review.",
+                "pub_year": "2023",
+                "citation": "Materials Research Express, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constrained Equilibrium Reactions in a Low Carbon Steel During Heat Treatments Below the MS",
+                "pub_year": "2023",
+                "citation": "steel research international 94 (8), 2200841, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of Solution Anneling Temperature of Nb Bearing Super Austenitic Stainless Steels on the Localised Behaviour",
+                "citation": "Available at SSRN 4196755, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DlO7ZGYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 0
+    }
+}

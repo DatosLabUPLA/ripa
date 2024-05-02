@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "y-podPkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Ignacio Iturbe Araya",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=y-podPkAAAAJ&citpid=1",
+    "affiliation": "Acad\u00e9mico, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Intrusion Detection Systems",
+        "Cyber Security",
+        "Artificial Intelligence"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://informatica.usach.cl/academico/juan-ignacio-iturbe-araya/",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lza6tYMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Helena Rif\u00e0-Pous",
+            "affiliation": "Associate professor, Universitat Oberta de Catalunya"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anomaly-based cyberattacks detection for smart homes: A systematic literature review",
+                "pub_year": "2023",
+                "citation": "Internet of Things, 100792, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y-podPkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11960853021876715772",
+            "cites_id": [
+                "11960853021876715772"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QFOHf-0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Susana Cabrera-Nu\u00f1ez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QFOHf-0AAAAJ&citpid=3",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Zooplancton ecology",
+        "Copepods taxonomic",
+        "Trophic ecology"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 10,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 1,
+        "2020": 0,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fFg2fpYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Hernandez Trujillo",
+            "affiliation": "Investigador, Instituto Polit\u00e9cnico Nacional - CICIMAR"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kVjj8iYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roxana De Silva D\u00e1vila",
+            "affiliation": "Profesor Investigador, Instituto Polit\u00e9cnico Nacional - CICIMAR"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First records of Balaenoptera edeni (Cetartiodactyla: Balaenopteridae) in the coast of Oaxaca, Mexico",
+                "pub_year": "2016",
+                "citation": "Therya 7 (3), 499-503, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "QFOHf-0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=628014967779911777,3314085225074871100",
+            "cites_id": [
+                "628014967779911777",
+                "3314085225074871100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Copepod community structure and functional feeding groups off the Central Mexican Pacific (spring of 2015)",
+                "pub_year": "2023",
+                "citation": "Latin American Journal of Aquatic Research 51 (5), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "QFOHf-0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=935655142944293935",
+            "cites_id": [
+                "935655142944293935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n de la comunidad zooplanct\u00f3nica en la desembocadura del r\u00edo Copalita Oaxaca, M\u00e9xico, asociado a temporadas de secas, lluvias y nortes (Mayo 2010 a Enero 2011)",
+                "pub_year": "2016",
+                "citation": "El Autor, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "QFOHf-0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

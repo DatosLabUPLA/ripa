@@ -1,0 +1,878 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-FeCQt8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Manuel Olivares",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-FeCQt8AAAAJ&citpid=3",
+    "affiliation": "Profesor Auxiliar, Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Fuzzy Systems",
+        "Adaptive Control",
+        "Iterative Learning Control",
+        "Automation",
+        "Industrial Robotics"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "https://www.researchgate.net/profile/Manuel_Olivares2",
+    "citedby": 379,
+    "citedby5y": 146,
+    "hindex": 9,
+    "hindex5y": 5,
+    "i10index": 7,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "1993": 2,
+        "1994": 1,
+        "1995": 1,
+        "1996": 1,
+        "1997": 2,
+        "1998": 3,
+        "1999": 7,
+        "2000": 16,
+        "2001": 11,
+        "2002": 3,
+        "2003": 2,
+        "2004": 10,
+        "2005": 6,
+        "2006": 4,
+        "2007": 8,
+        "2008": 3,
+        "2009": 4,
+        "2010": 6,
+        "2011": 6,
+        "2012": 4,
+        "2013": 3,
+        "2014": 12,
+        "2015": 20,
+        "2016": 20,
+        "2017": 35,
+        "2018": 36,
+        "2019": 24,
+        "2020": 20,
+        "2021": 35,
+        "2022": 34,
+        "2023": 21,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NPhP5QUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Albertos",
+            "affiliation": "Prof. Em\u00e9rito Universitat Politecnica Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GgXFiOcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Sala",
+            "affiliation": "Universitat Politecnica de Valencia, Inst. U. Automatica Informatica Indust. (AI2), Dept. Syst. Eng"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0gRNgsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Silva",
+            "affiliation": "Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fTjgkH0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel A. Solis",
+            "affiliation": "Universidad Andr\u00e9s Bello ; Centro de Innovaci\u00f3n y Rob\u00f3tica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9dFsZkIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jan Jantzen",
+            "affiliation": "Adjunct Professor at the University of the Aegean, Chios, Greece"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "T6e3MokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Yianatos",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rSW5suMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergey Kuleshov",
+            "affiliation": "Universidad Andr\u00e9s Bello, Santiago, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gFwCXWzPVoMC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Garc\u00eda",
+            "affiliation": "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q7L1Fk8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Sanz D\u00edaz",
+            "affiliation": "PhD Student, Universitat Polit\u00e8cnica de Val\u00e8ncia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x0RNc14AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Luis Diez",
+            "affiliation": "Associate Professor - Universitat Polit\u00e9cnica de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Oj0F9AkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Sanz",
+            "affiliation": "Professor of Systems Engineering, Universidad Politecnica de Madrid"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy Logic Controllers. Methodology. Advantages and Drawbacks",
+                "pub_year": "2000",
+                "citation": "X Congreso Espa\u00f1ol sobre Tecnolog\u00edas y L\u00f3gica Fuzzy, ESTYLF 2000, Sevilla \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2201769742181178550",
+            "cites_id": [
+                "2201769742181178550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear control of the flywheel inverted pendulum",
+                "pub_year": "2014",
+                "citation": "ISA transactions 53 (5), 1396-1403, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11610763931734093391",
+            "cites_id": [
+                "11610763931734093391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the linear control of underactuated systems: The flywheel inverted pendulum",
+                "pub_year": "2013",
+                "citation": "2013 10th IEEE International Conference on Control and Automation (ICCA), 27-32, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3768973957154682018",
+            "cites_id": [
+                "3768973957154682018"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A vision based navigation system for an agricultural field robot",
+                "pub_year": "2006",
+                "citation": "3rd IEEE Latin America Robotics Symposium, LARS 2006, Santiago, Chile, 106-114, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15683397923619484466",
+            "cites_id": [
+                "15683397923619484466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time delay limitations in control implementation",
+                "pub_year": "1999",
+                "citation": "1999 European Control Conference (ECC), 1288-1293, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=534182727577446911",
+            "cites_id": [
+                "534182727577446911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensorless control of a doubly fed induction machine based on an extended Kalman filter",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 2011 14th European Conference on Power Electronics and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7464880888657139983",
+            "cites_id": [
+                "7464880888657139983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Are delays in digital control implementation always bad",
+                "pub_year": "2000",
+                "citation": "Asian Control Conference, Shangai, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4388889488914353380",
+            "cites_id": [
+                "4388889488914353380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelado y control difuso",
+                "pub_year": "2002",
+                "citation": "Dpto. Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6524083563248212596",
+            "cites_id": [
+                "6524083563248212596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The control effort and its implications",
+                "pub_year": "2000",
+                "citation": "IFAC Workshop in Advances in Control Education, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:JQOojiI6XY0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4778091559097627286",
+            "cites_id": [
+                "4778091559097627286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online learning control of a gantry crane",
+                "pub_year": "2000",
+                "citation": "Proceedings of the 2000 IEEE International Symposium on Intelligent Control \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=266650517290345168",
+            "cites_id": [
+                "266650517290345168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regulaci\u00f3n",
+                "pub_year": "1994",
+                "citation": "VI Congreso Latinoamericano de Control Autom\u00e1tico, X Congreso Brasilero de \u2026, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7123050585377351544",
+            "cites_id": [
+                "7123050585377351544"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic based look-up table controller with generalization",
+                "pub_year": "2000",
+                "citation": "Proceedings of the 2000 American Control Conference. ACC (IEEE Cat. No \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10347876873180810977",
+            "cites_id": [
+                "10347876873180810977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variable-structure learning controllers",
+                "pub_year": "2000",
+                "citation": "Computer Aided Systems Theory-EUROCAST\u201999: A Selection of Papers from the \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5211952908045437787",
+            "cites_id": [
+                "5211952908045437787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy self-organising control of a pendulum problem",
+                "pub_year": "1999",
+                "citation": "European Symposium on Intelligent Techniques ESIT\u201999, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2977623603313660435",
+            "cites_id": [
+                "2977623603313660435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilizing dynamic state feedback controller synthesis: a reinforcement learning approach",
+                "pub_year": "2016",
+                "citation": "Studies in Informatics and Control 25 (2), 245-254, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:Y5dfb0dijaUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13162214060558981097",
+            "cites_id": [
+                "13162214060558981097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy Logic Controllers. Methodology. Advantages and Drawbacks",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:NJ774b8OgUMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8233997129088761596",
+            "cites_id": [
+                "8233997129088761596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iterative learning controller design for multivariable systems",
+                "pub_year": "2002",
+                "citation": "IFAC Proceedings Volumes 35 (1), 355-360, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082388146882606566",
+            "cites_id": [
+                "6082388146882606566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy PD Control of an Unstable System",
+                "pub_year": "2000",
+                "citation": "IFAC Workshop on Digital Control, PID'00, Terrasa, Spain, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:1qzjygNMrQYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3117802833280606991",
+            "cites_id": [
+                "3117802833280606991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A switched control strategy for swing-up and state regulation for the rotary inverted pendulum",
+                "pub_year": "2019",
+                "citation": "Studies in Informatics and Control 28 (1), 45-54, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:ye4kPcJQO24C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=957140472653966045",
+            "cites_id": [
+                "957140472653966045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A switched swing-up and stabilization control strategy for the rotating flywheel pendulum",
+                "pub_year": "2014",
+                "citation": "11th World Congress on Intelligent Control and Automation, WCICA 2014 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:eJXPG6dFmWUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14724673420598617883",
+            "cites_id": [
+                "14724673420598617883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy Logic Based Look-Up Table Servo Control",
+                "pub_year": "1999",
+                "citation": "Advanced Summer Institute, ASI'99, Leuven, Belgium, 195-200, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:wbdj-CoPYUoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4090448064812281850",
+            "cites_id": [
+                "4090448064812281850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic based look-up table regulator.",
+                "pub_year": "1999",
+                "citation": "EUSFLAT-ESTYLF Joint Conf., 99-102, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13448875432036764173",
+            "cites_id": [
+                "13448875432036764173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trajectory Tracking Control of an Omnidirectional Mobile Robot Based on MPC",
+                "pub_year": "2007",
+                "citation": "IEEE Fourth Latin American Robotics Symposium, LARS 2007, Monterrey, Mexico \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14375141700995495960",
+            "cites_id": [
+                "14375141700995495960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control for an asymmetric multilevel converter with two floating cells per phase",
+                "pub_year": "2015",
+                "citation": "2015 17th European Conference on Power Electronics and Applications (EPE'15 \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:olpn-zPbct0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3105388884577016963",
+            "cites_id": [
+                "3105388884577016963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso eficiente de la Energ\u00eda en Procesos Mineros",
+                "pub_year": "2012",
+                "citation": "6\u00ba Seminario de Acercamiento Tecnol\u00f3gico (SAT), CODELCO, Calama, Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=624565545290599397",
+            "cites_id": [
+                "624565545290599397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of process and energy efficiency in mineral processing on abatement of carbon emissions",
+                "pub_year": "2010",
+                "citation": "2010 IEEE Industry Applications Society Annual Meeting, 1-7, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14458621928839556282",
+            "cites_id": [
+                "14458621928839556282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iterative learning fuzzy control.",
+                "pub_year": "2001",
+                "citation": "EUSFLAT Conf., 486-489, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16742667534292253918",
+            "cites_id": [
+                "16742667534292253918"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some experiments with the self-organising controller",
+                "pub_year": "1999",
+                "citation": "Tech. report, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17274392865579273615",
+            "cites_id": [
+                "17274392865579273615"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some experiments in fuzzy control design",
+                "pub_year": "1998",
+                "citation": "Symposium on Intelligent Systems in Control and Measurement INTCOM'98, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8944149341781689225",
+            "cites_id": [
+                "8944149341781689225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control de un Turbomezclador",
+                "pub_year": "1993",
+                "citation": "X Congreso Chileno de Ingenier\u00eda El\u00e9ctrica, Valdivia, Chile, 93-98, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:bnK-pcrLprsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10341049821253755983",
+            "cites_id": [
+                "10341049821253755983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Reference Adaptive Control for Ball-and-Plate System",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:W5xh706n7nkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5564850021633406547",
+            "cites_id": [
+                "5564850021633406547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of Multi Pixel Photon Counter (MPPC) array. Statistical approach",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Instrumentation and Measurement Technology \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9406663953451170043",
+            "cites_id": [
+                "9406663953451170043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Vision Based System for Industrial Robotic Welding Path Correction",
+                "pub_year": "2010",
+                "citation": "Second International Congress on Automation in the Mining Industry \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12773485392606556852",
+            "cites_id": [
+                "12773485392606556852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feedforward Fuzzy Control for Repetitive Tasks with Varying Parameters",
+                "pub_year": "2003",
+                "citation": "IFAC International Conference on Intelligent Control Systems and Signal \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:kRWSkSYxWN8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2026472322031899764",
+            "cites_id": [
+                "2026472322031899764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open-loop Fuzzy Control: Iterative Learning",
+                "pub_year": "2001",
+                "citation": "IFAC Workshop: Advanced Fuzzy/Neural Control, AFNC'01, Valencia, Spain, 87-92, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9387438184812851081",
+            "cites_id": [
+                "9387438184812851081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trade-off between delays and control effort",
+                "pub_year": "2000",
+                "citation": "5th IFAC Workshop in Advances in Control Education, ACE'00, Gold Coast \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17405099350102038311",
+            "cites_id": [
+                "17405099350102038311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partial Feedback Linearization and Reference Signal Tracking Control for Ball-and-Plate System",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:Fu2w8maKXqMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coordinated control strategy for a rotating flywheel pendulum",
+                "pub_year": "2018",
+                "citation": "2018 IEEE 14th International Conference on Control and Automation (ICCA \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:LjlpjdlvIbIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Predictive Current Control Strategy for a Naturally-Commutated Converter Using a Finite-State Machine Model",
+                "pub_year": "2017",
+                "citation": "WSEAS Transactions on Systems and Control 16, 95-105, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A 2DOF state feedback MRAC control of an electromechanical system",
+                "pub_year": "2014",
+                "citation": "11th World Congress on Intelligent Control and Automation, WCICA 2014 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaciones e impacto de redes inteligentes en el procesamiento de minerales",
+                "pub_year": "2012",
+                "citation": "Automining 2012, Vi\u00f1a del Mar, Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical Forces of electromagnetic origin causing stress Conditions in Gearless Mill Drives",
+                "pub_year": "2011",
+                "citation": "Intl. SAG Conference, SAG'2011, Vancouver, Canada, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visi\u00f3n por Computador y Sistemas de Rob\u00f3tica Industrial",
+                "pub_year": "2010",
+                "citation": "5\u00b0 Seminario de Acercamiento Tecnol\u00f3gico (SAT), CODELCO, Calama, Chile, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estado actual de la Docencia ISA en Internet",
+                "pub_year": "2000",
+                "citation": "I Jornadas de Trabajo Ense\u00f1anza v\u00eda Internet/Web de la Ingenier\u00eda de \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:J-pR_7NvFogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Capital humano y nuevas tecnolog\u00edas para el sector minero",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dept. of Electronic Eng. Univ. Tecnica F. Santa Maria PO Box 110-V, Valparaiso, Chile",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A TURBO FAN NONLINEAR MODEL AND A GAIN SCHEDULING CONTROL STRATEGY DESIGN",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis del Sistema \u201cAro y Bola\u201d",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-FeCQt8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

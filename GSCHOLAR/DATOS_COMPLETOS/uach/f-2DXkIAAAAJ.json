@@ -1,0 +1,96 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "f-2DXkIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luka Robeson",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=f-2DXkIAAAAJ&citpid=1",
+    "affiliation": "PhD student @ Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Single molecule biophysics"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 6,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Eo7bSJEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francesca Burgos Bravo",
+            "affiliation": "University of California at Berkeley"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CwYC-P4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nathalie Casanova-Morales",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determination of protein\u2013protein interactions at the single-molecule level using optical tweezers",
+                "pub_year": "2022",
+                "citation": "Quarterly Reviews of Biophysics 55, e8, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "f-2DXkIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4659800644772856632",
+            "cites_id": [
+                "4659800644772856632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The N-Terminal Region of the BcWCL1 Photoreceptor Is Necessary for Self-Dimerization and Transcriptional Activation upon Light Stimulation in Yeast",
+                "pub_year": "2023",
+                "citation": "International Journal of Molecular Sciences 24 (15), 11874, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "f-2DXkIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Explorando la interacci\u00f3n entre el p\u00e9ptido se\u00f1al de translocaci\u00f3n reticular y el transloc\u00f3n Sec61 mediante espectroscop\u00eda de fuerza a nivel de mol\u00e9cula individual",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "f-2DXkIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

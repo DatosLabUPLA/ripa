@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "su9twwsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Pezoa",
+    "affiliation": "PhD(c) @ Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Biology",
+        "Bioinformatics",
+        "Machine Learning"
+    ],
+    "email_domain": "@correo.uss.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 2,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8QN1V7YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Villacreses",
+            "affiliation": "Universidad Mayor"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generation of Chloroplast Molecular Markers to Differentiate Sophora toromiro and Its Hybrids as a First Approach to Its Reintroduction in Rapa Nui (Easter Island)",
+                "pub_year": "2021",
+                "citation": "Plants 10 (2), 342, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "su9twwsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17773994714565402951",
+            "cites_id": [
+                "17773994714565402951"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

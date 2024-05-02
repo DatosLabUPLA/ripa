@@ -1,0 +1,1034 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Hc986uIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo Paredes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Hc986uIAAAAJ&citpid=2",
+    "affiliation": "Assistant Professor of Computer Science, Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Design and Engineering of Algorithms",
+        "Metric Databases"
+    ],
+    "email_domain": "@utalca.cl",
+    "homepage": "http://www.dcc.uchile.cl/~raparede",
+    "citedby": 650,
+    "citedby5y": 201,
+    "hindex": 13,
+    "hindex5y": 7,
+    "i10index": 15,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2002": 3,
+        "2003": 1,
+        "2004": 4,
+        "2005": 11,
+        "2006": 6,
+        "2007": 18,
+        "2008": 25,
+        "2009": 28,
+        "2010": 29,
+        "2011": 25,
+        "2012": 26,
+        "2013": 46,
+        "2014": 26,
+        "2015": 48,
+        "2016": 40,
+        "2017": 46,
+        "2018": 47,
+        "2019": 35,
+        "2020": 30,
+        "2021": 55,
+        "2022": 33,
+        "2023": 37,
+        "2024": 11
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yXsKQQYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karina Mariela Figueroa Mora",
+            "affiliation": "Universidad Michoacana de San Nicol\u00e1s de Hidalgo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_fx52FkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Navarro",
+            "affiliation": "University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PpDSd7oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Edgar Chavez",
+            "affiliation": "Senior researcher, Centro de Investigaci\u00f3n Cient\u00edfica y de Educaci\u00f3n Superior de"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yx9TRrwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Lagos",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0YfzpYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Renzo Angles",
+            "affiliation": "Department of Computer Science, Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0-RzjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Marin",
+            "affiliation": "University of Santiago, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6IdNOasAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar A. Astudillo",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dux0v5MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erik Regla",
+            "affiliation": "Undergraduate student, Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0xWltyAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter Sanders",
+            "affiliation": "Professor of Computer Science, Karlsruhe Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AZuHYCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio V. Poblete",
+            "affiliation": "Professor of Computer Science, University of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Practical Construction of k-Nearest Neighbor Graphs in Metric Spaces",
+                "pub_year": "2006",
+                "citation": "International Workshop on Experimental and Efficient Algorithms, 85-97, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 104,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8926944491852064098",
+            "cites_id": [
+                "8926944491852064098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using the k-Nearest Neighbor Graph for Proximity Searching in Metric Spaces",
+                "pub_year": "2005",
+                "citation": "String Processing and Information Retrieval: 12th International Conference \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2592220147917006637",
+            "cites_id": [
+                "2592220147917006637"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving similarity joins and range queries in metric spaces with the list of twin clusters",
+                "pub_year": "2009",
+                "citation": "Journal of Discrete Algorithms 7 (1), 18-35, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17011962395421901557",
+            "cites_id": [
+                "17011962395421901557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the least cost for proximity searching in metric spaces",
+                "pub_year": "2006",
+                "citation": "International Workshop on Experimental and Efficient Algorithms, 279-290, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7153332012731831621,3497066377989819822",
+            "cites_id": [
+                "7153332012731831621",
+                "3497066377989819822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An empirical evaluation of intrinsic dimension estimators",
+                "pub_year": "2017",
+                "citation": "Information Systems 64, 206-218, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:D03iK_w7-QYC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15935993215860704172",
+            "cites_id": [
+                "15935993215860704172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal incremental sorting",
+                "pub_year": "2006",
+                "citation": "2006 Proceedings of the Eighth Workshop on Algorithm Engineering and \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15153070404030435762",
+            "cites_id": [
+                "15153070404030435762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speeding up spatial approximation search in metric spaces",
+                "pub_year": "2010",
+                "citation": "Journal of Experimental Algorithmics (JEA) 14, 3.6-3.21, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8050734656671548880",
+            "cites_id": [
+                "8050734656671548880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Practical Constraction of Metric t-Spanners.",
+                "pub_year": "2003",
+                "citation": "ALENEX 3, 69-81, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12903222636995186650",
+            "cites_id": [
+                "12903222636995186650"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graphs for metric space searching",
+                "pub_year": "2008",
+                "citation": "PhD thesis, University of Chile, Chile, 2008. Dept. of Computer Science Tech \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15631403445649864119",
+            "cites_id": [
+                "15631403445649864119"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On sorting, heaps, and minimum spanning trees",
+                "pub_year": "2010",
+                "citation": "Algorithmica 57 (4), 585-620, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385354141896785876",
+            "cites_id": [
+                "2385354141896785876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "t-Spanners as a Data Structure for Metric Space Searching",
+                "pub_year": "2002",
+                "citation": "String Processing and Information Retrieval: 9th International Symposium \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089035442831515563",
+            "cites_id": [
+                "11089035442831515563"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-performance priority queues for parallel crawlers",
+                "pub_year": "2008",
+                "citation": "Proceedings of the 10th ACM workshop on Web information and data management \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15943834999578850394",
+            "cites_id": [
+                "15943834999578850394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enlarging nodes to improve dynamic spatial approximation trees",
+                "pub_year": "2010",
+                "citation": "Proceedings of the third international conference on similarity search and \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5010229412578473168",
+            "cites_id": [
+                "5010229412578473168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "List of clustered permutations for proximity searching",
+                "pub_year": "2013",
+                "citation": "International Conference on Similarity Search and Applications, 50-58, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=475538277226288938",
+            "cites_id": [
+                "475538277226288938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximate direct and reverse nearest neighbor queries, and the k-nearest neighbor graph",
+                "pub_year": "2009",
+                "citation": "2009 Second International Workshop on Similarity Search and Applications, 91-98, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16246828721863414597",
+            "cites_id": [
+                "16246828721863414597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New permutation dissimilarity measures for proximity searching",
+                "pub_year": "2018",
+                "citation": "International conference on similarity search and applications, 122-133, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7183886219300302283",
+            "cites_id": [
+                "7183886219300302283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An empirical evaluation of intrinsic dimension estimators",
+                "pub_year": "2015",
+                "citation": "International Conference on Similarity Search and Applications, 125-137, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=936235606585177166",
+            "cites_id": [
+                "936235606585177166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An effective permutant selection heuristic for proximity searching in metric spaces",
+                "pub_year": "2014",
+                "citation": "Mexican Conference on Pattern Recognition, 102-111, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6161547390497001573",
+            "cites_id": [
+                "6161547390497001573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "List of twin clusters: A data structure for similarity joins in metric spaces",
+                "pub_year": "2008",
+                "citation": "2008 IEEE 24th International Conference on Data Engineering Workshop, 418-425, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2257751170412338915",
+            "cites_id": [
+                "2257751170412338915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedures for mitigating cybersecurity risk in a Chilean government ministry",
+                "pub_year": "2016",
+                "citation": "IEEE Latin America Transactions 14 (6), 2947-2950, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5762639046128589851",
+            "cites_id": [
+                "5762639046128589851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient group of permutants for proximity searching",
+                "pub_year": "2011",
+                "citation": "Pattern Recognition: Third Mexican Conference, MCPR 2011, Cancun, Mexico \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13275786538345086140",
+            "cites_id": [
+                "13275786538345086140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic list of clustered permutations on disk",
+                "pub_year": "2016",
+                "citation": "Computer Science and Technology, 201-211, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2115011078540636289",
+            "cites_id": [
+                "2115011078540636289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "t-Spanners for metric space searching",
+                "pub_year": "2007",
+                "citation": "Data & Knowledge Engineering 63 (3), 820-854, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15981571035979252494",
+            "cites_id": [
+                "15981571035979252494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "R3MAT: A Rapid and Robust Graph Generator",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 130048-130065, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11951036610250148328",
+            "cites_id": [
+                "11951036610250148328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shape of the absorption and fluorescence spectra of condensed phases and transition energies",
+                "pub_year": "2014",
+                "citation": "The Journal of Physical Chemistry A 118 (45), 10754-10762, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16125708082967612834",
+            "cites_id": [
+                "16125708082967612834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal quenching of fluorescence in condensed media",
+                "pub_year": "2016",
+                "citation": "Solid State Communications 242, 52-56, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:f2IySw72cVMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12085644266960468723",
+            "cites_id": [
+                "12085644266960468723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "List of clustered permutations in secondary memory for proximity searching",
+                "pub_year": "2015",
+                "citation": "Journal of Computer Science and Technology 15 (02), 107-113, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14904909637416233955",
+            "cites_id": [
+                "14904909637416233955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boosting the permutation based index for proximity searching",
+                "pub_year": "2015",
+                "citation": "Mexican Conference on Pattern Recognition, 103-112, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7884089069826707261",
+            "cites_id": [
+                "7884089069826707261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metric space searching based on random bisectors and binary fingerprints",
+                "pub_year": "2014",
+                "citation": "International Conference on Similarity Search and Applications, 50-57, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14725184347177804012",
+            "cites_id": [
+                "14725184347177804012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid approach to boost the permutation index for similarity searching",
+                "pub_year": "2023",
+                "citation": "XXVIII Congreso Argentino de Ciencias de la Computaci\u00f3n (CACIC)(La Rioja, 3 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:vRqMK49ujn8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9021087481809460450",
+            "cites_id": [
+                "9021087481809460450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power-law distributed graph generation with mapreduce",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 94405-94415, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:738O_yMBCRsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17513492901985208330",
+            "cites_id": [
+                "17513492901985208330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High precision energy measurements from the analysis of wide spectral features. Application to the fluorescence of YAG: Ce3+",
+                "pub_year": "2017",
+                "citation": "Journal of Photochemistry and Photobiology A: Chemistry 344, 163-167, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:abG-DnoFyZgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15002089343370418580",
+            "cites_id": [
+                "15002089343370418580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the permutation-based proximity searching algorithm using zones and partial information",
+                "pub_year": "2017",
+                "citation": "Pattern Recognition Letters 95, 29-36, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9933787067207088968",
+            "cites_id": [
+                "9933787067207088968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed height queries tree permutation index for proximity searching",
+                "pub_year": "2017",
+                "citation": "Pattern Recognition: 9th Mexican Conference, MCPR 2017, Huatulco, Mexico \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:NhqRSupF_l8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1610090662679261345",
+            "cites_id": [
+                "1610090662679261345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Worst-case optimal incremental sorting",
+                "pub_year": "2015",
+                "citation": "2015 34th International Conference of the Chilean Computer Science Society \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:a0OBvERweLwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046647880587721382",
+            "cites_id": [
+                "2046647880587721382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact and efficient permutations for proximity searching",
+                "pub_year": "2012",
+                "citation": "Mexican Conference on Pattern Recognition, 207-215, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15490846735155815222",
+            "cites_id": [
+                "15490846735155815222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of a natural language processing bot for agricultural water management",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14359694374284459686",
+            "cites_id": [
+                "14359694374284459686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bases de datos no convencionales",
+                "pub_year": "2021",
+                "citation": "XXIII Workshop de Investigadores en Ciencias de la Computaci\u00f3n (WICC 2021 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:WbkHhVStYXYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1947348382317814901",
+            "cites_id": [
+                "1947348382317814901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fourier Transform Spectrometry with Fourier Analysis of the Interferogram as Just an Optional Tool",
+                "pub_year": "2018",
+                "citation": "ACS omega 3 (12), 18258-18262, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:u9iWguZQMMsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16872519386004128660",
+            "cites_id": [
+                "16872519386004128660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stronger Quickheaps",
+                "pub_year": "2011",
+                "citation": "International Journal of Foundations of Computer Science 22 (04), 945-969, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6448758713826760633",
+            "cites_id": [
+                "6448758713826760633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso de t-spanners para b\u00fasqueda en espacios m\u00e9tricos",
+                "pub_year": "2002",
+                "citation": "Master\u2019s thesis, Departamento de Ciencias de la Computac\u00f3n Universidad de \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=115468565783831252",
+            "cites_id": [
+                "115468565783831252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical model for the plastic flow and ductile fracture of polycrystalline solids",
+                "pub_year": "2024",
+                "citation": "Heliyon 10 (3), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Waterways and Rocket-Propulsion Problems",
+                "pub_year": "2023",
+                "citation": "The Physics Teacher 61 (8), 672-674, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Check for Boosting the Permutation Index for Similarity Searching Using an Eclectic Approach",
+                "pub_year": "2023",
+                "citation": "Computer Science\u2013CACIC 2022: 28th Argentine Congress, CACIC 2022, La Rioja \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boosting the Permutation Index for Similarity Searching Using an Eclectic Approach",
+                "pub_year": "2022",
+                "citation": "Argentine Congress of Computer Science, 159-174, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00cdndices y operaciones para bases de datos m\u00e9tricas",
+                "pub_year": "2022",
+                "citation": "XXIV Workshop de Investigadores en Ciencias de la Computaci\u00f3n (WICC 2022 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aportes a nuevos modelos de bases de datos",
+                "pub_year": "2019",
+                "citation": "XXI Workshop de Investigadores en Ciencias de la Computaci\u00f3n (WICC 2019 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fourier transform spectrometry without Fourier analysis of the interferogram",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1804.06871, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aportes al modelo de bases de datos m\u00e9tricas",
+                "pub_year": "2016",
+                "citation": "XVIII Workshop de Investigadores en Ciencias de la Computaci\u00f3n (WICC 2016 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic Permutation Based Index for Proximity Searching",
+                "pub_year": "2015",
+                "citation": "International Conference on Similarity Search and Applications, 97-102, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bases de datos no convencionales: \u00edndices y lenguajes de consulta",
+                "pub_year": "2015",
+                "citation": "XVII Workshop de Investigadores en Ciencias de la Computaci\u00f3n (Salta, 2015), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "List of Clustered Permutations in Secondary Memory",
+                "pub_year": "2015",
+                "citation": "XXI Congreso Argentino de Ciencias de la Computaci\u00f3n (Jun\u00edn, 2015), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00das eficient de programes inform\u00e0tics en arquitectura: Designbuilder i Dialux",
+                "pub_year": "2014",
+                "citation": "II Jornadas sobre Innovaci\u00f3n Docente en Arquitectura (JIDA\u201914), Escuela \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of methods to assess similarity between phrases",
+                "pub_year": "2014",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web-based Refining of Machine Translations",
+                "pub_year": "2011",
+                "citation": "2011 30th International Conference of the Chilean Computer Science Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chilean. April 3, 1976. Camino a Los Niches Km 1, s/n\u2014Curic\u00f3\u2014Chile.(+ 569) 9318 0925.",
+                "pub_year": "1976",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bases de Datos no Convencionales: \u00cdndices y Operaciones",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program Committee Chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finding Good Permutants for Proximity Searching in Metric Spaces",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quickheaps: Simple, Efficient, and Cache-Oblivious",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaci\u00f3n de Ordenamiento en L\u0131nea: Construcci\u00f3n Eficiente delArbol Cobertor M\u0131nimo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Hc986uIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

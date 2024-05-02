@@ -1,0 +1,97 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "AvuC7VoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Dr. Ing. Mauricio Campillo Canto",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AvuC7VoAAAAJ&citpid=2",
+    "affiliation": "Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Mec\u00e1nica Computacional",
+        "An\u00e1lisis por Elementos Finitos"
+    ],
+    "email_domain": "@uai.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 6,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of an RVE using a DEM\u2013FEM scheme under modified approximate periodic boundary condition to estimate the elastic mechanical properties of open foams",
+                "pub_year": "2021",
+                "citation": "Engineering with Computers, 1-19, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AvuC7VoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9173618980348019792",
+            "cites_id": [
+                "9173618980348019792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Percentage porosity computation of three-dimensional non-convex porous geometries using the direct Monte Carlo simulation",
+                "pub_year": "2021",
+                "citation": "Engineering with Computers 37, 951-973, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AvuC7VoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17302549817149647148",
+            "cites_id": [
+                "17302549817149647148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation of the presence of a crack close to the welding of a tubular T joint",
+                "pub_year": "2017",
+                "citation": "Ingenier\u00eda y Desarrollo 35 (2), 320-336, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AvuC7VoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n num\u00e9rica de la presencia de una grieta cercana a la soldadura de una uni\u00f3n tubular en T",
+                "pub_year": "2017",
+                "citation": "Ingenier\u00eda y Desarrollo 35 (2), 320-336, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "AvuC7VoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

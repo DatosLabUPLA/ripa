@@ -1,0 +1,76 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "MyOUTA0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pascal Toro",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 24,
+    "citedby5y": 12,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 0,
+        "2016": 6,
+        "2017": 3,
+        "2018": 1,
+        "2019": 3,
+        "2020": 4,
+        "2021": 2,
+        "2022": 0,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large area patterned magnetic films by depositing cobalt layers on nano-wrinkled polydimethylsiloxane templates",
+                "pub_year": "2013",
+                "citation": "Applied Physics Letters 103 (7), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "MyOUTA0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17763501618931838446",
+            "cites_id": [
+                "17763501618931838446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Facile synthesis and magnetic characterizations of single-crystalline hexagonal cobalt nanoplates",
+                "pub_year": "2013",
+                "citation": "Materials letters 94, 121-123, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "MyOUTA0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4403944756402325414",
+            "cites_id": [
+                "4403944756402325414"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

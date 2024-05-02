@@ -1,0 +1,122 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "hH98TPoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "David Gavi\u00f1o",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Solar energy",
+        "PV",
+        "Energy Storage",
+        "Heat transfer"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XFnz63gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Barraza Vicencio",
+            "affiliation": "Associate Profesor, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "odvRV7sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Calder\u00f3n-V\u00e1squez",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NAoxWPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose M. Cardemil",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A discrete element approach to model packed bed thermal storage",
+                "pub_year": "2022",
+                "citation": "Applied Energy 325, 119821, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hH98TPoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5050328847187610406",
+            "cites_id": [
+                "5050328847187610406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An enhanced and optimized Monte Carlo method to calculate view factors in packed beds",
+                "pub_year": "2023",
+                "citation": "Applied Thermal Engineering 219, 119391, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hH98TPoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16245325393510851926",
+            "cites_id": [
+                "16245325393510851926"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of layer view factor method in high temperature thermal storage packed bed",
+                "pub_year": "2024",
+                "citation": "Applied Thermal Engineering 236, 121471, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hH98TPoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Enhanced Monte Carlo Method to Calculate View Factors in Packed Beds and its Application Using Distance Approximation",
+                "pub_year": "2022",
+                "citation": "Available at SSRN 3994124, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hH98TPoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

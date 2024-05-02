@@ -1,0 +1,75 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "KlkzboYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Esteban Fernandez Villanueva",
+    "affiliation": "University of Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Paleoclimate modelling",
+        "biogeochemical cycling",
+        "oceanography",
+        "Earth System modelling",
+        "Carbon cycle"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 1,
+    "citedby5y": 0,
+    "hindex": 1,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "edGHYcEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gary Shaffer",
+            "affiliation": "Center for Advanced Research in Arid Zones, Chile, and Niels Bohr Institute, U. of Copenhagen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of methane cycling for deep-time global warming simulations with the DCESS Earth system model (version 1.2)",
+                "pub_year": "2017",
+                "citation": "Geoscientific Model Development 10 (11), 4081-4103, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "KlkzboYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6567951579499776807",
+            "cites_id": [
+                "6567951579499776807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incorporaci\u00f3n de ciclos biogeoqu\u00edmicos en un oc\u00e9ano bajo condiciones sub\u00f3xicas/an\u00f3xicas en el modelo del sistema tierra DCESS",
+                "pub_year": "2018",
+                "citation": "Universidad de Chile, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "KlkzboYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

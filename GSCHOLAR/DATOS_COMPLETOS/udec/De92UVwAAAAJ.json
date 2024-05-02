@@ -1,0 +1,486 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "De92UVwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudio Rom\u00e1n",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=De92UVwAAAAJ&citpid=5",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "digital image processing",
+        "medical image processing",
+        "diffusion magnetic resonance imaging"
+    ],
+    "email_domain": "@biomedica.udec.cl",
+    "citedby": 444,
+    "citedby5y": 409,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 7,
+        "2018": 20,
+        "2019": 23,
+        "2020": 34,
+        "2021": 66,
+        "2022": 111,
+        "2023": 118,
+        "2024": 54
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tractography dissection variability: What happens when 42 groups dissect 14 white matter bundles on the same dataset?",
+                "pub_year": "2021",
+                "citation": "Neuroimage 243, 118502, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 129,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6752808325718768461",
+            "cites_id": [
+                "6752808325718768461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reproducibility of superficial white matter tracts using diffusion-weighted imaging tractography",
+                "pub_year": "2017",
+                "citation": "Neuroimage 147, 703-725, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 117,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12591418209555906276",
+            "cites_id": [
+                "12591418209555906276"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter: A review on the dMRI analysis methods and applications",
+                "pub_year": "2020",
+                "citation": "Neuroimage 212, 116673, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11658423258420899895",
+            "cites_id": [
+                "11658423258420899895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering of whole-brain white matter short association bundles using HARDI data",
+                "pub_year": "2017",
+                "citation": "Frontiers in neuroinformatics 11, 73, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:WF5omc3nYNoC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18212581873551248167",
+            "cites_id": [
+                "18212581873551248167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter bundle atlas based on hierarchical fiber clustering over probabilistic tractography data",
+                "pub_year": "2022",
+                "citation": "NeuroImage 262, 119550, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3717437462486646873",
+            "cites_id": [
+                "3717437462486646873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter: A review on the dMRI analysis methods and applications. NeuroImage, 212, Article 116673",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:4TOpqqG69KYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14123912202833740278",
+            "cites_id": [
+                "14123912202833740278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced automatic segmentation for superficial white matter fiber bundles for probabilistic tractography datasets",
+                "pub_year": "2021",
+                "citation": "2021 43rd Annual International Conference of the IEEE Engineering in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906744586111301963",
+            "cites_id": [
+                "5906744586111301963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fiber clustering acceleration with a modified kmeans++ algorithm using data parallelism",
+                "pub_year": "2021",
+                "citation": "Frontiers in Neuroinformatics 15, 727859, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042211274556507400",
+            "cites_id": [
+                "7042211274556507400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of precentral-postcentral connections on HCP data using probabilistic tractography and fiber clustering",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI), 55-59, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362347513727662226",
+            "cites_id": [
+                "7362347513727662226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortex surface parcellation based on short association white matter bundles",
+                "pub_year": "2017",
+                "citation": "23th Annual Meeting of the Organization for Human Brain Mapping (OHBM 2017 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14697998734192900521",
+            "cites_id": [
+                "14697998734192900521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Creation of a whole brain short association bundle atlas using a hybrid approach",
+                "pub_year": "2016",
+                "citation": "2016 38th Annual International Conference of the IEEE Engineering in \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4788200714503401830",
+            "cites_id": [
+                "4788200714503401830"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de fibras cerebrales cortas basada en Clustering jer\u00e1rquico a partir de base de datos HARDI",
+                "pub_year": "2017",
+                "citation": "Universidad de Concepci\u00f3n., 2017"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1125054804701663968",
+            "cites_id": [
+                "1125054804701663968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient estimation of time-dependent brain functional connectivity using anatomical connectivity constraints",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17627911901792121935",
+            "cites_id": [
+                "17627911901792121935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient estimation of time-dependent functional connectivity using Structural Connectivity constraints",
+                "pub_year": "2022",
+                "citation": "bioRxiv, 2022.09. 21.508847, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16993756216268981619",
+            "cites_id": [
+                "16993756216268981619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of the number of fibers in tractography reconstruction of white matter bundles",
+                "pub_year": "2019",
+                "citation": "2019 41st Annual International Conference of the IEEE Engineering in \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=497177921274864175",
+            "cites_id": [
+                "497177921274864175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic segmentation of short association bundles using a new multi-subject atlas of the left hemisphere fronto-parietal brain connections",
+                "pub_year": "2015",
+                "citation": "2015 37th Annual International Conference of the IEEE Engineering in \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13045269310605824787",
+            "cites_id": [
+                "13045269310605824787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic clustering of short association white matter fibers from HARDI tractography datasets",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI), 440-444, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10687866340846622908",
+            "cites_id": [
+                "10687866340846622908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group-wise cortical parcellation based on structural connectivity and hierarchical clustering",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1081433665483187095",
+            "cites_id": [
+                "1081433665483187095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stringent fiber distance measure for dMRI tractography clustering and segmentation",
+                "pub_year": "2018",
+                "citation": "2018 40th Annual International Conference of the IEEE Engineering in \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6290355374429513221",
+            "cites_id": [
+                "6290355374429513221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short association bundle atlas based on inter-subject clustering from HARDI data",
+                "pub_year": "2016",
+                "citation": "2016 38th Annual International Conference of the IEEE Engineering in \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7629547570377060160",
+            "cites_id": [
+                "7629547570377060160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short fiber bundle filtering and test-retest reproducibility of the Superficial White Matter",
+                "pub_year": "2024",
+                "citation": "Frontiers in Neuroscience 18, 1394681, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phybers: a package for brain tractography analysis",
+                "pub_year": "2024",
+                "citation": "Frontiers in Neuroscience 18, 1333243, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "White Matter Bundles Linked to Cognitive Impairment in Alzheimer\u2019s Patients and Intermediate Stages",
+                "pub_year": "2023",
+                "citation": "2023 19th International Symposium on Medical Information Processing and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing White Matter Fiber Bundle Segmentation Methods for Autism Prediction",
+                "pub_year": "2023",
+                "citation": "2023 19th International Symposium on Medical Information Processing and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONVEX HULL BASED FILTERING OF SUPERFICIAL WHITE MATTER FIBER BUNDLES",
+                "pub_year": "2023",
+                "citation": "IBRO Neuroscience Reports 15, S782, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter shape characterization using hierarchical clustering and a multi-subject bundle atlas",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient estimation of time-dependent brain functional connectivity using anatomical connectivity constraints",
+                "pub_year": "2023",
+                "citation": "Institute of Electrical and Electronics Engineers Inc., 2023"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio de fibras de la materia blanca superficial en datos del Proyecto Conectoma Humano.",
+                "pub_year": "2021",
+                "citation": "Universidad de Concepci\u00f3n., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering of short association white matter fibers calculated from diffusion MRI",
+                "pub_year": "2014",
+                "citation": "IET Digital Library, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS TOOLS FOR THE STUDY OF BRAIN CONNECTIVITY BASED ON DIFFUSION MRI1",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "De92UVwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 8,
+        "not_available": 4
+    }
+}

@@ -1,0 +1,831 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "b9R93ZcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebasti\u00e1n A. Krogh",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=b9R93ZcAAAAJ&citpid=8",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "hydrology",
+        "snow hydrology",
+        "climate change",
+        "water resources",
+        "Modeling"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://skrogh.weebly.com/",
+    "citedby": 395,
+    "citedby5y": 351,
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 10,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 5,
+        "2017": 15,
+        "2018": 19,
+        "2019": 31,
+        "2020": 42,
+        "2021": 52,
+        "2022": 91,
+        "2023": 101,
+        "2024": 34
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1wATtH4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Pomeroy",
+            "affiliation": "Centre for Hydrology, University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iEEye1UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adrian Harpold",
+            "affiliation": "Associate Professor, University of Nevada, Reno"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8dPmO2cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patrick Broxton",
+            "affiliation": "School of Natural Resources and the Environment, University of Arizona"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N9yPgiEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gary Sterle",
+            "affiliation": "University of Nevada, Reno"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UQyEoToAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luc\u00eda Scaff",
+            "affiliation": "Assistant Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UL6jJoAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Beatrice L. Gordon",
+            "affiliation": "Desert Research Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M3AZCp0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jonathan A. Greenberg",
+            "affiliation": "University of Nevada, Reno"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "I_PdmNwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Philip Marsh",
+            "affiliation": "Wilfrid Laurier University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0U7P56IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James McPhee",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LnozMwEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricia Manley",
+            "affiliation": "US Forest Service Pacific Southwest Research Station"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IWOhrsgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tihomir S Kostadinov",
+            "affiliation": "Associate Professor, California State University San Marcos"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ki9rIy0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rosemary WH Carroll",
+            "affiliation": "Associate Professor, Desert Research Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hh1MXo8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabrielle FS Boisrame",
+            "affiliation": "Assistant Research Professor, Desert Research Institute"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CmuNf8gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James McNamara",
+            "affiliation": "Boise State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cJndGdYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul D. Brooks",
+            "affiliation": "University of Utah"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Tws_sxwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Phillip Harder",
+            "affiliation": "University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_lmptUkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mazda Kompanizare",
+            "affiliation": "University of Waterloo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3NOGSosAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zhihua He",
+            "affiliation": "University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OXzkhLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Robert N. Armstrong",
+            "affiliation": "Research Officer, Queensland Alliance for Agriculture and Food Inovation, University of \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rXDY-7cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Caroline Aubry-Wake",
+            "affiliation": "Utrecht University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kD3VYrgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dhiraj Pradhananga",
+            "affiliation": "Assoc Professor of Hydrometeorology, Tribhuvan University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0efRkw4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher B. Marsh",
+            "affiliation": "Postdoc, University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xsxdtJoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Okan Ayg\u00fcn",
+            "affiliation": "Lorax Environmental"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pq27RukAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christophe Kinnard",
+            "affiliation": "Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xSkCtK8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "James Kirchner",
+            "affiliation": "Professor of the Physics of Environmental Systems, ETH Zurich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YqRA7csAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christina Tague",
+            "affiliation": "Professor of Hydrology, Bren School of Environmental Science and Management, University \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VZBTAiAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zhenhua Li",
+            "affiliation": "University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kX-KiyIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andreas Prein",
+            "affiliation": "National Center for Atmospheric Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Yql106YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roy Rasmussen",
+            "affiliation": "National Center for Atmospheric Research (NCAR)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uzYUfecAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adam Clark",
+            "affiliation": "Research Meteorologist, NOAA/National Severe Storms Laboratory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Rb05L_4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yanping Li",
+            "affiliation": "Associate Professor at University of Saskatchewan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-rrisMIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Lewis",
+            "affiliation": "Dartmouth College"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "isgm3DcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Keith N. Musselman",
+            "affiliation": "Assistant Professor, INSTAAR, Geography Dept., University of Colorado Boulder"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tZqumCkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lauren Bolotin",
+            "affiliation": "Water Resources Scientist at Lynker, NOAA Office of Water Prediction"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_A_jA0IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diogo Costa (Assistant Professor)",
+            "affiliation": "University of \u00c9vora; University of Saskatchewan"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnosis of the hydrology of a small Arctic basin at the tundra-taiga transition using a physically based hydrological model",
+                "pub_year": "2017",
+                "citation": "Journal of hydrology 550, 685-703, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 78,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7308319463152262754",
+            "cites_id": [
+                "7308319463152262754"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Physically Based Mountain Hydrological Modelling using Reanalysis Data in Patagonia",
+                "pub_year": "2015",
+                "citation": "Journal of Hydrometeorology, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5788871254540040332",
+            "cites_id": [
+                "5788871254540040332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of future climate and vegetation on the hydrology of an Arctic headwater basin at the Tundra-Taiga transition",
+                "pub_year": "2019",
+                "citation": "Journal of Hydrometeorology 20 (2), 197-215, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17759946633249271756",
+            "cites_id": [
+                "17759946633249271756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent changes to the hydrological cycle of an Arctic basin at the tundra\u2013taiga transition",
+                "pub_year": "2018",
+                "citation": "hydrology and earth system sciences 22 (7), 3993-4014, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10087236696977591178",
+            "cites_id": [
+                "10087236696977591178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Why does snowmelt-driven streamflow response to warming vary? A data-driven review and predictive framework",
+                "pub_year": "2022",
+                "citation": "Environmental Research Letters 17 (5), 053004, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:_kc_bZDykSQC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=402664815473545516",
+            "cites_id": [
+                "402664815473545516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Process Based Snow Modeling and Lidar to Predict the Effects of Forest Thinning on the Northern Sierra Nevada Snowpack",
+                "pub_year": "2020",
+                "citation": "Frontiers in Forest and Global Change, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10658233591218681816",
+            "cites_id": [
+                "10658233591218681816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The cold regions hydrological modelling platform for hydrological diagnosis and prediction based on process understanding",
+                "pub_year": "2022",
+                "citation": "Journal of Hydrology 615, 128711, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8219913098695483869",
+            "cites_id": [
+                "8219913098695483869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing the Efficacy of Forest Thinning for Snow Using High\u2010Resolution Modeling: A Proof of Concept in the Lake Tahoe Basin, California, USA",
+                "pub_year": "2020",
+                "citation": "Ecohydrology, e2203, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17181679407943172520",
+            "cites_id": [
+                "17181679407943172520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shifting Hydrological Processes in a Canadian Agroforested Catchment due to a Warmer and Wetter Climate",
+                "pub_year": "2020",
+                "citation": "Water 12 (3), 739, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7101091026158385041",
+            "cites_id": [
+                "7101091026158385041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unraveling the controls on snow disappearance in montane conifer forests using multi\u2010site lidar",
+                "pub_year": "2021",
+                "citation": "Water Resources Research 57 (12), e2020WR027522, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6274483879521078887",
+            "cites_id": [
+                "6274483879521078887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dryline characteristics in North America\u2019s historical and future climates",
+                "pub_year": "2021",
+                "citation": "Climate Dynamics 57 (7), 2171-2188, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:8k81kl-MbHgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18439171807129887894",
+            "cites_id": [
+                "18439171807129887894"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diel streamflow cycles suggest more sensitive snowmelt-driven streamflow to climate change than land surface modeling",
+                "pub_year": "2021",
+                "citation": "Hydrol. Earth Syst. Sci., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:Zph67rFs4hoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9751502938172397201,10927959723567113568",
+            "cites_id": [
+                "9751502938172397201",
+                "10927959723567113568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating site-scale permafrost hydrology: Sensitivity to modelling decisions and air temperature",
+                "pub_year": "2021",
+                "citation": "Journal of Hydrology 602, 126771, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8655998752081131470",
+            "cites_id": [
+                "8655998752081131470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avances en la modelaci\u00f3n hidrol\u00f3gica de gran escala en cuencas Patag\u00f3nicas mediante la incorporaci\u00f3n de rean\u00e1lisis climatol\u00f3gicos: aplicaci\u00f3n a la cuenca del R\u00edo Baker, Regi\u00f3n \u2026",
+                "pub_year": "2012",
+                "citation": "Universidad de Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3281179582642206086,8891248525896072050",
+            "cites_id": [
+                "3281179582642206086",
+                "8891248525896072050"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subsurface lateral flows buffer riparian water stress against snow drought",
+                "pub_year": "2022",
+                "citation": "Journal of Geophysical Research: Biogeosciences 127 (12), e2022JG006980, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12930472847904500053",
+            "cites_id": [
+                "12930472847904500053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antecedent snowpack cold content alters the hydrologic response to extreme rain-on-snow events",
+                "pub_year": "2023",
+                "citation": "Journal of Hydrometeorology 24 (10), 1825-1846, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6823305837716963391",
+            "cites_id": [
+                "6823305837716963391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unraveling the Controls on Snow Disappearance in Montane Forests Using Multi-Site Lidar Observations",
+                "pub_year": "2022",
+                "citation": "Authorea Preprints, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14649149975261060600",
+            "cites_id": [
+                "14649149975261060600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Return of the Giants: The extreme Atmospheric River of late June 2023 in central Chile",
+                "pub_year": "2023",
+                "citation": "AGU23, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The prediction of uneven snowpack response to forest thinning informs forest restoration in the central Sierra Nevada",
+                "pub_year": "2023",
+                "citation": "Ecohydrology 16 (7), e2580, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Winter Warm Spells and snowpack ablation in western North America",
+                "pub_year": "2023",
+                "citation": "EGU General Assembly Conference Abstracts, EGU-6903, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heterogenous Response to Forest Thinning from High Resolution Computer Modeling in the Lake Tahoe Basin, California",
+                "pub_year": "2022",
+                "citation": "AGU Fall Meeting Abstracts 2022, C24A-01, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Snow and Forest in the Western US-Does ecophysiology matter? 1089369",
+                "pub_year": "2022",
+                "citation": "AGU Fall Meeting Abstracts 2022, H16F-05, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Will Riparian Refugia be Destabilized by Snow Drought?",
+                "pub_year": "2021",
+                "citation": "AGU Fall Meeting Abstracts 2021, H25C-1077, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observing Montane Forest Evapotranspiration and Water Limitations With Thermal-Based Models In Complex Terrain",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting 2020, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacts of changing winter warm spells on snow ablation in the mountains of western North America",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, C047-0019, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observing Montane Forest Evapotranspiration and Water Limitations With Thermal-Based Models In Complex Terrain",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, H008-0020, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diel observations suggest earlier snowmelt-driven streamflow than land surface modeling",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, H225-02, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How well do we melt snow? A multi-model intercomparison project (MuMIP) illustrates the challenges of hydrological prediction",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, H194-0001, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coevolution of Snowpack and Tree Growth in a Mediterranean Montane Forest",
+                "pub_year": "2020",
+                "citation": "AGU Fall Meeting Abstracts 2020, C006-07, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variations in Conifer Tree Surface Temperature across a Hydrologic Gradient in Sagehen Creek Watershed, Sierra Nevada, USA",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting Abstracts 2019, B53P-2622, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Effect of Forest Thinning on the Sierra Nevada Snowpack Using Lidar and Process Based Snow Modelling",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting Abstracts 2019, C43C-01, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Past and Future Hydrology Near the Arctic Treeline",
+                "pub_year": "2018",
+                "citation": "University of Saskatchewan, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining hydrological changes in a small Arctic treeline basin using cold regions hydrological modelling and a pseudo-global warming approach",
+                "pub_year": "2017",
+                "citation": "AGU Fall Meeting Abstracts 2017, C31C-07, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE ROLE OF SOIL FREEZING AND THAWING IN HYDROLOGICAL PROCESSES: CANADIAN CASE STUDIES",
+                "citation": "Book of Abstracts ACOP2017, 19, 0"
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shifting Hydrological Processes in a Canadian Agroforested Catchment due to a Warmer and Wetter Climate",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TOWARDS A DECISION SUPPORT TOOL FOR UNDERSTANDING THE EFFECT OF FOREST THINNING ON THE SIERRA NEVADA SNOWPACK",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "b9R93ZcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 13,
+        "not_available": 1
+    }
+}

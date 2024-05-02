@@ -1,0 +1,83 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "gSE4l04AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "miguel solis",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gSE4l04AAAAJ&citpid=1",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Condensed Matter Theory"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "W_-UyZ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Suarez Morell",
+            "affiliation": "Professor at Univ. T\u00e9cn. Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bZdX3swAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Manuel Florez Uribe",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-principles based Monte Carlo modeling of the magnetization of oxygen-deficient Fe-substituted SrTiO 3",
+                "pub_year": "2023",
+                "citation": "Physical Chemistry Chemical Physics 25 (28), 19214-19229, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gSE4l04AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16549935579545339422",
+            "cites_id": [
+                "16549935579545339422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-principles based Monte Carlo modeling of oxygen deficient Fe-substituted SrTiO experimental magnetization",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2302.12174, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gSE4l04AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

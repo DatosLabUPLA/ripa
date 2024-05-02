@@ -1,0 +1,149 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "33OH45MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Crist\u00f3bal Rodrigo Donoso Oliva",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=33OH45MAAAAJ&citpid=1",
+    "affiliation": "Universidad de Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Deep Learning",
+        "Astrophysics",
+        "Computer Science"
+    ],
+    "email_domain": "@inf.udec.cl",
+    "homepage": "https://github.com/cridonoso",
+    "citedby": 272,
+    "citedby5y": 272,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 5,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 16,
+        "2021": 31,
+        "2022": 70,
+        "2023": 112,
+        "2024": 41
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The automatic learning for the rapid classification of events (ALeRCE) alert broker",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 161 (5), 242, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 144,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6443851950491997422",
+            "cites_id": [
+                "6443851950491997422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning for image sequence classification of astronomical events",
+                "pub_year": "2019",
+                "citation": "Publications of the Astronomical Society of the Pacific 131 (1004), 108006, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10783663281181367572",
+            "cites_id": [
+                "10783663281181367572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Searching for changing-state agns in massive data sets. i. applying deep learning and anomaly-detection techniques to find agns with anomalous variability behaviors",
+                "pub_year": "2021",
+                "citation": "The Astronomical Journal 162 (5), 206, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15461084578099704209",
+            "cites_id": [
+                "15461084578099704209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ASTROMER: A transformer-based embedding for the representation of light curves",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2205.01677, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16480083392087322831",
+            "cites_id": [
+                "16480083392087322831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of phased recurrent units in the classification of multiple catalogues of astronomical light curves",
+                "pub_year": "2021",
+                "citation": "Monthly Notices of the Royal Astronomical Society 505 (4), 6069-6084, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2119253969885113178",
+            "cites_id": [
+                "2119253969885113178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Positional Encodings for Light Curve Transformers: Playing with Positions and Attention",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.06404, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ASTROMER: Building light curves embeddings using transfomers",
+                "pub_year": "2022",
+                "citation": "Astrophysics Source Code Library, ascl: 2205.020, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "33OH45MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

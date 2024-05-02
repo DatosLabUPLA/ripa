@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nN-1qyEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Emiliano Fucks Jara",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nN-1qyEAAAAJ&citpid=2",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Applied Econometrics"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 31,
+    "citedby5y": 22,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 3,
+        "2018": 2,
+        "2019": 5,
+        "2020": 7,
+        "2021": 4,
+        "2022": 2,
+        "2023": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of daylight saving time on the Chilean residential consumption",
+                "pub_year": "2016",
+                "citation": "Energy Policy 88, 456-464, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "nN-1qyEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16074005104198316016",
+            "cites_id": [
+                "16074005104198316016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of COVID-19 quarantine measures on electricity consumption in the central-southern zone of Chile: A quasi-experimental study",
+                "pub_year": "2024",
+                "citation": "Journal of Cleaner Production 434, 140350, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "nN-1qyEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacto de la inauguraci\u00f3n de Estaciones de Metro, sobre los Precios Hed\u00f3nicos en el Mercado de Alquileres de Viviendas en Santiago, un enfoque cuasi experimental (2000-2013).",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "nN-1qyEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,569 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6XZ9G68AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Harry Oviedo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6XZ9G68AAAAJ&citpid=1",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Numerical Optimization",
+        "Numerical Analysis"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "https://pure.uai.cl/es/persons/harry-oviedo",
+    "citedby": 152,
+    "citedby5y": 141,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 8,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 0,
+        "2017": 0,
+        "2018": 9,
+        "2019": 6,
+        "2020": 2,
+        "2021": 40,
+        "2022": 32,
+        "2023": 36,
+        "2024": 24
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5oUOG4cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Dalmau Cede\u00f1o",
+            "affiliation": "Researcher of Computer Science, CIMAT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "m_pimykAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Andreani",
+            "affiliation": "Professor of mathematics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qKJTiv4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcos Raydan",
+            "affiliation": "Investigador Principal del CMA, Universidade Nova de Lisboa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VfvNsrUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roger Behling",
+            "affiliation": "Funda\u00e7\u00e3o Get\u00falio Vargas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LvSioAIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luiz-Rafael Santos",
+            "affiliation": "Universidade Federal de Santa Catarina"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "02oIwBUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yunier Bello-Cruz",
+            "affiliation": "Associate Professor, Department of Mathematical Sciences, Northern Illinois University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ak9JXRUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leonardo Delarmelina Secchin",
+            "affiliation": "Federal University of Esp\u00edrito Santo, Brazil"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-monotone linear search algorithm with mixed direction on Stiefel manifold",
+                "pub_year": "2019",
+                "citation": "Optimization Methods and Software 34 (2), 437-457, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:Se3iqnhoufwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13108302874400904105",
+            "cites_id": [
+                "13108302874400904105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two adaptive scaled gradient projection methods for Stiefel manifold constrained optimization",
+                "pub_year": "2021",
+                "citation": "Numerical Algorithms 87, 1107-1127, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9798838084002473482",
+            "cites_id": [
+                "9798838084002473482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit steepest descent algorithm for optimization with orthogonality constraints",
+                "pub_year": "2022",
+                "citation": "Optimization Letters 16 (6), 1773-1797, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3030427938304512029",
+            "cites_id": [
+                "3030427938304512029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A delayed weighted gradient method for strictly convex quadratic minimization",
+                "pub_year": "2019",
+                "citation": "Computational Optimization and Applications 74 (3), 729-746, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14775946302132524819",
+            "cites_id": [
+                "14775946302132524819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global convergence of Riemannian line search methods with a Zhang-Hager-type condition",
+                "pub_year": "2022",
+                "citation": "Numerical Algorithms 91 (3), 1183-1203, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4568046963344053463",
+            "cites_id": [
+                "4568046963344053463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A scaled gradient projection method for minimization over the Stiefel manifold",
+                "pub_year": "2019",
+                "citation": "Advances in Soft Computing: 18th Mexican International Conference on \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:UebtZRa9Y70C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14257933855792051516",
+            "cites_id": [
+                "14257933855792051516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Projected nonmonotone search methods for optimization with orthogonality constraints",
+                "pub_year": "2018",
+                "citation": "Computational and Applied Mathematics 37 (3), 3118-3144, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2872796804585556142",
+            "cites_id": [
+                "2872796804585556142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A projection method for optimization problems on the Stiefel manifold",
+                "pub_year": "2017",
+                "citation": "Pattern Recognition: 9th Mexican Conference, MCPR 2017, Huatulco, Mexico \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18055483373164946898",
+            "cites_id": [
+                "18055483373164946898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two novel gradient methods with optimal step sizes",
+                "pub_year": "2021",
+                "citation": "Journal of Computational Mathematics 39 (3), 375, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112715894291888554",
+            "cites_id": [
+                "5112715894291888554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A riemannian conjugate gradient algorithm with implicit vector transport for optimization in the stiefel manifold",
+                "pub_year": "2018",
+                "citation": "Preprint in Optimization-online, 1-16, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9062072838419642841",
+            "cites_id": [
+                "9062072838419642841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matrix completion via a low rank factorization model and an augmented lagrangean succesive overrelaxation algorithm",
+                "pub_year": "2014",
+                "citation": "Bulletin of Computational Applied Mathematics 2 (2), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:ufrVoPGSRksC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12116818662969898912",
+            "cites_id": [
+                "12116818662969898912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid gradient method for strictly convex quadratic programming",
+                "pub_year": "2021",
+                "citation": "Numerical Linear Algebra with Applications 28 (4), e2360, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11633040783163306509",
+            "cites_id": [
+                "11633040783163306509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal point algorithm on the Stiefel manifold",
+                "pub_year": "2021",
+                "citation": "Preprint in Optimization. http://www. optimization-online. org/DB_FILE/2021 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:roLk4NBRz8UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12988666447048386982",
+            "cites_id": [
+                "12988666447048386982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A collection of efficient retractions for the symplectic Stiefel manifold",
+                "pub_year": "2023",
+                "citation": "Computational and Applied Mathematics 42 (4), 164, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15674158992702177717",
+            "cites_id": [
+                "15674158992702177717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circumcentric directions of cones",
+                "pub_year": "2023",
+                "citation": "Optimization Letters 17 (4), 1069-1081, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16830194925907443381",
+            "cites_id": [
+                "16830194925907443381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving weighted orthogonal procrustes problems via a projected gradient method",
+                "pub_year": "2021",
+                "citation": "Preprint in Optimization Online. Available online: http://www. optimization \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16218334834089136368",
+            "cites_id": [
+                "16218334834089136368"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A spectral gradient projection method for the positive semi-definite procrustes problem",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1908.06497, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12973467522298630016",
+            "cites_id": [
+                "12973467522298630016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A family of optimal weighted conjugate-gradient-type methods for strictly convex quadratic minimization",
+                "pub_year": "2022",
+                "citation": "Numerical Algorithms, 1-28, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4337709947903651658",
+            "cites_id": [
+                "4337709947903651658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An accelerated minimal gradient method with momentum for strictly convex quadratic optimization",
+                "pub_year": "2022",
+                "citation": "BIT Numerical Mathematics 62 (2), 591-606, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7654124648017728980",
+            "cites_id": [
+                "7654124648017728980"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A efficient retraction mapping for the symplectic stiefel manifold",
+                "pub_year": "2021",
+                "citation": "Preprint in Optimization-Online. http://www. optimization-online. org \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3545694459504810846",
+            "cites_id": [
+                "3545694459504810846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal point algorithm with Euclidean distance on the Stiefel manifold",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (11), 2414, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13476571270148276584",
+            "cites_id": [
+                "13476571270148276584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral residual method for nonlinear equations on Riemannian manifolds",
+                "pub_year": "2021",
+                "citation": "Computational and Applied Mathematics 40, 1-23, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7617283262611849555",
+            "cites_id": [
+                "7617283262611849555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaled Fixed Point Algorithm for Computing the Matrix Square Root",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2002.08471, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12382225568136482186",
+            "cites_id": [
+                "12382225568136482186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A cyclic delayed weighted steplength for the gradient method",
+                "pub_year": "2024",
+                "citation": "Ricerche di Matematica 73 (2), 873-885, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing the completely positive factorization via alternating minimization",
+                "pub_year": "2024",
+                "citation": "Numerical Linear Algebra with Applications, e2535, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OPTIMIZATION SCHEMES ON MANIFOLDS FOR STRUCTURED MATRICES WITH FIXED EIGENVALUES",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Worst-case Complexity Analysis for Riemannian Non-monotone Line-search Methods",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An extended delayed weighted gradient algorithm for solving strongly convex optimization problems",
+                "pub_year": "2022",
+                "citation": "Journal of Computational and Applied Mathematics 416, 114525, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A second-order gradient method for convex minimization",
+                "pub_year": "2021",
+                "citation": "Bolet\u00edn de la Sociedad Matem\u00e1tica Mexicana 27 (3), 66, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extension of the delayed weighted gradient method for the minimization of strongly convex functions",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Non-monotone Linear Search Method with Mixed Direction on Stiefel Manifold",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1702.04303, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6XZ9G68AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

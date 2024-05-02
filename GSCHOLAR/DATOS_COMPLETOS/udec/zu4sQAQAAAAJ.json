@@ -1,0 +1,793 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zu4sQAQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cecilia Hern\u00e1ndez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zu4sQAQAAAAJ&citpid=1",
+    "affiliation": "Department of Computer Science, University of Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "compressed structures",
+        "data mining",
+        "parallel and distributed algorithms",
+        "bioinformatics."
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "http://www.inf.udec.cl/~chernand",
+    "citedby": 529,
+    "citedby5y": 289,
+    "hindex": 13,
+    "hindex5y": 12,
+    "i10index": 17,
+    "i10index5y": 13,
+    "cites_per_year": {
+        "2004": 3,
+        "2005": 5,
+        "2006": 7,
+        "2007": 12,
+        "2008": 14,
+        "2009": 12,
+        "2010": 14,
+        "2011": 12,
+        "2012": 20,
+        "2013": 18,
+        "2014": 33,
+        "2015": 15,
+        "2016": 11,
+        "2017": 25,
+        "2018": 28,
+        "2019": 41,
+        "2020": 29,
+        "2021": 44,
+        "2022": 55,
+        "2023": 94,
+        "2024": 26
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simulation model for floating-gate MOS synapse transistors",
+                "pub_year": "2002",
+                "citation": "2002 IEEE International Symposium on Circuits and Systems (ISCAS) 2, II-II, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 119,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13573762848900638517",
+            "cites_id": [
+                "13573762848900638517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressed representations for web and social graphs",
+                "pub_year": "2014",
+                "citation": "Knowledge and information systems 40 (2), 279-313, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3640261014218159125",
+            "cites_id": [
+                "3640261014218159125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FFClust: Fast fiber clustering for large tractography datasets for a detailed study of brain connectivity",
+                "pub_year": "2020",
+                "citation": "NeuroImage 220, 117070, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17451697297398140982",
+            "cites_id": [
+                "17451697297398140982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressed representation of web and social networks via dense subgraphs",
+                "pub_year": "2012",
+                "citation": "String Processing and Information Retrieval: 19th International Symposium \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=958836057688052138",
+            "cites_id": [
+                "958836057688052138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compression of web and social graphs supporting neighbor and community queries",
+                "pub_year": "2011",
+                "citation": "Proc. 5th ACM Workshop on Social Network Mining and Analysis (SNA-KDD). ACM, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13174307391331822810",
+            "cites_id": [
+                "13174307391331822810"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heavy-hitter detection using a hardware sketch with the countmin-cu algorithm",
+                "pub_year": "2018",
+                "citation": "2018 21st Euromicro Conference on Digital System Design (DSD), 38-45, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610258021935793207",
+            "cites_id": [
+                "5610258021935793207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel optimization of fiber bundle segmentation for massive tractography datasets",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12647100852360430424",
+            "cites_id": [
+                "12647100852360430424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protein complex prediction via dense subgraphs and false positive analysis",
+                "pub_year": "2017",
+                "citation": "PloS one 12 (9), e0183460, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6866782284095755774",
+            "cites_id": [
+                "6866782284095755774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La convivencia escolar y su impacto en el proceso de ense\u00f1anza-aprendizaje de alumnos y alumnas de tercer ciclo de educaci\u00f3n b\u00e1sica del centro escolar",
+                "pub_year": "2017",
+                "citation": "Guadalupe, San Vicente. San Vicente: Universidad de El Salvador, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:hMod-77fHWUC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3288354158568305857",
+            "cites_id": [
+                "3288354158568305857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high-throughput hardware accelerator for network entropy estimation using sketches",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 85823-85838, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15975812802134111562",
+            "cites_id": [
+                "15975812802134111562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact structure for sparse undirected graphs based on a clique graph partition",
+                "pub_year": "2021",
+                "citation": "Information Sciences 544, 485-499, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15496002326792444396",
+            "cites_id": [
+                "15496002326792444396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter bundle atlas based on hierarchical fiber clustering over probabilistic tractography data",
+                "pub_year": "2022",
+                "citation": "NeuroImage 262, 119550, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3717437462486646873",
+            "cites_id": [
+                "3717437462486646873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mining discriminative k-mers in DNA sequences using sketches and hardware acceleration",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 114715-114732, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3166370142223089842",
+            "cites_id": [
+                "3166370142223089842"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic p2p indexing and search based on compact clustering",
+                "pub_year": "2009",
+                "citation": "2009 Second International Workshop on Similarity Search and Applications \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10206885175335560333",
+            "cites_id": [
+                "10206885175335560333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hardware accelerator for entropy estimation using the top-k most frequent elements",
+                "pub_year": "2020",
+                "citation": "2020 23rd Euromicro Conference on Digital System Design (DSD), 141-148, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=707083979977590891",
+            "cites_id": [
+                "707083979977590891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A p2p meta-index for spatio-temporal moving object databases",
+                "pub_year": "2008",
+                "citation": "International Conference on Database Systems for Advanced Applications, 653-660, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692043075843012222",
+            "cites_id": [
+                "14692043075843012222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical surface parcellation based on graph representation of short fiber bundle connections",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11735101145916387423",
+            "cites_id": [
+                "11735101145916387423"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardware acceleration of k-mer clustering using locality-sensitive hashing",
+                "pub_year": "2019",
+                "citation": "2019 22nd Euromicro Conference on Digital System Design (DSD), 659-662, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11482332566807188751",
+            "cites_id": [
+                "11482332566807188751"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex queries for moving object databases in dht-based systems",
+                "pub_year": "2008",
+                "citation": "Euro-Par 2008\u2013Parallel Processing: 14th International Euro-Par Conference \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=514381345909498250",
+            "cites_id": [
+                "514381345909498250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-subject clustering of brain fibers from whole-brain tractography",
+                "pub_year": "2020",
+                "citation": "2020 42nd Annual International Conference of the IEEE Engineering in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10355727053260641596",
+            "cites_id": [
+                "10355727053260641596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JACC-FPGA: A hardware accelerator for Jaccard similarity estimation using FPGAs in the cloud",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 138, 26-42, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14740999842574307686",
+            "cites_id": [
+                "14740999842574307686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced automatic segmentation for superficial white matter fiber bundles for probabilistic tractography datasets",
+                "pub_year": "2021",
+                "citation": "2021 43rd Annual International Conference of the IEEE Engineering in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906744586111301963",
+            "cites_id": [
+                "5906744586111301963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fiber clustering acceleration with a modified kmeans++ algorithm using data parallelism",
+                "pub_year": "2021",
+                "citation": "Frontiers in Neuroinformatics 15, 727859, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042211274556507400",
+            "cites_id": [
+                "7042211274556507400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering of tractography datasets based on streamline point distribution",
+                "pub_year": "2018",
+                "citation": "International Society of Magnetic Resonance in Medicine Conference, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8025542338192464802",
+            "cites_id": [
+                "8025542338192464802"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Managing massive graphs",
+                "pub_year": "2009",
+                "citation": "PhD thesis, PhD thesis, universidad de chile, 2014. http://users. dcc \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18061625548084359660",
+            "cites_id": [
+                "18061625548084359660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proyecto Inter",
+                "pub_year": "2003",
+                "citation": "An\u00e1lisis de necesidades. Programa Comenius, Comisi\u00f3n Europea [www. uned. es \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3710189333062239454",
+            "cites_id": [
+                "3710189333062239454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of precentral-postcentral connections on HCP data using probabilistic tractography and fiber clustering",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI), 55-59, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362347513727662226",
+            "cites_id": [
+                "7362347513727662226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group-wise cortical surface parcellation based on inter-subject fiber clustering",
+                "pub_year": "2021",
+                "citation": "2021 43rd Annual International Conference of the IEEE Engineering in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1336866728805968632",
+            "cites_id": [
+                "1336866728805968632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fiber bundles simulator using exponential curves to validate fiber clustering algorithms",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:r0BpntZqJG4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18276274827167449655",
+            "cites_id": [
+                "18276274827167449655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group-wise cortical parcellation based on structural connectivity and hierarchical clustering",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1081433665483187095",
+            "cites_id": [
+                "1081433665483187095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ABrainVis: an android brain image visualization tool",
+                "pub_year": "2021",
+                "citation": "BioMedical Engineering OnLine 20, 1-23, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5151399632599720145",
+            "cites_id": [
+                "5151399632599720145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell cycle and protein complex dynamics in discovering signaling pathways",
+                "pub_year": "2019",
+                "citation": "Journal of Bioinformatics and Computational Biology 17 (03), 1950011, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9026012526733212860",
+            "cites_id": [
+                "9026012526733212860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discovering dense subgraphs in parallel for compressing web and social networks",
+                "pub_year": "2013",
+                "citation": "String Processing and Information Retrieval: 20th International Symposium \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6778542686110928290",
+            "cites_id": [
+                "6778542686110928290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morfology of the pollen grains of the family Cucurbitaceae of the state of Queretaro, Mexico",
+                "pub_year": "2003",
+                "citation": "Polibotanica 16, 29-48, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438650777243573247",
+            "cites_id": [
+                "17438650777243573247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short fiber bundle filtering and test-retest reproducibility of the Superficial White Matter",
+                "pub_year": "2024",
+                "citation": "Frontiers in Neuroscience 18, 1394681, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phybers: a package for brain tractography analysis",
+                "pub_year": "2024",
+                "citation": "Frontiers in Neuroscience 18, 1333243, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A streaming algorithm and hardware accelerator to estimate the empirical entropy of network flows",
+                "pub_year": "2023",
+                "citation": "Computer Networks 237, 110035, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale cortical parcellation based on geodesic distance and hierarchical clustering",
+                "pub_year": "2023",
+                "citation": "2023 19th International Symposium on Medical Information Processing and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing White Matter Fiber Bundle Segmentation Methods for Autism Prediction",
+                "pub_year": "2023",
+                "citation": "2023 19th International Symposium on Medical Information Processing and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BRAIN FIBER BUNDLE SIMULATOR USING SPLINE CURVES",
+                "pub_year": "2023",
+                "citation": "IBRO Neuroscience Reports 15, S783, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONVEX HULL BASED FILTERING OF SUPERFICIAL WHITE MATTER FIBER BUNDLES",
+                "pub_year": "2023",
+                "citation": "IBRO Neuroscience Reports 15, S782, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sketch-based algorithm for network-flow entropy estimation on programmable switches using P4",
+                "pub_year": "2023",
+                "citation": "2023 26th Euromicro Conference on Digital System Design (DSD), 79-86, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superficial white matter shape characterization using hierarchical clustering and a multi-subject bundle atlas",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Listing Dense Subgraphs in Small Memory",
+                "pub_year": "2014",
+                "citation": "2014 9th Latin American Web Congress, 33-41, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VisualSync: An Interactive Visualization Tool for Teaching/Learning Multithreaded Programming with Synchronization Primitives",
+                "pub_year": "2005",
+                "citation": "E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A SIMULATION MODEL FOR FLOATING-GATE MOS SYNAPSE TRANSISTORS",
+                "pub_year": "2002",
+                "citation": "2002 IEEE International Symposium on Circuits and Systems. Proceedings 2, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Streaming Algorithm to Estimate the Empirical Entropy of Network Flows for Memory-Constrained Devices",
+                "citation": "Available at SSRN 4457367, 0"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hardware Acceleration of Genomic Similarity Estimation Using Fpgas in the Cloud",
+                "citation": "Available at SSRN 4049516, 0"
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "iFIBER, AN EFFICIENT ANDROID APPLICATION FOR THE VISUALIZATION OF BRAIN STRUCTURAL DATA1",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALYSIS TOOLS FOR THE STUDY OF BRAIN CONNECTIVITY BASED ON DIFFUSION MRI1",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zu4sQAQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 8,
+        "not_available": 3
+    }
+}

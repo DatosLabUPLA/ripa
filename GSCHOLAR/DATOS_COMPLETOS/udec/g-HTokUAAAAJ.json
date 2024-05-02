@@ -1,0 +1,101 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "g-HTokUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Paulo Abad",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Sociolog\u00eda ambiental",
+        "movimientos sociales",
+        "metodos de investigaci\u00f3n social"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://www.researchgate.net/profile/Paulo-Abad-Yanez",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y4q4OfoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antoine Maillet",
+            "affiliation": "Instituto de Asuntos P\u00fablicos"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "swxETCoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n Carrasco Soto",
+            "affiliation": "Universidad Cat\u00f3lica de Temuco"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "De la movilizaci\u00f3n a la convenci\u00f3n: din\u00e1micas y estrategias de las organizaciones socioambientales en el proceso constituyente chileno",
+                "pub_year": "2022",
+                "citation": "Universum (Talca) 37 (2), 667-693, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "g-HTokUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6028367132836440895",
+            "cites_id": [
+                "6028367132836440895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Los cabildos por el agua del Movimiento por el Agua y los Territorios (octubre 2019-marzo 2020): un caso de experimento participativo y estrat\u00e9gico.",
+                "pub_year": "2021",
+                "citation": "Experiencias participativas en el Chile actual, 107-140, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "g-HTokUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14797044241805246957",
+            "cites_id": [
+                "14797044241805246957"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From mobilization to the convention: dynamics and strategies of socio-environmental organizations in the Chilean constituent process",
+                "pub_year": "2023",
+                "citation": "UNIV TALCA. INST ESTUDIOS HUMANISTICOS JUAN IGNACIO MOLINA, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "g-HTokUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

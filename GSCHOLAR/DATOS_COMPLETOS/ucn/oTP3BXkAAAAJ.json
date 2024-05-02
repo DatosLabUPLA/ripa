@@ -1,0 +1,99 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oTP3BXkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis Rojas Rubio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oTP3BXkAAAAJ&citpid=1",
+    "affiliation": "Universidad Catolica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Data Science"
+    ],
+    "email_domain": "@alumnos.ucn.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xkniTqYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Meneses Villegas",
+            "affiliation": "Universidad Cat\u00f3lica del Norte"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una comparaci\u00f3n emp\u00edrica de algoritmos de aprendizaje autom\u00e1tico versus aprendizaje profundo para la detecci\u00f3n de noticias falsas en redes sociales",
+                "pub_year": "2022",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 30 (2), 403-415, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oTP3BXkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6878543013904915961",
+            "cites_id": [
+                "6878543013904915961"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the relationships between emotions in fake news",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "oTP3BXkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Framework para Caracterizar Fake News en Terminos de Emociones",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2112.07035, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oTP3BXkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Framework para Caracterizar Fake News en Terminos de Emociones",
+                "pub_year": "2021",
+                "citation": "arXiv e-prints, arXiv: 2112.07035, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oTP3BXkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

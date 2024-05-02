@@ -1,0 +1,1451 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "dNsBXU8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Hern\u00e1ndez Ulloa",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dNsBXU8AAAAJ&citpid=3",
+    "affiliation": "Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Artificial Intelligence",
+        "Heuristic Search",
+        "Automated Planning"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 815,
+    "citedby5y": 414,
+    "hindex": 17,
+    "hindex5y": 11,
+    "i10index": 27,
+    "i10index5y": 12,
+    "cites_per_year": {
+        "2005": 5,
+        "2006": 10,
+        "2007": 11,
+        "2008": 11,
+        "2009": 8,
+        "2010": 7,
+        "2011": 22,
+        "2012": 28,
+        "2013": 30,
+        "2014": 42,
+        "2015": 50,
+        "2016": 56,
+        "2017": 66,
+        "2018": 51,
+        "2019": 48,
+        "2020": 57,
+        "2021": 65,
+        "2022": 99,
+        "2023": 106,
+        "2024": 39
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7S6RcTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Baier",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tpoh43QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sven Koenig",
+            "affiliation": "Dean's Professor of Computer Science, University of Southern California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3eVZLL0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Han Zhang",
+            "affiliation": "University of Southern California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HdLFmroAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William Yeoh",
+            "affiliation": "Washington University in St. Louis"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7yULPkgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s Rivera",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t4rXchwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ariel Felner",
+            "affiliation": "Ben-Gurion University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d3nbM5oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tansel Uras",
+            "affiliation": "Motional"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wCNY8ZYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oren Salzman",
+            "affiliation": "Technion-Israel Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TcYFY-kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "TK Satish Kumar",
+            "affiliation": "University of Southern California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UOOmJCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto As\u00edn-Ach\u00e1",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "a93MQNQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vadim Bulitko",
+            "affiliation": "Professor of Computing Science, University of Alberta"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F6UssykAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matias Greco",
+            "affiliation": "Universidad San Sebastian"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TGCmKk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Harabor",
+            "affiliation": "Monash University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XF0brWQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Liron Cohen",
+            "affiliation": "Waymo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KJbsVl8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hang Ma",
+            "affiliation": "Assistant Professor of Computing Science, Simon Fraser University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3INia4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shao-Hung Chan",
+            "affiliation": "University of Southern California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4Pb2MIEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Le\u00f3n Illanes",
+            "affiliation": "PhD Student, University of Toronto"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GWHlN-MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shawn Skyler",
+            "affiliation": "Ph.D Candidate Ben Gurion University of the Negev"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KchnD40AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dor Atzmon",
+            "affiliation": "Bar-Ilan University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xKM96goAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adi Botea",
+            "affiliation": "Principal Data Scientist, Eaton"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subgoal graphs for optimal pathfinding in eight-neighbor grids",
+                "pub_year": "2013",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 85,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12298243490431911780",
+            "cites_id": [
+                "12298243490431911780"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LRTA*(k)",
+                "pub_year": "2005",
+                "citation": "Proceedings of the 19th international joint conference on Artificial \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15411982389453113196",
+            "cites_id": [
+                "15411982389453113196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avoiding and escaping depressions in real-time heuristic search",
+                "pub_year": "2012",
+                "citation": "Journal of Artificial Intelligence Research 43, 523-570, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11991090738406489857",
+            "cites_id": [
+                "11991090738406489857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tree adaptive a",
+                "pub_year": "2011",
+                "citation": "The 10th International Conference on Autonomous Agents and Multiagent \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2709193754813503623",
+            "cites_id": [
+                "2709193754813503623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple and fast bi-objective search algorithm",
+                "pub_year": "2020",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:p__nRnzSRKYC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12039878979571630867",
+            "cites_id": [
+                "12039878979571630867"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anytime Focal Search with Applications.",
+                "pub_year": "2018",
+                "citation": "IJCAI, 1434-1441, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:-_dYPAW6P2MC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1409278529224047272",
+            "cites_id": [
+                "1409278529224047272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-agent pathfinding with real-time heuristic search",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Conference on Computational Intelligence and Games (CIG), 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:j8SEvjWlNXcC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=844454113015844654",
+            "cites_id": [
+                "844454113015844654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid  Pathfinding  on  the  2^k  Neighborhood",
+                "pub_year": "2017",
+                "citation": "Proceeding of the Thirty-First AAAI Conference on Artificial Intelligence, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:N5tVd3kTz84C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1342472221093602577",
+            "cites_id": [
+                "1342472221093602577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reusing previously found A* paths for fast goal-directed navigation in dynamic terrain",
+                "pub_year": "2015",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:qUcmZB5y_30C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5821883643939767062",
+            "cites_id": [
+                "5821883643939767062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Making A* run faster than D*-Lite for path-planning in partially known terrain",
+                "pub_year": "2014",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1678611875459482624",
+            "cites_id": [
+                "1678611875459482624"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving HLRTA*(k)",
+                "pub_year": "2007",
+                "citation": "Conference of the Spanish Association for Artificial Intelligence, 110-119, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=315417321451628861",
+            "cites_id": [
+                "315417321451628861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incorporating weights into real-time heuristic search",
+                "pub_year": "2015",
+                "citation": "Artificial Intelligence, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8406114272357876762",
+            "cites_id": [
+                "8406114272357876762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic algorithm selection in multi-agent pathfinding",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1906.03992, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7030601764051634456",
+            "cites_id": [
+                "7030601764051634456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-bounded adaptive A.",
+                "pub_year": "2012",
+                "citation": "AAMAS, 997-1006, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4891968459150939843",
+            "cites_id": [
+                "4891968459150939843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Moving target search with compressed path databases",
+                "pub_year": "2013",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6867454114221968816",
+            "cites_id": [
+                "6867454114221968816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A compact answer set programming encoding of multi-agent pathfinding",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 26886-26901, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:k8Z6L05lTy4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9625074513897938154",
+            "cites_id": [
+                "9625074513897938154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving convergence of LRTA*(k)",
+                "pub_year": "2005",
+                "citation": "Proceedings of the International Joint Conference on Artificial Intelligence \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3410996472844137206",
+            "cites_id": [
+                "3410996472844137206"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weighted real-time heuristic search",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 2013 international conference on Autonomous agents and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4473050091202108350",
+            "cites_id": [
+                "4473050091202108350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time heuristic search with depression avoidance",
+                "pub_year": "2011",
+                "citation": "Twenty-Second International Joint Conference on Artificial Intelligence, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15750052274277248077",
+            "cites_id": [
+                "15750052274277248077"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast subgoaling for pathfinding via real-time search",
+                "pub_year": "2011",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12807554070361562812",
+            "cites_id": [
+                "12807554070361562812"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Path-adaptive A* for incremental heuristic search in unknown terrain",
+                "pub_year": "2009",
+                "citation": "Proceedings of the international conference on automated planning and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15539370207635029534",
+            "cites_id": [
+                "15539370207635029534"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple and efficient bi-objective search algorithms via fast dominance checks",
+                "pub_year": "2023",
+                "citation": "Artificial intelligence 314, 103807, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:SpbeaW3--B0C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=521088236243951985",
+            "cites_id": [
+                "521088236243951985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A* pex: Efficient approximate multi-objective search on graphs",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7787866535162618092",
+            "cites_id": [
+                "7787866535162618092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving sum-of-costs multi-agent pathfinding with answer-set programming",
+                "pub_year": "2020",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (06), 9867-9874, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:vbGhcppDl1QC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14320416263957434777",
+            "cites_id": [
+                "14320416263957434777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The 2^ k neighborhoods for grid path planning",
+                "pub_year": "2020",
+                "citation": "Journal of Artificial Intelligence Research 67, 81-113, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:BwyfMAYsbu0C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1422691858000252769",
+            "cites_id": [
+                "1422691858000252769"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Algorithm for Catching a Prey Quickly in Known and Partially Known Game Maps",
+                "pub_year": "2015",
+                "citation": "IEEE-Transactions on Computational Intelligence and AI in Games 7 (2), 193-199., 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:IWHjjKOFINEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12746179091660349203",
+            "cites_id": [
+                "12746179091660349203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast algorithm for catching a prey quickly in known and partially known game maps",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Computational Intelligence and AI in Games 7 (2), 193-199, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:TQgYirikUcIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12746179091660349203,11280992214572996249",
+            "cites_id": [
+                "12746179091660349203",
+                "11280992214572996249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reusing cost-minimal paths for goal-directed navigation in partially known terrains",
+                "pub_year": "2015",
+                "citation": "Autonomous Agents and Multi-Agent Systems 29, 850-895, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15998603536750679175",
+            "cites_id": [
+                "15998603536750679175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Position paper: Incremental search algorithms considered poorly understood",
+                "pub_year": "2012",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 3 (1 \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5625228329775558243,9367136954880613074",
+            "cites_id": [
+                "5625228329775558243",
+                "9367136954880613074"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anytime approximate bi-objective search",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:S16KYo8Pm5AC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5399303008235149765",
+            "cites_id": [
+                "5399303008235149765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast and Almost Optimal Any-Angle Pathfinding Using the 2^k Neighborhoods",
+                "pub_year": "2017",
+                "citation": "Proceedings of the Tenth International Symposium on Combinatorial Search \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ZuybSZzF8UAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6406818488539593470",
+            "cites_id": [
+                "6406818488539593470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconnection with the ideal tree: A new approach to real-time search",
+                "pub_year": "2014",
+                "citation": "Journal of Artificial Intelligence Research 50, 235-264, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:HDshCWvjkbEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12198459288433317859",
+            "cites_id": [
+                "12198459288433317859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online Bridged Pruning for Real-Time Search with Arbitrary Lookaheads",
+                "pub_year": "2017",
+                "citation": "International Joint Conference on Artificial Intelligence, 510-516, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:1yQoGdGgb4wC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17637845681674306117",
+            "cites_id": [
+                "17637845681674306117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconnecting with the ideal tree: An alternative to heuristic learning in real-time search",
+                "pub_year": "2013",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 4 (1 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8309016900394245072",
+            "cites_id": [
+                "8309016900394245072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neural network for decision making in real-time heuristic search",
+                "pub_year": "2018",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 9 (1 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339905014154215286",
+            "cites_id": [
+                "2339905014154215286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-bounded best-first search",
+                "pub_year": "2014",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 5 (1), 97-104, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4326825246952841786",
+            "cites_id": [
+                "4326825246952841786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Escaping heuristic depressions in real-time heuristic search",
+                "pub_year": "2011",
+                "citation": "The 10th International Conference on Autonomous Agents and Multiagent \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6515626321917507850",
+            "cites_id": [
+                "6515626321917507850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K Focal Search for Slow Learned Heuristics",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:PoWvk5oyLR8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7940477292752095417",
+            "cites_id": [
+                "7940477292752095417"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic-Search Approaches for the Multi-Objective Shortest-Path Problem: Progress and Research Opportunities",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Thirty-Second International Joint Conference on \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ruyezt5ZtCIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2740015949032401222",
+            "cites_id": [
+                "2740015949032401222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-Time Adaptive A\u2217 with Depression Avoidance",
+                "pub_year": "2011",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16199495275262980367",
+            "cites_id": [
+                "16199495275262980367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving real-time heuristic search on initially unknown maps",
+                "pub_year": "2007",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15923960471644305576",
+            "cites_id": [
+                "15923960471644305576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-objective Search via Lazy and Efficient Dominance Checks",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Thirty-Second International Joint Conference on \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:q3CdL3IzO_QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3044846057718903893",
+            "cites_id": [
+                "3044846057718903893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bounded-cost bi-objective heuristic search",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:i2xiXl-TujoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8669311227136675996",
+            "cites_id": [
+                "8669311227136675996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subset Approximation of Pareto Regions with Bi-objective A",
+                "pub_year": "2022",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 36 (9), 10345 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:e_rmSamDkqQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8965625179344913599",
+            "cites_id": [
+                "8965625179344913599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A suboptimality bound for 2k grid path planning",
+                "pub_year": "2018",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 9 (1), 63-71, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:VLnqNzywnoUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3660016209891128697",
+            "cites_id": [
+                "3660016209891128697"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lookahead, propagation and moves in real-time heuristic search",
+                "pub_year": "2009",
+                "citation": "2009 2nd International Symposium on Combinatorial Search, SoCS 2009, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=790059371295112922",
+            "cites_id": [
+                "790059371295112922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic Function to Solve The Generalized Covering TSP with Artificial Intelligence Search",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:tuHXwOkdijsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1384025259251336163",
+            "cites_id": [
+                "1384025259251336163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-Bounded Best-First Search for Reversible and Non-reversible Search Graphs",
+                "pub_year": "2016",
+                "citation": "Journal of Artificial Intelligence Research 56, 547-571, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ye4kPcJQO24C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1065116773121694606",
+            "cites_id": [
+                "1065116773121694606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subgoal graphs for eight-neighbor gridworlds",
+                "pub_year": "2012",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 3 (1 \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17776117607076823909",
+            "cites_id": [
+                "17776117607076823909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining lookahead and propagation in real-time heuristic search",
+                "pub_year": "2008",
+                "citation": "Proceedings of the First International Symposium on Search Techniques in \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9565150338709265062",
+            "cites_id": [
+                "9565150338709265062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagating Updates in Real-Time Search: HLRTA*(k)",
+                "pub_year": "2005",
+                "citation": "Conference of the Spanish Association for Artificial Intelligence, 379-388, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:hkOj_22Ku90C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6710610139218711128",
+            "cites_id": [
+                "6710610139218711128"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards effective multi-valued heuristics for bi-objective shortest-path algorithms via differential heuristics",
+                "pub_year": "2023",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 16 (1 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:foquWX3nUaYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11243460082388292426",
+            "cites_id": [
+                "11243460082388292426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient multi-query bi-objective search via contraction hierarchies",
+                "pub_year": "2023",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:xtoqd-5pKcoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12055555387259013046",
+            "cites_id": [
+                "12055555387259013046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multipath Adaptive A*: Factors That Influence Performance in Goal-Directed Navigation in Unknown Terrain",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 116724-116732, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:tYavs44e6CUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1696566528764293168",
+            "cites_id": [
+                "1696566528764293168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving MPGAA* for Extended Visibility Ranges",
+                "pub_year": "2017",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:JQOojiI6XY0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5399576854018965901",
+            "cites_id": [
+                "5399576854018965901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward a search strategy for anytime search in linear space using depth-first branch and bound",
+                "pub_year": "2014",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 5 (1 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4877309883750817175",
+            "cites_id": [
+                "4877309883750817175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Escaping heuristic hollows in real-time search without learning",
+                "pub_year": "2010",
+                "citation": "2010 XXIX International Conference of the Chilean Computer Science Society \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12153213983457371720",
+            "cites_id": [
+                "12153213983457371720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Must-Expand Nodes in Multi-Objective Search",
+                "pub_year": "2023",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 16 (1 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:HbR8gkJAVGIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subset Approximation of Pareto Regions with Bi-Objective A*",
+                "pub_year": "2022",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:kz9GbA2Ns4gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Compact Answer Set Programming Encoding of Multi-Agent Pathfinding",
+                "pub_year": "2021",
+                "citation": "IEEE, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:WZBGuue-350C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SCCC 2020 Opinion",
+                "pub_year": "2020",
+                "citation": "Proceedings-International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:M7yex6snE4oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic Function to Solve The Generalized Covering TSP with Artificial Intelligence Search",
+                "pub_year": "2020",
+                "citation": "IEEE, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:-FonjvnnhkoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compiling cost-optimal multi-agent pathfinding to ASP",
+                "pub_year": "2019",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 10 (1 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ipzZ9siozwsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A learning-based framework for memory-bounded heuristic search: First results",
+                "pub_year": "2019",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 10 (1 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:uc_IGeMz5qoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstracts of Papers Presented in the Previously Published Paper Track: Reusing Previously Found A* Paths for Fast Goal-Directed Navigation in Dynamic Terrain",
+                "pub_year": "2016",
+                "citation": "Ninth Annual Symposium on Combinatorial Search SOCS, 148-149, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Algorithm for Catching a Prey Quickly in Known and Partially Known Game Maps",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:TIZ-Mc8IlK0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reusing cost-minimal paths for goal-directed navigation in partially known terrains",
+                "pub_year": "2015",
+                "citation": "Springer, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incorporating weights into real-time heuristic search",
+                "pub_year": "2015",
+                "citation": "Elsevier, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demonstration Abstract: New Developments in Real-Time Heuristic Search",
+                "pub_year": "2012",
+                "citation": "and Exhibits, 19, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La nueva era de la representaci\u00f3n arquitect\u00f3nica",
+                "pub_year": "2010",
+                "citation": "Universidad de Bogot\u00e1 Jorge Tadeo Lozano, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:XoXfffV-tXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagaci\u00f3n acotada en b\u00fasqueda heur\u00edstica en tiempo real en entornos inicialmente desconocidos",
+                "pub_year": "2007",
+                "citation": "Consejo Superior de Investigaciones Cient\u00edficas, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:b1wdh0AR-JQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagaci\u00f3n de cambios heur\u00edsticos en b\u00fasqueda en tiempo real: memoria presentada para superar el trabajo de investigaci\u00f3n, doctorado en Inform\u00e1tica, opci\u00f3n Inteligencia Artificial",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:kuK5TVdYjLIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selected Papers from the 11th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2005)-Propagating Updates in Real-Time Search: HLRTA?(k)",
+                "pub_year": "2006",
+                "citation": "Lecture Notes in Computer Science 4177, 379-388, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagating Updates in Real-Time Search: HLRTA*(k)",
+                "pub_year": "2006",
+                "citation": "Current Topics in Artificial Intelligence: 11th Conference of the Spanish \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagating updates in real-time search: FALCONS (k)",
+                "pub_year": "2005",
+                "citation": "XXV International Conference of the Chilean Computer Science Society (SCCC \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspectos tecnicos de instalaciones para cuyes",
+                "pub_year": "1993",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ClCfbGk0d_YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical aspects of facilities for guinea-pigs",
+                "pub_year": "1993",
+                "citation": "[se], 1993"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:FPJr55Dyh1AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apuntes sobre el municipio de Subachoque",
+                "pub_year": "1982",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:0N-VGjzr574C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paul Leger David Contreras Orietta Nicolis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:MLfJN-KU85MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program Committee Chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:hMsQuOkrut0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program committee chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:ILKRHgRFtOwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comit\u00e9 Organizador/Organizing Committee",
+                "citation": "Universidad Andr\u00e9s Bello, 0"
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:EYYDruWGBe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mejorando la convergencia en b\u00fasqueda heur\u00edstica de tiempo real.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:0KyAp5RtaNEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program Committee Chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dNsBXU8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

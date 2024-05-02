@@ -1,0 +1,645 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eq254vUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Veloz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eq254vUAAAAJ&citpid=2",
+    "affiliation": "Associate professor, Biomedical Engineering, Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "functional MRI",
+        "fuzzy models",
+        "machine learning",
+        "soft-computing"
+    ],
+    "email_domain": "@uv.cl",
+    "citedby": 224,
+    "citedby5y": 167,
+    "hindex": 9,
+    "hindex5y": 7,
+    "i10index": 9,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2009": 1,
+        "2010": 6,
+        "2011": 1,
+        "2012": 2,
+        "2013": 7,
+        "2014": 6,
+        "2015": 10,
+        "2016": 8,
+        "2017": 7,
+        "2018": 8,
+        "2019": 15,
+        "2020": 21,
+        "2021": 40,
+        "2022": 38,
+        "2023": 38,
+        "2024": 15
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study protocol and rationale of the \u201cCogni-action project\u201d a cross-sectional and randomized controlled trial about physical activity, brain health, cognition, and educational \u2026",
+                "pub_year": "2019",
+                "citation": "BMC pediatrics 19, 1-16, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17245084690405188353",
+            "cites_id": [
+                "17245084690405188353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-organizing neuro-fuzzy inference system",
+                "pub_year": "2008",
+                "citation": "Progress in Pattern Recognition, Image Analysis and Applications: 13th \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=947181476369041745",
+            "cites_id": [
+                "947181476369041745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of b-value sampling scheme on brain IVIM parameter estimation in healthy subjects",
+                "pub_year": "2020",
+                "citation": "Magnetic Resonance in Medical Sciences 19 (3), 216-226, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=370479426064588614",
+            "cites_id": [
+                "370479426064588614"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applying machine learning and image feature extraction techniques to the problem of cerebral aneurysm rupture",
+                "pub_year": "2017",
+                "citation": "Research Ideas and Outcomes 3, e11731, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12217685154848106286",
+            "cites_id": [
+                "12217685154848106286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modified expectation maximization algorithm for MRI segmentation",
+                "pub_year": "2010",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8140233938392704446",
+            "cites_id": [
+                "8140233938392704446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy spatial growing for glioblastoma multiforme segmentation on brain magnetic resonance imaging",
+                "pub_year": "2007",
+                "citation": "Progress in Pattern Recognition, Image Analysis and Applications: 12th \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2350228594698413961",
+            "cites_id": [
+                "2350228594698413961"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image quality assessment to emulate experts\u2019 perception in lumbar MRI using machine learning",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (14), 6616, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17754310456669388154",
+            "cites_id": [
+                "17754310456669388154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of lags in nonlinear autoregressive time series using a flexible fuzzy model",
+                "pub_year": "2016",
+                "citation": "Neural Processing Letters 43, 641-666, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5336192690492581477",
+            "cites_id": [
+                "5336192690492581477"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brain Tumors: ow Can Images and Segmentation Techniques elp?",
+                "pub_year": "2011",
+                "citation": "Diagnostic Techniques and Surgical Management of Brain Tumors, 67, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940538187382415815",
+            "cites_id": [
+                "1940538187382415815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sonfis: structure identification and modeling with a self-organizing neuro-fuzzy inference system",
+                "pub_year": "2016",
+                "citation": "International Journal of Computational Intelligence Systems 9 (3), 416-432, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17511097170710690196",
+            "cites_id": [
+                "17511097170710690196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using low-resolution non-invasive infrared sensors to classify activities and falls in older adults",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (6), 2321, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:Zph67rFs4hoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1099493665968349084",
+            "cites_id": [
+                "1099493665968349084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving multiple sclerosis lesion boundaries segmentation by convolutional neural networks with focal learning",
+                "pub_year": "2020",
+                "citation": "Image Analysis and Recognition: 17th International Conference, ICIAR 2020 \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:UebtZRa9Y70C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12576414104119145106",
+            "cites_id": [
+                "12576414104119145106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cortical mapping in glioma surgery: correlation of fMRI and direct electrical stimulation with Human Connectome Project parcellations",
+                "pub_year": "2022",
+                "citation": "Neurosurgical Focus 53 (6), E2, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7713175820525683400",
+            "cites_id": [
+                "7713175820525683400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuro-fuzzy-based Arrhythmia classification using heart rate variability features",
+                "pub_year": "2010",
+                "citation": "2010 XXIX International Conference of the Chilean Computer Science Society \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8648526269696169329",
+            "cites_id": [
+                "8648526269696169329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy general linear modeling for functional magnetic resonance imaging analysis",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Fuzzy Systems 28 (1), 100-111, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2608187512195697580",
+            "cites_id": [
+                "2608187512195697580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photoplethysmogram fits finger blood pressure waveform for non-invasive and minimally-intrusive technologies-evaluation of derivative approaches",
+                "pub_year": "2017",
+                "citation": "International Conference on Bio-inspired Systems and Signal Processing 5 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3405116749471201862",
+            "cites_id": [
+                "3405116749471201862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient methodology based on convolutional neural networks with augmented penalization on hard-to-classify boundary voxels on the task of brain lesion segmentation",
+                "pub_year": "2022",
+                "citation": "Mexican Conference on Pattern Recognition, 338-347, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17466971495874316975",
+            "cites_id": [
+                "17466971495874316975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ant colony clustering for ROI identification in functional magnetic resonance imaging",
+                "pub_year": "2019",
+                "citation": "Computational Intelligence and Neuroscience 2019, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:roLk4NBRz8UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2744450803686672315",
+            "cites_id": [
+                "2744450803686672315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Out of Sample version of the EM algorithm for imputing missing values in Classification",
+                "pub_year": "2019",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11109762441260230397",
+            "cites_id": [
+                "11109762441260230397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sifar: Self-identification of lags of an autoregressive tsk-based model",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 42nd International Symposium on Multiple-Valued Logic, 226-231, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=62715715318927836",
+            "cites_id": [
+                "62715715318927836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible neuro-fuzzy autoregressive technique for non-linear time series forecasting",
+                "pub_year": "2009",
+                "citation": "International Conference on Knowledge-Based and Intelligent Information and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=912067017548243711",
+            "cites_id": [
+                "912067017548243711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A named entity recognition framework using transformers to identify relevant clinical findings from mammographic radiological reports",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13429538234716604972",
+            "cites_id": [
+                "13429538234716604972"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incremental ensemble of deep learning with pseudorehearsal",
+                "pub_year": "2017",
+                "citation": "II Latin American Conference on Statistical Computing, Valparaiso, Chile, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8119572978723133729",
+            "cites_id": [
+                "8119572978723133729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Edges-enhanced Convolutional Neural Network for Multiple Sclerosis Lesions Segmentation",
+                "pub_year": "2023",
+                "citation": "Computaci\u00f3n y Sistemas 27 (1), 237-245, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471880343587452960",
+            "cites_id": [
+                "8471880343587452960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proposal to innovate Arterial Pressure evaluation using a non-Invasive and minimally-Intrusive (nImI) methods based upon Photopletysmography and Machine Learning",
+                "pub_year": "2017",
+                "citation": "5th European Conference BMEidea Biomedical Engineering Innovation, Design \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5513187130703321274",
+            "cites_id": [
+                "5513187130703321274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Understanding of the Stream Volume Behavior on Twitter",
+                "pub_year": "2013",
+                "citation": "Pattern Recognition-Applications and Methods: International Conference \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13631070827364221806",
+            "cites_id": [
+                "13631070827364221806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Software Architecture Evaluation of a Machine Learning Enabled System: A Case Study",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hemodynamic response function description in patients with glioma",
+                "pub_year": "2023",
+                "citation": "Journal of Neuroradiology, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PO-1694 MRI derived brain morphometric measurements: effect of voxel size, anisotropy and slice orientation",
+                "pub_year": "2023",
+                "citation": "Radiotherapy and Oncology 182, S1404-S1405, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy deconvolution of neuronal events in Functional Magnetic Resonance Imaging",
+                "pub_year": "2023",
+                "citation": "Procedia Computer Science 225, 3425-3431, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction to: Study protocol and rationale of the \u201cCogniaction project\u201d a crosssectional and randomized controlled trial about physical activity, brain health, cognition, and \u2026",
+                "pub_year": "2021",
+                "citation": "BMC, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study protocol and rationale of the\" Cogni-action project\" a cross-sectional and randomized controlled trial about physical activity, brain health, cognition, and educational \u2026",
+                "pub_year": "2019",
+                "citation": "BMC, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variability in activated volume using canonical HRF or individual HRF",
+                "pub_year": "2014",
+                "citation": "Proc. Intl. Soc. Mag. Reson. Med 22, 4147, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Industrial and Medical Applications of Pattern Recognition-Fuzzy Spatial Growing for Glioblastoma Multiforme Segmentation on Brain Magnetic Resonance Imaging",
+                "pub_year": "2007",
+                "citation": "Lecture Notes in Computer Science 4789, 861-870, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The\" What\" of a Subject",
+                "pub_year": "1885",
+                "citation": "Educational Weekly 5 (4), 4-5, 1885"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "by Subject",
+                "citation": "Policy 1, 02-2017, 0"
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Extreme Learning Machine for Blood Pressure Waveform Esti-mation using the Photoplethysmography Signal",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering-based identification of Regions-of-Interest in Functional Magnetic Resonance Images",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy General Linear Model for functional Magnetic Resonance Imaging",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy GLM approaches based on LR and alpha-cut representations for fMRI activity detection",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IVIM values in healthy brain",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "eq254vUAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

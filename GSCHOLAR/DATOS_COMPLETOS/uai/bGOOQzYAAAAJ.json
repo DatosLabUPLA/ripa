@@ -1,0 +1,133 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bGOOQzYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Concha-Vega",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bGOOQzYAAAAJ&citpid=3",
+    "affiliation": "Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Theoretical Computer Science"
+    ],
+    "email_domain": "@alumnos.uai.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 3,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RRPj8DYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Torres-Avil\u00e9s",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yCePkkQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Montealegre",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Xuv2aWkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mart\u00edn R\u00edos-Wilson",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gERHnokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Goles",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Binary Complete and Aperiodic Turing machine",
+                "pub_year": "2021",
+                "citation": "International Journal of Unconventional Computing 16 (1), 19-39, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bGOOQzYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178865925087439922",
+            "cites_id": [
+                "2178865925087439922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the complexity of stable and biased majority",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (18), 3408, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bGOOQzYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4444155215231128367",
+            "cites_id": [
+                "4444155215231128367"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introducing the activity parameter for elementary cellular automata",
+                "pub_year": "2022",
+                "citation": "International Journal of Modern Physics C 33 (09), 2250121, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bGOOQzYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2935459542153215332",
+            "cites_id": [
+                "2935459542153215332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sandpiles prediction and crossover on \u21242 within Moore neighborhood",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bGOOQzYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

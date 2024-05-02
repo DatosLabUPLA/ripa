@@ -1,0 +1,87 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Cxe7XcgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Figueroa-Tapia",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Cxe7XcgAAAAJ&citpid=1",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "Massive stars",
+        "stellar winds",
+        "stellar evolution",
+        "mass-loss rate"
+    ],
+    "email_domain": "@alumnos.uv.cl",
+    "homepage": "http://felipefigueroat.github.io/",
+    "citedby": 17,
+    "citedby5y": 17,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 9,
+        "2024": 7
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delight: Deep learning identification of galaxy hosts of transients using multiresolution images",
+                "pub_year": "2022",
+                "citation": "The Astronomical Journal 164 (5), 195, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Cxe7XcgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9338732216664896656",
+            "cites_id": [
+                "9338732216664896656"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New self-consistent wind parameters to fit optical spectra of O-type stars observed with the HERMES spectrograph",
+                "pub_year": "2022",
+                "citation": "Astronomy & Astrophysics 661, A51, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Cxe7XcgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16510774710021288649",
+            "cites_id": [
+                "16510774710021288649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DELIGHT: Identify host galaxies of transient candidates",
+                "pub_year": "2022",
+                "citation": "Astrophysics Source Code Library, ascl: 2208.012, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Cxe7XcgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

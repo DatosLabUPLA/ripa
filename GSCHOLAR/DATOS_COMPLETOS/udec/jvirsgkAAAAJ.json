@@ -1,0 +1,581 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jvirsgkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos M. Mora Gonz\u00e1lez",
+    "affiliation": "Departamento de Ingenier\u00eda Matem\u00e1tica, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "stochastic processes",
+        "stochastic numerics",
+        "quantum probability",
+        "stochastic evolution equations"
+    ],
+    "email_domain": "@ing-mat.udec.cl",
+    "citedby": 373,
+    "citedby5y": 128,
+    "hindex": 11,
+    "hindex5y": 7,
+    "i10index": 11,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2002": 3,
+        "2003": 1,
+        "2004": 1,
+        "2005": 12,
+        "2006": 6,
+        "2007": 20,
+        "2008": 11,
+        "2009": 17,
+        "2010": 20,
+        "2011": 13,
+        "2012": 17,
+        "2013": 17,
+        "2014": 12,
+        "2015": 21,
+        "2016": 9,
+        "2017": 30,
+        "2018": 19,
+        "2019": 20,
+        "2020": 24,
+        "2021": 20,
+        "2022": 13,
+        "2023": 39,
+        "2024": 11
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic properties of the local linearization method for initial-value problems",
+                "pub_year": "2002",
+                "citation": "Applied Mathematics and Computation 126 (1), 63-81, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1935130787147392142",
+            "cites_id": [
+                "1935130787147392142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Basic properties of nonlinear stochastic Schr\u00f6dinger equations driven by Brownian motions",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3768055474471537777",
+            "cites_id": [
+                "3768055474471537777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak exponential schemes for stochastic differential equations with additive noise",
+                "pub_year": "2005",
+                "citation": "IMA journal of numerical analysis 25 (3), 486-506, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1250543138589012613",
+            "cites_id": [
+                "1250543138589012613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of conservative finite-dimensional stochastic Schr\u00f6dinger equations",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17914886803294123737",
+            "cites_id": [
+                "17914886803294123737"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularity of solutions to linear stochastic Schr\u00f6dinger equations",
+                "pub_year": "2007",
+                "citation": "Infinite Dimensional Analysis, Quantum Probability and Related Topics 10 (02 \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2239587313725973521",
+            "cites_id": [
+                "2239587313725973521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Schr\u00f6dinger equations and applications to Ehrenfest-type theorems",
+                "pub_year": "2012",
+                "citation": "arXiv preprint arXiv:1207.2939, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2531548513861739967",
+            "cites_id": [
+                "2531548513861739967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation of stochastic evolution equations associated to quantum Markov semigroups",
+                "pub_year": "2004",
+                "citation": "Mathematics of computation 73 (247), 1393-1415, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811686758439015112",
+            "cites_id": [
+                "4811686758439015112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stable numerical scheme for stochastic differential equations with multiplicative noise",
+                "pub_year": "2017",
+                "citation": "SIAM Journal on Numerical Analysis 55 (4), 1614-1649, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3472056547691670173,9381511813396994444",
+            "cites_id": [
+                "3472056547691670173",
+                "9381511813396994444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geogebra como herramienta de transformaci\u00f3n educativa en Matem\u00e1tica",
+                "pub_year": "2020",
+                "citation": "Mamakuna, 70-81, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17380464638342390783",
+            "cites_id": [
+                "17380464638342390783"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularity of solutions to quantum master equations: a stochastic approach",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3975981407710597048",
+            "cites_id": [
+                "3975981407710597048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heisenberg evolution of quantum observables represented by unbounded operators",
+                "pub_year": "2008",
+                "citation": "Journal of Functional Analysis 255 (12), 3249-3273, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14133611512014293244",
+            "cites_id": [
+                "14133611512014293244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A weak Local Linearization scheme for stochastic differential equations with multiplicative noise",
+                "pub_year": "2017",
+                "citation": "Journal of Computational and Applied Mathematics 313, 202-217, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560050672668863878",
+            "cites_id": [
+                "3560050672668863878"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-order weak balanced schemes for stochastic differential equations",
+                "pub_year": "2020",
+                "citation": "Methodology and Computing in Applied Probability 22 (2), 833-852, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15338603902336296577",
+            "cites_id": [
+                "15338603902336296577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the relationship between a quantum Markov semigroup and its representation via linear stochastic Schr\u00f6dinger equations",
+                "pub_year": "2015",
+                "citation": "Indian Journal of Pure and Applied Mathematics 46, 399-414, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2440378040153920394",
+            "cites_id": [
+                "2440378040153920394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metric sample spaces of continuous geometric curves and estimation of their centroids",
+                "pub_year": "2001",
+                "citation": "Mathematische Nachrichten 229 (1), 15-49, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11602831069434711183",
+            "cites_id": [
+                "11602831069434711183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of stochastic quantum master equations using stochastic interacting wave functions",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Physics 367, 28-48, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16896012462089127137",
+            "cites_id": [
+                "16896012462089127137"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the rate of convergence of an exponential scheme for the non-linear stochastic Schr\u00f6dinger equation with finite-dimensional state space",
+                "pub_year": "2023",
+                "citation": "Physica Scripta 98 (6), 065226, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6847362689176767554",
+            "cites_id": [
+                "6847362689176767554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Properties of a local linearization scheme for the numerical integration of ODEs",
+                "citation": "Mat. Comput.(Sometido), 0"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11171326133408660281",
+            "cites_id": [
+                "11171326133408660281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Basic properties of a mean field laser equation",
+                "pub_year": "2019",
+                "citation": "Open Systems & Information Dynamics 26 (03), 1950015, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2384755948907422955",
+            "cites_id": [
+                "2384755948907422955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-order weak balanced schemes for bilinear stochastic differential equations",
+                "pub_year": "2014",
+                "citation": "arXiv preprint arXiv:1403.6142, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12146354753398058802",
+            "cites_id": [
+                "12146354753398058802"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear stochastic Schr\u00f6dinger equations with unbounded coefficients",
+                "pub_year": "2010",
+                "citation": "Preprint, www. ing-mat. udec. cl 8, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3091899085164004897",
+            "cites_id": [
+                "3091899085164004897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heisenberg evolution of unbounded observables in open quantum systems",
+                "citation": "preprint, 0"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2904911031632512905",
+            "cites_id": [
+                "2904911031632512905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pathwise methods for the integration of a stochastic SVIR model",
+                "pub_year": "2023",
+                "citation": "Mathematical Methods in the Applied Sciences, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:HDshCWvjkbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7477427131859971662",
+            "cites_id": [
+                "7477427131859971662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supercritical Poincar\u00e9\u2013Andronov\u2013Hopf Bifurcation in a Mean-Field Quantum Laser Equation",
+                "pub_year": "2021",
+                "citation": "Annales Henri Poincar\u00e9 22 (1), 171-217, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5104076723774833669",
+            "cites_id": [
+                "5104076723774833669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak variable step-size schemes for stochastic differential equations based on controlling conditional moments",
+                "pub_year": "2023",
+                "citation": "Applied Numerical Mathematics 187, 235-261, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Mean-Field Laser Quantum Master Equation",
+                "pub_year": "2021",
+                "citation": "International Conference on Quantum Probability & Related Topics, 213-225, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak variable step-size Euler schemes for stochastic differential equations based on controlling conditional moments.",
+                "pub_year": "2020",
+                "citation": "CoRR, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bifurcation analysis of a mean field laser equation",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1803.00875, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of stochastic master equations using stochastic interacting wave functions",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1709.08223, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pathwise methods for a class of stochastic models with non-globally Lipschitz coefficients",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear stochastic Schr\u00f6dinger equations",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EXISTENCE OF REGULAR STATIONARY SOLUTIONS TO QUANTUM MASTER EQUATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jvirsgkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

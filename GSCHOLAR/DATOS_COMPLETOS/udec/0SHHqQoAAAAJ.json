@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "0SHHqQoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yasna Salazar Llanos",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Estad\u00edstica",
+        "Educaci\u00f3n",
+        "Psicolog\u00eda"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 13,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 3,
+        "2020": 3,
+        "2021": 1,
+        "2022": 2,
+        "2023": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacto de la percepci\u00f3n de los estudiantes respecto de la convivencia escolar sobre su rendimiento acad\u00e9mico en Matem\u00e1ticas",
+                "pub_year": "2017",
+                "citation": "Universidad de Almer\u00eda, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0SHHqQoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7483937012831991529",
+            "cites_id": [
+                "7483937012831991529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of students' perception of school social environment on their mathematical academic performance",
+                "pub_year": "2017",
+                "citation": "PSYCHOLOGY SOCIETY & EDUCATION 9 (1), 147-161, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0SHHqQoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

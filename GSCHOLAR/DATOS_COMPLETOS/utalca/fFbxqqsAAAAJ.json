@@ -1,0 +1,63 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "fFbxqqsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisca Rodr\u00edguez Cabello",
+    "affiliation": "Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Biomedicina"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "homepage": "http://www.linkedin.com/in/fran-ro-ca",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PIPs from Fragaria vesca: A structural analysis of native and mutated protein",
+                "pub_year": "2022",
+                "citation": "Journal of Molecular Graphics and Modelling 117, 108310, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fFbxqqsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14228616083783538828",
+            "cites_id": [
+                "14228616083783538828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio de las faseolinas presentes en el endosperma de las variedades locales de Phaseolus vulgaris L. de la raza Chile mediante herramientas bioinform\u00e1ticas",
+                "pub_year": "2022",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Bioinform\u00e1tica., 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fFbxqqsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

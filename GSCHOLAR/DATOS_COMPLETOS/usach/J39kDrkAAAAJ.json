@@ -1,0 +1,86 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "J39kDrkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Godoy Villanueva",
+    "affiliation": "universidad de santiago de chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "educacon"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 2,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ciencias para la ciudadan\u00eda: avances para enfrentar los desaf\u00edos de formar ciudadanos alfabetizados cient\u00edficamente en Chile",
+                "pub_year": "2023",
+                "citation": "Educaci\u00f3n 32 (63), 5-20, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "J39kDrkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11368156715635695514",
+            "cites_id": [
+                "11368156715635695514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Papel y L\u00e1piz y Programas de Geometr\u00eda Din\u00e1mica en el aprendizaje de conceptos geom\u00e9tricos y su aplicaci\u00f3n a resoluci\u00f3n de problemas",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "J39kDrkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18143470812423984475",
+            "cites_id": [
+                "18143470812423984475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Science for citizenship: advances to face the challenges of training scientifically literate citizens in Chile",
+                "pub_year": "2023",
+                "citation": "Educaci\u00f3n 32 (63), 5-20, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "J39kDrkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

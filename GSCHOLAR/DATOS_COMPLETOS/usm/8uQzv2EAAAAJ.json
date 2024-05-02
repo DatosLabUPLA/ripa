@@ -1,0 +1,73 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8uQzv2EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe P\u00e9rez Riffo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8uQzv2EAAAAJ&citpid=9",
+    "affiliation": "M.Sc in Physics student at Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Condensed Matter Physics",
+        "2D materials",
+        "Twistronics",
+        "Graphene"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "W_-UyZ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Suarez Morell",
+            "affiliation": "Professor at Univ. T\u00e9cn. Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bZdX3swAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Manuel Florez Uribe",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Behavior of localized states in double twisted ABC trilayer graphene",
+                "pub_year": "2024",
+                "citation": "Carbon 222, 118952, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8uQzv2EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5542827348692842318,17451236483108401887,14515770286443132457",
+            "cites_id": [
+                "5542827348692842318",
+                "17451236483108401887",
+                "14515770286443132457"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

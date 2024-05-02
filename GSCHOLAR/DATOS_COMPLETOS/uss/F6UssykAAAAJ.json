@@ -1,0 +1,239 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "F6UssykAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Matias Greco",
+    "affiliation": "Universidad San Sebastian",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Artificial Intelligence"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 61,
+    "citedby5y": 60,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 5,
+        "2020": 7,
+        "2021": 10,
+        "2022": 15,
+        "2023": 15,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dNsBXU8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Hern\u00e1ndez Ulloa",
+            "affiliation": "Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7S6RcTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Baier",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XF0brWQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Liron Cohen",
+            "affiliation": "Waymo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tpoh43QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sven Koenig",
+            "affiliation": "Dean's Professor of Computer Science, University of Southern California"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zXjuraoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u00c1lvaro Torralba",
+            "affiliation": "Aalborg University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "f3ViHrcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Palacios",
+            "affiliation": "-"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anytime Focal Search with Applications.",
+                "pub_year": "2018",
+                "citation": "IJCAI, 1434-1441, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1409278529224047272",
+            "cites_id": [
+                "1409278529224047272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploiting Learned Policies in Focal Search",
+                "pub_year": "2021",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 12 (1), 2-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3160075143336917928",
+            "cites_id": [
+                "3160075143336917928"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K-Focal Search for Slow Learned Heuristics",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7940477292752095417",
+            "cites_id": [
+                "7940477292752095417"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Focal Discrepancy Search for Learned Heuristics",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7523740076039648652",
+            "cites_id": [
+                "7523740076039648652"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bounded-Suboptimal Search with Learned Heuristics",
+                "pub_year": "2021",
+                "citation": "ICAPS 2021 Workshop on Bridging the Gap Between AI Planning and \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800912883236639732",
+            "cites_id": [
+                "17800912883236639732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic Function to Solve The Generalized Covering TSP with Artificial Intelligence Search",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1384025259251336163",
+            "cites_id": [
+                "1384025259251336163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploiting Learned Policies and Learned Heuristics in Bounded-Suboptimal Search",
+                "pub_year": "2021",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 12 (1 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4748877264914261742",
+            "cites_id": [
+                "4748877264914261742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avoiding Errors in Learned Heuristics in Bounded-Suboptimal Search",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K-Focal Search for Slow Learned Heuristics (Extended Abstract)",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaling up ML-based Black-box Planning with Partial STRIPS Models",
+                "pub_year": "2022",
+                "citation": "ICAPS 2022 Workshop on Reliable Data-Driven Planning and Scheduling (RDDPS), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "F6UssykAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

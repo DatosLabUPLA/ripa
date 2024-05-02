@@ -1,0 +1,138 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jkOAgcQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Inzunza",
+    "affiliation": "PhD Student at Universidad de Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Applied Mathematics",
+        "Numerical Analysis"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 43,
+    "citedby5y": 43,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 2,
+        "2021": 0,
+        "2022": 10,
+        "2023": 21,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Banach spaces-based fully-mixed finite element method for the stationary chemotaxis-Navier-Stokes problem",
+                "pub_year": "2023",
+                "citation": "Computers & Mathematics with Applications 145, 65-89, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14419141460385957919",
+            "cites_id": [
+                "14419141460385957919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the well-posedness of Banach spaces-based mixed formulations for the nearly incompressible Navier-Lam\u00e9 and Stokes equations",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 102, 87-94, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13426727937956051106",
+            "cites_id": [
+                "13426727937956051106"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A pseudostress-based mixed-primal finite element method for stress-assisted diffusion problems in Banach spaces",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 92 (3), 103, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=580031923058869216",
+            "cites_id": [
+                "580031923058869216"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented fully-mixed finite element method for a coupled flow-transport problem",
+                "pub_year": "2020",
+                "citation": "Calcolo 57 (1), 8, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1692604334280393082",
+            "cites_id": [
+                "1692604334280393082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Banach spaces-based fully-mixed finite element methods for pseudostress-assisted diffusion problems",
+                "pub_year": "2023",
+                "citation": "Applied Numerical Mathematics 193, 148-178, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10894121361630934601",
+            "cites_id": [
+                "10894121361630934601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of Banach spaces-based fully-mixed finite element methods for Boussinesq-type models",
+                "pub_year": "2022",
+                "citation": "Journal of Numerical Mathematics 30 (4), 325-356, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jkOAgcQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17465032780205231691",
+            "cites_id": [
+                "17465032780205231691"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

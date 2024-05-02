@@ -1,0 +1,78 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "OBB6vIIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebasti\u00e1n Pons",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "F\u00edsica de plasmas"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 27,
+    "citedby5y": 15,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 2,
+        "2015": 2,
+        "2016": 2,
+        "2017": 0,
+        "2018": 5,
+        "2019": 5,
+        "2020": 4,
+        "2021": 2,
+        "2022": 2,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Landau damping in Kaniadakis and Tsallis distributed electron plasmas",
+                "pub_year": "2017",
+                "citation": "Physics of Plasmas 24 (10), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OBB6vIIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13954824389558637502",
+            "cites_id": [
+                "13954824389558637502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural and electrical characterization of ultra-thin SrTiO3 tunnel barriers grown over YBa2Cu3O7 electrodes for the development of high Tc Josephson junctions",
+                "pub_year": "2012",
+                "citation": "Nanotechnology 23 (49), 495715, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OBB6vIIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=882808219723288350",
+            "cites_id": [
+                "882808219723288350"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "CF7ir8wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudia de la fuente",
+    "affiliation": "universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [],
+    "email_domain": "@utalca.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 1,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Successful development of problem-solving and computing programming competences in children using Arduino",
+                "pub_year": "2022",
+                "citation": "2022 International Symposium on Measurement and Control in Robotics (ISMCR), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CF7ir8wAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3598930518179326033",
+            "cites_id": [
+                "3598930518179326033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using the random forest algorithm for searching behavior patterns in electronic health records",
+                "pub_year": "2019",
+                "citation": "IEEE Latin America Transactions 17 (05), 875-881, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "CF7ir8wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9565182914764184385",
+            "cites_id": [
+                "9565182914764184385"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,854 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1ZoVu1wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Angulo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1ZoVu1wAAAAJ&citpid=2",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Power Systems",
+        "Renewable Energy",
+        "Electric Machines and Drives",
+        "Optimization",
+        "Numerical Methods for PDE"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 857,
+    "citedby5y": 766,
+    "hindex": 15,
+    "hindex5y": 14,
+    "i10index": 18,
+    "i10index5y": 16,
+    "cites_per_year": {
+        "2010": 5,
+        "2011": 9,
+        "2012": 14,
+        "2013": 3,
+        "2014": 4,
+        "2015": 4,
+        "2016": 8,
+        "2017": 6,
+        "2018": 33,
+        "2019": 76,
+        "2020": 139,
+        "2021": 133,
+        "2022": 184,
+        "2023": 173,
+        "2024": 59
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SqPM1OwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando Mancilla-David",
+            "affiliation": "Professor, Electrical Engineering, University of Colorado Denver"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ecwhM0oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Cardenas",
+            "affiliation": "Electrical Engineering Department, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c5dBVE4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexandre Street",
+            "affiliation": "Electrical Engineering Department of the Pontifical Catholic University of Rio de Janeiro (PUC-Rio)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RazoleYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Franco Perazzo",
+            "affiliation": "Profesor Departamento de Ingenier\u00eda Mec\u00e1nica, Universidad T\u00e9nica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Gi--T7MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis P\u00e9rez Pozo",
+            "affiliation": "Department of Mechanical Engineering, UTFSM, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5ntc1PMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Palma Behnke",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7KSvWuQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Espinoza",
+            "affiliation": "Google Research"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite-set model-predictive control strategies for a 3L-NPC inverter operating with fixed switching frequency",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Industrial Electronics 65 (5), 3954-3965, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 249,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3258875140160654717",
+            "cites_id": [
+                "3258875140160654717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Parameter Extraction in the Single-Diode Photovoltaic Model via a Reduced-Space Search",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Industrial Electronics 64 (2), 1468-1476, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8389292845079120888",
+            "cites_id": [
+                "8389292845079120888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computationally efficient cascaded optimal switching sequence MPC for grid-connected three-level NPC converters",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Power Electronics 34 (12), 12464-12475, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:roLk4NBRz8UC",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6212003757875648929",
+            "cites_id": [
+                "6212003757875648929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimator and an adaptive technique in meshless finite points method",
+                "pub_year": "2009",
+                "citation": "Engineering Analysis with Boundary Elements 33 (11), 1322-1338, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5607665162975710498",
+            "cites_id": [
+                "5607665162975710498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D characterization of electrical tree structures",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Dielectrics and Electrical Insulation 26 (1), 220-228, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14106937213542246976",
+            "cites_id": [
+                "14106937213542246976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-predictive-control-based capacitor voltage balancing strategies for modular multilevel converters",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Industrial Electronics 66 (3), 2432-2443, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15232483777302837685",
+            "cites_id": [
+                "15232483777302837685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power management in active distribution systems penetrated by photovoltaic inverters: A data-driven robust approach",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Smart Grid 11 (3), 2271-2280, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:0EnyYjriUFMC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8447857545965188526",
+            "cites_id": [
+                "8447857545965188526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive optimal switching sequence direct power control for grid-tied 3L-NPC converters",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Industrial Electronics 68 (9), 8561-8571, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9600246095530470726",
+            "cites_id": [
+                "9600246095530470726"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment and outlook of variable retort temperature profiles for the thermal processing of packaged foods: Plant productivity, product quality, and energy consumption",
+                "pub_year": "2020",
+                "citation": "Journal of Food Engineering 275, 109839, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4471364664882355385",
+            "cites_id": [
+                "4471364664882355385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A condition-based maintenance model including resource constraints on the number of inspections",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Reliability 69 (3), 1165-1176, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13413752065214951202",
+            "cites_id": [
+                "13413752065214951202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A meshless FPM model for solving nonlinear material problems with proportional loading based on deformation theory",
+                "pub_year": "2009",
+                "citation": "Advances in Engineering Software 40 (11), 1148-1154, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8287317537733705223",
+            "cites_id": [
+                "8287317537733705223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detailed modeling of large scale photovoltaic power plants under partial shading conditions",
+                "pub_year": "2019",
+                "citation": "Solar Energy 194, 485-498, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:Se3iqnhoufwC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=366255636755743870",
+            "cites_id": [
+                "366255636755743870"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the effect of two popular service-level measures on the design of a critical level policy for fast-moving items",
+                "pub_year": "2019",
+                "citation": "Computers & Operations Research 107, 107-126, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:ufrVoPGSRksC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7196924012688563242",
+            "cites_id": [
+                "7196924012688563242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bienstock\u2013zuckerberg-based algorithm for solving a network-flow formulation of the convex hull pricing problem",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Power Systems 35 (3), 2108-2119, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:UebtZRa9Y70C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1527191405065590599",
+            "cites_id": [
+                "1527191405065590599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-agent deep reinforcement learning for efficient multi-timescale bidding of a hybrid power plant in day-ahead and real-time markets",
+                "pub_year": "2022",
+                "citation": "Applied Energy 317, 119067, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1541810959172473024",
+            "cites_id": [
+                "1541810959172473024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous multi-product sterilization: Revisited, explored, and optimized",
+                "pub_year": "2019",
+                "citation": "Journal of food engineering 241, 149-158, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:5nxA0vEk-isC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12870825114396617391",
+            "cites_id": [
+                "12870825114396617391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal Jacobian distribution optimal power flow in a distributed cyber-physical environment",
+                "pub_year": "2017",
+                "citation": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems 7 (2 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6749122716512194187",
+            "cites_id": [
+                "6749122716512194187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A polyhedral-based approach applied to quadratic cost curves in the unit commitment problem",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Power Systems 31 (5), 3674-3683, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6811878476732670187",
+            "cites_id": [
+                "6811878476732670187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A closed-loop data-driven optimization framework for the unit commitment problem: A Q-learning approach under real-time operation",
+                "pub_year": "2023",
+                "citation": "Applied Energy 330, 120348, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3580837189036196557",
+            "cites_id": [
+                "3580837189036196557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of failure rates uncertainty on distribution systems reliability",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:Zph67rFs4hoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1336176037573342915",
+            "cites_id": [
+                "1336176037573342915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust co-optimization of droop and affine policy parameters in active distribution systems with high penetration of photovoltaic generation",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Smart Grid 13 (6), 4355-4366, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:aqlVkmm33-oC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2049893846116330606",
+            "cites_id": [
+                "2049893846116330606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel capacitor voltage balancing strategy for modular multilevel converters",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Southern Power Electronics Conference (SPEC), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8477215199420753919",
+            "cites_id": [
+                "8477215199420753919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrical tree growth under very low frequency (VLF) voltage excitation",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Conference on Electrical Insulation and Dielectric Phenomena \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6462365029123961186",
+            "cites_id": [
+                "6462365029123961186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequence independent lifting for mixed knapsack problems with GUB constraints",
+                "pub_year": "2015",
+                "citation": "Mathematical Programming 154 (1-2), 55-80, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18255277857157054645",
+            "cites_id": [
+                "18255277857157054645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modeling to estimate furan formation in thermally processed foods: A preliminary analysis considering carrots as a model food",
+                "pub_year": "2022",
+                "citation": "Journal of Food Engineering 332, 111136, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=210085254102949446",
+            "cites_id": [
+                "210085254102949446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model for simultaneous location and coordination of protective devices in radial distribution networks",
+                "pub_year": "2021",
+                "citation": "IET Generation, Transmission & Distribution 15 (19), 2734-2746, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11436760801985784660",
+            "cites_id": [
+                "11436760801985784660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thunderstorm days over Chilean territory based on WWLLN data",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Chilean Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6507496117329905061",
+            "cites_id": [
+                "6507496117329905061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control strategy for an induction machine fed by a 3L-NPC converter with fixed switching frequency and improved tracking error",
+                "pub_year": "2018",
+                "citation": "2018 IEEE 27th International Symposium on Industrial Electronics (ISIE), 155-160, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9048108965146816269",
+            "cites_id": [
+                "9048108965146816269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fill\u2010rate service level constrained distribution network design",
+                "pub_year": "2024",
+                "citation": "International Transactions in Operational Research 31 (1), 5-28, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11017417049505404116",
+            "cites_id": [
+                "11017417049505404116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strategic Capacity Expansion of a Multi-item Process with Technology Mixture under Demand Uncertainty: An Aggregate Robust MILP Approach.",
+                "pub_year": "2017",
+                "citation": "ICORES, 181-191, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16744381793014282785",
+            "cites_id": [
+                "16744381793014282785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Carbon Tax Effectiveness in Inducing a Clean Technology Transition: An Evaluation Based on Optimal Strategic Capacity Planning",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (15), 11663, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3695299364190324944",
+            "cites_id": [
+                "3695299364190324944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing Multistep Finite Control Set Performance of 3L\u2013NPC Converters using Optimal Pulse Patterns",
+                "pub_year": "2021",
+                "citation": "IECON 2021\u201347th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15940315795010969504",
+            "cites_id": [
+                "15940315795010969504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Common-Mode Voltage for Maximum Power Transfer of Grid-Tied PV CHB Inverters",
+                "pub_year": "2021",
+                "citation": "IECON 2021\u201347th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10817610058848176230",
+            "cites_id": [
+                "10817610058848176230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Corrigendum to \u201cA closed-loop data-driven optimization framework for the unit commitment problem: A Q-learning approach under real-time operation\u201d[APEN [120348] 330 B]",
+                "pub_year": "2024",
+                "citation": "Applied Energy, 123168, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Common-Mode Voltage for Grid-Tied Photovoltaic Cascaded H-Bridge Inverters Under Severe Power Imbalances",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Industrial Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear\u2013MPC\u2013Based Cluster Energy Control of Modular Multilevel Matrix Converters",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 8th Southern Power Electronics Conference (SPEC), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multistep\u2013finite\u2013control\u2013set model predictive control with variable\u2013step prediction horizon",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 8th Southern Power Electronics Conference (SPEC), 1-8, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Neural Network\u2013Aided Functional Model of Photovoltaic Arrays for a Wide Range of Atmospheric Conditions",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Industrial Informatics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equivalent Reduced DC Network Models With Nonlinear Load Functions: A Data-Driven Approach",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Power Systems, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization\u2013based Overmodulation Strategies for Harmonic Distortion Reduction in VSIs",
+                "pub_year": "2022",
+                "citation": "IECON 2022\u201348th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Optimization\u2013based Torque Ripple Minimization Control Strategy for Switched Reluctance Machines",
+                "pub_year": "2022",
+                "citation": "IECON 2022\u201348th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient Bidding of a PV Power Plant with Energy Storage Participating in Day-Ahead and Real-Time Markets Using Artificial Neural Networks",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Power & Energy Society General Meeting (PESGM), 1-5, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating electrical trees propagation using a kinetic model and cellular automata",
+                "pub_year": "2022",
+                "citation": "2022 IEEE 4th International Conference on Dielectrics (ICD), 613-616, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Carbon Taxes Effectiveness to Induce a Clean Technology Transition: An Evaluation Framework Based on Optimal Strategic Capacity Planning",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2202.11507, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2020 Index IEEE Transactions on Reliability Vol. 69",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Reliability 69 (4), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of Reverse Electrical Trees using Cellular Automata",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Single-source Weber Problem with Continuous Piecewise Fixed Cost.",
+                "pub_year": "2017",
+                "citation": "ICORES, 337-344, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequence Independent, Simultaneous and Multidimensional Lifting of Generalized Flow Covers for the Semi-Continuous Knapsack Problem with Generalized Upper Bounds Constraints",
+                "pub_year": "2014",
+                "citation": "Integer Programming and Combinatorial Optimization: 17th International \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una aproximaci\u00f3n pseudo-el\u00e1stica para problemas de no-linealidad del material mediante el m\u00e9todo sin malla de puntos finitos",
+                "pub_year": "2007",
+                "citation": "VIII Congreso Iberoamericano de Ingenier\u00eda Mec\u00e1nica, Cusco, Per\u00fa, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "10th LPE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OPTIMALITY STUDY OF UPLIFTS WITH A PRIMAL-DUAL SOLUTION APPROACH FOR THE CONVEX HULL PRICING PROBLEM",
+                "citation": "Current and Future Challenges to Energy Security, 148, 0"
+            },
+            "filled": false,
+            "author_pub_id": "1ZoVu1wAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 2
+    }
+}

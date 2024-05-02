@@ -1,0 +1,76 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uB6fiYoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan F. Chango",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uB6fiYoAAAAJ&citpid=6",
+    "affiliation": "Student at Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Computational Acoustics",
+        "DSP",
+        "AI",
+        "ML"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "homepage": "https://jnfran92.github.io/",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RNYDdjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Crist\u00f3bal A. Navarro",
+            "affiliation": "Professor of Computer Science, Universidad Austral de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU-accelerated rectangular decomposition for sound propagation modeling in 2D",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uB6fiYoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5254582874485990004",
+            "cites_id": [
+                "5254582874485990004"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic Vibration of a Fluid in a Three-Dimensional Cavity: Finite Element Method Simulation using CUDA and MATLAB",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uB6fiYoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

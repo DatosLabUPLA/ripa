@@ -1,0 +1,95 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "EYFdrsQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Christian Camacho",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EYFdrsQAAAAJ&citpid=1",
+    "affiliation": "Estudiante, Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Sistemas de control",
+        "automatizaci\u00f3n",
+        "PLCs"
+    ],
+    "email_domain": "@alumnos.ucn.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Internal Model Based\u2014Sliding Mode Control for Open-Loop Unstable Chemical Processes with Time Delay",
+                "pub_year": "2023",
+                "citation": "ChemEngineering 7 (3), 53, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "EYFdrsQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=980501880732252763",
+            "cites_id": [
+                "980501880732252763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic sliding mode controller approach for open-loop unstable systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Autumn Meeting on Power, Electronics and Computing \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "EYFdrsQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350454235496048459",
+            "cites_id": [
+                "3350454235496048459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of non-self-regulating processes with long time delays using hybrid sliding mode control approaches",
+                "pub_year": "2024",
+                "citation": "Results in Engineering 22, 102113, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "EYFdrsQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Results in Engineering",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "EYFdrsQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

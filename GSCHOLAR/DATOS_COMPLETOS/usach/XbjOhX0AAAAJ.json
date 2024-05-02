@@ -1,0 +1,92 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XbjOhX0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sergio Castro Morales",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Ecology",
+        "Biological invasion",
+        "Biodiversity",
+        "History of Science",
+        "Urbanization"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 29,
+    "citedby5y": 20,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 4,
+        "2017": 1,
+        "2018": 2,
+        "2019": 8,
+        "2020": 4,
+        "2021": 3,
+        "2022": 0,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Invasiones biol\u00f3gicas en Chile: Causas globales e impactos locales",
+                "pub_year": "2016",
+                "citation": "Ediciones UC, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "XbjOhX0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15668128111751267007",
+            "cites_id": [
+                "15668128111751267007"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enzymatic reduction of hydrogen peroxide on Polypogon australis plants grown in a copper mining liquid waste",
+                "pub_year": "2017",
+                "citation": "South African Journal of Botany 109, 42-49, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "XbjOhX0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5702239411100332020",
+            "cites_id": [
+                "5702239411100332020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "METHOD FOR PHYTOREMEDIATION OF HEAVY METAL CONTAMINATED SITES",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "XbjOhX0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

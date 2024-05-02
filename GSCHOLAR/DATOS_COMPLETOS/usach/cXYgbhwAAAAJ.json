@@ -1,0 +1,245 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cXYgbhwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Gonz\u00e1lez Cantergiani",
+    "affiliation": "Universidad de Santiago de Chile (USACH)",
+    "organization": 605437563739143535,
+    "interests": [
+        "social network analysis",
+        "open data",
+        "distributed systems"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 717,
+    "citedby5y": 597,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 5,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 13,
+        "2017": 32,
+        "2018": 68,
+        "2019": 100,
+        "2020": 116,
+        "2021": 138,
+        "2022": 125,
+        "2023": 92,
+        "2024": 25
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iLaBvHQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Riquelme",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vy1oMW0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria Serna",
+            "affiliation": "Professor. Computer Science. Universitat Politecnica de Catalunya. Barcelona Tech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xTahLzEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Wladdimiro",
+            "affiliation": "LIP6 - Sorbonne Universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RcA5LWUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erika Rosas",
+            "affiliation": "Universidad Polit\u00e9cnica de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0-RzjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Marin",
+            "affiliation": "University of Santiago, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring user influence on Twitter: A survey",
+                "pub_year": "2016",
+                "citation": "Information processing & management 52 (5), 949-975, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:roLk4NBRz8UC",
+            "num_citations": 563,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2180867369094732472",
+            "cites_id": [
+                "2180867369094732472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centrality measure in social networks based on linear threshold model",
+                "pub_year": "2018",
+                "citation": "Knowledge-Based Systems 140, 92-102, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:8k81kl-MbHgC",
+            "num_citations": 80,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5629410258594671246",
+            "cites_id": [
+                "5629410258594671246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying opinion leaders on social networks through milestones definition",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 75670-75677, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:Zph67rFs4hoC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14533878697634233717",
+            "cites_id": [
+                "14533878697634233717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The neighborhood role in the linear threshold rank on social networks",
+                "pub_year": "2019",
+                "citation": "Physica A: Statistical Mechanics and its Applications 528, 121430, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641539952974217370",
+            "cites_id": [
+                "6641539952974217370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disaster management platform to support real-time analytics",
+                "pub_year": "2016",
+                "citation": "2016 3rd International Conference on Information and Communication \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17249712969549326396",
+            "cites_id": [
+                "17249712969549326396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voting power of political parties in the Senate of Chile during the whole binomial system period: 1990-2017",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1808.07854, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8281095196972571055",
+            "cites_id": [
+                "8281095196972571055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Repercusiones del fin del sistema binominal en el poder de votaci\u00f3n de las regiones dentro del poder legislativo chileno",
+                "pub_year": "2017",
+                "citation": "\ub77c\ud2f4\uc544\uba54\ub9ac\uce74\uc5f0\uad6c 30 (3), 19-44, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6227388131652346173",
+            "cites_id": [
+                "6227388131652346173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using centrality measures to improve the classification performance of tweets during natural disasters",
+                "pub_year": "2021",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 29 (1), 73-86, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949783844752418349,3727194947308031678",
+            "cites_id": [
+                "6949783844752418349",
+                "3727194947308031678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online data processing on S4 engine: A study case on natural disasters",
+                "pub_year": "2014",
+                "citation": "2014 33rd International Conference of the Chilean Computer Science Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14555702881949766809",
+            "cites_id": [
+                "14555702881949766809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Hybrid load-balancing solution for S4 stream processing systems",
+                "pub_year": "2016",
+                "citation": "2016 24th Euromicro International Conference on Parallel, Distributed, and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cXYgbhwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

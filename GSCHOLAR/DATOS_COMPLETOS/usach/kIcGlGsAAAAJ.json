@@ -1,0 +1,94 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kIcGlGsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jose azocar herrera",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Seguridad",
+        "Redes",
+        "Algoritmos qu\u00e1nticos"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Quantum Key distribution using Optical Frequency Comb Source",
+                "pub_year": "2021",
+                "citation": "2021 Third South American Colloquium on Visible Light Communications (SACVLC \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kIcGlGsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16522381413858617878",
+            "cites_id": [
+                "16522381413858617878"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of a hybrid RF/FSO comunication system with QKD for ventilation monitoring",
+                "pub_year": "2022",
+                "citation": "2022 4th West Asian Symposium on Optical and Millimeter-wave Wireless \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kIcGlGsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2918561725949521149",
+            "cites_id": [
+                "2918561725949521149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of optical frequency comb sources using electro optical modulators",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kIcGlGsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of the QKD algorithm using RS and AES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kIcGlGsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

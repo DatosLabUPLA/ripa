@@ -1,0 +1,360 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jVs_cZAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Seguel",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jVs_cZAAAAAJ&citpid=4",
+    "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Information Systems"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "https://ingenieria.uai.cl/profesor/ricardo-seguel/",
+    "citedby": 1960,
+    "citedby5y": 1077,
+    "hindex": 6,
+    "hindex5y": 2,
+    "i10index": 5,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2010": 23,
+        "2011": 15,
+        "2012": 64,
+        "2013": 70,
+        "2014": 94,
+        "2015": 137,
+        "2016": 141,
+        "2017": 133,
+        "2018": 161,
+        "2019": 162,
+        "2020": 223,
+        "2021": 207,
+        "2022": 260,
+        "2023": 191,
+        "2024": 34
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9UcBBY4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rik Eshuis",
+            "affiliation": "Eindhoven University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LUftBjYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul Grefen",
+            "affiliation": "Professor of Digital Business Architecture, Eindhoven University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aSZYyxIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wil van der Aalst",
+            "affiliation": "Professor of Process and Data Science, RWTH Aachen University || Celonis || Fraunhofer FIT || TU/e"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining manifesto",
+                "pub_year": "2012",
+                "citation": "Business Process Management Workshops: BPM 2011 International Workshops \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:-FonjvnnhkoC",
+            "num_citations": 1821,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15033144777292039371",
+            "cites_id": [
+                "15033144777292039371"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generating minimal protocol adaptors for loosely coupled services",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Web Services, 417-424, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7904986833198416096",
+            "cites_id": [
+                "7904986833198416096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Overview on Protocol Adaptors for Service Component Integration",
+                "pub_year": "2008",
+                "citation": "Beta, Research School for Operations Management and Logistics, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3173671479842961107",
+            "cites_id": [
+                "3173671479842961107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constructing minimal protocol adaptors for service composition",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 4th Workshop on Emerging Web Services Technology, 29-38, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11352850367071530246",
+            "cites_id": [
+                "11352850367071530246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Architecture support for flexible business chain integration using protocol adaptors",
+                "pub_year": "2014",
+                "citation": "International Journal of Cooperative Information Systems 23 (04), 1450008, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1606426734917837995",
+            "cites_id": [
+                "1606426734917837995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A lightweight approach for designing enterprise architectures using BPMN: an application in hospitals",
+                "pub_year": "2011",
+                "citation": "Business Process Model and Notation: Third International Workshop, BPMN 2011 \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5365389710297883346",
+            "cites_id": [
+                "5365389710297883346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Architecture Support for Flexible Chain Management.",
+                "pub_year": "2010",
+                "citation": "EIS, 85-94, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17289816059960521533",
+            "cites_id": [
+                "17289816059960521533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimal Adaptor Tool",
+                "pub_year": "2010",
+                "citation": "Eindhoven University of Technology, The Netherlands, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:PoWvk5oyLR8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2552179588858045868",
+            "cites_id": [
+                "2552179588858045868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Business protocol adaptors for flexible business chain formation and enactment",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13896616534771261924",
+            "cites_id": [
+                "13896616534771261924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Business protocol adaptation for flexible chain management",
+                "pub_year": "2010",
+                "citation": "On the Move to Meaningful Internet Systems: OTM 2010: Confederated \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3805623427458111954,7844065435368695542",
+            "cites_id": [
+                "3805623427458111954",
+                "7844065435368695542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesizing minimal protocol adaptors for asynchronously interacting services",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Services Computing 10 (3), 461-474, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8848757661608870416",
+            "cites_id": [
+                "8848757661608870416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of complex architectures using a three dimension approach: the crosswork case",
+                "pub_year": "2010",
+                "citation": "Technische Universiteit Eindhoven, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14359675959252668188",
+            "cites_id": [
+                "14359675959252668188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Seguridad en Web Services. NeoSecure. The E-Risk Security Company",
+                "pub_year": "2005",
+                "citation": "Recuperado de http://rseguel. googlepages. com/WebServicesv1, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11868490990616236027",
+            "cites_id": [
+                "11868490990616236027"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient method to construct minimal protocol adaptors",
+                "pub_year": "2009",
+                "citation": "Beta Research School Working Paper Series 277, Eindhoven University of \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18115356561808421150,12554134968650900516",
+            "cites_id": [
+                "18115356561808421150",
+                "12554134968650900516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Achieving breakthrough innovations in supply chains",
+                "pub_year": "2010",
+                "citation": "The Supply Chain Link 14 (2), 5-7, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:M7yex6snE4oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internet Baking 2.0: A Conceptual Model for Rich Internet Client and Service Oriented Architecture",
+                "pub_year": "2007",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient method to construct minimal protocol adaptors",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:S16KYo8Pm5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An overview on protocol adaptors for service component integration",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:e_rmSamDkqQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimal Protocol Adaptors for Interacting Services",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jVs_cZAAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

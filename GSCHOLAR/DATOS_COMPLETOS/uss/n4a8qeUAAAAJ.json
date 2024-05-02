@@ -1,0 +1,94 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "n4a8qeUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco N. Avil\u00e9s",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n4a8qeUAAAAJ&citpid=1",
+    "affiliation": "Instructor Professor, Facultad de Ingenier\u00eda, Arquitectura y Dise\u00f1o, Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Operations Research",
+        "Logistics",
+        "Supply Chain Management",
+        "Scheduling"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 4,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dawp_aYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maichel M. Aguayo",
+            "affiliation": "Researcher, Facultad de Ingenier\u00eda y Tecnolog\u00eda, Universidad San Sebasti\u00e1n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed-integer programming model for an integrated production planning problem with preventive maintenance in the pulp and paper industry",
+                "pub_year": "2023",
+                "citation": "Engineering Optimization 55 (8), 1352-1369, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n4a8qeUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5416535406517686366",
+            "cites_id": [
+                "5416535406517686366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Two-Index Formulation for the Fixed-Destination Multi-Depot Asymmetric Travelling Salesman Problem and Some Extensions",
+                "pub_year": "2022",
+                "citation": "Informatica 33 (4), 671-692, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "n4a8qeUAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12905485180894614422",
+            "cites_id": [
+                "12905485180894614422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Two-Index Formulation for the Fixed-Destination Multi-Depot Asymmetric Travelling Salesman Problem and Some Extensions",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "n4a8qeUAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

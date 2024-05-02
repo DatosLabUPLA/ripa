@@ -1,0 +1,805 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oqjix4YAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego A Narv\u00e1ez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oqjix4YAAAAJ&citpid=3",
+    "affiliation": "Associate professor, Department of Oceanography , University of Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Coastal Physical Oceanography",
+        "Larval Dispersal",
+        "Numerical Modeling"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "http://www.lofecudec.com/",
+    "citedby": 1237,
+    "citedby5y": 581,
+    "hindex": 18,
+    "hindex5y": 16,
+    "i10index": 23,
+    "i10index5y": 21,
+    "cites_per_year": {
+        "2003": 6,
+        "2004": 9,
+        "2005": 17,
+        "2006": 20,
+        "2007": 48,
+        "2008": 39,
+        "2009": 44,
+        "2010": 40,
+        "2011": 41,
+        "2012": 48,
+        "2013": 45,
+        "2014": 52,
+        "2015": 55,
+        "2016": 58,
+        "2017": 54,
+        "2018": 73,
+        "2019": 89,
+        "2020": 93,
+        "2021": 99,
+        "2022": 119,
+        "2023": 120,
+        "2024": 61
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_qRLuzEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio A Navarrete",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WvCEZrQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Klinck",
+            "affiliation": "Professor of Oceanography, Old Dominion University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "k4tDAKEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Wilkin",
+            "affiliation": "Rutgers University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eYzALc0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrea Pi\u00f1ones",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fCJZmKwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elie Poulin",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2lZZB4oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arnoldo Valle-Levinson",
+            "affiliation": "University of Florida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZVuz94cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Ernesto Perez Santos",
+            "affiliation": "Centro i-mar, Universidad de Los Lagos"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xJfi7pQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Largier",
+            "affiliation": "Professor, UC Davis"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8moHql0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enrique Curchitser",
+            "affiliation": "Rutgers University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "of2oGYwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Sald\u00edas",
+            "affiliation": "Assistant Professor, Department of Physics, University of Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iAnJLBsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mart\u00edn Jacques Coper",
+            "affiliation": "Profesor Asociado, Departamento de Geof\u00edsica, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "82f1hx0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Boris Dewitte",
+            "affiliation": "CEAZA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQIBLycAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Deniz Bozkurt",
+            "affiliation": "Department of Meteorology, Universidad de Valpara\u00edso (Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fj9VIjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "marcus sobarzo",
+            "affiliation": "Dp. Oceanography. University of Concepcion"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avoiding offshore transport of competent larvae during upwelling events: The case of the gastropod Concholepas concholepas in Central Chile",
+                "pub_year": "2002",
+                "citation": "Limnology and Oceanography 47 (4), 1248-1255, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 176,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14573161800246578921",
+            "cites_id": [
+                "14573161800246578921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Seasonal and spatial variation of nearshore hydrographic conditions in central Chile",
+                "pub_year": "2004",
+                "citation": "Continental shelf research 24 (2), 279-292, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10908904371090234055",
+            "cites_id": [
+                "10908904371090234055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Onshore advection of warm water, larval invertebrate settlement, and relaxation of upwelling off central Chile",
+                "pub_year": "2006",
+                "citation": "Marine Ecology Progress Series 309, 159-173, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033407176979847910",
+            "cites_id": [
+                "16033407176979847910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind-induced diurnal variability in river plume motion",
+                "pub_year": "2005",
+                "citation": "Estuarine, Coastal and Shelf Science 65 (3), 513-525, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12822283040185463560",
+            "cites_id": [
+                "12822283040185463560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term dynamics in Atlantic surfclam (Spisula solidissima) populations: The role of bottom water temperature",
+                "pub_year": "2014",
+                "citation": "Journal of Marine Systems, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:vDZJ-YLwNdEC",
+            "num_citations": 72,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6498526543772866441",
+            "cites_id": [
+                "6498526543772866441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the dispersal of eastern oyster (Crassostrea virginica) larvae in Delaware Bay",
+                "pub_year": "2012",
+                "citation": "Journal of Marine Research 70 (2-3), 381-409, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5926267004597427891",
+            "cites_id": [
+                "5926267004597427891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fishing and bottom water temperature as drivers of change in maximum shell length in Atlantic surfclams (Spisula solidissima)",
+                "pub_year": "2016",
+                "citation": "Estuarine, Coastal and Shelf Science 170, 112-122, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:LgRImbQfgY4C",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16770689059056340719",
+            "cites_id": [
+                "16770689059056340719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parasite transmission through suspension feeding",
+                "pub_year": "2015",
+                "citation": "Journal of Invertebrate Pathology 131, 155-176, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:Ak0FvsSvgGUC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18440726901238073924",
+            "cites_id": [
+                "18440726901238073924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding how disease and environment combine to structure resistance in estuarine bivalve populations",
+                "pub_year": "2009",
+                "citation": "Oceanography 22 (4), 212-231, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17370025703493804711",
+            "cites_id": [
+                "17370025703493804711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dominant scales of subtidal variability in coastal hydrography of the Northern Chilean Patagonia",
+                "pub_year": "2019",
+                "citation": "Journal of Marine Systems 193, 59-73, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:CaZNVDsoPx4C",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9233290523492653177",
+            "cites_id": [
+                "9233290523492653177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Internal tidal bore warm fronts and settlement of invertebrates in central Chile",
+                "pub_year": "2004",
+                "citation": "Estuarine, Coastal and Shelf Science 61 (4), 603-612, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1775877905493253832",
+            "cites_id": [
+                "1775877905493253832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "River plume dynamic influences transport of barnacle larvae in the inner shelf off central Chile",
+                "pub_year": "2006",
+                "citation": "Journal of the Marine Biological Association of the United Kingdom 86 (5 \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:qjMakFHDy7sC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4002575645775785045",
+            "cites_id": [
+                "4002575645775785045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Circulation and behavior controls on dispersal of eastern oyster (Crassostrea virginica) larvae in Delaware Bay",
+                "pub_year": "2012",
+                "citation": "Journal of Marine Research 70 (2-3), 411-440, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:BJbdYPG6LGMC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3002860343711498086",
+            "cites_id": [
+                "3002860343711498086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Overview of Factors Affecting Distribution of the Atlantic Surfclam (Spisula solidissima), a Continental Shelf Biomass Dominant, During a Period of Climate Change",
+                "pub_year": "2018",
+                "citation": "NSA Meeting 37 (4), 821, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:lgwcVrK6X84C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13985988945345361397",
+            "cites_id": [
+                "13985988945345361397"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Physical and anthropogenic drivers shaping the spatial distribution of microplastics in the marine sediments of Chilean fjords",
+                "pub_year": "2022",
+                "citation": "Science of The Total Environment 814, 152506, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:43bX7VzcjpAC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6224609867815920339",
+            "cites_id": [
+                "6224609867815920339"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transverse structure of wind\u2010driven flow at the entrance to an estuary: Nansemond River",
+                "pub_year": "2008",
+                "citation": "Journal of Geophysical Research: Oceans 113 (C9), 2008"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=997219763095788990",
+            "cites_id": [
+                "997219763095788990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of glacier melting and river discharges on the nutrient distribution and DIC recycling in the southern Chilean Patagonia",
+                "pub_year": "2018",
+                "citation": "Journal of Geophysical Research: Biogeosciences 123 (1), 256-270, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:NyGDZy8z5eUC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1292743263623318589",
+            "cites_id": [
+                "1292743263623318589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linking seasonal reduction of microbial diversity to increase in winter temperature of waters of a Chilean Patagonia fjord",
+                "pub_year": "2018",
+                "citation": "Frontiers in Marine Science 5, 277, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:4xDN1ZYqzskC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12104181317377638749",
+            "cites_id": [
+                "12104181317377638749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocean circulation causes strong variability in the Mid\u2010Atlantic Bight nitrogen budget",
+                "pub_year": "2019",
+                "citation": "Journal of Geophysical Research: Oceans 124 (1), 113-134, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:buQ7SEKw-1sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2416498829088260277",
+            "cites_id": [
+                "2416498829088260277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-annual and seasonal variations in the outer and inner sea spawning zones of southern hake, Merluccius australis, inferred from early life stages distributions in Chilean \u2026",
+                "pub_year": "2019",
+                "citation": "Progress in Oceanography 171, 93-107, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:otzGkya1bYkC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2951246851794866052",
+            "cites_id": [
+                "2951246851794866052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applying a coupled biophysical model to predict larval dispersal and source/sink relationships in a depleted metapopulation of the eastern oyster Crassostrea virginica",
+                "pub_year": "2017",
+                "citation": "Journal of shellfish research 36 (1), 101-118, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:6yz0xqPARnAC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10724140077167785556",
+            "cites_id": [
+                "10724140077167785556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intraseasonal variation in southeast Pacific blue whale acoustic presence, zooplankton backscatter, and oceanographic variables on a feeding ground in Northern Chilean Patagonia",
+                "pub_year": "2021",
+                "citation": "Progress in Oceanography 199, 102709, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:jgBuDB5drN8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12788928982792351514",
+            "cites_id": [
+                "12788928982792351514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Isotopic characterization of water masses in the Southeast Pacific region: Paleoceanographic implications",
+                "pub_year": "2022",
+                "citation": "Journal of Geophysical Research: Oceans 127 (1), e2021JC017525, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:zCSUwVk65WsC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11420475847459877927",
+            "cites_id": [
+                "11420475847459877927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent deoxygenation of Patagonian fjord subsurface waters connected to the Peru\u2013Chile undercurrent and equatorial subsurface water variability",
+                "pub_year": "2023",
+                "citation": "Global Biogeochemical Cycles 37 (6), e2022GB007688, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:LdasjJ6CEcoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13522307091396036430",
+            "cites_id": [
+                "13522307091396036430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connectivity in early life stages of the southern hake, Merluccius australis, in northern Chilean Patagonia",
+                "pub_year": "2020",
+                "citation": "Journal of Marine Systems 212, 103452, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:1lhNe0rCu4AC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3991511424589182631",
+            "cites_id": [
+                "3991511424589182631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nueve soluciones basadas en oc\u00e9ano para contribuir a los NDC de Chile",
+                "pub_year": "2019",
+                "citation": "Comit\u00e9 cient\u00edfico COP25, Mesa Oc\u00e9anos, Ministerio de Ciencia, Tecnolog\u00eda \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:IaI1MmNe2tcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4126329577159673252",
+            "cites_id": [
+                "4126329577159673252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synoptic-to-intraseasonal atmospheric modulation of phytoplankton biomass in the inner sea of Chilo\u00e9, Northwest Patagonia (42.5\u00b0-43.5\u00b0 S, 72.5\u00b0-74\u00b0 W), Chile",
+                "pub_year": "2023",
+                "citation": "Frontiers in Marine Science 10, 1160230, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:kVjdVfd2voEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9960357237548908902",
+            "cites_id": [
+                "9960357237548908902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Main drivers of marine heat waves in the eastern South Pacific",
+                "pub_year": "2023",
+                "citation": "Frontiers in Marine Science 10, 1129276, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:v1_lew4L6wgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3774794448562553104",
+            "cites_id": [
+                "3774794448562553104"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocean circulation causes strong variability in Mid-Atlantic Bight net community production",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:ubry08Y2EpUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10944569121825871838",
+            "cites_id": [
+                "10944569121825871838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the dispersion of eastern oyster larvae (Crassostrea virginica) and its effects on the movement of disease resistant genes in the Delaware Bay estuary",
+                "pub_year": "2012",
+                "citation": "Old Dominion University, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:gVv57TyPmFsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15321033033979086022",
+            "cites_id": [
+                "15321033033979086022"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of larval dispersion on the movement of disease resistant genes between oyster populations",
+                "pub_year": "2011",
+                "citation": "Journal of Shellfish Research 30 (2), 537-538, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7536334097093991919",
+            "cites_id": [
+                "7536334097093991919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exchange Hydrodynamics Between a Subestuary and Its Adjacent Estuary",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4898762999584663345",
+            "cites_id": [
+                "4898762999584663345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Satellite-Derived Variability of Sea Surface Salinity and Geostrophic Currents off Western Patagonia",
+                "pub_year": "2024",
+                "citation": "Remote Sensing 16 (9), 1482, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:kw52XkFRtyQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atmospheric Rivers in South-Central Chile: Zonal and Tilted Events",
+                "pub_year": "2024",
+                "citation": "Atmosphere 15 (4), 406, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:1taIhTC69MYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nearshore Modeling: Challenges and Advances in Modeling the Coastal Ocean at the Land-Ocean Interface II Oral",
+                "pub_year": "2024",
+                "citation": "2024 Ocean Sciences Meeting, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:nRpfm8aw39MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synoptic-intraseasonal variability control on high chlorophyll-a events in the Puyuhuapi Fjord, Chilean Patagonia",
+                "pub_year": "2023",
+                "citation": "EGUsphere 2023, 1-28, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:PaBasH6fAo0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocean Circulation Causes Strong Variability in Mid-Atlantic Bight Net Community Production",
+                "pub_year": "2018",
+                "citation": "AGU Fall Meeting Abstracts, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:48xauSegjOkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transport and Fate of Nutrients Along the US East Coast",
+                "pub_year": "2017",
+                "citation": "AGU Fall Meeting Abstracts, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:uDGL6kOW6j0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meet me at the food court: Implementing a biophysical model to test the effects of food abundance on the success of oyster larvae recruitment in Delaware Bay",
+                "pub_year": "2012",
+                "citation": "NSA Meeting 31 (1), 314-315, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DISPERSAL PATTERNS OF OYSTER LARVAE AT DELAWARE BAY: A MODELING STUDY",
+                "pub_year": "2009",
+                "citation": "NSA Meeting 28 (3), 717-717, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of immigration on disease resistance in an oyster population: A numerical model study",
+                "pub_year": "2008",
+                "citation": "JOURNAL OF SHELLFISH RESEARCH 27 (4), 1035-1035, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of Bio-Oceanographic Conditions on the Distribution of Macruronus Magellanicus Early Life Stages Between Patagonian Estuarine System and Continental Shelf",
+                "citation": "Available at SSRN 4688030, 0"
+            },
+            "filled": false,
+            "author_pub_id": "oqjix4YAAAAJ:j7_hQOaDUrUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

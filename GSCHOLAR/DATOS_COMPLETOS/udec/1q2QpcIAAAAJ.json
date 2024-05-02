@@ -1,0 +1,956 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1q2QpcIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sim\u00f3n Sandoval",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1q2QpcIAAAAJ&citpid=2",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Forest management",
+        "Forestry modeling",
+        "Machine Learning Algorithms",
+        "Remote Sensing",
+        "LiDAR Scanning"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 158,
+    "citedby5y": 107,
+    "hindex": 7,
+    "hindex5y": 6,
+    "i10index": 5,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "1999": 1,
+        "2000": 0,
+        "2001": 1,
+        "2002": 0,
+        "2003": 1,
+        "2004": 1,
+        "2005": 3,
+        "2006": 2,
+        "2007": 2,
+        "2008": 1,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 1,
+        "2013": 7,
+        "2014": 6,
+        "2015": 3,
+        "2016": 7,
+        "2017": 6,
+        "2018": 9,
+        "2019": 8,
+        "2020": 14,
+        "2021": 25,
+        "2022": 17,
+        "2023": 35,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GBvonbcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Acu\u00f1a C.",
+            "affiliation": "Profesor Asociado, Facultad de Ciencias Forestales, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dif8auIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael Rubilar",
+            "affiliation": "Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VoiBVnoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Edwin Esquivel-Segura",
+            "affiliation": "Instituto Tecnol\u00f3gico de Costa Rica. Escuela de Ingenier\u00eda en Agronom\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xKb-UV_JeCAC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Espinosa Bancalari",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FxtR_jsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "R Kasten Dumroese",
+            "affiliation": "USDA Forest Service"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1uEeQJwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Alejandro Robles Acevedo",
+            "affiliation": "Professor of Management, Universidad Polit\u00e9cnica de Tulancingo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pQ8huc4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mar\u00eda Rodr\u00edguez-Sol\u00eds",
+            "affiliation": "Instituto Tecnol\u00f3gico de Costa Rica, Escuela Ingenier\u00eda Forestal"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dKS8LhcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Guevara-Bonilla",
+            "affiliation": "Instituto Tecnol\u00f3gico de Costa Rica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zXp5K0cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcela Arguedas",
+            "affiliation": "INSTITUTO TECNOL\u00d3GICO DE COSTA RICA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eZxL-cAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elemer Brice\u00f1o-Elizondo",
+            "affiliation": "Profesor Forestal, Instituto Tecnol\u00f3gico de Costa Rica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S0aizkAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan F. Ovalle",
+            "affiliation": "Virginia Tech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BPdaidYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian R. Montes",
+            "affiliation": "Associate Professor Natural Resource Biometrics & Timber Management"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Nwpmd5MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carolina Alvarez",
+            "affiliation": "Profesora Asistente, Universidad de O\u00b4Higgins"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pYc5HnQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Mena-Quijada",
+            "affiliation": "Data Modeling | Biometrics @ARAUCO"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fIJJksIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Federico Olmedo",
+            "affiliation": "Principal researcher - Data Scientist @ Bioforest"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nitrogen loading of Eucalyptus globulus seedlings: nutritional dynamics and influence on morphology and root growth potential",
+                "pub_year": "2021",
+                "citation": "New Forests 52, 31-46, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=313972907266599971",
+            "cites_id": [
+                "313972907266599971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probability distributions in high-density dendroenergy plantations",
+                "pub_year": "2012",
+                "citation": "Forest Science 58 (6), 663-672, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6852846406999139392",
+            "cites_id": [
+                "6852846406999139392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efecto de plantaciones dendroenerg\u00e9ticas en el carbono a nivel de suelo, en dos suelos contrastantes de la regi\u00f3n de Biob\u00edo, Chile",
+                "pub_year": "2013",
+                "citation": "Revista \u00c1rvore 37, 1135-1144, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12672109149088566330",
+            "cites_id": [
+                "12672109149088566330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling the edge effect in even-aged Monterrey pine (Pinus radiata D. Don) stands incorporating a competition index",
+                "pub_year": "2008",
+                "citation": "Forest ecology and management 256 (1-2), 78-87, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17229573205656215737",
+            "cites_id": [
+                "17229573205656215737"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incidencia y severidad de Olivea tectonae Y Rhabdopterus sp. en plantaciones j\u00f3venes de Tectona grandis Lf bajo distintas modalidades de control de arvenses",
+                "pub_year": "2019",
+                "citation": "Agronom\u00eda Costarricense 43 (1), 9-19, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4588083104813606840",
+            "cites_id": [
+                "4588083104813606840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ABOVEGROUND BIOMASS GROWTH AND YIELD OF FIRST ROTATION CUTTING CYCLE OF Acacia AND Eucalyptus SHORT ROTATION DENDROENERGY \u2026",
+                "pub_year": "2018",
+                "citation": "Revista \u00c1rvore 41, e410608, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15075169070405151281",
+            "cites_id": [
+                "15075169070405151281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of urban tourism on household agriculture: The rabbit as a new guest in the southeast of the metropolitan area of Mexico City",
+                "pub_year": "1999",
+                "citation": "Livestock Research for Rural Development 11 (3), 1999"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:HDshCWvjkbEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1580892843701566466",
+            "cites_id": [
+                "1580892843701566466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n del crecimiento y rendimiento en biomasa a\u00e9rea de ensayos dendroenerg\u00e9ticos",
+                "pub_year": "2012",
+                "citation": "Doctor, Universidad de Concepci\u00f3n, Concepci\u00f3n Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:hC7cP41nSMkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9507755172560110472",
+            "cites_id": [
+                "9507755172560110472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Examining physiological, water relations, and hydraulic vulnerability traits to determine anisohydric and isohydric behavior in almond (Prunus dulcis) cultivars: Implications \u2026",
+                "pub_year": "2022",
+                "citation": "Frontiers in Plant Science 13, 974050, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7169458212347626723",
+            "cites_id": [
+                "7169458212347626723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fair value of standing timber in the context of IAS 41 implementation: a case study with Pinus radiata",
+                "pub_year": "2020",
+                "citation": "Ciencia Florestal 30, 1217-1229, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14367086165589098202",
+            "cites_id": [
+                "14367086165589098202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Semillas y \u00c1rboles Forestales",
+                "pub_year": "2000",
+                "citation": "Facultad de Ciencias Forestales, Universidad de Chile. Available online at \u2026, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8440039614943215197",
+            "cites_id": [
+                "8440039614943215197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso del m\u00e9todo de resistograf\u00eda para la predicci\u00f3n de la densidad b\u00e1sica de la madera en \u00e1rboles en pie de Pinus radiata",
+                "pub_year": "2017",
+                "citation": "Maderas. Ciencia y tecnolog\u00eda 19 (3), 349-362, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16395879336044616331",
+            "cites_id": [
+                "16395879336044616331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stem taper estimation using artificial neural networks for Nothofagus trees in natural forest",
+                "pub_year": "2022",
+                "citation": "Forests 13 (12), 2143, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15229020874344544232",
+            "cites_id": [
+                "15229020874344544232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling above-ground biomass of Pinus radiata trees with explicit multivariate uncertainty",
+                "pub_year": "2022",
+                "citation": "Forestry 95 (3), 380-390, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13743205492572430737",
+            "cites_id": [
+                "13743205492572430737"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Uncertainty in Airborne LiDAR Inventories Using Approaches Based on Bootstrapping-Pairs Methods",
+                "pub_year": "2020",
+                "citation": "Forests 11 (12), 1305, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5295231802266004029",
+            "cites_id": [
+                "5295231802266004029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of damage caused by Ectinogonia buquetti (Coleoptera: Buprestidae) in dendroenergetic plantations of Eucalyptus camaldulensis",
+                "pub_year": "2015",
+                "citation": "Bosque 36 (2), 247-254, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4616726205130560860",
+            "cites_id": [
+                "4616726205130560860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First report of Ectinogonia buquetti (Spin.) (Coleoptera: Buprestidae) in bioenergy plantations of Eucalyptus camaldulensis (Dehnh.) in Chile",
+                "pub_year": "2009",
+                "citation": "New forests 38, 241-244, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7372750977080640375",
+            "cites_id": [
+                "7372750977080640375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Production of pet rabbits in a Mexico's city farm",
+                "pub_year": "2000",
+                "citation": "Proceedings of the 7th World Rabbit Congress, Valencia (Spain) Cdrom, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11342947646980614886",
+            "cites_id": [
+                "11342947646980614886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling natural mortality for different plant densities in dendroenergetic trials",
+                "pub_year": "2021",
+                "citation": "Revista de la Facultad de Ciencias Agrarias UNCuyo 53 (2), 143-156, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17620226141590545870",
+            "cites_id": [
+                "17620226141590545870"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using resistography method for prediction of wood basic density in standing trees of Pinus radiata.",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11577938331609613743",
+            "cites_id": [
+                "11577938331609613743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagaci\u00f3n de especies forestales nativas de las zonas \u00e1ridas y semi\u00e1ridas de Chile",
+                "pub_year": "2013",
+                "citation": "INFOR, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11340745499275987596",
+            "cites_id": [
+                "11340745499275987596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n de la densidad de rodal a partir de informaci\u00f3n LiDAR a\u00e9rea integrando el m\u00e9todo de masa y \u00e1rbol individual en plantaciones de Pinus radiata",
+                "pub_year": "2023",
+                "citation": "Bosque (Valdivia) 44 (2), 377-386, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17807122815872087891",
+            "cites_id": [
+                "17807122815872087891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting parameters of Weibull probability density function for diametric distributions in A. melanoxylon, E. camaldulensis, and E. nitens bioenergy plantation",
+                "pub_year": "2021",
+                "citation": "Dendrobiology 86, 8-18, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10382577639497789256",
+            "cites_id": [
+                "10382577639497789256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potasio y Boro en plantaciones dendroenerg\u00e9ticas, en dos suelos marginales de la Regi\u00f3n de Biob\u00edo, Chile",
+                "pub_year": "2017",
+                "citation": "Revista Forestal Mesoamericana Kur\u00fa 14 (34), 27-36, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8676932181692792188",
+            "cites_id": [
+                "8676932181692792188"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustentabilidad en el uso de nutrientes de plantaciones dendroenerg\u00e9ticas en dos suelos marginales de la Regi\u00f3n de Biob\u00edo, Chile",
+                "pub_year": "2016",
+                "citation": "Revista Forestal Mesoamericana Kur\u00fa 13 (33), 11-19, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14315042232784839265",
+            "cites_id": [
+                "14315042232784839265"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling basal area yield using simultaneous equation systems incorporating uncertainty estimators",
+                "pub_year": "2024",
+                "citation": "Forestry: An International Journal of Forest Research, cpae001, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Two-Phase Approach to Forest Harvesting Optimization Using Cable Logging",
+                "pub_year": "2023",
+                "citation": "Forests 14 (11), 2133, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of stand density using aerial LiDAR information: Integrating the area-based-approach and individual-tree-detection methods in plantations of Pinus radiata",
+                "pub_year": "2023",
+                "citation": "BOSQUE 44 (2), 377-386, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empowering landowners to combat climate change: the economic case for forest carbon supply at the stand level",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Primer reporte nutricional de una especie arb\u00f3rea (Sacoglottis holdridgei Cuatrec. Humiriaceae) en el Parque Nacional Isla del Coco, Costa Rica",
+                "pub_year": "2023",
+                "citation": "Revista Forestal Mesoamericana Kur\u00fa 20 (46), 36-43, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First nutritional report of a tree species (Sacoglottis holdridgei Cuatrec. Humiriaceae) on Isla del Coco National Park, Costa Rica",
+                "pub_year": "2023",
+                "citation": "Revista Forestal Mesoamericana Kur\u00fa 20 (46), 36-43, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling leaf area at branch level and its vertical distribution in the crown of trees established as dendroenergy crops",
+                "pub_year": "2023",
+                "citation": "Revista Bosque 44 (1), 23-35, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n del \u00e1rea foliar a nivel de rama y su distribuci\u00f3n vertical en la copa de \u00e1rboles establecidos en cultivos dendroenerg\u00e9ticos",
+                "pub_year": "2023",
+                "citation": "Bosque (Valdivia) 44 (1), 23-35, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Two-Phase Approach to Forest Harvesting Optimization Using Cable Logging. Forests 2023, 14, 2133",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling basal area growth and yield using a system of simultaneous equations accounting for prediction and projection.",
+                "pub_year": "2022",
+                "citation": "2nd North American Mensurationists Conference, Portland OR, USA., 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Carolina \u00c1lvarez-Maldini1*, Manuel Acevedo2, Daniela Estay1, Fabi\u00e1n Aros1, R. Kasten Dumroese3, Sim\u00f3n Sandoval4 and Manuel Pinto1",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Examining physiological, water relations, and hydraulic vulnerability traits to determine anisohydric and isohydric behavior in almond (Prunus dulcis) cultivars: Implications \u2026",
+                "pub_year": "2022",
+                "citation": "Frontiers, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n de la mortalidad natural en diferentes densidades de plantaci\u00f3n en ensayos dendroenerg\u00e9ticos",
+                "pub_year": "2021",
+                "citation": "Revista de la Facultad de Ciencias Agrarias. Universidad Nacional de Cuyo 53 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of the natural mortality in different stocking in dendroergetic trials",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valor justo de madeira em p\u00e9 no contexto da IAS 41: um estudo de caso com Pinus radiata",
+                "pub_year": "2020",
+                "citation": "Ci\u00eancia Florestal 30, 1217-1229, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incidence and severity of Olivea tectonae and Rhabdopterus sp. in young plantations of Tectona grandis Lf under different modalities of weed control",
+                "pub_year": "2019",
+                "citation": "Agronom\u00eda Costarricense 43 (1), 9-19, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of an algorithm for individualize tree for estimate stocking at operational level using LiDAR aerial data",
+                "pub_year": "2019",
+                "citation": "18th Symposium on Systems Analysis in Forest Resources (SSAFR),, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "6ER-014 Platelet-rich plasma: what are we really administering to our patients?",
+                "pub_year": "2019",
+                "citation": "European Journal of Hospital Pharmacy 26 (Suppl 1), A284-A284, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "4CPS-280 Does platelet-rich plasma composition matter in hip osteoarthritis?",
+                "pub_year": "2019",
+                "citation": "European Journal of Hospital Pharmacy 26 (Suppl 1), A199-A200, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "6ER-015 Impact on pain management after a single viscosupplementation intraarticular injection in patients with hip osteoarthritis who failed conventional treatment",
+                "pub_year": "2019",
+                "citation": "European Journal of Hospital Pharmacy 26 (Suppl 1), A284-A284, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRIMEIRO CICLO DE CORTE DE CRESCIMENTO BIOMASSA ACIMA DO SOLO E PRODUTIVIDADE DE ENSAIOS DE DENDROENERGIA DE Acacia E Eucalyptus",
+                "pub_year": "2018",
+                "citation": "Revista \u00c1rvore 41, e410608, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of 3PG as a tool for modelling forest plantation of Eucalyptus camaldulensis in the region of Bio-Bio, Chile",
+                "pub_year": "2017",
+                "citation": "REVISTA FORESTAL MESOAMERICA KURU-RFMK 14 (35), 33-44, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso de 3PG como herramienta para modelar plantaciones dendroenerg\u00e9ticas de Eucalyptus camaldulensis en la regi\u00f3n de Biob\u00edo, Chile",
+                "pub_year": "2017",
+                "citation": "Revista Forestal Mesoamericana Kur\u00fa 14 (35), 33-44, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainability in the use of nutrients for dendroenergy plantations in two marginal soils at Biobio Region, Chile",
+                "pub_year": "2016",
+                "citation": "REVISTA FORESTAL MESOAMERICA KURU-RFMK 13 (33), 11-19, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n del da\u00f1o causado por Ectinogonia buquetti (Coleoptera: Buprestidae) en plantaciones dendroenerg\u00e9ticas de Eucalyptus camaldulensis",
+                "pub_year": "2015",
+                "citation": "Bosque (Valdivia) 36 (2), 247-254, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of wood energy plantations on soil carbon level.",
+                "pub_year": "2013",
+                "citation": "Revista \u00c1rvore 37 (6), 1135-1144, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n del crecimiento y rendimiento en biomasa a\u00e9rea de ensayos dendroenerg\u00e9ticos.",
+                "pub_year": "2011",
+                "citation": "Universidad de Concepci\u00f3n, Facultad de Ciencias Forestales, Departamento de \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n del efecto de borde en rodales coet\u00e1neos de Pinus radiata D. Don",
+                "pub_year": "2007",
+                "citation": "[sn], 2007"
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proyecto Fondef IDeA2022: \"Deep-Hub: Plataforma basada en Inteligencia Artificial para el an\u00e1lisis y procesamiento de im\u00e1genes de inter\u00e9s forestal\"",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Presencia de Ectinogonia buquetti (Spin.)(Coleoptera: Buprestidae) en un ensayo de corta rotaci\u00f3n para fines dendroenerg\u00e9ticos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "plantaciones dendroenerg\u00e9ticasde",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1q2QpcIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

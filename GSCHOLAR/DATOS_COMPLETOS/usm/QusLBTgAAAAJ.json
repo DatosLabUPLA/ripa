@@ -1,0 +1,55 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QusLBTgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Tampe Palma",
+    "affiliation": "Student, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "neural networks",
+        "natural language processing"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "homepage": "https://tampe.cl/",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 7
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural abstractive unsupervised summarization of online news discussions",
+                "pub_year": "2022",
+                "citation": "Intelligent Systems and Applications: Proceedings of the 2021 Intelligent \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QusLBTgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3746801881244154503",
+            "cites_id": [
+                "3746801881244154503"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

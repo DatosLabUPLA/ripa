@@ -1,0 +1,125 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "M4GYTUAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Raul Arredondo Flores",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=M4GYTUAAAAAJ&citpid=4",
+    "affiliation": "Associate Professor, Universidad de Los Lagos",
+    "organization": 13824009975929506544,
+    "interests": [
+        "Algoritmos",
+        "Bases de datos"
+    ],
+    "email_domain": "@ulagos.cl",
+    "citedby": 11,
+    "citedby5y": 4,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 0,
+        "2017": 2,
+        "2018": 3,
+        "2019": 3,
+        "2020": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QbGsLIYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Monica Caniupan",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient repair of dimension hierarchies under inconsistent reclassification",
+                "pub_year": "2015",
+                "citation": "Data & Knowledge Engineering 95, 1-22, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "M4GYTUAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16984425580550118265",
+            "cites_id": [
+                "16984425580550118265"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reparaci\u00f3n de Data Warehouses con sentido sem\u00e1ntico",
+                "pub_year": "2017",
+                "citation": "Revista Cubana de Ciencias Inform\u00e1ticas 11 (2), 73-86, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "M4GYTUAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15631748964579767774",
+            "cites_id": [
+                "15631748964579767774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reparaci\u00f3n Compatible en Data Warehouses Inconsistentes",
+                "pub_year": "2018",
+                "citation": "Revista Cubana de Ciencias Inform\u00e1ticas 12 (2), 15-29, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "M4GYTUAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17670809324942461256,837121734327269848",
+            "cites_id": [
+                "17670809324942461256",
+                "837121734327269848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos Polinomiales para obtener la Reparaci\u00f3n Compatible en Data Warehouses Inconsistentes",
+                "pub_year": "2016",
+                "citation": "Revista de Ingenier\u00eda 32, 69-79, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "M4GYTUAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient Algorithms for Repairing Inconsistent Dimensions in Data Warehouses",
+                "pub_year": "2013",
+                "citation": "SCCC 13, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "M4GYTUAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

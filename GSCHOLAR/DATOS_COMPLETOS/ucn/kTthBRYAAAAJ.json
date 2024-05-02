@@ -1,0 +1,133 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kTthBRYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Olivos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kTthBRYAAAAJ&citpid=11",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Operations Research"
+    ],
+    "email_domain": "@ucn.cl",
+    "homepage": "https://www.linkedin.com/in/carlos-olivos-b6a965144/",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 7,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VMiRb4kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Caceres",
+            "affiliation": "Universidad Cat\u00f3lica del Norte"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sSCOhdsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Abdulaziz Ahmed",
+            "affiliation": "University of Alabama Birmingham"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M_UKpOYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Haneen B Ali",
+            "affiliation": "Auburn University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "r-oinlEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jia Liu",
+            "affiliation": "Auburn University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-objective optimization of ambulance location in Antofagasta, Chile",
+                "pub_year": "2022",
+                "citation": "Transport 37 (3), 177\u2013189-177\u2013189, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kTthBRYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13636401906563308794",
+            "cites_id": [
+                "13636401906563308794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating Battery Energy Storage Systems in the Unit Commitment Problem: a Review",
+                "pub_year": "2023",
+                "citation": "Current Sustainable/Renewable Energy Reports 10 (2), 45-57, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kTthBRYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8242193543894930781",
+            "cites_id": [
+                "8242193543894930781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mitigating urinary incontinence condition using machine learning",
+                "pub_year": "2022",
+                "citation": "BMC Medical Informatics and Decision Making 22 (1), 243, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kTthBRYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4073680091934894742",
+            "cites_id": [
+                "4073680091934894742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decision Making Models for Power Systems Operations Under Uncertainty",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kTthBRYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

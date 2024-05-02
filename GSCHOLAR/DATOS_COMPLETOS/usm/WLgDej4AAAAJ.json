@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WLgDej4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge D\u00edaz Matte",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WLgDej4AAAAJ&citpid=2",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Mallas Geom\u00e9tricas",
+        "Geometr\u00eda Computacional",
+        "Estructuras de Datos",
+        "Algoritmos"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "https://jadiazcl.github.io/",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yIENmWwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Lobos",
+            "affiliation": "Universidad t\u00e9cnica federico santa mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dmafYYgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nancy Hitschfeld Kahler",
+            "affiliation": "Full Professor at the Computer Science Department, University of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Node-Based Data Structure for Balancing Process Optimization of Quadtree Meshes",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WLgDej4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7663556601872114358",
+            "cites_id": [
+                "7663556601872114358"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

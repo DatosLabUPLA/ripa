@@ -1,0 +1,349 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4GOSS8MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "F\u00e9lix Leaman",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4GOSS8MAAAAJ&citpid=3",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Predictive Maintenance",
+        "Acoustic Emission",
+        "Digital Signal Processing",
+        "Machine Learning",
+        "Sensor Technology"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://scholar.google.com/felix-leaman",
+    "citedby": 87,
+    "citedby5y": 87,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 4,
+        "2021": 20,
+        "2022": 18,
+        "2023": 25,
+        "2024": 17
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nmUixXYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elisabeth Clausen",
+            "affiliation": "RWTH Aachen University, Institute for Advanced Mining Technologies"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i_0aaDoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Ralph Baltes",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OAMF-AoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karl Nienhaus",
+            "affiliation": "RWTH Aachen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short review of the use of acoustic emissions for detection and monitoring of cracks",
+                "pub_year": "2021",
+                "citation": "Acoustics Australia 49, 273-280, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10836714876442788577",
+            "cites_id": [
+                "10836714876442788577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of gear fault diagnosis of planetary gearboxes using acoustic emissions",
+                "pub_year": "2021",
+                "citation": "Acoustics Australia 49 (2), 265-272, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=724805025970017898",
+            "cites_id": [
+                "724805025970017898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic emission source localization in ring gears from wind turbine planetary gearboxes",
+                "pub_year": "2019",
+                "citation": "FORSCHUNG IM INGENIEURWESEN-ENGINEERING RESEARCH 83 (1), 43-52, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12311665735801790981",
+            "cites_id": [
+                "12311665735801790981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential of empirical mode decomposition for hilbert demodulation of acoustic emission signals in gearbox diagnostics",
+                "pub_year": "2022",
+                "citation": "Journal of Vibration Engineering & Technologies, 1-17, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10011490763139938922",
+            "cites_id": [
+                "10011490763139938922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative case studies on ring gear fault diagnosis of planetary gearboxes using vibrations and acoustic emissions",
+                "pub_year": "2021",
+                "citation": "Forschung im Ingenieurwesen 2 (85), 619-628, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17446141517080938100",
+            "cites_id": [
+                "17446141517080938100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contributions to the diagnosis and prognosis of ring gear faults of planetary gearboxes using acoustic emissions",
+                "pub_year": "2020",
+                "citation": "Ph. D. thesis, RWTH Aachen University, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:WF5omc3nYNoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=611544556152841195",
+            "cites_id": [
+                "611544556152841195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of acoustic emission burst detection methods in a gearbox under different operating conditions",
+                "pub_year": "2019",
+                "citation": "Journal of Vibration and Control 25 (4), 895-906, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9551158617124673479",
+            "cites_id": [
+                "9551158617124673479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of acoustic emission signals during fatigue testing of a M36 bolt using the Hilbert-Huang spectrum",
+                "pub_year": "2020",
+                "citation": "Structural monitoring and maintenance 7 (1), 13-25, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563040856074316208",
+            "cites_id": [
+                "15563040856074316208"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pattern recognition approach for acoustic emission burst detection in a gearbox under different operating conditions",
+                "pub_year": "2019",
+                "citation": "Journal of Vibration and Control 25 (17), 2295-2304, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3705916808149344568",
+            "cites_id": [
+                "3705916808149344568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental investigation of crack detection in ring gears of wind turbine gearboxes using acoustic emissions",
+                "pub_year": "2024",
+                "citation": "Journal of Vibration Engineering & Technologies 12 (2), 2111-2128, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5435505663381104118",
+            "cites_id": [
+                "5435505663381104118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Review on Acoustic Emissions of Gear Transmissions: Source, Influencing Parameters, Applications and Modeling",
+                "pub_year": "2024",
+                "citation": "Journal of Vibration Engineering & Technologies, 1-12, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Study on Attenuation of Acoustic Emission Signals in Metallic Plates for Deep-Sea Mining",
+                "pub_year": "2023",
+                "citation": "Mining, Metallurgy & Exploration 40 (2), 555-562, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of Acoustic Emissions and Friction Behavior in a Two-phase Flow with Different Sand Content",
+                "pub_year": "2023",
+                "citation": "Mining, Metallurgy & Exploration 40 (1), 305-314, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Komparative Fallstudien zur Hohlrad-Fehlerdiagnose von Planetengetrieben mittels Schwingungen und Schallemissionen",
+                "pub_year": "2021",
+                "citation": "Forschung im Ingenieurwesen 85, 619-628, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic Emission Quellenlokalisierung in Hohlr\u00e4dern von Planetengetrieben von Windkraftanlagen",
+                "pub_year": "2019",
+                "citation": "Forschung im Ingenieurwesen 83, 43-52, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio experimental de an\u00e1lisis de emisiones ac\u00fasticas y su potencial aplicaci\u00f3n para la clasificaci\u00f3n de rocas",
+                "pub_year": "2018",
+                "citation": "II Congreso Iberoamericano en Miner\u00eda Subterr\u00e1nea y a Cielo abierto - U \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracter\u00edsticas frecuenciales de la interacci\u00f3n rotor-estator en una turbina-bomba con combinaci\u00f3n de \u00e1labes 7/16",
+                "pub_year": "2012",
+                "citation": "XV Congreso Chileno de Ingenier\u00eda Mec\u00e1nica, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELACI\u00d3N EMP\u00cdRICA DEL SISTEMA DIN\u00c1MICO DE UN DRON HEXAROTOR PARA ESTABILIZACI\u00d3N DE DISPOSITIVOS DE ADQUISI\u00d3N DE IM\u00c1GENES DURANTE VUELO",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n de rocas en procesos mineros mediante tecnolog\u00edas de emisiones ac\u00fasticas y termograf\u00eda infrarroja",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fault prognosis of planetary gearbox using acoustic emission and genetic algorithm: a case study",
+                "citation": "CONFERENCE VERSION, 125, 0"
+            },
+            "filled": false,
+            "author_pub_id": "4GOSS8MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

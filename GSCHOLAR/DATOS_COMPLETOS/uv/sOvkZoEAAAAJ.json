@@ -1,0 +1,206 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "sOvkZoEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gerardo Honorato",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "Sistemas din\u00e1micos",
+        "Teor\u00eda erg\u00f3dica"
+    ],
+    "email_domain": "@uv.cl",
+    "homepage": "https://ghonorato-cimfav.uv.cl/",
+    "citedby": 48,
+    "citedby5y": 24,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2013": 8,
+        "2014": 0,
+        "2015": 4,
+        "2016": 4,
+        "2017": 2,
+        "2018": 6,
+        "2019": 6,
+        "2020": 7,
+        "2021": 3,
+        "2022": 4,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WXkyTQ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Javier Valenzuela Henriquez",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S9u6pJwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alberto Magre\u00f1\u00e1n",
+            "affiliation": "Universidad de La Rioja"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ukCEV7gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruben A. Hidalgo",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FM363iYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio Cumsille",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics of a higher-order family of iterative methods",
+                "pub_year": "2011",
+                "citation": "Journal of Complexity 27 (2), 221-229, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:FiytvqdAVhgC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18097916346290665776",
+            "cites_id": [
+                "18097916346290665776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Julia set of K\u00f6nig\u2019s root\u2013finding algorithms",
+                "pub_year": "2013",
+                "citation": "Proceedings of the American Mathematical Society 141 (10), 3601-3607, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:j7_hQOaDUrUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15928280513715977609",
+            "cites_id": [
+                "15928280513715977609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics and limiting behavior of Julia sets of K\u00f6nig's method for multiple roots",
+                "pub_year": "2018",
+                "citation": "Topology and its Applications 233, 16-32, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:IaI1MmNe2tcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17003069393244158522",
+            "cites_id": [
+                "17003069393244158522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the growth rate inequality for periodic points in the two sphere",
+                "pub_year": "2019",
+                "citation": "Journal of Difference Equations and Applications 25 (2), 219-232, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:nRpfm8aw39MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11077597990272662008",
+            "cites_id": [
+                "11077597990272662008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamical aspects of some convex acceleration methods as purely iterative algorithm for Newton\u2019s maps",
+                "pub_year": "2015",
+                "citation": "Applied Mathematics and Computation 251, 507-520, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:PaBasH6fAo0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10816782489804352713",
+            "cites_id": [
+                "10816782489804352713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Purely Iterative Algorithms for Newton\u2019s Maps and General Convergence",
+                "pub_year": "2020",
+                "citation": "Mathematics 8 (7), 1158, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:7Hz3ACDFbsoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3044967310280444768",
+            "cites_id": [
+                "3044967310280444768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the dynamics of n-circle inversion",
+                "pub_year": "2019",
+                "citation": "Nonlinearity 32 (4), 1242, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:MpfHP-DdYjUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9683596726135725983",
+            "cites_id": [
+                "9683596726135725983"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disconnected Julia set of Halley's method for exponential maps",
+                "pub_year": "2022",
+                "citation": "Dynamical Systems 37 (2), 280-294, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "sOvkZoEAAAAJ:7BrZ7Jt4UNcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

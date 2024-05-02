@@ -1,0 +1,76 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-QNhYzoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Sepulveda",
+    "affiliation": "Universidad de Santiago",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 22,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 2,
+        "2016": 3,
+        "2017": 4,
+        "2018": 3,
+        "2019": 2,
+        "2020": 3,
+        "2021": 0,
+        "2022": 3,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AeJzLDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrea Mahn",
+            "affiliation": "Universidad de santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jJW2QmEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Herna Barrientosc",
+            "affiliation": "Profesor de qu\u00edmica, Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Changes in SeMSC, Glucosinolates and Sulforaphane Levels, and in Proteome Profile in Broccoli (Brassica oleracea var. Italica) Fertilized with Sodium Selenate",
+                "pub_year": "2013",
+                "citation": "Molecules 18 (5), 5221-5234, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-QNhYzoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15279661927638476752",
+            "cites_id": [
+                "15279661927638476752"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

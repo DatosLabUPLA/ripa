@@ -1,0 +1,62 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "S_Oqu-0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Javier Alvial V\u00e1squez",
+    "affiliation": "PhD student of Physics, University of Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Earth science"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34\u00b0 S\u201341\u00b0 S) of Chile",
+                "pub_year": "2020",
+                "citation": "Frontiers in Earth Science 8, 519975, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "S_Oqu-0AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=442689710106154095",
+            "cites_id": [
+                "442689710106154095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34 degrees S-41 degrees S) of Chile",
+                "pub_year": "2020",
+                "citation": "FRONTIERS IN EARTH SCIENCE 8, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "S_Oqu-0AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

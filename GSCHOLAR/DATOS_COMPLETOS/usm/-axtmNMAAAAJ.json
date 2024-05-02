@@ -1,0 +1,69 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-axtmNMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Willy Menacho",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-axtmNMAAAAJ&citpid=1",
+    "affiliation": "Departamento de F\u00edsica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Valpara\u00edso, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "BiophysicsSoft",
+        "MatterMolecular",
+        "SimulationMultiscale",
+        "ModelingNanomaterials"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pyDAMPF: a Python package for modeling mechanical properties of hygroscopic materials under interaction with a nanoprobe.",
+                "pub_year": "2022",
+                "citation": "SciPy, 202-209, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-axtmNMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4587027702335045051",
+            "cites_id": [
+                "4587027702335045051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative Dynamic AFM Hydration\u2010Adsorption Design for Hygroscopic and Bio\u2010Compatible Polymeric Nanofibers",
+                "pub_year": "2024",
+                "citation": "Small Structures, 2300379, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-axtmNMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

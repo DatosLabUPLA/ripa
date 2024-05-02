@@ -1,0 +1,86 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "P6Ny5eoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Sazo",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [],
+    "email_domain": "@alumnos.inf.utfsm.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolution of two-dimensional grain boundary networks implemented in GPU",
+                "pub_year": "2019",
+                "citation": "Computational Materials Science 160, 315-333, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "P6Ny5eoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=375471242565008321",
+            "cites_id": [
+                "375471242565008321"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A vertex model of recrystallization with stored energy implemented in GPU",
+                "pub_year": "2019",
+                "citation": "Materials Research Express 6 (5), 055506, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "P6Ny5eoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7624505861740478901",
+            "cites_id": [
+                "7624505861740478901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An implicit-transition model for numerical simulation of 3D grain growth",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "P6Ny5eoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10623885087123033526",
+            "cites_id": [
+                "10623885087123033526"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

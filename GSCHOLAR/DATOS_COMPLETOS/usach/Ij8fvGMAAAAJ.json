@@ -1,0 +1,522 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ij8fvGMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Manuel Villalobos-Cid",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ij8fvGMAAAAJ&citpid=1",
+    "affiliation": "Departamento de Ingenier\u00eda Inform\u00e1tica, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Evolutionary computation",
+        "optimisation",
+        "data mining",
+        "bioinformatics",
+        "healthcare planning"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 125,
+    "citedby5y": 107,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 3,
+        "2018": 12,
+        "2019": 14,
+        "2020": 23,
+        "2021": 14,
+        "2022": 22,
+        "2023": 26,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ENLJZ48AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mario Inostroza Ponta",
+            "affiliation": "Associate Professor, Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gc0ljMIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M\u00e1rcio Dorn",
+            "affiliation": "Federal University of Rio Grande do Sul"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n9GPFCUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Max Chacon",
+            "affiliation": "Profesor Titular, Universidad de Santiago de chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3Q1nQZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Ligabue-Braun",
+            "affiliation": "Associate Professor, Dept Pharmacosciences, UFCSPA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LGr3fxoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis Rojo-Gonz\u00e1lez",
+            "affiliation": "INRIA Lille - Nord Europe and Polytechnique Montr\u00e9al"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TCz_FngAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Tejos",
+            "affiliation": "Professor, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZaqDIPcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Salas F.",
+            "affiliation": "Universidad de Valpara\u00edso / Millennium Institute for Intelligent Healthcare Engineering / MEDING"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rsgEL7IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Zitko",
+            "affiliation": "Health Systems & Population Research Department, King's College London/  Hospital Barros Luco, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A memetic algorithm based on an NSGA-II scheme for phylogenetic tree inference",
+                "pub_year": "2018",
+                "citation": "IEEE transactions on evolutionary computation 23 (5), 776-787, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11251825839694322170",
+            "cites_id": [
+                "11251825839694322170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new strategy to evaluate technical efficiency in hospitals using homogeneous groups of casemix",
+                "pub_year": "2016",
+                "citation": "Journal of medical systems 40 (4), 103, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6717619395072257383",
+            "cites_id": [
+                "6717619395072257383"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of different multi-objective decision making techniques in the phylogenetic inference problem",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700168390776088273",
+            "cites_id": [
+                "15700168390776088273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic decision-making tool for distributed solar photovoltaic panels and storage: The case of Chile",
+                "pub_year": "2019",
+                "citation": "Energy Procedia 159, 388-393, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3561675104888695878",
+            "cites_id": [
+                "3561675104888695878"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the relationship between decision and objective space in the multi-objective phylogenetic inference problem",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Congress on Evolutionary Computation (CEC), 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15184892011657794310",
+            "cites_id": [
+                "15184892011657794310"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tackling the bi-objective quadratic assignment problem by characterizing different memory strategies in a memetic algorithm",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9587733263157648003",
+            "cites_id": [
+                "9587733263157648003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance comparison of multi-objective local search strategies to infer phylogenetic trees",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Congress on Evolutionary Computation (CEC), 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6679741101249660368",
+            "cites_id": [
+                "6679741101249660368"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the use of local search strategies for a memetic algorithm for the protein-ligand docking problem",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15189170398114979037",
+            "cites_id": [
+                "15189170398114979037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dealing with the balanced academic curriculum problem considering the chilean academic credit transfer system",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11245581016691182169",
+            "cites_id": [
+                "11245581016691182169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multimodal multi-objective optimisation approach to deal with the phylogenetic inference problem",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Conference on Computational Intelligence in Bioinformatics and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11775717998095223388",
+            "cites_id": [
+                "11775717998095223388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Phylogenetic Tree Topologies for Nitrogen Associated Genes Partially Reconstruct the Evolutionary History of Saccharomyces cerevisiae",
+                "pub_year": "2019",
+                "citation": "Microorganisms 8 (1), 32, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2290021969642168006",
+            "cites_id": [
+                "2290021969642168006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative description of the morphology and ossification center in the axial skeleton of 20\u2010week gestation formalin\u2010fixed human fetuses using magnetic resonance images",
+                "pub_year": "2012",
+                "citation": "Prenatal Diagnosis 32 (3), 252-258, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4320345588874253972",
+            "cites_id": [
+                "4320345588874253972"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-modal algorithm based on an NSGA-II scheme for phylogenetic tree inference",
+                "pub_year": "2022",
+                "citation": "Biosystems 213, 104606, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10867181698359607441",
+            "cites_id": [
+                "10867181698359607441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Total evidence or taxonomic congruence? A comparison of methods for combining biological evidence",
+                "pub_year": "2020",
+                "citation": "Journal of Bioinformatics and Computational Biology 18 (06), 2050040, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13582315480241095742",
+            "cites_id": [
+                "13582315480241095742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An informatics tool for class-to-class planning and academic-load evaluation",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10803961083324801049",
+            "cites_id": [
+                "10803961083324801049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An evolutionary algorithm based on parsimony for the multiobjective phylogenetic network inference problem",
+                "pub_year": "2023",
+                "citation": "Applied Soft Computing 139, 110270, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16126228546590447491",
+            "cites_id": [
+                "16126228546590447491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of a low-cost neuromuscular blockade monitoring device",
+                "pub_year": "2020",
+                "citation": "2020 5th International Conference on Intelligent Informatics and Biomedical \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1590306387600350099",
+            "cites_id": [
+                "1590306387600350099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the categorisation of the public hospitals in chile according to case-mix complexity: a genetic algorithm approach",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10072281503331490600",
+            "cites_id": [
+                "10072281503331490600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomedical engineering research in Chilean universities-A bibliometric analysis",
+                "pub_year": "2024",
+                "citation": "IEEE Latin America Transactions 22 (4), 339-351, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Differential Evolution Approach for Reduced Order Frequency Response Models Identification",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the incorporation of Biological Knowledge in multiobjective clustering of gene expression data",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single nucleotide polymorphisms associated with wine fermentation and adaptation to nitrogen limitation in wild and domesticated yeast strains",
+                "pub_year": "2023",
+                "citation": "Biological Research 56 (1), 43, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving solution diversity on NSGA-II for multi-objective clustering problems",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-objective approach for the protein structure prediction problem",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-solution based metaheuristic approach to a novel restricted clustering problem",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Chileans public hospitals based on healthcare production using clustering techniques",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic and Energy Storage Sizing Algorithm for the Chilean Distribution Tariff",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-objective optimisation evolutionary approach for the Multidimensional Scaling Problem",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ij8fvGMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SjkNsk8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "German Treimun-Costa",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SjkNsk8AAAAJ&citpid=3",
+    "affiliation": "MSc. Student at Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "combinatorial optimization",
+        "metaheuristics",
+        "parameter tuning",
+        "local optima networks"
+    ],
+    "email_domain": "@alumnos.usm.cl",
+    "citedby": 16,
+    "citedby5y": 16,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 4,
+        "2022": 4,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling parameter configuration spaces with local optima networks",
+                "pub_year": "2020",
+                "citation": "Proceedings of the 2020 Genetic and Evolutionary Computation Conference, 751-759, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "SjkNsk8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5831167073446332561",
+            "cites_id": [
+                "5831167073446332561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GHLAP: Greedy Heuristic for Land Partitioning",
+                "pub_year": "2019",
+                "citation": "Proceedings of BigDSSAgro 2019. III International Conference on Agro BigData \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SjkNsk8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

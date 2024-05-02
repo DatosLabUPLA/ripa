@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "APpSYcEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Morales-D\u00edaz",
+    "affiliation": "Universidad de Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Thermodynamics"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 21,
+    "citedby5y": 21,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 7,
+        "2023": 10,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ffMm7lsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e9s Mej\u00eda",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling of solubility of vitamin K3 derivatives in supercritical carbon dioxide using cubic and SAFT equations of state",
+                "pub_year": "2021",
+                "citation": "The Journal of Supercritical Fluids 167, 105040, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "APpSYcEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14710317085292675329",
+            "cites_id": [
+                "14710317085292675329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n de solubilidades de mol\u00e9culas org\u00e1nicas en fluidos supercr\u00edtico mediante ecuaci\u00f3n de estado molecular.",
+                "pub_year": "2021",
+                "citation": "Universidad de Concepci\u00f3n., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "APpSYcEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

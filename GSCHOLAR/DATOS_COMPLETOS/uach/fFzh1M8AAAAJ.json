@@ -1,0 +1,571 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "fFzh1M8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Guillaume Serandour",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Mechanical Engineering",
+        "MEMS",
+        "Nonlinear Dynamics"
+    ],
+    "email_domain": "@uach.cl",
+    "citedby": 732,
+    "citedby5y": 327,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2008": 4,
+        "2009": 14,
+        "2010": 23,
+        "2011": 37,
+        "2012": 30,
+        "2013": 41,
+        "2014": 59,
+        "2015": 47,
+        "2016": 56,
+        "2017": 47,
+        "2018": 42,
+        "2019": 61,
+        "2020": 48,
+        "2021": 46,
+        "2022": 78,
+        "2023": 65,
+        "2024": 29
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0tZYjeAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "V\u00e9ronique Rochus",
+            "affiliation": "MEMS designer, IMEC"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J84XnUAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Olivier Bruls",
+            "affiliation": "Professor of mechanical engineering, University of Li\u00e8ge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VeJEo1AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Horacio Samaniego",
+            "affiliation": "Associate Professor, Universidad Austral de Chile, Valdivia, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mNrvYS4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stewart McWilliam",
+            "affiliation": "Associate Professor, University of Nottingham"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Normal Modes, Part II: Practical Computation using Numerical Continuation Techniques",
+                "pub_year": "2008",
+                "citation": "26th International Modal Analysis Conference, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 645,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15784291713366169819",
+            "cites_id": [
+                "15784291713366169819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leukocyte and platelet-rich fibrin have same effect as blood clot in the 3-dimensional alveolar ridge preservation. A split-mouth randomized clinical trial",
+                "pub_year": "2021",
+                "citation": "Journal of Oral and Maxillofacial Surgery 79 (3), 575-584, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16251097076072355145",
+            "cites_id": [
+                "16251097076072355145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developing Teamwork Skills in First and Second Year Engineering Students",
+                "pub_year": "2014",
+                "citation": "International Journal of Engineering Education 30 (5), 1225-1233, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:kRWSkSYxWN8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8853666633298605999",
+            "cites_id": [
+                "8853666633298605999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining materials obtained by 3D-printing and electrospinning from commercial polylactide filament to produce biocompatible composites",
+                "pub_year": "2021",
+                "citation": "Polymers 13 (21), 3806, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438140023833007840",
+            "cites_id": [
+                "7438140023833007840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced order modeling of electrostatically actuated microbeams",
+                "pub_year": "2008",
+                "citation": "ENOC 2008, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5166372679828064465",
+            "cites_id": [
+                "5166372679828064465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer\u2010assisted planning with 3D printing for mandibular reconstruction caused by a mandibular fracture with secondary osteomyelitis: A Case Report",
+                "pub_year": "2021",
+                "citation": "Clinical Case Reports 9 (7), e04410, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:PELIpwtuRlgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=763453198575830347",
+            "cites_id": [
+                "763453198575830347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of nonlinear normal modes, part II: Numerical continuation in auto",
+                "pub_year": "2008",
+                "citation": "Proceedings of the ENOC, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:WqliGbK-hY8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8925649612908160446",
+            "cites_id": [
+                "8925649612908160446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo param\u00e9trico de la actividad el\u00e9ctrica celular cardiaca estimado a partir de registros electrocardiogr\u00e1ficos est\u00e1ndares",
+                "pub_year": "2013",
+                "citation": "Revista Ingenier\u00eda Biom\u00e9dica 7 (13), 31-42, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17461931229866073536",
+            "cites_id": [
+                "17461931229866073536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una herramienta de apoyo a la auto, co, hetero y ecoevaluaci\u00f3n",
+                "pub_year": "2015",
+                "citation": "Conferencias LACLO 5 (1), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:1qzjygNMrQYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6650479572127094447",
+            "cites_id": [
+                "6650479572127094447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing Taylor\u2019s Scaling Law: qualitative differences of social and territorial behavior on colonization/extinction dynamics",
+                "pub_year": "2012",
+                "citation": "Population ecology 54, 213-223, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3477382997953834068",
+            "cites_id": [
+                "3477382997953834068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling geometric nonlinearity in a MEMS resonator",
+                "pub_year": "2006",
+                "citation": "Proceedings of the 9th International Conference on Recent Advances in \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6514990634355927024",
+            "cites_id": [
+                "6514990634355927024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-linear dynamics of vibratory rate sensors",
+                "pub_year": "2005",
+                "citation": "University of Nottingham, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:BrmTIyaxlBUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14694953930758686244",
+            "cites_id": [
+                "14694953930758686244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo param\u00e9trico de actividad el\u00e9ctrica celular cardiaca estimado mediante electrocardiograma",
+                "pub_year": "2012",
+                "citation": "Terceras Jornadas de Ingenier\u00eda Biom\u00e9dica JCIB, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:wbdj-CoPYUoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3472598197846074170",
+            "cites_id": [
+                "3472598197846074170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Nonlinear Normal Modes. Part I: Numerical continuation in Matlab",
+                "pub_year": "2008",
+                "citation": "6th EUROMECH Nonlinear Dynamics Conference (ENOC) 37, 360-362, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4829937518541615395",
+            "cites_id": [
+                "4829937518541615395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of numerical algorithms for practical computation of nonlinear normal modes",
+                "pub_year": "2006",
+                "citation": "International Conference on Noise and vibration Engineering, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17049003278875265866",
+            "cites_id": [
+                "17049003278875265866"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polycaprolactone scaffolds prepared by 3D printing electrosprayed with polyethylene glycol-polycaprolactone block copolymers for applications in bone tissue engineering",
+                "pub_year": "2023",
+                "citation": "Polymer 288, 126448, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:LjlpjdlvIbIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1678961674267481089",
+            "cites_id": [
+                "1678961674267481089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n de Par\u00e1metros en Andamios de PLA y PCL a ser Utilizados en Tejidos Cartilaginosos",
+                "pub_year": "2021",
+                "citation": "Revista Mexicana de Ingenieria Biomedica 42 (2), 149-159, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:dTyEYWd-f8wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1151163956793598291",
+            "cites_id": [
+                "1151163956793598291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Parameters in PLA and PCL Scaffolds to be Used in Cartilaginous Tissues",
+                "pub_year": "2021",
+                "citation": "Revista mexicana de ingenier\u00eda biom\u00e9dica 42 (2), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:SdhP9T11ey4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15217992189526124963",
+            "cites_id": [
+                "15217992189526124963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leukocyte and Platelet-Rich Fibrin Have Same Effect as Blood Clot in the 3-Dimensional Alveolar Ridge Preservation. A Split-Mouth Randomized Clinical Trial",
+                "pub_year": "2021",
+                "citation": "JOURNAL OF ORAL AND MAXILLOFACIAL SURGERY 79 (3), 575-584, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:5awf1xo2G04C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17506466646226625297",
+            "cites_id": [
+                "17506466646226625297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combination of logical conditions and arithmetic operations to assign a mark to a course based on multidimensional learning outcomes",
+                "pub_year": "2016",
+                "citation": "Assessment & Evaluation in Higher Education 41 (8), 1129-1143, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:J-pR_7NvFogC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4011078338022205836",
+            "cites_id": [
+                "4011078338022205836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of nonlinear normal modes, Part II: numerical continuation in AUTO",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16023626325415588151",
+            "cites_id": [
+                "16023626325415588151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-linear in-plane vibrations of Coriolis based gyroscope.",
+                "pub_year": "2006",
+                "citation": "The Shock and Vibration Digest 38 (5), 451-452, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:Y5dfb0dijaUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2600787122270298002",
+            "cites_id": [
+                "2600787122270298002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metodolog\u00eda para la generaci\u00f3n de un modelo de comportamiento ortotr\u00f3pico del material PLA en andamios construidos a trav\u00e9s de t\u00e9cnicas de impresi\u00f3n 3D",
+                "pub_year": "2022",
+                "citation": "Universidad Nacional de Educaci\u00f3n a Distancia (Espa\u00f1a), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer-assisted planning with 3D printing for mandibular reconstruction caused by secondary osteomyelitis: A Case Report.",
+                "pub_year": "2020",
+                "citation": "Authorea Preprints, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PARAMETRICAL MODEL OF CARDIAC CELL ELECTRICAL ACTIVITY ESTIMATED FROM STANDARD ELECTROCARDIOGRAM RECORDINGS",
+                "pub_year": "2013",
+                "citation": "Revista Ingenier\u00eda Biom\u00e9dica 7 (13), 31-42, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo param\u00e9trico de la actividad el\u00e9ctrica celular cardiaca estimado a partir de registros electrocardiogr\u00e1ficos est\u00e1ndares (Parametrical model of cardiac cell electrical \u2026",
+                "pub_year": "2013",
+                "citation": "Revista Ingenier\u00eda Biom\u00e9dica 7 (13), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced-Order Modeling of Electrostatically-Actuated Micro-Beams",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-linear effects in an electrostatically actuated MEMS ring resonator",
+                "pub_year": "2009",
+                "citation": "Technical Digest of Recent Advanced in Nonlinear Mechanics 2009, Kuala \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometric non-linearity in a MEMS ring-resonator",
+                "pub_year": "2009",
+                "citation": "Technical Digest of Recent Advances in Nonlinear Mechanics, Kuala Lumpur \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of numerical algorithms for practical computation of nonlinear normal modes",
+                "pub_year": "2008",
+                "citation": "University of Lincoln, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of Nonlinear Normal Modes using Numerical Continuation Techniques",
+                "pub_year": "2008",
+                "citation": "International Confernce on Advanced Computational Methods in Engineering, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling geometric non-linearity in a MEMS resonator",
+                "pub_year": "2006",
+                "citation": "IX International Conference on Recent Advances in Structural Dynamics, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-linear in-plane vibrations of a Coriolis based gyroscope",
+                "pub_year": "2004",
+                "citation": "International Conference on Noise and Vibration Engineering, 2184-2194, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "fFzh1M8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

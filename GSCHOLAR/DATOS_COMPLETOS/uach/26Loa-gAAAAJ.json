@@ -1,0 +1,100 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "26Loa-gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ximena Valenzuela",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Biorremediaci\u00f3n",
+        "Tolerancia a metales pesados"
+    ],
+    "email_domain": "@uach.cl",
+    "citedby": 59,
+    "citedby5y": 13,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2005": 2,
+        "2006": 1,
+        "2007": 2,
+        "2008": 0,
+        "2009": 4,
+        "2010": 1,
+        "2011": 3,
+        "2012": 7,
+        "2013": 4,
+        "2014": 4,
+        "2015": 3,
+        "2016": 9,
+        "2017": 3,
+        "2018": 3,
+        "2019": 2,
+        "2020": 3,
+        "2021": 6,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Endofacial competitive inhibition of the glucose transporter 1 activity by gossypol",
+                "pub_year": "2009",
+                "citation": "American Journal of Physiology-Cell Physiology 297 (1), C86-C93, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "26Loa-gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1765679367106249998",
+            "cites_id": [
+                "1765679367106249998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracellular conserved cysteine forms an intersubunit disulphide bridge in the KCNK5 (TASK-2) K+ channel without having an essential effect upon activity",
+                "pub_year": "2003",
+                "citation": "Molecular membrane biology 20 (2), 185-191, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "26Loa-gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1005459408387946306",
+            "cites_id": [
+                "1005459408387946306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of regulatory binding sites on the Glut1 glucose transporter",
+                "pub_year": "2010",
+                "citation": "The FASEB Journal 24, 699.8-699.8, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "26Loa-gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

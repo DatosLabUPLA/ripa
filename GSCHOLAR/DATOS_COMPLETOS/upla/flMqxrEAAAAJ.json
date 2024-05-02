@@ -1,0 +1,87 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "flMqxrEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier Castillo Allaria",
+    "affiliation": "Universidad de Playa Ancha",
+    "organization": 8337597745079551909,
+    "interests": [
+        "Tecnologia",
+        "Informatica",
+        "contaminacion",
+        "Tecnologias Asistivas"
+    ],
+    "email_domain": "@upla.cl",
+    "homepage": "http://www.upla.cl/",
+    "citedby": 26,
+    "citedby5y": 25,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 6,
+        "2022": 6,
+        "2023": 7,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realidad Aumentada y simuladores: astronom\u00eda para ni\u00f1os y ni\u00f1as de cinco a\u00f1os",
+                "pub_year": "2020",
+                "citation": "ALTERIDAD. Revista de Educaci\u00f3n 15 (1), 25-35, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "flMqxrEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2161029775329085617",
+            "cites_id": [
+                "2161029775329085617"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented reality and stellarium: Astronomy for children of five years",
+                "pub_year": "2020",
+                "citation": "Alteridad 15, 25-35, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "flMqxrEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15778557344594755831",
+            "cites_id": [
+                "15778557344594755831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realidad Aumentada y simuladores: astronom\u00eda para ni\u00f1os y ni\u00f1as de cinco a\u00f1os. Alteridad [online]. 2020, vol. 15, n. 1",
+                "citation": "ISSN, 0"
+            },
+            "filled": false,
+            "author_pub_id": "flMqxrEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

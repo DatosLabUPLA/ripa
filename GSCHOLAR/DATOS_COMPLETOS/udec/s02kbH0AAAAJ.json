@@ -1,0 +1,1732 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "s02kbH0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo Abarca-del-Rio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=s02kbH0AAAAJ&citpid=1",
+    "affiliation": "Departamento de Geofisica, Universidad de Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Remote Sensing",
+        "HydroClimatology",
+        "Data Analysis",
+        "Space Geodesy"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 2267,
+    "citedby5y": 1294,
+    "hindex": 21,
+    "hindex5y": 16,
+    "i10index": 32,
+    "i10index5y": 23,
+    "cites_per_year": {
+        "2000": 6,
+        "2001": 8,
+        "2002": 5,
+        "2003": 13,
+        "2004": 7,
+        "2005": 10,
+        "2006": 15,
+        "2007": 22,
+        "2008": 32,
+        "2009": 28,
+        "2010": 33,
+        "2011": 49,
+        "2012": 80,
+        "2013": 82,
+        "2014": 112,
+        "2015": 83,
+        "2016": 88,
+        "2017": 134,
+        "2018": 137,
+        "2019": 186,
+        "2020": 207,
+        "2021": 284,
+        "2022": 249,
+        "2023": 270,
+        "2024": 98
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5eZSlJwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivo Janos Fustos-Toribio",
+            "affiliation": "Departamento en Ingenieria de Obras Civiles, Universidad de la Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w-iEUFQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexei V. Kouraev",
+            "affiliation": "LEGOS-OMP, University Paul Sabatier Toulouse III"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Skr9tiAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando Nino",
+            "affiliation": "Legos, IRD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1KqHoEQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e9s I. \u00c1vila",
+            "affiliation": "Centro de Modelaci\u00f3n y Computaci\u00f3n Cient\u00edfica, Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-xSJNGMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wolfgang Schneider",
+            "affiliation": "Universidad de Concepcion, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oQo-ChQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Efra\u00edn Rodr\u00edguez-Rubio",
+            "affiliation": "Centro de Innovaci\u00f3n y Tecnolog\u00eda-ICP/Ecopetrol"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EFHDq2MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Garc\u00e9s-Vargas",
+            "affiliation": "Instituto de Ciencias Marinas y Limnol\u00f3gicas, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cIKjPDMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Florian Seitz",
+            "affiliation": "Deutsches Geod\u00e4tisches Forschungsinstitut (DGFI-TUM), Technische Universit\u00e4t M\u00fcnchen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HIf-nXMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ana Georgina Elias",
+            "affiliation": "CONICET - Universidad Nacional de Tucuman"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JJUyUGcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thomas Ulich",
+            "affiliation": "Head of Observations, Sodankyl\u00e4 Geophysical Observatory, University of Oulu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GppyUYoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elias Ovalle",
+            "affiliation": "Centro Instrumentacion Cientifica (CINC), Universidad Adventista de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3ZrXfGEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "HF Astudillo",
+            "affiliation": "Profesor de F\u00edsica, Universidad de Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zDKS6N8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "F\u00e9lix A. Borotto",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qYIJJ1AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aiguo Dai",
+            "affiliation": "Distinguished Professor, Dept. of Atmospheric and Environmental Sci., University at Albany \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "krWkMR4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodney Mart\u00ednez G\u00fcingla",
+            "affiliation": "WMO Representative for North America, Central America and the Caribbean"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_V8iXn4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marc Leblanc",
+            "affiliation": "Chaire d'excellence ANR, IRD, UMR G-EAU"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Io0Xr_4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Urrutia",
+            "affiliation": "Profesor Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vQ5qZY8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sarah Tweed",
+            "affiliation": "IRD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CmJjKWMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rolando Cardenas",
+            "affiliation": "Professor of Physics, Universidad Central \"Marta Abreu\" de Las Villas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uoa0ozMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Moreno-Yaeger",
+            "affiliation": "University of Wisconsin-Madison"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i9ttSQQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e9s Tassara",
+            "affiliation": "Associated Professor, Department of Earth Sciences, Universidad de Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UUfZjBYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Melnick",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ej1Rvw4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vagner Gon\u00e7alves Ferreira",
+            "affiliation": "School of Earth Sciences and Engineering, Hohai University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yaUbbSQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr Christopher E. Ndehedehe",
+            "affiliation": "Senior Lecturer and Australian Research Council DECRA Fellow, Griffith University \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_Pe48NkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "SILVIO ROGERIO CORREIA DE FREITAS",
+            "affiliation": "Professor de Geod\u00e9sia, Universidade Federal do Paran\u00e1"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "epHnBYcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Henry D. Montecino PhD.",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GCt0_nAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aharon Cuevas",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3Dkp74MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Sudhir Kumar Singh",
+            "affiliation": "Associate Professor (Atmospheric and Ocean Studies), University of Allahabad"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NY75TGgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis Felipe Ali El Sahili Gonz\u00e1lez",
+            "affiliation": "University of Guanajuato"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kvIApnkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thierry Delcroix",
+            "affiliation": "Retired. Previously at IRD / LEGOS, Toulouse, France"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5BsC_rkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "bruno Malaiz\u00e9",
+            "affiliation": "Universit\u00e9 de Bordeaux"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xBZaC-kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "remy dominique",
+            "affiliation": "GET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WmPiVosAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexis chaigneau",
+            "affiliation": "IRD / LEGOS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Eilm-egAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francois Colas",
+            "affiliation": "Institut de Recherche pour le D\u00e9veloppement"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BKqEaBEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guido Staub",
+            "affiliation": "Associate Professor, University of Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-nMxWYcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrea Madella",
+            "affiliation": "University of Tuebingen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "f5G8nU4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "V\u00edctor Hormaz\u00e1bal-Valderrama",
+            "affiliation": "Investigador, Instituto Forestal"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SOLS: A lake database to monitor in the Near Real Time water level and storage variations from remote sensing data",
+                "pub_year": "2011",
+                "citation": "Advances in space research 47 (9), 1497-1507, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:M05iB0D1s5AC",
+            "num_citations": 677,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14611265621106123231",
+            "cites_id": [
+                "14611265621106123231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lake volume monitoring from space",
+                "pub_year": "2016",
+                "citation": "Surveys in Geophysics 37, 269-305, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 279,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16757170204174819206",
+            "cites_id": [
+                "16757170204174819206"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the seasonal circulation within the Panama Bight derived from satellite observations of wind, altimetry and sea surface temperature",
+                "pub_year": "2003",
+                "citation": "Geophysical Research Letters 30 (7), 2003"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 151,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5674576140567840182",
+            "cites_id": [
+                "5674576140567840182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term trends in foF2: A comparison of various methods",
+                "pub_year": "2006",
+                "citation": "Journal of Atmospheric and Solar-Terrestrial Physics 68 (17), 1854-1870, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:2P1L_qKh6hAC",
+            "num_citations": 131,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11059029609468719864",
+            "cites_id": [
+                "11059029609468719864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interannual signals in length of day and atmospheric angular momentum",
+                "pub_year": "2000",
+                "citation": "Annales Geophysicae 18 (3), 347-364, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:k_IJM867U9cC",
+            "num_citations": 120,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11695170580543778211",
+            "cites_id": [
+                "11695170580543778211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Droughts and floods in the La Plata basin in soil moisture data and GRACE",
+                "pub_year": "2015",
+                "citation": "Remote Sensing 7 (6), 7324-7349, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 78,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4153605757392095079",
+            "cites_id": [
+                "4153605757392095079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote sensing-derived bathymetry of Lake Poop\u00f3",
+                "pub_year": "2013",
+                "citation": "Remote Sensing 6 (1), 407-420, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:blknAaTinKkC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5479522727850664789",
+            "cites_id": [
+                "5479522727850664789"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lakes studies from satellite altimetry",
+                "pub_year": "2011",
+                "citation": "Coastal altimetry, 509-533, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:fPk4N6BV_jEC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13183987205386250596",
+            "cites_id": [
+                "13183987205386250596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar activity and earth rotation variability",
+                "pub_year": "2003",
+                "citation": "Journal of Geodynamics 36 (3), 423-443, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:dhFuZR0502QC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14823749315915466438",
+            "cites_id": [
+                "14823749315915466438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water and food in the twenty-first century",
+                "pub_year": "2016",
+                "citation": "Remote sensing and water resources, 313-337, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17004570159299528448",
+            "cites_id": [
+                "17004570159299528448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral analysis using LANDSAT images to monitor the chlorophyll-a concentration in Lake Laja in Chile",
+                "pub_year": "2020",
+                "citation": "Ecological Informatics 60, 101183, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:HDshCWvjkbEC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2341233187343903070",
+            "cites_id": [
+                "2341233187343903070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flood mapping inferred from remote sensing data",
+                "pub_year": "2011",
+                "citation": "Int. Water Technol. J 1, 48-62, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:aqlVkmm33-oC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18040083583834824571",
+            "cites_id": [
+                "18040083583834824571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of SARAL/AltiKa over mountainous lakes, intercomparison with Envisat mission",
+                "pub_year": "2015",
+                "citation": "Marine Geodesy 38 (sup1), 534-548, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8268533141018539166",
+            "cites_id": [
+                "8268533141018539166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining seasonal displacements of Earth\u2019s crust in South America using observations from space-borne geodetic sensors and surface-loading models",
+                "pub_year": "2019",
+                "citation": "Earth, Planets and Space 71, 1-16, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ldfaerwXgEUC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12774081524621812339",
+            "cites_id": [
+                "12774081524621812339"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of global warming in Earth rotation speed",
+                "pub_year": "1999",
+                "citation": "Annales Geophysicae 17 (6), 806-811, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18012697761244872446",
+            "cites_id": [
+                "18012697761244872446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rainfall-induced landslide identification using numerical modelling: A southern Chile case",
+                "pub_year": "2020",
+                "citation": "Journal of South American Earth Sciences 101, 102587, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:IWHjjKOFINEC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2668633726151150931",
+            "cites_id": [
+                "2668633726151150931"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of analytical methods to study aquifer properties with pumping test in Deccan Basalt Region of the Morna River Basin in Akola District of Maharashtra in India",
+                "pub_year": "2020",
+                "citation": "Groundwater hydrology, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:hMod-77fHWUC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10588199403363740307",
+            "cites_id": [
+                "10588199403363740307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interannual variations in the Earth's polar motion for 1963\u20131991: Comparison with atmospheric angular momentum over 1980\u20131991",
+                "pub_year": "1994",
+                "citation": "Geophysical research letters 21 (22), 2361-2364, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9475954883689628441",
+            "cites_id": [
+                "9475954883689628441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does Lake Titicaca still control the Lake Poop\u00f3 system water levels? An investigation using satellite altimetry and MODIS data (2000\u20132009)",
+                "pub_year": "2012",
+                "citation": "Remote sensing letters 3 (8), 707-714, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648231554010783393",
+            "cites_id": [
+                "648231554010783393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple logistic model to understand the occurrence of flood events into the Biob\u00edo River Basin in central Chile",
+                "pub_year": "2017",
+                "citation": "Journal of Flood Risk Management 10 (1), 17-29, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5069804532901896968",
+            "cites_id": [
+                "5069804532901896968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian study of the Panama Bight and surrounding regions",
+                "pub_year": "2006",
+                "citation": "Journal of Geophysical Research: Oceans 111 (C9), 2006"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14099773176603503787",
+            "cites_id": [
+                "14099773176603503787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-annual variability in the thermal structure of an oceanic time series station off Ecuador (1990\u20132003) associated with El Nino events",
+                "pub_year": "2005",
+                "citation": "Deep Sea Research Part I: Oceanographic Research Papers 52 (10), 1789-1805, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:YFjsv_pBGBYC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13179750946479860977",
+            "cites_id": [
+                "13179750946479860977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SOLS: A lake database to monitor in the Near Real Time water level and storage variations from remote sensing data, Adv. Sp. Res., 47, 1497\u20131507",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:f2IySw72cVMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8136439266889420426",
+            "cites_id": [
+                "8136439266889420426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decadal to secular time scales variability in temperature measurements over France",
+                "pub_year": "2006",
+                "citation": "Geophysical research letters 33 (13), 2006"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=652531341726206772",
+            "cites_id": [
+                "652531341726206772"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frictional segmentation of the Chilean megathrust from a multivariate analysis of geophysical, geological, and geodetic data",
+                "pub_year": "2021",
+                "citation": "Journal of Geophysical Research: Solid Earth 126 (6), e2020JB020647, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:hC7cP41nSMkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=916150818147792800",
+            "cites_id": [
+                "916150818147792800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rainfall-Induced Landslides forecast using local precipitation and global climate indexes",
+                "pub_year": "2020",
+                "citation": "Natural Hazards 102, 115-131, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:qUcmZB5y_30C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3227422870477599828",
+            "cites_id": [
+                "3227422870477599828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of machine learning classification algorithms for land cover change in a coastal area affected by the 2010 Earthquake and Tsunami in Chile",
+                "pub_year": "2020",
+                "citation": "Natural Hazards and Earth System Sciences Discussions 2020, 1-14, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:mB3voiENLucC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16475588178298506381",
+            "cites_id": [
+                "16475588178298506381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Google Earth Engine application to retrieve long-term surface temperature for small lakes. Case: San Pedro lagoons, Chile",
+                "pub_year": "2021",
+                "citation": "Remote Sensing 13 (22), 4544, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:bEWYMUwI8FkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14114619122207786577",
+            "cites_id": [
+                "14114619122207786577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slow movements observed with in situ and remote-sensing techniques in the central zone of Chile",
+                "pub_year": "2017",
+                "citation": "International journal of remote sensing 38 (24), 7514-7530, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2889078115874382081",
+            "cites_id": [
+                "2889078115874382081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term potential nonlinear predictability of El Ni\u00f1o\u2013La Ni\u00f1a events",
+                "pub_year": "2017",
+                "citation": "Climate dynamics 49, 131-141, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6140821673543620922",
+            "cites_id": [
+                "6140821673543620922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A preliminary study of wave energy resource using an HF marine radar, application to an eastern Southern Pacific location: advantages and opportunities",
+                "pub_year": "2021",
+                "citation": "Remote Sensing 13 (2), 203, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:TQgYirikUcIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13781716259037258773",
+            "cites_id": [
+                "13781716259037258773"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced mesoscale climate projections in TAR and AR5 IPCC scenarios: a case study in a Mediterranean climate (Araucan\u00eda Region, south central Chile)",
+                "pub_year": "2016",
+                "citation": "Springerplus 5, 1-23, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=460126604974644941",
+            "cites_id": [
+                "460126604974644941"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of mobility restrictions on NO2 concentrations in key Latin American cities during the first wave of the COVID-19 pandemic",
+                "pub_year": "2023",
+                "citation": "Urban Climate 48, 101412, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:zA6iFVUQeVQC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13422090692745828394",
+            "cites_id": [
+                "13422090692745828394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Glacier monitoring based on multi-spectral and multi-temporal satellite data: A case study for classification with respect to different snow and ice types",
+                "pub_year": "2022",
+                "citation": "Remote Sensing 14 (4), 845, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14780186501934344896",
+            "cites_id": [
+                "14780186501934344896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and validation of a model to evaluate the water resources of a natural protected area as a provider of ecosystem services in a mountain basin in southern Chile",
+                "pub_year": "2021",
+                "citation": "Frontiers in Earth Science 8, 539905, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7892710871108675117",
+            "cites_id": [
+                "7892710871108675117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Does Lake Titicaca still control the Lake Poop\u00f3 system water levels",
+                "pub_year": "2012",
+                "citation": "An investigation using satellite altimetry and MODIS data (2000\u20132009 \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2123468651010495065",
+            "cites_id": [
+                "2123468651010495065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interdecadal oscillations in atmospheric angular momentum variations",
+                "pub_year": "2012",
+                "citation": "Journal of Geodetic Science 2 (1), 42-52, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11465972250839140266",
+            "cites_id": [
+                "11465972250839140266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The surface heat fluxes along the eastern Pacific coast from 10 N to 40 S",
+                "pub_year": "2012",
+                "citation": "Australian Meteorological and Oceanographic Journal 62 (2), 71, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2996553186207026699",
+            "cites_id": [
+                "2996553186207026699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedding reconstruction methodology for short time series\u2013application to large El Nino events",
+                "pub_year": "2010",
+                "citation": "Nonlinear Processes in Geophysics 17 (6), 753-764, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:_kc_bZDykSQC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14425996726953702173",
+            "cites_id": [
+                "14425996726953702173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Allons-nous bient\u00f4t manquer d'eau?",
+                "pub_year": "2018",
+                "citation": "La M\u00e9t\u00e9orologie 2018 (101), 39-49, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726482764117696020",
+            "cites_id": [
+                "7726482764117696020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First insights on Lake General carrera/buenos aires/chelenko water balance",
+                "pub_year": "2009",
+                "citation": "Advances in Geosciences 22, 173-179, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:4DMP91E08xMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17742386740240484611",
+            "cites_id": [
+                "17742386740240484611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "P. Nelson, and Dai, A.(2003)",
+                "citation": "Solar activity and earth rotation variability, J. of Geodynamics 37, 423-443, 0"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=138060713065957556",
+            "cites_id": [
+                "138060713065957556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clarifying the role of ENSO on Easter Island precipitation changes: Potential environmental implications for the last millennium",
+                "pub_year": "2022",
+                "citation": "Paleoceanography and Paleoclimatology 37 (12), e2022PA004514, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:rO6llkc54NcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14649560948995901585",
+            "cites_id": [
+                "14649560948995901585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rotation of the Earth, solar activity and cosmic ray intensity",
+                "pub_year": "2014",
+                "citation": "Annales Geophysicae 32 (7), 761-771, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4864039312396683853",
+            "cites_id": [
+                "4864039312396683853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact on discharge modelling using different spatial and temporal resolution scenarios in South of Chile",
+                "pub_year": "2022",
+                "citation": "Journal of South American Earth Sciences 115, 103727, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:JV2RwH3_ST0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16902041315556762352",
+            "cites_id": [
+                "16902041315556762352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial dynamics and consistency of agroclimatic trends in Chile during 1985-2015 to the K\u00f6ppen-Geiger climate classification",
+                "pub_year": "2021",
+                "citation": "Chilean journal of agricultural research 81 (4), 618-629, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:r0BpntZqJG4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8100768341056395400",
+            "cites_id": [
+                "8100768341056395400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n hidrol\u00f3gica del caudal del estero Batuco en la microcuenca agroforestal Batuco (R\u00e1nquil, Regi\u00f3n del \u00d1uble, Chile) bajo condiciones clim\u00e1ticas presentes y futuras",
+                "pub_year": "2021",
+                "citation": "INFOR, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:TFP_iSt0sucC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17266131167364756213",
+            "cites_id": [
+                "17266131167364756213"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-Term Dependencies of Annual and Semiannual Components of NmF2 Over Concepci\u00f3n",
+                "pub_year": "2011",
+                "citation": "The Open Atmospheric Science Journal 5 (1), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17965950693425593745",
+            "cites_id": [
+                "17965950693425593745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of thickness estimation techniques in seismically thin beds",
+                "pub_year": "2020",
+                "citation": "Obras y proyectos, 6-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13614893162939578786",
+            "cites_id": [
+                "13614893162939578786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring Glacier Retreat in the Chilean Southern Patagonian Ice Field",
+                "pub_year": "2019",
+                "citation": "IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:maZDTaKrznsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14301502709187024659",
+            "cites_id": [
+                "14301502709187024659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Coupled Climate Models for Predictions of Angular Momentum",
+                "pub_year": "2012",
+                "citation": "presentation at the 92nd American Meteorological Society Annual Meeting, New \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:-f6ydRqryjwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10706983685218479035",
+            "cites_id": [
+                "10706983685218479035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El Ni\u00f1o et la rotation de la Terre",
+                "pub_year": "2001",
+                "citation": "Pour la science, 78-85, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11726578224283310627",
+            "cites_id": [
+                "11726578224283310627"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADTC-InSAR: a tropospheric correction database for Andean volcanoes",
+                "pub_year": "2022",
+                "citation": "Scientific Data 9 (1), 526, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ZHo1McVdvXMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7773820776493495829",
+            "cites_id": [
+                "7773820776493495829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34 S\u201341 S) of Chile",
+                "pub_year": "2021",
+                "citation": "Connecting Mountain Hydroclimate Through the American Cordilleras, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:b0M2c_1WBrUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16883914705480383212",
+            "cites_id": [
+                "16883914705480383212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34\u00b0 S\u201341\u00b0 S) of Chile",
+                "pub_year": "2020",
+                "citation": "Frontiers in Earth Science 8, 519975, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=442689710106154095",
+            "cites_id": [
+                "442689710106154095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Le ph\u00e9nom\u00e8ne La Ni\u00f1a et la \u00abcatastrophe \u00e9cologique\u00bb de l'\u00eele de P\u00e2ques",
+                "pub_year": "2018",
+                "citation": "La M\u00e9t\u00e9orologie 2018 (102), 42-48, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:O3NaXMp0MMsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8238685651553041396",
+            "cites_id": [
+                "8238685651553041396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solifluction and complex movements observed from InSAR time series and satellite precipitation products: Cases over central south of Chile.",
+                "pub_year": "2018",
+                "citation": "Conference: South America Water from Space 1, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=613622873003186633",
+            "cites_id": [
+                "613622873003186633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term non-linear predictability of ENSO events over the 20th century",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1506.04066, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5350088447034172073",
+            "cites_id": [
+                "5350088447034172073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revisiting a possible relationship between solar activity and Earth rotation variability",
+                "pub_year": "2011",
+                "citation": "Journ\u00e9es Syst\u00e8mes de R\u00e9f\u00e9rence Spatio-temporels 2010, 194-195, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=486609321928862900",
+            "cites_id": [
+                "486609321928862900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CLIMATOLOGY AND INTERANNUAL VARIABILITY OF INTERTROPICAL CONVERGENCE ZONE IN THE EASTERN PACIFIC",
+                "pub_year": "2004",
+                "citation": "Gayana (Concepci\u00f3n) 68 (2), 215-217, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10166477516256218098",
+            "cites_id": [
+                "10166477516256218098"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tropical Pacific Ocean Long Waves Contribution to Length of Day During ENSO in 1980-1997",
+                "pub_year": "1999",
+                "citation": "IERS Technical Note 26, 45-49, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=451053397283346681",
+            "cites_id": [
+                "451053397283346681"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cost-effective disaster-induced land cover analysis: a semi-automatic methodology Using machine learning and satellite imagery",
+                "pub_year": "2024",
+                "citation": "International Journal of Remote Sensing 45 (2), 279-305, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling El Ni\u00f1o and La Ni\u00f1a Events Using Evolutionary Algorithms",
+                "pub_year": "2023",
+                "citation": "International Conference on Complex Computational Ecosystems, 205-217, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:a0OBvERweLwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ile de P\u00e2ques: une crise d'origine climatique",
+                "pub_year": "2023",
+                "citation": "Pour la science 553, 66-71, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n hidrol\u00f3gica del caudal del estero Huillinco en la microcuenca agroforestal Huillinco (Chonchi, regi\u00f3n de Los Lagos, Chile) bajo condiciones clim\u00e1ticas hist\u00f3ricas y \u2026",
+                "pub_year": "2023",
+                "citation": "INFOR, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Daily Tropospheric Delay Climatology inSAR Tropospheric Correction for the South American Andean Arc (NVZ, CVZ and SVZ).",
+                "pub_year": "2021",
+                "citation": "AGU Fall Meeting Abstracts 2021, G45A-0387, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n de t\u00e9cnicas de estimaci\u00f3n del espesor en estratos s\u00edsmicamente delgados",
+                "pub_year": "2020",
+                "citation": "Obras y proyectos, 6-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Resolution Precipitation Gridded Dataset on the South-Central Zone (34 degrees S-41 degrees S) of Chile",
+                "pub_year": "2020",
+                "citation": "FRONTIERS IN EARTH SCIENCE 8, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kanak N. Moharir, Chaitanya B. Pande",
+                "pub_year": "2020",
+                "citation": "Groundwater Hydrology, 97, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frictional structure of the Chilean megathrust combining seismicity, geodesy, gravity-bathymetry anomalies, morphology and geology.",
+                "pub_year": "2019",
+                "citation": "Geophysical Research Abstracts 21, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slow movements derived from InSAR time series and satellite precipitation products: Cases over central south of Chile.",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chilean remote sensing",
+                "pub_year": "2017",
+                "citation": "International Journal of Remote Sensing 38 (24), 7469-7472, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EARTH ROTATION VARIABILITY FROM INTERANNUAL TO INTERDECADAL TIME SCALES",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatio-Temporal Variations of Aquatic Vegetation in Lakes. A remote sensing and machine learning approach based on Google Earth Engine. The Maracaibo lake case.",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How heavy are extreme weather events?",
+                "pub_year": "2014",
+                "citation": "WCRP-ICTP Summer School on Attribution and Prediction of Extreme Events, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of the Perito Moreno glacier damming events and water balance of Rico branch (Lake Argentino) based on remote sensing and in situ data",
+                "pub_year": "2013",
+                "citation": "AGU Fall Meeting Abstracts 2013, H43G-1545, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Balance h\u00eddrico del Lago General Carrera Buenos Aires-Chelenko.",
+                "pub_year": "2012",
+                "citation": "Universidad de Concepci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Testing Past Sea Level Reconstruction Methodology (1958\u20132006)",
+                "pub_year": "2012",
+                "citation": "Geodesy for Planet Earth: Proceedings of the 2009 IAG Symposium, Buenos \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desaf\u00edos de la nueva red latinoamericanade video monitoreo costero remoto en las fachadas Pacifica, Caribe y Atl\u00e1ntica.",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear climate forcing of deep-circulation off northern Chile (25\u00b0 S) during the last 1 Myr: evidence from stable carbon and oxygen isotopes of planktic and benthic foraminifers",
+                "pub_year": "2010",
+                "citation": "EGU General Assembly Conference Abstracts, 12078, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regional variability of sea level trends",
+                "pub_year": "2007",
+                "citation": "AGU Fall Meeting Abstracts 2007, G44A-02, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar activity, the Earth rotation and Atmospheric angular momentum variability",
+                "pub_year": "2004",
+                "citation": "35th COSPAR Scientific Assembly 35, 4731, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decadal modulation in the seasonal variations of Earth rotation: possible relationship with solar activity",
+                "pub_year": "2003",
+                "citation": "Journ\u00e9es 2002-syst\u00e8mes de r\u00e9f\u00e9rence spatio-temporels. Astrometry from ground \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wave Energy Potential and the Role of Extreme Events on South America's Pacific and Atlantic Coasts. Insights from a Regional Frequency Analysis",
+                "citation": "Insights from a Regional Frequency Analysis, 0"
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully Automated Mapping of Disaster-Related Coastal Land Cover Changes with Google Earth Engine and R: The Chile 2010 Earthquake and Tsunami",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesos que controlan el ciclo estacional de la temperatura en la capa de mezcla en el borde del pac\u00edfico ecuatorial oriental (costa afuera de la libertad, ecuador)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HYDROLARE/HYDROWEB: A LAKE DATABASE TO MONITOR IN THE NEAR REAL TIME WATER LEVEL AND STORAGE VARIATIONS FROM REMOTE SENSING DATA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REVISITING A POSSIBLE RELATIONSHIP BETWEEN SOLAR ACTIVITY AND EARTH ROTATION VARIABILITY",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An oceanic time series station off Ecuador (1990-2003) sheds new insight on El Ni\u00f1o dynamics in the eastern Pacific Ocean",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n hidrol\u00f3gica de la Cuenca del Biob\u00edo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heat balance of the oceanic surface layer in the Eastern South Pacific and Panama Bight areas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zonas de susceptibilidad ante PRM en la zona de la Ladera Norte del Biob\u0131o",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mean Sea Level Anomalies in the Eastern South Pacific",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variabilidad de inundaciones en la zona Central de Chile: Probabilidad de ocurrencia y dependencia asociada a fen\u00f3menos clim\u00e1ticos.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesos de solifluxion observados a partir de interferometr\u0131a de radar de apertura sintetica ytecnicas geoelectricas.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "s02kbH0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

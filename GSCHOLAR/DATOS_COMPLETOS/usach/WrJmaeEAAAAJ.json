@@ -1,0 +1,100 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WrJmaeEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Vargas-Arancibia",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 32,
+    "citedby5y": 24,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 5,
+        "2019": 2,
+        "2020": 0,
+        "2021": 5,
+        "2022": 6,
+        "2023": 10,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hidden photon dark matter interacting via axion-like particles",
+                "pub_year": "2021",
+                "citation": "Journal of Cosmology and Astroparticle Physics 2021 (05), 070, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WrJmaeEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14039928281895142690",
+            "cites_id": [
+                "14039928281895142690"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scalar perturbations of two-dimensional Horava\u2013Lifshitz black holes",
+                "pub_year": "2016",
+                "citation": "The European Physical Journal C 76, 1-8, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WrJmaeEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=689917970057661167",
+            "cites_id": [
+                "689917970057661167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vortex solutions in the presence of dark portals",
+                "pub_year": "2022",
+                "citation": "International Journal of Modern Physics A 37 (14), 2250087, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WrJmaeEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1923408977118731718",
+            "cites_id": [
+                "1923408977118731718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hidden Photon Dark Matter Interacting via ALPs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WrJmaeEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

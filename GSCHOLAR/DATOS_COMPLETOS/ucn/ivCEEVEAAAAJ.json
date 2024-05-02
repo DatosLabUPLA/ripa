@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ivCEEVEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jose Antonio Castillo Venenciano",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ivCEEVEAAAAJ&citpid=1",
+    "affiliation": "Profesor de Finanzas, Universidad Cat\u00f3lica del Norte.",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Estudios Economicos y aspectos sociales",
+        "recursos naturales y finanzas"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 3,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cmTf2zYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Bakit",
+            "affiliation": "Professor and Researcher - Departamento de Acuicultura, Universidad Cat\u00f3lica del Norte"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disentangling Environmental, Economic, and Technological Factors Driving Scallop (Argopecten purpuratus) Aquaculture in Chile",
+                "pub_year": "2022",
+                "citation": "Fishes 7 (6), 380, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ivCEEVEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11857790383389640566",
+            "cites_id": [
+                "11857790383389640566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de expansi\u00f3n internacional de Komatsu Reman Center Chile con su modelo Electromechanical Shop (EMS): Evaluaci\u00f3n de estrat\u00e9gia de ingreso al mercado australiano en \u2026",
+                "pub_year": "2014",
+                "citation": "Universidad de Chile, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "ivCEEVEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1701753946535186171",
+            "cites_id": [
+                "1701753946535186171"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

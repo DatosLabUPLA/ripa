@@ -1,0 +1,802 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RNYDdjEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Crist\u00f3bal A. Navarro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RNYDdjEAAAAJ&citpid=18",
+    "affiliation": "Professor of Computer Science, Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "GPU Computing",
+        "Parallel Algorithms",
+        "Computational Physics"
+    ],
+    "email_domain": "@inf.uach.cl",
+    "homepage": "http://temporal.uach.cl/",
+    "citedby": 491,
+    "citedby5y": 301,
+    "hindex": 10,
+    "hindex5y": 8,
+    "i10index": 12,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2012": 2,
+        "2013": 8,
+        "2014": 12,
+        "2015": 39,
+        "2016": 38,
+        "2017": 28,
+        "2018": 49,
+        "2019": 27,
+        "2020": 43,
+        "2021": 57,
+        "2022": 77,
+        "2023": 74,
+        "2024": 23
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dmafYYgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nancy Hitschfeld Kahler",
+            "affiliation": "Full Professor at the Computer Science Department, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bbZWdFUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Benjamin Bustos",
+            "affiliation": "Department of Computer Science, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dnAhATIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eliana Scheihing",
+            "affiliation": "Profesora Asociada Instituto de Inform\u00e1tica, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PSXV3aIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo J. Barrientos",
+            "affiliation": "Universidad Cat\u00f3lica del Maule, Talca, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "np_SfLYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Carrasco",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C_kzsgkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Youjin Deng",
+            "affiliation": "University of Science and Technology of China"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "va6oIWIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristhian  A. Aguilera",
+            "affiliation": "Universidad San Sebastian"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Hgc_ZN4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Cerda",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZIItabMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Soto",
+            "affiliation": "Physics Department. Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4zIMzy8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthieu Vernier",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_fx52FkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Navarro",
+            "affiliation": "University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ijnn7E8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enzo Meneses",
+            "affiliation": "Student of Computer Science, Universidad Austral deChile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ThTmgGcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wei Huang",
+            "affiliation": "Kunming Institute of Botany, Chinese Academy of Sciences; Xishuangbanna Tropical Botanical Garden"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A survey on parallel computing and its applications in data-parallel problems using GPU architectures",
+                "pub_year": "2014",
+                "citation": "Communications in Computational Physics 15 (2), 285-329, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 254,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4076006693306791380",
+            "cites_id": [
+                "4076006693306791380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU tensor cores for fast arithmetic reductions",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Parallel and Distributed Systems 32 (1), 72-84, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6821905161384205202",
+            "cites_id": [
+                "6821905161384205202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A parallel gpu-based algorithm for delaunay edge-flips",
+                "pub_year": "2011",
+                "citation": "The 27th European Workshop on Computational Geometry, EuroCG 11, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8899726042756205237",
+            "cites_id": [
+                "8899726042756205237"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU maps for the space of computation in triangular domain problems",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Intl Conf on High Performance Computing and Communications, 2014 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=101335142852794195",
+            "cites_id": [
+                "101335142852794195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive multi-GPU exchange Monte Carlo for the 3D random field Ising model",
+                "pub_year": "2016",
+                "citation": "Computer Physics Communications 205, 48-60, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10025882009626482006",
+            "cites_id": [
+                "10025882009626482006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A filtering technique for fast Convex Hull construction in R2",
+                "pub_year": "2020",
+                "citation": "Journal of Computational and Applied Mathematics 364, 112298, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7583717209059370731",
+            "cites_id": [
+                "7583717209059370731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU parallel simulation algorithm of Brownian particles with excluded volume using Delaunay triangulations",
+                "pub_year": "2018",
+                "citation": "Computer Physics Communications 229, 148-161, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=956584067962362717",
+            "cites_id": [
+                "956584067962362717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing GPU tensor core potential for fast reductions",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3240213938659643219",
+            "cites_id": [
+                "3240213938659643219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast CNN Stereo Depth Estimation through Embedded GPU Devices",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (11), 3249, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2945531207379572763",
+            "cites_id": [
+                "2945531207379572763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A GPU-based Method for Generating quasi-Delaunay Triangulations based on Edge-flips.",
+                "pub_year": "2013",
+                "citation": "GRAPP/IVAPP, 27-34, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3635533554291872749",
+            "cites_id": [
+                "3635533554291872749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Competitiveness of a non-linear block-space gpu thread map for simplex domains",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Parallel and Distributed Systems 29 (12), 2728-2741, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6638632001833711676",
+            "cites_id": [
+                "6638632001833711676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high-speed tracking algorithm for dense granular media",
+                "pub_year": "2018",
+                "citation": "Computer Physics Communications 227, 8-16, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5260118872279319334,6111207033328999158",
+            "cites_id": [
+                "5260118872279319334",
+                "6111207033328999158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast kNN query processing over a multi-node GPU environment",
+                "pub_year": "2021",
+                "citation": "The Journal of Supercomputing, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13226592398504883351",
+            "cites_id": [
+                "13226592398504883351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential benefits of a block-space GPU approach for discrete tetrahedral domains",
+                "pub_year": "2016",
+                "citation": "2016 XLII Latin American Computing Conference (CLEI), 1-5, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17063831596355368287",
+            "cites_id": [
+                "17063831596355368287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An exhaustive algorithm based on GPU to process a kNN query",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13397706886833974555",
+            "cites_id": [
+                "13397706886833974555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Squeeze: Efficient compact fractals for tensor core GPUs",
+                "pub_year": "2022",
+                "citation": "Future Generation Computer Systems 135, 10-19, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9608103969770961748",
+            "cites_id": [
+                "9608103969770961748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient GPU thread mapping on embedded 2D fractals",
+                "pub_year": "2020",
+                "citation": "Future Generation Computer Systems 113, 158-169, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13976425267508827981",
+            "cites_id": [
+                "13976425267508827981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel family trees for transfer matrices in the Potts model",
+                "pub_year": "2015",
+                "citation": "Computer Physics Communications 187, 55-71, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10196797666038834542",
+            "cites_id": [
+                "10196797666038834542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling GPU Dynamic Parallelism for self similar density workloads",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 145, 239-253, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:r0BpntZqJG4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4908069717012629507",
+            "cites_id": [
+                "4908069717012629507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Block-space GPU mapping for embedded sierpi\u0144ski gasket fractals",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 19th International Conference on High Performance Computing and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18334642387830532666",
+            "cites_id": [
+                "18334642387830532666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-core computation of transfer matrices for strip lattices in the potts model",
+                "pub_year": "2013",
+                "citation": "2013 IEEE 10th International Conference on High Performance Computing and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5969519281401593325",
+            "cites_id": [
+                "5969519281401593325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the GPU space of computation under triangular domain problems",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1308.1419, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17775845682216995293",
+            "cites_id": [
+                "17775845682216995293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-Delaunay triangulations using GPU-based edge-flips",
+                "pub_year": "2013",
+                "citation": "International Conference on Computer Vision, Imaging and Computer Graphics \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2031307516089692389",
+            "cites_id": [
+                "2031307516089692389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating range minimum queries with ray tracing cores",
+                "pub_year": "2024",
+                "citation": "Future Generation Computer Systems 157, 98-111, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782957144512630231",
+            "cites_id": [
+                "2782957144512630231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ravitt: Random vision transformer tokens",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2306.10959, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13344811841089701281",
+            "cites_id": [
+                "13344811841089701281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maintaining 2D Delaunay triangulations on the GPU for proximity queries of moving points",
+                "pub_year": "2023",
+                "citation": "SIAM International Meshing Roundtable Workshop 2023 (SIAM IMR 2023), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4268756287781204433",
+            "cites_id": [
+                "4268756287781204433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating the Convex Hull Computation with a Parallel GPU Algorithm",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:TQgYirikUcIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3925696432044906611",
+            "cites_id": [
+                "3925696432044906611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU-accelerated rectangular decomposition for sound propagation modeling in 2D",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5254582874485990004",
+            "cites_id": [
+                "5254582874485990004"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a self-similar GPU thread map for data-parallel m-simplex domains",
+                "pub_year": "2019",
+                "citation": "2019 International Conference on High Performance Computing & Simulation \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8004268719991472517",
+            "cites_id": [
+                "8004268719991472517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An evaluation of GPU filters for accelerating the 2D convex hull",
+                "pub_year": "2024",
+                "citation": "Journal of Parallel and Distributed Computing 184, 104793, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Research Opportunities with Modern Accelerators",
+                "pub_year": "2024",
+                "citation": "Current Trends in Computer Sciences & Applications (CTCSA) 3 (2), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel Block-InsertionSort",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A scalable and energy efficient GPU thread map for m-simplex domains",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 141, 651-662, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GGArray: A Dynamically Growable GPU Array",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GPU Voronoi Diagrams for Random Moving Seeds",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jack J. Dongarra, el h\u00e9roe de la ciencia e ingenier\u00eda computacional",
+                "pub_year": "2022",
+                "citation": "Revista Bits de Ciencia, 9-9, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed-radius near neighbors searching for 2D simulations on the GPU using Delaunay triangulations",
+                "pub_year": "2022",
+                "citation": "The Eurographics Association, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating Compact Fractals with Tensor Core GPUs",
+                "pub_year": "2021",
+                "citation": "ArXiv, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic Vibration of a Fluid in a Three-Dimensional Cavity: Finite Element Method Simulation using CUDA and MATLAB",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Possibilities of Recursive GPU Mapping for Discrete Orthogonal Simplices",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1610.07394, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Non-linear GPU Thread Map for Triangular Domains",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1609.01490, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-GPU approach for the exchange Monte Carlo method",
+                "pub_year": "2015",
+                "citation": "2015 34th International Conference of the Chilean Computer Science Society \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Quasi-Parallel GPU-Based Algorithm for Delaunay Edge-Flips",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CRIST\u00d3BAL ALEJANDRO NAVARRO GUERRERO",
+                "pub_year": "2010",
+                "citation": "Universit\u00e9 Catholique de Louvain, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "RNYDdjEAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 1
+    }
+}

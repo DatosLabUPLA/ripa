@@ -1,0 +1,129 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8mR8HH0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Leonardo Sanhueza",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Gravitation",
+        "General Relativity"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 40,
+    "citedby5y": 40,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 8,
+        "2022": 15,
+        "2023": 13,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XTFQ6zoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Corral",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez, Facultad de Artes Liberales"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sMKgXDgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adolfo Cisterna",
+            "affiliation": "Universidad de Tarapac\u00e1 and Institute of Theoretical Physics of Charles University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasitopological electromagnetism: Reissner-Nordstr\u00f6m black strings in Einstein and Lovelock gravities",
+                "pub_year": "2021",
+                "citation": "Physical Review D 104 (6), 064055, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8mR8HH0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7010359319144138518",
+            "cites_id": [
+                "7010359319144138518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hairy Taub-NUT/bolt-AdS solutions in Horndeski theory",
+                "pub_year": "2021",
+                "citation": "Physical Review D 103 (6), 064068, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8mR8HH0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15299693554345857804",
+            "cites_id": [
+                "15299693554345857804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial anomaly in nonlinear conformal electrodynamics",
+                "pub_year": "2023",
+                "citation": "Physical Review D 107 (10), 104042, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8mR8HH0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13978432260411226810",
+            "cites_id": [
+                "13978432260411226810"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Soluciones Taub-NUT/Bolt-AdS con Pelo en la teor\u00eda de Horndeski.",
+                "pub_year": "2021",
+                "citation": "Universidad de Concepci\u00f3n., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8mR8HH0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Taub-NUT/Bolt-AdS solutions in Horndeski theory",
+                "pub_year": "2020",
+                "citation": "arXiv e-prints, arXiv: 2010.02460, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8mR8HH0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

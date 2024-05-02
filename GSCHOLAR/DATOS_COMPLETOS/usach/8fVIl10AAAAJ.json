@@ -1,0 +1,2216 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8fVIl10AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudio Garcia Herrera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8fVIl10AAAAJ&citpid=2",
+    "affiliation": "Profesor Titular, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Mechanics",
+        "FEM",
+        "Biomechanics"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "http://mecanica-usach.mine.nu/",
+    "citedby": 1199,
+    "citedby5y": 837,
+    "hindex": 18,
+    "hindex5y": 15,
+    "i10index": 34,
+    "i10index5y": 29,
+    "cites_per_year": {
+        "2007": 4,
+        "2008": 5,
+        "2009": 6,
+        "2010": 12,
+        "2011": 15,
+        "2012": 16,
+        "2013": 25,
+        "2014": 23,
+        "2015": 30,
+        "2016": 54,
+        "2017": 49,
+        "2018": 96,
+        "2019": 93,
+        "2020": 117,
+        "2021": 147,
+        "2022": 159,
+        "2023": 228,
+        "2024": 92
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B598LbIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Andr\u00e9s Vasco",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QrbzbSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bernardo J Krause",
+            "affiliation": "Professor, Instituto de Ciencias de la Salud, Universidad de O'Higgins, Rancagua, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dwFpwXYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean Philippe Ponthot",
+            "affiliation": "Professor of Computational Mechanics, University of Liege"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u27HyrMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "FERNANDO GABRIEL FLORES",
+            "affiliation": "Universidad Nacional de C\u00f3rdoba"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WnXYJ6UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Camila A. Wilkens",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "REmTUZsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 M Goicolea",
+            "affiliation": "Technical University of Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "n76DLs0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Ortega",
+            "affiliation": "CICESE ULP"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wcmRU3kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerardo Araya-Letelier",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KKTR6XsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paula Rojas S.",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tKZTb6kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "F.C. Antico",
+            "affiliation": "Associate Professor, Facultad de Ingenier\u00eda y Ciencias, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WYz_08AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Carrasco",
+            "affiliation": "Associate Professor, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2jnPqfMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo L. Castillo",
+            "affiliation": "Assistant Professor, Faculty of Medicine, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "H5myX2oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Damian Craiem",
+            "affiliation": "Investigador CONICET, Universidad Favaloro (IMETTyB)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "q4H5pWIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Armentano",
+            "affiliation": "Universidad de la Rep\u00fablica (Uruguay) & Universidad Tecnol\u00f3gica Nacional (Buenos Aires, Argentina)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V6LkgjMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J. C. Garcia Orden",
+            "affiliation": "Universidad Politecnica de Madrid"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical behaviour and rupture of normal and pathological human ascending aortic wall",
+                "pub_year": "2012",
+                "citation": "Medical & biological engineering & computing 50, 559-566, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 145,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1067947310502078552",
+            "cites_id": [
+                "1067947310502078552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterisation of the human thoracic descending aorta: experiments and modelling",
+                "pub_year": "2012",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 15 (2), 185-193, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=603497117805004778",
+            "cites_id": [
+                "603497117805004778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rapid fabrication of reinforced and cell-laden vascular grafts structurally inspired by human coronary arteries",
+                "pub_year": "2019",
+                "citation": "Nature communications 10 (1), 3098, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:J_g5lzvAfSwC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16990747779947902955",
+            "cites_id": [
+                "16990747779947902955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of new natural fibers on damage-mechanical performance of mortar",
+                "pub_year": "2017",
+                "citation": "Construction and Building Materials 152, 672-682, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11457317067666556956",
+            "cites_id": [
+                "11457317067666556956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical study of TiO2-based nanofluids flow in microchannel heat sinks: effect of the Reynolds number and the microchannel height",
+                "pub_year": "2019",
+                "citation": "Applied Thermal Engineering 161, 114130, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:RYcK_YlVTxYC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17702668934952783000",
+            "cites_id": [
+                "17702668934952783000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanisms of cardiovascular protection associated with intermittent hypobaric hypoxia exposure in a rat model: role of oxidative stress",
+                "pub_year": "2018",
+                "citation": "International Journal of Molecular Sciences 19 (2), 366, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:maZDTaKrznsC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15702528411812367097",
+            "cites_id": [
+                "15702528411812367097"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of the mechanical response of thermoplastic parts fabricated with 3D printing",
+                "pub_year": "2019",
+                "citation": "The International Journal of Advanced Manufacturing Technology 104, 4207-4218, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:35N4QoGY0k4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14615517503740092490",
+            "cites_id": [
+                "14615517503740092490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterisation of Dacron graft: Experiments and numerical simulation",
+                "pub_year": "2016",
+                "citation": "Journal of biomechanics 49 (1), 13-18, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4572546219398299142",
+            "cites_id": [
+                "4572546219398299142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fetal Growth Restriction Induces Heterogeneous Effects on Vascular Biomechanical and Functional Properties in Guinea Pigs (Cavia porcellus)",
+                "pub_year": "2017",
+                "citation": "Frontiers in physiology 8, 144, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14676827391109062178",
+            "cites_id": [
+                "14676827391109062178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and numerical simulation of the human aortic arch under in vivo conditions",
+                "pub_year": "2013",
+                "citation": "Biomechanics and modeling in mechanobiology 12, 1143-1154, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14225953905975222545",
+            "cites_id": [
+                "14225953905975222545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Factors influencing the mechanical behaviour of healthy human descending thoracic aorta",
+                "pub_year": "2010",
+                "citation": "Physiological measurement 31 (12), 1553, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4105397333077262504",
+            "cites_id": [
+                "4105397333077262504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of the mechanical behaviour of materials in the tensile test: experiments and simulation",
+                "pub_year": "2004",
+                "citation": "Modelling and Simulation in Materials Science and Engineering 12 (4), S425, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:4DMP91E08xMC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5449274312133522889",
+            "cites_id": [
+                "5449274312133522889"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical modelling and experimental validation of steel deep drawing processes: Part II: Applications",
+                "pub_year": "2006",
+                "citation": "Journal of materials processing technology 172 (3), 461-471, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:5nxA0vEk-isC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5077302192832053036",
+            "cites_id": [
+                "5077302192832053036"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bending and pressurisation test of the human aortic arch: experiments, modelling and simulation of a patient-specific case",
+                "pub_year": "2013",
+                "citation": "Computer methods in biomechanics and biomedical engineering 16 (8), 830-839, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:qjMakFHDy7sC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14028059686046039566",
+            "cites_id": [
+                "14028059686046039566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of mechanical performance of Pinus radiata wood impregnated with octadecane as phase change material",
+                "pub_year": "2021",
+                "citation": "Journal of Building Engineering 34, 101913, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Tiz5es2fbqcC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7308165919819443609",
+            "cites_id": [
+                "7308165919819443609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal simulation of a social dwelling in Chile: Effect of the thermal zone and the temperature-dependant thermophysical properties of light envelope materials",
+                "pub_year": "2017",
+                "citation": "Applied Thermal Engineering 112, 771-783, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6288284241199055738",
+            "cites_id": [
+                "6288284241199055738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical analysis of the ring opening test applied to human ascending aortas",
+                "pub_year": "2016",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 19 (16), 1738-1748, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Se3iqnhoufwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2850831602260426827",
+            "cites_id": [
+                "2850831602260426827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plasticity in organic composition maintains biomechanical performance in shells of juvenile scallops exposed to altered temperature and pH conditions",
+                "pub_year": "2021",
+                "citation": "Scientific Reports 11 (1), 24201, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12234919752063920711",
+            "cites_id": [
+                "12234919752063920711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient measurement of the thermal conductivity as a tool for the evaluation of the stability of nanofluids subjected to a pressure treatment",
+                "pub_year": "2018",
+                "citation": "International communications in heat and mass transfer 91, 234-238, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:M3NEmzRMIkIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9023149456511509359",
+            "cites_id": [
+                "9023149456511509359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and simulation of the mechanical response of a Dacron graft in the pressurization test and an end-to-end anastomosis",
+                "pub_year": "2016",
+                "citation": "Journal of the Mechanical Behavior of Biomedical Materials 61, 36-44, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:roLk4NBRz8UC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4939256337664269942",
+            "cites_id": [
+                "4939256337664269942"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increase of pro-oxidants with no evidence of lipid peroxidation in exhaled breath condensate after a 10-km race in non-athletes",
+                "pub_year": "2014",
+                "citation": "Journal of physiology and biochemistry 70, 107-115, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_Ybze24A_UAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13408180728305849248",
+            "cites_id": [
+                "13408180728305849248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and numerical simulation of the in vivo mechanical response of the ascending aortic aneurysm in Marfan syndrome",
+                "pub_year": "2017",
+                "citation": "Medical & biological engineering & computing 55, 419-428, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:UebtZRa9Y70C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10521751010580633220",
+            "cites_id": [
+                "10521751010580633220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agar biopolymer films for biodegradable packaging: A reference dataset for exploring the limits of mechanical performance",
+                "pub_year": "2022",
+                "citation": "Materials 15 (11), 3954, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:AXPGKjj_ei8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11327505134538380932",
+            "cites_id": [
+                "11327505134538380932"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanomechanical characterization of the deformation response of orthotropic Ti\u20136Al\u20134V",
+                "pub_year": "2021",
+                "citation": "Advanced Engineering Materials 23 (7), 2001341, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:D_sINldO8mEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3579706277838525902",
+            "cites_id": [
+                "3579706277838525902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanostructured Didymosphenia geminata-based membrane for efficient lead adsorption from aqueous solution",
+                "pub_year": "2021",
+                "citation": "Journal of Environmental Chemical Engineering 9 (4), 105269, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14532024513782544109",
+            "cites_id": [
+                "14532024513782544109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal Characterization of Pinus radiata Wood Vacuum-Impregnated with Octadecane",
+                "pub_year": "2020",
+                "citation": "Energies 13 (4), 942, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:D03iK_w7-QYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12264587262236493526",
+            "cites_id": [
+                "12264587262236493526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-cell biophysical study reveals deformability and internal ordering relationship in T cells",
+                "pub_year": "2020",
+                "citation": "Soft Matter 16 (24), 5669-5678, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:dshw04ExmUIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17250216709501763795",
+            "cites_id": [
+                "17250216709501763795"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical modelling and experimental validation of steel deep drawing processes: Part I. Material characterization",
+                "pub_year": "2006",
+                "citation": "Journal of materials processing technology 172 (3), 451-460, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:8k81kl-MbHgC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9185012799688823805",
+            "cites_id": [
+                "9185012799688823805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the Bridgman procedure to characterize the mechanical behavior of materials in the tensile test: Experiments and simulation",
+                "pub_year": "2005",
+                "citation": "J. Appl. Mech. 72 (1), 149-152, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12003092003180004785",
+            "cites_id": [
+                "12003092003180004785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified diet-surface treatment technique for determining the infectivity of conidia of Nomuraea rileyi.",
+                "pub_year": "1978",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ZuybSZzF8UAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5828152835094861171",
+            "cites_id": [
+                "5828152835094861171"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-consistent simulation of frictional contact in rigid multibody systems using implicit surfaces and penalty method",
+                "pub_year": "2017",
+                "citation": "Multibody System Dynamics 41, 275-295, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2304296603292827554",
+            "cites_id": [
+                "2304296603292827554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of electrospun PLGA/collagen scaffolds on cell adhesion, viability, and collagen release: potential applications in tissue engineering",
+                "pub_year": "2023",
+                "citation": "Polymers 15 (5), 1079, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:hkOj_22Ku90C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4890565330361352864",
+            "cites_id": [
+                "4890565330361352864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adult vascular dysfunction in foetal growth\u2010restricted guinea\u2010pigs is associated with a neonate\u2010adult switching in Nos3 DNA methylation",
+                "pub_year": "2019",
+                "citation": "Acta Physiologica 227 (3), e13328, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:RGFaLdJalmkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679382492896488230",
+            "cites_id": [
+                "15679382492896488230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of melatonin on the passive mechanical response of arteries in chronic hypoxic newborn lambs",
+                "pub_year": "2020",
+                "citation": "journal of the mechanical behavior of biomedical materials 112, 104013, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13012686417862034050,491335330759364933",
+            "cites_id": [
+                "13012686417862034050",
+                "491335330759364933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preservation of muscular and elastic artery distensibility after an intercontinental cryoconserved exchange: Theoretical advances in arterial homograft generation and utilization",
+                "pub_year": "2009",
+                "citation": "Artificial Organs 33 (8), 662-669, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1438706478749704500",
+            "cites_id": [
+                "1438706478749704500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comportamiento mec\u00e1nico de la aorta ascendente: caracterizaci\u00f3n experimental y simulaci\u00f3n num\u00e9rica",
+                "pub_year": "2008",
+                "citation": "Caminos, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2154844765305293638",
+            "cites_id": [
+                "2154844765305293638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomechanical and structural responses of the aorta to intermittent hypobaric hypoxia in a rat model",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (1), 3790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:XiVPGOgt02cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=564511643606142272",
+            "cites_id": [
+                "564511643606142272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of remodeling and geometry on the biomechanical properties of nacreous bivalve shells",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (1), 710, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:wbdj-CoPYUoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17843940800767589223",
+            "cites_id": [
+                "17843940800767589223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the elastoplastic response in the torsion test applied to a cylindrical sample",
+                "pub_year": "2019",
+                "citation": "Materials 12 (19), 3200, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ldfaerwXgEUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15884576618194754143",
+            "cites_id": [
+                "15884576618194754143"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation and experimental validation of sheet laser forming processes using general scanning paths",
+                "pub_year": "2018",
+                "citation": "Materials 11 (7), 1262, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:NMxIlDl6LWMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5269484858021511592",
+            "cites_id": [
+                "5269484858021511592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation and experimental validation of a multi-step deep drawing process",
+                "pub_year": "2017",
+                "citation": "International Journal of Material Forming 10, 15-27, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11436157270194030294",
+            "cites_id": [
+                "11436157270194030294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical behaviour of the human ascending aorta: characterization and numerical simulation",
+                "pub_year": "2008",
+                "citation": "Ph. D. thesis (in Spanish), Universidad Polit\u00e9cnica de Madrid, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:k_IJM867U9cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15495290939639930354",
+            "cites_id": [
+                "15495290939639930354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Num\u00e9rico de S\u00f3lidos Sometidos a Grandes Deformaciones",
+                "pub_year": "1999",
+                "citation": "Tesis de Ingenier\u00eda de Ejecuci\u00f3n Mec\u00e1nica, Universidad de Santiago de Chile \u2026, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6112516980836653252",
+            "cites_id": [
+                "6112516980836653252"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity of Nomuraea rileyi to antibiotics, sulfonamides, and fungicidal substances.",
+                "pub_year": "1979",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:1yQoGdGgb4wC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8575814793626052211",
+            "cites_id": [
+                "8575814793626052211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wrinkling on Stimuli-Responsive Functional Polymer Surfaces as a Promising Strategy for the Preparation of Effective Antibacterial/Antibiofouling Surfaces",
+                "pub_year": "2021",
+                "citation": "Polymers 13 (23), 4262, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:1qzjygNMrQYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1865254052486361082",
+            "cites_id": [
+                "1865254052486361082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomechanical characterization of the passive response of the thoracic aorta in chronic hypoxic newborn lambs using an evolutionary strategy",
+                "pub_year": "2021",
+                "citation": "Scientific Reports 11 (1), 13875, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:BrmTIyaxlBUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=553565731717712864",
+            "cites_id": [
+                "553565731717712864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geographical variability and parasitism on body size, reproduction and shell characteristics of the keyhole limpet Fissurella crassa (Mollusca: Vetigastropoda)",
+                "pub_year": "2020",
+                "citation": "Marine Environmental Research 161, 105060, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:UxriW0iASnsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=535242331881625588",
+            "cites_id": [
+                "535242331881625588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterization of arteries affected by fetal growth restriction in guinea pigs (Cavia porcellus)",
+                "pub_year": "2018",
+                "citation": "Journal of the Mechanical Behavior of Biomedical Materials 88, 92-101, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:YFjsv_pBGBYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14810874594154864655",
+            "cites_id": [
+                "14810874594154864655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of strain rate effects in sheet laser forming",
+                "pub_year": "2018",
+                "citation": "Comptes Rendus M\u00e9canique 346 (8), 794-805, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:blknAaTinKkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10217201447774004699",
+            "cites_id": [
+                "10217201447774004699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transient measurement of the thermal conductivity as a tool for the evaluation of the stability of nanofluids subjected to a pressure treatment",
+                "pub_year": "2018",
+                "citation": "Int. Commun. Heat Mass Transf 91, 234-238, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:WqliGbK-hY8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4466717716098449427",
+            "cites_id": [
+                "4466717716098449427"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comportamiento mecanico de la aorta ascendente: caracterizacion experimental y simulacion numerica",
+                "pub_year": "2008",
+                "citation": "Universidad Politecnica de Madrid, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:aqlVkmm33-oC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10227781191496800971",
+            "cites_id": [
+                "10227781191496800971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization approaches affect asymmetric load predictions of hexagonal close-packed alloy",
+                "pub_year": "2023",
+                "citation": "Journal of Materials Research and Technology 26, 5028-5036, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:evX43VCCuoAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2214210432060165585",
+            "cites_id": [
+                "2214210432060165585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis mec\u00e1nico de un bypass coronario t\u00e9rmino-terminal",
+                "pub_year": "2008",
+                "citation": "Anales de Mec\u00e1nica de la Fractura 25 (2), 11-16, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17773611161827344084",
+            "cites_id": [
+                "17773611161827344084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical modelling and experimental validation of steel deep drawing processes Part II: Applications",
+                "pub_year": "2006",
+                "citation": "Journal of Materials Processing Technology 172, 461-471, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_kc_bZDykSQC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13283867762829093284",
+            "cites_id": [
+                "13283867762829093284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n del comportamiento mec\u00e1nico de aceros para embutici\u00f3n profunda",
+                "pub_year": "2003",
+                "citation": "Proceedings of the SAM-CONAMET, Bariloche, Argentina, 17-21, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4678888272557081055",
+            "cites_id": [
+                "4678888272557081055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anisotropic hyperelastic material characterization: Stability criterion and inverse calibration with evolutionary strategies",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (4), 922, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:VL0QpB8kHFEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14609495590661608943",
+            "cites_id": [
+                "14609495590661608943"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parasitism by metacercariae modulates the morphological, organic and mechanical responses of the shell of an intertidal bivalve to environmental drivers",
+                "pub_year": "2022",
+                "citation": "Science of The Total Environment 830, 154747, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:olpn-zPbct0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13246292185470733832",
+            "cites_id": [
+                "13246292185470733832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the effect of treatment with atrial natriuretic peptide (ANP) and cinaciguat in chronic hypoxic neonatal lambs on residual strain and microstructure of the arteries",
+                "pub_year": "2020",
+                "citation": "Frontiers in Bioengineering and Biotechnology 8, 590488, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:WbkHhVStYXYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12820131657341606711",
+            "cites_id": [
+                "12820131657341606711"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterization of the elastoplastic response of asphalt felt paper",
+                "pub_year": "2017",
+                "citation": "Composites Part B: Engineering 116, 113-121, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1382981782634443460",
+            "cites_id": [
+                "1382981782634443460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Material and Damage Characterization of the Elastoplastic Response of the EK4 Deep Drawing Steel",
+                "pub_year": "2022",
+                "citation": "Metals 12 (5), 720, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:t6usbXjVLHcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15924105559060811073",
+            "cites_id": [
+                "15924105559060811073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Association between air flow limitation and body composition in young adults",
+                "pub_year": "2021",
+                "citation": "Journal of Physiological Anthropology 40, 1-7, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:vRqMK49ujn8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3109698149896909526",
+            "cites_id": [
+                "3109698149896909526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis del impacto de una bala de cabeza plana contra una pared r\u00edgida",
+                "pub_year": "2007",
+                "citation": "VI Encuentro de Modelos F\u00edsicos y Matem\u00e1ticos en Ingenier\u00eda, 15-16, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2400905687533090636",
+            "cites_id": [
+                "2400905687533090636"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leukocyte-and Platelet-Rich Fibrin (L-PRF) Obtained from Smokers and Nonsmokers Shows a Similar Uniaxial Tensile Response In Vitro",
+                "pub_year": "2023",
+                "citation": "Biomedicines 11 (12), 3286, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:35r97b3x0nAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7453735116054004968",
+            "cites_id": [
+                "7453735116054004968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metabolic rate allometry in intertidal mussels across environmental gradients: The role of coastal carbonate system parameters in mediating the effects of latitude and temperature",
+                "pub_year": "2022",
+                "citation": "Marine Pollution Bulletin 184, 114149, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_B80troHkn4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10503971424858417677",
+            "cites_id": [
+                "10503971424858417677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental study on the short-term stress relaxation response of Chilean radiata pine",
+                "pub_year": "2022",
+                "citation": "Wood Science and Technology 56 (3), 833-850, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:HE397vMXCloC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6484475805843207526",
+            "cites_id": [
+                "6484475805843207526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical Characterization of the Elastoplastic Response of a C11000-H2 Copper Sheet",
+                "pub_year": "2020",
+                "citation": "Materials 13 (22), 5193, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:08ZZubdj9fEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16214497128962194750",
+            "cites_id": [
+                "16214497128962194750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation and experimental validation of the inflation test of latex balloons",
+                "pub_year": "2016",
+                "citation": "Latin American Journal of Solids and Structures 13, 2657-2678, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7792845054083587147",
+            "cites_id": [
+                "7792845054083587147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterization of the human aorta: Experiments, modeling and simulation",
+                "pub_year": "2016",
+                "citation": "Computational Modeling, Optimization and Manufacturing Simulation of \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=43965854432328386",
+            "cites_id": [
+                "43965854432328386"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n del comportamiento mec\u00e1nico de la aorta descendente",
+                "pub_year": "2011",
+                "citation": "Anales de Mec\u00e1nica de la Fractura 28, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15584272962910933630",
+            "cites_id": [
+                "15584272962910933630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influencia de la edad y los aneurismas en la rotura de la pared aorta ascendente",
+                "pub_year": "2010",
+                "citation": "Grupo Espa\u00f1ol de Fractura, GEF, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8782901345414704978",
+            "cites_id": [
+                "8782901345414704978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis, Characterization and Catechol-Based Bioinspired Adhesive Properties in Wet Medium of Poly(2-Hydroxyethyl Methacrylate-co-Acrylamide) Hydrogels",
+                "pub_year": "2024",
+                "citation": "Polymers 16 (2), 187, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:VLnqNzywnoUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14259136498175528391",
+            "cites_id": [
+                "14259136498175528391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid numerical\u2013experimental strategy for damage characterization of SAE 1045 steel",
+                "pub_year": "2024",
+                "citation": "European Journal of Mechanics-A/Solids 103, 105169, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2905057220618126519",
+            "cites_id": [
+                "2905057220618126519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of upwelling on key bivalves from the Humboldt and Iberian current systems",
+                "pub_year": "2023",
+                "citation": "Marine Environmental Research 189, 106031, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:UHK10RUVsp4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=286688800398009718",
+            "cites_id": [
+                "286688800398009718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of the temperature and grain direction on the stress relaxation behavior of PCM-impregnated and nonimpregnated wood under tensile and bending stresses",
+                "pub_year": "2023",
+                "citation": "European Journal of Wood and Wood Products 81 (3), 713-722, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:PELIpwtuRlgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16158584238829738675",
+            "cites_id": [
+                "16158584238829738675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Developmental ultrasound characteristics in guinea pigs: similarities with human pregnancy",
+                "pub_year": "2023",
+                "citation": "Veterinary Sciences 10 (2), 144, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:LjlpjdlvIbIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12755814050845777651",
+            "cites_id": [
+                "12755814050845777651"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An inverse fitting strategy to determine the constrained mixture model parameters: application in patient-specific aorta",
+                "pub_year": "2023",
+                "citation": "Frontiers in Bioengineering and Biotechnology 11, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_Re3VWB3Y0AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4563962294272353058",
+            "cites_id": [
+                "4563962294272353058"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acidification and high-temperature impacts on energetics and shell production of the edible clam Ameghinomya antiqua",
+                "pub_year": "2022",
+                "citation": "Frontiers in Marine Science 9, 972135, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4175571311111062354",
+            "cites_id": [
+                "4175571311111062354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of the active response of a guinea pig carotid artery",
+                "pub_year": "2022",
+                "citation": "Frontiers in Bioengineering and Biotechnology 10, 924019, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Y5dfb0dijaUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17783134393969337855",
+            "cites_id": [
+                "17783134393969337855"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polycaprolactone and poly-\u03b2-cyclodextrin polymer blend: a Biopolymers composite film for drug release",
+                "pub_year": "2022",
+                "citation": "Journal of Inclusion Phenomena and Macrocyclic Chemistry 102, 65-76, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8223418464329966700",
+            "cites_id": [
+                "8223418464329966700"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio experimental y num\u00e9rico de la rotura a tracci\u00f3n de la aleaci\u00f3n de aluminio 7075 T7351",
+                "citation": "XVIII Encuentro del Grupo Espa\u00f1ol de Fractura, 27-29, 0"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9406396772513392730",
+            "cites_id": [
+                "9406396772513392730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental correlates of oyster farming in an upwelling system: Implication upon growth, biomass production, shell strength and organic composition",
+                "pub_year": "2024",
+                "citation": "Marine Environmental Research, 106489, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:yB1At4FlUx8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of wood",
+                "pub_year": "2024",
+                "citation": "Materials Selection for Sustainability in the Built Environment, 157-206, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:9Nmd_mFXekcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Num\u00e9rico-Experimental de la Respuesta Viscoel\u00e1stica de la Aorta Tor\u00e1cica descendente ante el Efecto de la Hipoxia Hipob\u00e1rica",
+                "pub_year": "2023",
+                "citation": "Mec\u00e1nica Computacional 40 (33), 1205-1205, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:j8SEvjWlNXcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio de la Influencia de Superficies Arrugadas en el Interior de Ductos Vasculares sobre la Capacidad Biomec\u00e1nica",
+                "pub_year": "2023",
+                "citation": "Mec\u00e1nica Computacional 40 (33), 1207-1207, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:fEOibwPWpKIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o de Spindles en Viscos\u00edmetro de Cono y Plato para Biofluidos Analizando Num\u00e9ricamente Par\u00e1metros Geom\u00e9tricos",
+                "pub_year": "2023",
+                "citation": "Mec\u00e1nica Computacional 40 (33), 1211-1211, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Fu2w8maKXqMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n del Acoplamiento de la Ley de Endurecimiento y la Superficie de Fluencia, en la Caracterizaci\u00f3n Num\u00e9rico-Experimental de Chapas de Cobre C11000",
+                "pub_year": "2023",
+                "citation": "Mec\u00e1nica Computacional 40 (21), 807-807, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:kzcrU_BdoSEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaci\u00f3n de Redes Neuronales para la Caracterizaci\u00f3n Mec\u00e1nica del Tejido Arterial en Modelos Animales de Peque\u00f1a Escala",
+                "pub_year": "2023",
+                "citation": "XXXIX Congreso Argentino de Mec\u00e1nica Computacional y I Congreso Argentino \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:tzM49s52ZIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio de la influencia de superficies arrugadas en el interior de ductos vasculares sobre la capacidad biomec\u00e1nica.",
+                "pub_year": "2023",
+                "citation": "XXXIX Congreso Argentino de Mec\u00e1nica Computacional y I Congreso Argentino \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:tKAzc9rXhukC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Inverso de Materiales Hiperel\u00e1sticos Mediante Modelos de Orden Reducido y Algoritmos Metaheur\u00edsticos",
+                "pub_year": "2023",
+                "citation": "XXXIX Congreso Argentino de Mec\u00e1nica Computacional y I Congreso Argentino \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis num\u00e9rico-experimental de la respuesta viscoel\u00e1stica de la aorta tor\u00e1cica descendente ante el efecto de la hipoxia hipob\u00e1rica.",
+                "pub_year": "2023",
+                "citation": "XXXIX Congreso Argentino de Mec\u00e1nica Computacional y I Congreso Argentino \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:uJ-U7cs_P_0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n de dos m\u00e9todos para evaluar el inicio de la estricci\u00f3n localizada en chapas de cobre.",
+                "pub_year": "2023",
+                "citation": "XXXIX Congreso Argentino de Mec\u00e1nica Computacional y I Congreso Argentino \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:2KloaMYe4IUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the geometrical influence of ring-opening samples on arterial circumferential residual stress reconstruction",
+                "pub_year": "2023",
+                "citation": "Frontiers in Bioengineering and Biotechnology 11, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperelastic and damage properties of the hypoxic aorta treated with Cinaciguat",
+                "pub_year": "2023",
+                "citation": "Journal of Biomechanics 147, 111457, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomechanical Characterization of Scallop Shells Exposed to Ocean Acidification and Warming",
+                "pub_year": "2022",
+                "citation": "Frontiers in Bioengineering and Biotechnology 9, 813537, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the passive biomechanical behavior of a sheep-specific aortic artery in pulsatile flow conditions",
+                "pub_year": "2021",
+                "citation": "Computer Methods in Biomechanics and Biomedical Engineering 24 (11), 1228-1241, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n del da\u00f1o mec\u00e1nico de la aorta en condici\u00f3n de hipoxia. Modelamiento y simulaci\u00f3n num\u00e9rica de un ensayo de presurizaci\u00f3n",
+                "pub_year": "2021",
+                "citation": "Univ Fed Rio de Janeiro, Brazil, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of mechanical damage to the aorta in hypoxic condition Numerical modeling and simulation of a pressurization test",
+                "pub_year": "2021",
+                "citation": "MATERIA-RIO DE JANEIRO 26 (1), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lung function evaluation through computerized tomography and 3D reconstruction of airways: a body mass index pilot study",
+                "pub_year": "2020",
+                "citation": "Int. j. morphol, 1223-1228, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological and Mechanical Effects in Sprague Dawley Rats Subjected to Hypoxia Cycles",
+                "pub_year": "2019",
+                "citation": "INTERNATIONAL JOURNAL OF MORPHOLOGY 37 (3), 908-911, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of fetal growth restriction on the biomechanical and structural properties in human umbilical and chorionic arteries",
+                "pub_year": "2019",
+                "citation": "Placenta 83, e29, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rapid fabrication of reinforced and cell-laden vascular grafts structurally inspired by human coronary arteries.",
+                "pub_year": "2019",
+                "citation": "Nature Communications 10 (1), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adult vascular dysfunction in foetal growth-restricted guinea-pigs is associated with a neonate-adult switching in Nos3 DNA methylation",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomechanical Characterization of the Active Response of the Guinea Pig Carotid Artery",
+                "pub_year": "2018",
+                "citation": "Mec\u00e1nica Computacional 36 (41), 1871-1871, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n Num\u00e9rica y Experimental del Endurecimiento Cinem\u00e1tico y Da\u00f1o a Torsi\u00f3n en Acero SAE 1045",
+                "pub_year": "2018",
+                "citation": "Mec\u00e1nica Computacional 36 (31), 1475-1475, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULACI\u00d3N NUM\u00c9RICA DE S\u00d3LIDOS HIPEREL\u00c1STICOS MEDIANTE UN ENFOQUE GALERKIN DISCONTINUO",
+                "pub_year": "2018",
+                "citation": "Mec\u00e1nica Computacional 16 (1), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated Micro-Fabrication of a Small Diameter Vascular Graft Mimicking the Structure and Mechanical Properties of Human Vessels",
+                "pub_year": "2017",
+                "citation": "TISSUE ENGINEERING PART A 23, S94-S94, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de un Modelo de Crecimiento y Remodelaci\u00f3n para el An\u00e1lisis Num\u00e9rico de Arterias Bajo Condiciones de Hipoxia",
+                "pub_year": "2017",
+                "citation": "Mec\u00e1nica Computacional 35 (9), 429-429, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and numerical simulation of the in vivo mechanical response of the ascending aortic aneurysm in Marfan syndrome",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical analysis of the ring opening test applied to human ascending aortas",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical characterization of the human aorta: Experiments, modeling and simulation: Advanced Structured Materials",
+                "pub_year": "2016",
+                "citation": "Springer Verlag, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n termomec\u00e1nica de un proceso industrial de templado de un rodete de una bomba centr\u00edfuga",
+                "pub_year": "2015",
+                "citation": "Revista Internacional de M\u00e9todos Num\u00e9ricos para C\u00e1lculo y Dise\u00f1o en \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULACI\u00d3N TRANSIENTE DE TRANSFERENCIA DE CALOR EN UNA ENVOLVENTE T\u00c9RMICA CONSTITUIDA POR MATERIALES DE CONSTRUCCI\u00d3N LIGEROS PARA ZONAS T\u00c9RMICAS DE CHILE",
+                "pub_year": "2015",
+                "citation": "Mec\u00e1nica Computacional 13 (1), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CARACTERIZACI ON NUMERICA DE LA RESPUESTA MEC ANICA DEL ELAST OMERO HD-812 UTILIZADO EN AISLADORES S\u00cdSMICOS",
+                "pub_year": "2015",
+                "citation": "UNIVERSIDAD DE SANTIAGO DE CHILE, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:5awf1xo2G04C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CARACTERIZACI\u00d3N EXPERIMENTAL Y NUM\u00c9RICA DE LA RESPUESTA ELASTOPL\u00c1STICA DEL FIELTRO ASF\u00c1LTICO",
+                "pub_year": "2015",
+                "citation": "Mec\u00e1nica Computacional 13 (1), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermomechanical simulation of an industrial quenching process applied to a centrifugal pump impeller",
+                "pub_year": "2015",
+                "citation": "REVISTA INTERNACIONAL DE METODOS NUMERICOS PARA CALCULO Y DISENO EN \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n de los da\u00f1os por hongos fitopat\u00f3genos a los g\u00e9neros Pinus y Quercus en el \u00c1rea de Protecci\u00f3n de Flora y Fauna La Primavera, Jalisco, M\u00e9xico",
+                "pub_year": "2014",
+                "citation": "Universidad de Pinar del R\u00edo\" Hermanos Sa\u00edz Montes de Oca\". Facultad de \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:7T2F9Uy0os0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Num\u00e9rico de la Respuesta Mec\u00e1nica Pasiva del Miocardio de Cerdo",
+                "pub_year": "2014",
+                "citation": "Mec\u00e1nica Computacional 33 (43), 2797-2797, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Num\u00e9rico del Proceso de Embutici\u00f3n Multi-Etapas de Chapa de Acero Comercial",
+                "pub_year": "2014",
+                "citation": "Mec\u00e1nica Computacional 33 (40), 2621-2621, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "C\u00e1lculo y Dise\u00f1o en Ingenier\u00eda",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULACION NUMERICA DE CONTACTO E IMPACTO EN SISTEMAS MECANICOS FLEXIBLES USANDO UN METODO ENERGETICAMENTE CONSISTENTE.",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and numerical simulation of the human aortic arch under in vivo conditions",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Simulation of the Mechanical Response of the Human Carotid",
+                "pub_year": "2012",
+                "citation": "Mec\u00e1nica Computacional 31 (24), 3899-3899, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ocurrencia y tasas de encuentro de mam\u00edferos marinos en las aguas de la Isla Malpelo y hacia el continente",
+                "pub_year": "2011",
+                "citation": "INVEMAR, Santa Marta (Colombia), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:t7zJ5fGR-2UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Occurrence and rates of encounter of marine mammals in the waters of Malpelo Island and towards the continent",
+                "pub_year": "2011",
+                "citation": "University Of Tasmania, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:z_wVstp3MssC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical and Experimental Analysis of the Mechanical Behavior of Human Descending Aorta",
+                "pub_year": "2011",
+                "citation": "Mec\u00e1nica Computacional 30 (44), 3479-3479, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mec\u00e1nica Computacional, Volume XXXI. Number 24. Computational Modeling in Bioengineering and Biomedical Systems (B)",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n Num\u00e9rica del Ensayo de Presurizaci\u00f3n en el Cayado A\u00f3rtico Humano",
+                "pub_year": "2009",
+                "citation": "Mec\u00e1nica Computacional 28 (25), 2137-2137, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterizaci\u00f3n mec\u00e1nica de los vasos utilizados en un Bypass Coronario.",
+                "pub_year": "2008",
+                "citation": "Sociedad Espa\u00f1ola de ingenier\u00eda Biom\u00e9dica, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\" Departamento de Ciencia de Materiales, ETSI Caminos, Canales y Puertos,\u201cGrupo de Mec\u00e1nica Computacional, ETSI Caminos, Canales y Puertos",
+                "pub_year": "2007",
+                "citation": "Anales de la Mec\u00e1nica de Fractura 1, 333, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENSAYOS PARA LA CARACTERIZACI\u00d3N MEC\u00c1NICA DE VASOS SANGU\u00cdNEOS",
+                "pub_year": "2007",
+                "citation": "Anales de la Mec\u00e1nica de Fractura 1, 327, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and experimental validation of an industrial sheet metal forming process",
+                "pub_year": "2004",
+                "citation": "WCCM VI, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracterization del comportamiento mecanico de aceros para embuticion profunda",
+                "pub_year": "2003",
+                "citation": "CONAMET and SIMPOSIO MATERIA, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADAMS, JR, 71 ADANG, MICHAEL J., 12 AIZAWA, KEIO, 303, 394 ALLEN, JAMES R., 35",
+                "pub_year": "1978",
+                "citation": "Journal of Invertebrate Pathology 32, 400-401, 1978"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COUCH, TL, 277",
+                "pub_year": "1977",
+                "citation": "Journal of Invertebrate Pathology 30, 446, 1977"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ESTUDIO EXPERIMENTAL DEL EFECTO DE LA RESPUESTA BIOMEC\u00c1NICA EN LA PARED ARTERIAL BAJO LA CONDICI\u00d3N DE HIPOXIA HIPOB\u00c1RICA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:nrtMV_XWKgEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pted Article",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:XD-gHx7UXLsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Elastoplastic Characterization of Rolled C11000 Copper Sheets Via a Coupled Calibration Methodology: Experiments, Modeling, and Simulation",
+                "citation": "Modeling, and Simulation, 0"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:-_dYPAW6P2MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis comparativo de biomasa, \u00e1rea foliar y eficiencia de crecimiento en dos rodales de Pinus p\u00e1tula sometidos a aclareos",
+                "citation": "Montecillo, Texcoco, Estado de M\u00e9xico: LE Claudio G.,, 0"
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:NJ774b8OgUMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n numerica de sistemas de enfriamiento por esparcimiento de gotas transportadas por gas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN\u00c1LISIS NUM\u00c9RICO DE LA RESPUESTA MEC\u00c1NICA DE UN ANEURISMA DE AORTA ASCENDENTE HUMANA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN\u00c1LISIS DE METODOLOG\u00cdAS PARA LA MEDICI\u00d3N DEL \u00cdNDICE DE ANISOTROP\u00cdA DE LANKFORD",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PROCEDIMIENTO NORMALIZADO DE TRABAJO PARA LA DETERMINACI\u00d3N DEL CONTENIDO DE GRASA EN PRODUCTOS C\u00c1RNICOS EMBUTIDOS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the mechanical response of an aneurysmatic ascending aorta",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mec\u00e1nica Computacional, Volume XXXIII. Number 40. Industrial Applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "8fVIl10AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 4
+    }
+}

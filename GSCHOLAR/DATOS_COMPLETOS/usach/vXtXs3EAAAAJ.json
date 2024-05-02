@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "vXtXs3EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pablo Aguirre \u00c1lvarez",
+    "affiliation": "Profesor Part Time, Universidad de Santiago de Chile, Facultad de Ingenier\u00eda",
+    "organization": 605437563739143535,
+    "interests": [
+        "Administraci\u00f3n",
+        "Econom\u00eda y Finanzas"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "http://www.usach.cl/",
+    "citedby": 20,
+    "citedby5y": 15,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 1,
+        "2018": 2,
+        "2019": 7,
+        "2020": 4,
+        "2021": 3,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manual de finanzas corporativas (2a",
+                "pub_year": "2014",
+                "citation": "Editorial Universidad de Santiago de Chile, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "vXtXs3EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17167763825380572987",
+            "cites_id": [
+                "17167763825380572987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estructura de costos y econom\u00edas de escala en Universidades Un estudio comparativo en el sistema chileno",
+                "pub_year": "2023",
+                "citation": "Universitat de Lleida, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "vXtXs3EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cost Structure and Economies of Scale in Chilean Traditional Universities: Comparative Study between State and Private Universities of CRUCH",
+                "pub_year": "2019",
+                "citation": "Edicions de la Universitat de Lleida, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "vXtXs3EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

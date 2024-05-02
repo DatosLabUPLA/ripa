@@ -1,0 +1,318 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "IJn0d1wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto E. Dur\u00e1n",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IJn0d1wAAAAJ&citpid=1",
+    "affiliation": "Research Assistant, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Comparative genomics",
+        "Environmental Microbiology",
+        "Biodegradation",
+        "Oxidative Stress",
+        "Phylogenomics"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 138,
+    "citedby5y": 138,
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2019": 7,
+        "2020": 15,
+        "2021": 12,
+        "2022": 31,
+        "2023": 52,
+        "2024": 21
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genomic and physiological traits of the marine bacterium Alcaligenes aquatilis QD168 isolated from Quintero Bay, Central Chile, reveal a robust adaptive response to \u2026",
+                "pub_year": "2019",
+                "citation": "Frontiers in microbiology 10, 434874, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18108960712811959224",
+            "cites_id": [
+                "18108960712811959224"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-Wide Metabolic Reconstruction of the Synthesis of Polyhydroxyalkanoates from Sugars and Fatty Acids by Burkholderia Sensu Lato Species",
+                "pub_year": "2021",
+                "citation": "Microorganisms 9 (6), 1290, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1014004800342362713",
+            "cites_id": [
+                "1014004800342362713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete genome sequence of the marine hydrocarbon degrader Alcaligenes aquatilis QD168, isolated from crude oil-polluted sediment of Quintero Bay, Central Chile",
+                "pub_year": "2019",
+                "citation": "Microbiology Resource Announcements 8 (5), 10.1128/mra. 01664-18, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800049787776905279",
+            "cites_id": [
+                "17800049787776905279"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GenoVi, an open-source automated circular genome visualizer for bacteria and archaea",
+                "pub_year": "2023",
+                "citation": "PLOS Computational Biology 19 (4), e1010998, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:Se3iqnhoufwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6607178280535929804",
+            "cites_id": [
+                "6607178280535929804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioremediation of petroleum",
+                "pub_year": "2019",
+                "citation": "Elsevier, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13847919094745382572",
+            "cites_id": [
+                "13847919094745382572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete genome sequence of the hydrocarbon-degrading strain Achromobacter sp. B7, isolated during petroleum hydrocarbon bioremediation in the Valparaiso Region, Chile",
+                "pub_year": "2018",
+                "citation": "Microbiology Resource Announcements 7 (19), 10.1128/mra. 01326-18, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3518788727002703388",
+            "cites_id": [
+                "3518788727002703388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PromoterLCNN: a light CNN-based promoter prediction and classification model",
+                "pub_year": "2022",
+                "citation": "Genes 13 (7), 1126, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10175203555428671540",
+            "cites_id": [
+                "10175203555428671540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cupriavidus metallidurans CH34 Possesses Aromatic Catabolic Versatility and Degrades Benzene in the Presence of Mercury and Cadmium",
+                "pub_year": "2022",
+                "citation": "Microorganisms 10 (2), 484, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13659801306001861414",
+            "cites_id": [
+                "13659801306001861414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete genome sequence of hydrocarbon-degrading halotolerant Acinetobacter radioresistens DD78, Isolated from the aconcagua river mouth in central Chile",
+                "pub_year": "2019",
+                "citation": "Microbiology Resource Announcements 8 (33), 10.1128/mra. 00601-19, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12178476052782522455",
+            "cites_id": [
+                "12178476052782522455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-chain flavodoxin FldX1 improves Paraburkholderia xenovorans LB400 tolerance to oxidative stress caused by paraquat and H2O2",
+                "pub_year": "2019",
+                "citation": "PloS One 14 (8), e0221881, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=434754550420267479",
+            "cites_id": [
+                "434754550420267479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioremediation of Petroleum. Reference Module in Life Sciences",
+                "pub_year": "2019",
+                "citation": "Elsevier. https://doi. org/10.1016/B978-0-12-809633-8.20810-8, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3063730608197385100",
+            "cites_id": [
+                "3063730608197385100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The OxyR and SoxR transcriptional regulators are involved in a broad oxidative stress response in Paraburkholderia xenovorans LB400",
+                "pub_year": "2022",
+                "citation": "Biological Research 55 (1), 7, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18262441162795094593",
+            "cites_id": [
+                "18262441162795094593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Insights into Bioremediation of Petroleum-Polluted Environments and Bacterial Catabolic Pathways",
+                "pub_year": "2022",
+                "citation": "Hydrocarbon Biotechnology, 65-112, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8046591032603412362",
+            "cites_id": [
+                "8046591032603412362"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Draft Genome Sequences of Two Pseudomonas Strains That Are Able To Use Furan Derivatives as Their Sole Carbon Source",
+                "pub_year": "2020",
+                "citation": "Microbiology Resource Announcements 9 (2), 10.1128/mra. 01131-19, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3128437676561037137",
+            "cites_id": [
+                "3128437676561037137"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The long-chain flavodoxin FldX1 improves the biodegradation of 4-hydroxyphenylacetate and 3-hydroxyphenylacetate and counteracts the oxidative stress associated to aromatic \u2026",
+                "pub_year": "2024",
+                "citation": "Biological Research 57 (1), 12, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Draft genome sequences of halotolerant Halomonas spp. SpR1 and SpR8, potential plant growth-promoting bacteria associated with Salicornia rhizosphere in a \u2026",
+                "pub_year": "2024",
+                "citation": "Microbiology Resource Announcements 13 (1), e00822-23, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-based prediction of the type III secretion system effector repertoire of Chilean strains of Pseudomonas syringae pv. tomato compared with DC3000 and T1-like strains",
+                "pub_year": "2021",
+                "citation": "MOLECULAR PLANT-MICROBE INTERACTIONS 34 (7), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Draft genome sequences of two Pseudomonas strains that are able to use furan derivatives as their sole carbon source. Microbiol Resour Announc 9: e01131-19",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "IJn0d1wAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

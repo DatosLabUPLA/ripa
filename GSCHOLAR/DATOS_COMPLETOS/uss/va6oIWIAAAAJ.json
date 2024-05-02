@@ -1,0 +1,542 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "va6oIWIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristhian  A. Aguilera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=va6oIWIAAAAJ&citpid=7",
+    "affiliation": "Universidad San Sebastian",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Computer vision",
+        "Machine Learning",
+        "Robotics",
+        "Human-robot collaboration",
+        "Education"
+    ],
+    "email_domain": "@uss.cl",
+    "homepage": "https://researchers.uss.cl/es/persons/cristhian-alejandro-aguilera-carrasco",
+    "citedby": 574,
+    "citedby5y": 411,
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 10,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2013": 2,
+        "2014": 5,
+        "2015": 14,
+        "2016": 23,
+        "2017": 46,
+        "2018": 68,
+        "2019": 70,
+        "2020": 66,
+        "2021": 87,
+        "2022": 81,
+        "2023": 77,
+        "2024": 30
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y_ssG8UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angel D. Sappa",
+            "affiliation": "ESPOL Polytechnic University (Ecuador) and Computer Vision Center (Spain)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JJPv3QYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angela Castro",
+            "affiliation": "Facultad de Educaci\u00f3n, Universidad San Sebasti\u00e1n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RNYDdjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Crist\u00f3bal A. Navarro",
+            "affiliation": "Professor of Computer Science, Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N-K-13sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Xavier Soria Poma",
+            "affiliation": "Assistant Professor, ESPOCH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q8zcX4wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Duran-Faundez",
+            "affiliation": "Department of Electrical and Electronic Engineering, University of the B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zdIW07oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bogdan Raducanu",
+            "affiliation": "Computer Vision Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9kEM1ogAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Javier Quitral Zapata",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xIvsrzoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis Felipe Gonz\u00e1lez B\u00f6hme",
+            "affiliation": "UNIVERSIDAD TECNICA FEDERICO SANTA MARIA"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LGHD: A feature descriptor for matching across non-linear intensity variations",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Image Processing (ICIP), 178-181, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 120,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16003776059576140469",
+            "cites_id": [
+                "16003776059576140469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multispectral stereo odometry",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Intelligent Transportation Systems 16 (3), 1210-1224, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 95,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1034080191325624133",
+            "cites_id": [
+                "1034080191325624133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning cross-spectral similarity measures with deep convolutional neural networks",
+                "pub_year": "2016",
+                "citation": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10505960623031768309",
+            "cites_id": [
+                "10505960623031768309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feature point descriptors: Infrared and visible spectra",
+                "pub_year": "2014",
+                "citation": "Sensors 14 (2), 3690-3701, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323814349140746124",
+            "cites_id": [
+                "12323814349140746124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wavelet-based visible and infrared image fusion: a comparative study",
+                "pub_year": "2016",
+                "citation": "Sensors 16 (6), 861, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14965981992758095664",
+            "cites_id": [
+                "14965981992758095664"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-spectral local descriptors via quadruplet network",
+                "pub_year": "2017",
+                "citation": "Sensors 17 (4), 873, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=645115050863724713",
+            "cites_id": [
+                "645115050863724713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A visible-thermal fusion based monocular visual odometry",
+                "pub_year": "2016",
+                "citation": "Robot 2015: Second Iberian Robotics Conference: Advances in Robotics, Volume \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8999878325267685944",
+            "cites_id": [
+                "8999878325267685944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RGBN multispectral images: A novel color restoration approach",
+                "pub_year": "2018",
+                "citation": "Trends in Cyber-Physical Multi-Agent Systems. The PAAMS Collection-15th \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=137067574890357389",
+            "cites_id": [
+                "137067574890357389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rob\u00f3tica educativa como herramienta para la ense\u00f1anza-aprendizaje de las matem\u00e1ticas en la formaci\u00f3n universitaria de profesores de educaci\u00f3n b\u00e1sica en tiempos de COVID-19",
+                "pub_year": "2022",
+                "citation": "Formaci\u00f3n universitaria 15 (2), 151-162, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1952215241667104304",
+            "cites_id": [
+                "1952215241667104304"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast CNN stereo depth estimation through embedded GPU devices",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (11), 3249, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2945531207379572763",
+            "cites_id": [
+                "2945531207379572763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monocular visual odometry: A cross-spectral image fusion based approach",
+                "pub_year": "2016",
+                "citation": "Robotics and Autonomous Systems 85, 26-36, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7517693170621264214",
+            "cites_id": [
+                "7517693170621264214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Melamine faced panels defect classification beyond the visible spectrum",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (11), 3644, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3149240495123715431",
+            "cites_id": [
+                "3149240495123715431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimenting with RSSI for the perception of moving units in intelligent flexible manufacturing systems",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1400-1405, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6678979088035091789",
+            "cites_id": [
+                "6678979088035091789"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robotics education in STEM units: Breaking down barriers in rural multigrade schools",
+                "pub_year": "2022",
+                "citation": "Sensors 23 (1), 387, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6819641388795487261",
+            "cites_id": [
+                "6819641388795487261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling GPU Dynamic Parallelism for self similar density workloads",
+                "pub_year": "2023",
+                "citation": "Future Generation Computer Systems 145, 239-253, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4908069717012629507",
+            "cites_id": [
+                "4908069717012629507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Evaluation of Feature Point Descriptors in the Infrared Domain",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 9th International Conference on Computer Vision Theory \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17990916103428322643",
+            "cites_id": [
+                "17990916103428322643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SBIN: A stereo disparity estimation network using binary convolutions",
+                "pub_year": "2022",
+                "citation": "IEEE Latin America Transactions 20 (4), 693-699, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5972972382221668847",
+            "cites_id": [
+                "5972972382221668847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local feature description in cross-spectral imagery",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557145393829251002",
+            "cites_id": [
+                "14557145393829251002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-Spectral Image Registration And Fusion: An Evaluation Study",
+                "pub_year": "2015",
+                "citation": "2nd International Conference on Machine Vision and Machine Learning, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5672522235363168121",
+            "cites_id": [
+                "5672522235363168121"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voice-Controlled Robotics in Early Education: Implementing and Validating Child-Directed Interactions Using a Collaborative Robot and Artificial Intelligence",
+                "pub_year": "2024",
+                "citation": "Applied Sciences 14 (6), 2408, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4478289312937100349",
+            "cites_id": [
+                "4478289312937100349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hand-drawn language for human-robot collaboration in wood stereotomy",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5763698481885764882",
+            "cites_id": [
+                "5763698481885764882"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Melamine Faced Panel Inspection, Towards an Efficient Use of Natural Resources",
+                "pub_year": "2022",
+                "citation": "ICT Applications for Smart Cities, 165-183, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7653294582014454313",
+            "cites_id": [
+                "7653294582014454313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive Analysis of Model Errors in Blueberry Detection and Maturity Classification: Identifying Limitations and Proposing Future Improvements in Agricultural Monitoring",
+                "pub_year": "2023",
+                "citation": "Agriculture 14 (1), 18, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fault Classification on Melamine Faced Panels Using Local Binary Pattern",
+                "pub_year": "2022",
+                "citation": "2022 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) 1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-spectral local descriptors via quadruplet network",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correspondencia de caracter\u0131sticas utilizando esquemas cl\u00e1sicos en el espectro visible",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizaci\u00f3n de corte longuitudinal para trozas podadas de pino insigne con reconstrucci\u00f3n tridimensional",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-spectral Stereo Correspondence using Dense Flow Fields",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 9th International Conference on Computer Vision Theory \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "va6oIWIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 11,
+        "not_available": 0
+    }
+}

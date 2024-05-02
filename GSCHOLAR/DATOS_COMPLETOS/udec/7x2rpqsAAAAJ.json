@@ -1,0 +1,114 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7x2rpqsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cinthya Rivas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7x2rpqsAAAAJ&citpid=3",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Numerical Analysis"
+    ],
+    "email_domain": "@ing-mat.udec.cl",
+    "citedby": 25,
+    "citedby5y": 19,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 5,
+        "2019": 4,
+        "2020": 4,
+        "2021": 3,
+        "2022": 2,
+        "2023": 3,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A perfectly matched layer for finite-element calculations of diffraction by metallic surface-relief gratings",
+                "pub_year": "2018",
+                "citation": "Wave Motion 78, 68-82, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7x2rpqsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14676381188870564926",
+            "cites_id": [
+                "14676381188870564926"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic model for finite-element calculations of diffraction by shallow metallic surface-relief gratings",
+                "pub_year": "2017",
+                "citation": "JOSA A 34 (1), 68-79, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7x2rpqsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16796876722564609146",
+            "cites_id": [
+                "16796876722564609146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An asymptotic model based on matching far and near field expansions for thin gratings problems",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55, S507-S533, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7x2rpqsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7278638658202315454",
+            "cites_id": [
+                "7278638658202315454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7x2rpqsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN ASYMPTOTIC MODEL BASED ON MATCHING FAR AND NEAR FIELDS FOR THIN GRATINGS PROBLEMS",
+                "citation": "14th CI2MA FOCUS SEMINAR: Finite Element and Related Methods for PDEs in \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "7x2rpqsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

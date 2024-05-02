@@ -1,0 +1,240 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ZYN8R50AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier Maldonado Carmona",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZYN8R50AAAAJ&citpid=1",
+    "affiliation": "Docente. DEI - USM, Concepci\u00f3n",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Computaci\u00f3n evolutiva",
+        "metaheur\u00edsticas",
+        "sistemas operativos",
+        "seguridad inform\u00e1tica"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 80,
+    "citedby5y": 77,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 0,
+        "2020": 5,
+        "2021": 1,
+        "2022": 13,
+        "2023": 42,
+        "2024": 16
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V9BgXgMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria Cristina Riff",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U-8SITsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bertrand Neveu",
+            "affiliation": "LIGM Ecole des Ponts Paristech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xmlgqzQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jhon Edgar Amaya",
+            "affiliation": "Professor of Electronic Engineering, Universidad Nacional Experimental del T\u00e1chira"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ke-tzn4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elizabeth Montero",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of recent approaches on wrapper feature selection for intrusion detection",
+                "pub_year": "2022",
+                "citation": "Expert Systems with Applications 198, 116822, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14237140437535674673",
+            "cites_id": [
+                "14237140437535674673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o de un cl\u00faster orientado a servicios para aplicaciones web en la Universidad Nacional Experimental del T\u00e1chira",
+                "pub_year": "2015",
+                "citation": "T\u00e9l\u00e9matique 14 (1), 79-96, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:_kc_bZDykSQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248305487195604952",
+            "cites_id": [
+                "14248305487195604952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating different metric configurations of an evolutionary wrapper for attack detection",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 31st International Conference on Tools with Artificial \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11791622266455276598",
+            "cites_id": [
+                "11791622266455276598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving Attack Detection of C4. 5 using an Evolutionary Algorithm",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Congress on Evolutionary Computation (CEC), 2229-2235, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=911896609023289682",
+            "cites_id": [
+                "911896609023289682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving an Evolutionary Wrapper for Attack Detection by Including Feature Importance Information",
+                "pub_year": "2020",
+                "citation": "GECCO '20: Proceedings of the 2020 Genetic and Evolutionary Computation \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14716825633438121462",
+            "cites_id": [
+                "14716825633438121462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de un M\u00e9todo para la Clasificaci\u00f3n Autom\u00e1tica de Documentos Usando Tareas de Procesamiento de Lenguaje Natural y un Algoritmo de M\u00e1xima Entrop\u00eda",
+                "pub_year": "2017",
+                "citation": "Sociedad Venezolana de Computaci\u00f3n, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14411069935440840332",
+            "cites_id": [
+                "14411069935440840332"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolution of the vehicular control problem on ramp metering through multi-objective algorithm hybridization",
+                "pub_year": "2016",
+                "citation": "2016 35th International Conference of the Chilean Computer Science Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=789267753061061325",
+            "cites_id": [
+                "789267753061061325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strategies for guiding an evolutionary wrapper for attack classification.",
+                "pub_year": "2020",
+                "citation": "Jornadas Chilenas de Computacion, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Avances en Sistemas de Deteccion de Intrusos con Auto-aprendizaje-Revision Sistem\u00e1tica de la Literatura",
+                "pub_year": "2018",
+                "citation": "ConCiSa, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de un m\u00e9todo autom\u00e1tico de clasificaci\u00f3n de documentos usando procesamiento de lenguaje natural y un algoritmo de m\u00e1xima entrop\u00eda",
+                "pub_year": "2017",
+                "citation": "Revista Venezolana de Computaci\u00f3n 4 (1), 1-9, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del Problema Generalizado de Steiner Utilizando Simulated Annealing",
+                "pub_year": "2013",
+                "citation": "CAIP, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "ZYN8R50AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

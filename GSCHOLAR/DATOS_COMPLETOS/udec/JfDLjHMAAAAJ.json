@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JfDLjHMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Corval\u00e1n Fuentes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JfDLjHMAAAAJ&citpid=2",
+    "affiliation": "Ingeniero Agr\u00f3nomo, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Viticultura",
+        "Enolog\u00eda"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 3,
+        "2021": 1,
+        "2022": 3,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_cEAazQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Serra Stepke",
+            "affiliation": "Universidad de Concepci\u00f3n, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grapevine root and shoot growth responses to photoselective nets: preliminary results",
+                "pub_year": "2014",
+                "citation": "I International Symposium on Grapevine Roots 1136, 89-94, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JfDLjHMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13464432799730568844",
+            "cites_id": [
+                "13464432799730568844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influencia de mallas foto-selectivas en el crecimiento vegetativo de vides cv. Pinot Noir",
+                "pub_year": "2015",
+                "citation": "Universidad de Concepci\u00f3n, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JfDLjHMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ynRKFTIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luciano Radrigan",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ynRKFTIAAAAJ&citpid=2",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Embedded Systems",
+        "Industrial Internet of Things",
+        "Condition Monitoring",
+        "Machine Learning"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 37,
+    "citedby5y": 37,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 10,
+        "2023": 20,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data-driven condition monitoring of mining mobile machinery in non-stationary operations using wireless accelerometer sensor modules",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 17365-17381, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ynRKFTIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107374357487063407",
+            "cites_id": [
+                "6107374357487063407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a cyber-physical system to monitor early failures detection in vibrating screens",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 145866-145885, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ynRKFTIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14285375081164914558",
+            "cites_id": [
+                "14285375081164914558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded Electronic Sensor for Monitoring of Breathing Activity, Fitting and Filter Clogging in Reusable Industrial Respirators",
+                "pub_year": "2022",
+                "citation": "Biosensors 12 (11), 991, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ynRKFTIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2605087068161542241",
+            "cites_id": [
+                "2605087068161542241"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data-driven condition monitoring of mining mobile machinery in non-stationary operations using wireless accelerometer sensor modules",
+                "pub_year": "2021",
+                "citation": "IEEE, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ynRKFTIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

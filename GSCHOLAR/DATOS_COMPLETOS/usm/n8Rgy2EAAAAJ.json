@@ -1,0 +1,343 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "n8Rgy2EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Marin",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=n8Rgy2EAAAAJ&citpid=1",
+    "affiliation": "AC3E, Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "analog and mixed-signal integrated circuit design"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 93,
+    "citedby5y": 76,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 1,
+        "2018": 12,
+        "2019": 15,
+        "2020": 15,
+        "2021": 3,
+        "2022": 21,
+        "2023": 18,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-based sensor interface circuits in CMOS and carbon nanotube technologies",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Circuits and Systems I: Regular Papers 63 (5), 577-586, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14148083902320594989",
+            "cites_id": [
+                "14148083902320594989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Robust BBPLL-Based 0.18-\u03bcm CMOS Resistive Sensor Interface With High Drift Resilience Over a-40\u00b0 C-175\u00b0 C Temperature Range",
+                "pub_year": "2019",
+                "citation": "IEEE Journal of Solid-State Circuits, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11423321012752029693",
+            "cites_id": [
+                "11423321012752029693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital-domain chopping technique for high-resolution PLL-based sensor interfaces",
+                "pub_year": "2016",
+                "citation": "Sensors and Actuators A: Physical 249, 294-302, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7103136986828220531",
+            "cites_id": [
+                "7103136986828220531"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance limitation analysis of highly-digital time-based closed-loop sensor-to-digital converter architectures",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs 66 (7), 1114-1118, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15795250400397520219",
+            "cites_id": [
+                "15795250400397520219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Single-Temperature-Calibration 0.18-\u00b5m CMOS Time-Based Resistive Sensor Interface with Low Drift over a\u2212 40\u00b0 C to 175\u00b0 C Temperature Range",
+                "pub_year": "2018",
+                "citation": "ESSCIRC 2018-IEEE 44th European Solid State Circuits Conference (ESSCIRC \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17983604900861266469",
+            "cites_id": [
+                "17983604900861266469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated Three-Level Flying Capacitor DC-DC Buck Converter for CubeSat Applications",
+                "pub_year": "2023",
+                "citation": "2023 Argentine Conference on Electronics (CAE), 90-95, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:ufrVoPGSRksC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6398174903434971381",
+            "cites_id": [
+                "6398174903434971381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Analysis of Drift-Cancellation Techniques for Time-Based Integrated Resistive Sensor Interfaces",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Components, Packaging and Manufacturing Technology 8 (7 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18142492244318672749",
+            "cites_id": [
+                "18142492244318672749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and modeling of drift-resilient time-based integrated resistive sensor interfaces",
+                "pub_year": "2017",
+                "citation": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6849381326861191003",
+            "cites_id": [
+                "6849381326861191003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Implementation of Integrated Circuits Using Open Source Tools and SKY130 Free PDK",
+                "pub_year": "2023",
+                "citation": "2023 30th International Conference on Mixed Design of Integrated Circuits \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9987081817119262180",
+            "cites_id": [
+                "9987081817119262180"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlled-Oscillator Optimization for Highly-Digital CMOS Time-Based Sensor-to-Digital Converter Architectures",
+                "pub_year": "2018",
+                "citation": "2018 15th International Conference on Synthesis, Modeling, Analysis and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18259500166578138350",
+            "cites_id": [
+                "18259500166578138350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Digital-domain chopping technique for PLL-based sensor interfaces",
+                "pub_year": "2015",
+                "citation": "Procedia engineering 120, 507-510, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10903062110410929724",
+            "cites_id": [
+                "10903062110410929724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the robustness and drift resilience of CMOS BBPLL-based time-based sensor interfaces",
+                "pub_year": "2018",
+                "citation": "2018 25th IEEE International Conference on Electronics, Circuits and Systems \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10914405953374653560",
+            "cites_id": [
+                "10914405953374653560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thin gate oxide CMOS DC-DC Buck converter with floating gate drivers",
+                "pub_year": "2024",
+                "citation": "2024 Argentine Conference on Electronics (CAE), 120-123, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SiC CMOS Gate Driver for High-Temperature Aerospace Applications",
+                "pub_year": "2024",
+                "citation": "2024 Argentine Conference on Electronics (CAE), 99-102, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized Switch-Control Scheme for a Family of T-Type DAB GaN-based DC-DC Converters in EV Powertrain Applications",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 8th Southern Power Electronics Conference (SPEC), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High Power Density Electric Vehicle Powertrain Based on a T-Type DAB Partial Power DC-DC Converter",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 8th Southern Power Electronics Conference (SPEC), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact Time-Based Sensor-to-Digital Converters in Skywater 130nm Open-Source Technology",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 14th Latin America Symposium on Circuits and Systems (LASCAS), 1-4, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Control Set MPC for Grid-Connected Photovoltaic Asymmetric Multiport Converter",
+                "pub_year": "2022",
+                "citation": "2022 4th International Conference on Smart Power & Internet Energy Systems \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drift mitigation in integrated sensor interfaces",
+                "pub_year": "2017",
+                "citation": "2017 7th IEEE International Workshop on Advances in Sensors and Interfaces \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPECIAL SECTION ON THE 2015 IEEE INTERNATIONAL SYMPOSIUM ON CIRCUITS AND SYSTEMS (ISCAS 2015)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust CMOS time-based sensor interfaces for space applications",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "n8Rgy2EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 1
+    }
+}

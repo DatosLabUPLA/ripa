@@ -1,0 +1,100 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JHcb2ZIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Lenka Kurte",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "biodiversidad",
+        "microbiolog\u00eda",
+        "ecolog\u00eda"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 65,
+    "citedby5y": 57,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 7,
+        "2019": 2,
+        "2020": 13,
+        "2021": 12,
+        "2022": 14,
+        "2023": 10,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bacterial survival under extreme UV radiation: a comparative proteomics study of Rhodobacter sp., isolated from high altitude wetlands in Chile",
+                "pub_year": "2017",
+                "citation": "Frontiers in microbiology 8, 268467, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "JHcb2ZIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=412190688265235007",
+            "cites_id": [
+                "412190688265235007"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of fish sedimentary DNA in aquatic systems: A review of methodological challenges and future opportunities",
+                "pub_year": "2023",
+                "citation": "Environmental DNA 5 (6), 1449-1472, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JHcb2ZIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4646665570011596482",
+            "cites_id": [
+                "4646665570011596482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using DNA archived in lake sediments to reconstruct past ecosystems",
+                "pub_year": "2024",
+                "citation": "Elsevier, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "JHcb2ZIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using sedimentary prokaryotic communities to assess historical changes in the Gippsland Lakes",
+                "pub_year": "2023",
+                "citation": "Freshwater Biology 68 (11), 1839-1858, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JHcb2ZIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

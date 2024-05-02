@@ -1,0 +1,219 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "T_22jEkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebasti\u00e1n Riffo Villagra",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=T_22jEkAAAAJ&citpid=1",
+    "affiliation": "Estudiante Doctorado, Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Electr\u00f3nica de Potencia",
+        "Microrredes",
+        "Power Electronics",
+        "Microgrids"
+    ],
+    "email_domain": "@utalca.cl",
+    "citedby": 30,
+    "citedby5y": 30,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 25,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4ZLhMR8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "C. Restrepo",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YdxlCSEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Catalina Gonz\u00e1lez Casta\u00f1o",
+            "affiliation": "Universidad Andr\u00e9s Bello Santiago-Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "j8NajuwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Walter Juli\u00e1n Gil-Gonz\u00e1lez",
+            "affiliation": "Full-time professor, Universidad Tecnol\u00f3gica de Pereira"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RUTQyO4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Danilo Montoya Giraldo",
+            "affiliation": "Universidad Distrital Francisco Jos\u00e9 de Caldas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QZTBo7QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Garces",
+            "affiliation": "Universidad Tecn\u00f3logica de Pereira"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CBTGRLcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Duberney Murillo",
+            "affiliation": "Universidad de Oviedo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive sensorless PI+ Passivity-based control of a boost converter supplying an unknown CPL",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (22), 4321, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11524048628185462239",
+            "cites_id": [
+                "11524048628185462239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A global tracking sensorless adaptive PI-PBC design for output voltage regulation in a boost converter feeding a DC microgrid",
+                "pub_year": "2023",
+                "citation": "Energies 16 (3), 1106, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8368416120452683139",
+            "cites_id": [
+                "8368416120452683139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Control for Stabilization of DC Microgrids in Island Mode Operation",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (18), 3384, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4911052905313030193",
+            "cites_id": [
+                "4911052905313030193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sensorless inverse optimal control plus integral action to regulate the output voltage in a boost converter supplying an unknown dc load",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10142180401605941594",
+            "cites_id": [
+                "10142180401605941594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Control with Stability Guarantee for Second-Order DC/DC Converters",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Industrial Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2535958149970701242",
+            "cites_id": [
+                "2535958149970701242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Voltage Control for Second-Order DC-DC Converters Supplying an Unknown Constant Power Load: A Generalized PBC plus Damping Injection Design",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18405243932846065136",
+            "cites_id": [
+                "18405243932846065136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Review of Communication Protocols and Control Strategies in DC Microgrids: An Experimental Validation Focus",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 17th International Conference on Compatibility, Power Electronics \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2532627971604407485",
+            "cites_id": [
+                "2532627971604407485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RT Box card for studying the control communication impacts on microgrid performance and stability",
+                "pub_year": "2022",
+                "citation": "HardwareX 12, e00322, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "T_22jEkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18136058148754172037",
+            "cites_id": [
+                "18136058148754172037"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

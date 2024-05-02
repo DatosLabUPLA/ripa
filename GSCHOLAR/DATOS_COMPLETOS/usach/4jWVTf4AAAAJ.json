@@ -1,0 +1,596 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4jWVTf4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Plaza-Vega",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4jWVTf4AAAAJ&citpid=5",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Machine Learning",
+        "Stochastic Processes",
+        "Deep Learning",
+        "Bayesian Estimation",
+        "Fisheries"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 263,
+    "citedby5y": 152,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 7,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2010": 5,
+        "2011": 5,
+        "2012": 13,
+        "2013": 13,
+        "2014": 11,
+        "2015": 14,
+        "2016": 9,
+        "2017": 16,
+        "2018": 16,
+        "2019": 16,
+        "2020": 21,
+        "2021": 35,
+        "2022": 39,
+        "2023": 29,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tbQtxo4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eleuterio Y\u00e1\u00f1ez Rodr\u00edguez",
+            "affiliation": "Profesor Titular Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-j7De0gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Inmaculada Pulido-Calvo",
+            "affiliation": "Universidad de Huelva"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Teix9dkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Carlos Gutierrez-Estrada",
+            "affiliation": "Universidad de Huelva"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Hj1s_a4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Silva Gallinato",
+            "affiliation": "Profesor Asociado, Escuela de Ciencias del Mar, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZaqDIPcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Salas F.",
+            "affiliation": "Universidad de Valpara\u00edso / Millennium Institute for Intelligent Healthcare Engineering / MEDING"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qpi0WaAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Orietta Nicolis",
+            "affiliation": "Universidad Andres Bello"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sojH5YMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "H\u00e9ctor Araya",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iO2zYZoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eloy Alvarado Narv\u00e1ez",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3AaoLVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre Fr\u00e9on",
+            "affiliation": "Emeritus research director, IRD, France"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anchovy (Engraulis ringens) and sardine (Sardinops sagax) abundance forecast off northern Chile: a multivariate ecosystemic neural network approach",
+                "pub_year": "2010",
+                "citation": "Progress in Oceanography 87 (1-4), 242-250, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4256116416981417840",
+            "cites_id": [
+                "4256116416981417840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacts of climate change on marine fisheries and aquaculture in Chile",
+                "pub_year": "2017",
+                "citation": "Climate change impacts on fisheries and aquaculture: A global analysis 1 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:ufrVoPGSRksC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14688654872761477770",
+            "cites_id": [
+                "14688654872761477770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pacific sardine (Sardinops sagax, Jenyns 1842) landings prediction. A neural network ecosystemic approach",
+                "pub_year": "2009",
+                "citation": "Fisheries research 100 (2), 116-125, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9301352461802035146",
+            "cites_id": [
+                "9301352461802035146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prediction of intensity and location of seismic events using deep learning",
+                "pub_year": "2021",
+                "citation": "Spatial Statistics 42, 100442, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9639628458600920831",
+            "cites_id": [
+                "9639628458600920831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forecasting of jack mackerel landings (Trachurus murphyi) in central\u2010southern Chile through neural networks",
+                "pub_year": "2015",
+                "citation": "Fisheries Oceanography 24 (3), 219-228, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494601375347793201",
+            "cites_id": [
+                "16494601375347793201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying ecosystem patterns from time series of anchovy (Engraulis ringens) and sardine (Sardinops sagax) landings in northern Chile",
+                "pub_year": "2018",
+                "citation": "Journal of Statistical Computation and Simulation 88 (10), 1863-1881, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9967111485012922177",
+            "cites_id": [
+                "9967111485012922177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Climate change and fisheries in Chile",
+                "pub_year": "2014",
+                "citation": "Vulnerability of Agriculture, Water and Fisheries to Climate Change: Toward \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11532307934187743162",
+            "cites_id": [
+                "11532307934187743162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing seismic hazard in Chile using deep neural networks",
+                "pub_year": "2019",
+                "citation": "Natural Hazards-Risk, Exposure, Response, and Resilience, 3, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1022321473910046632",
+            "cites_id": [
+                "1022321473910046632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling climate change impacts on anchovy and sardine landings in northern Chile using ANNs",
+                "pub_year": "2017",
+                "citation": "Latin american journal of aquatic research 45 (4), 675-689, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:WF5omc3nYNoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13756364790725819587",
+            "cites_id": [
+                "13756364790725819587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pelagic resources landings in central-southern Chile under the A2 climate change scenarios",
+                "pub_year": "2016",
+                "citation": "Ocean Dynamics 66, 1333-1351, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=193675979537727536",
+            "cites_id": [
+                "193675979537727536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de pron\u00f3sticos de pesquer\u00edas pel\u00e1gicas chilenas frente a diversos escenarios del cambio clim\u00e1tico",
+                "pub_year": "2016",
+                "citation": "Informe Final Proyecto FONDEF D11I1137, CONICYT 46, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12959473266671183497",
+            "cites_id": [
+                "12959473266671183497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de capturas de anchoveta (Engraulis ringens) en el norte de Chile mediante redes neuronales artificiales: un enfoque multivariado",
+                "pub_year": "2008",
+                "citation": "Nuevas aproximaciones metodol\u00f3gicas para el an\u00e1lisis de pesquer\u00edas \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16312313264804631076",
+            "cites_id": [
+                "16312313264804631076"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cambio clim\u00e1tico y pesquer\u00edas en Chile",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1074450236306601899",
+            "cites_id": [
+                "1074450236306601899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non linear forecast of anchovy (Engraulis ringens) catches in northern Chile: A multivariate approach",
+                "pub_year": "2008",
+                "citation": "GLOBEC Int Newslett 14 (1), 75, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8656843219691216228",
+            "cites_id": [
+                "8656843219691216228"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REDACS: Regional emergency-driven adaptive cluster sampling for effective COVID-19 management",
+                "pub_year": "2023",
+                "citation": "Stochastic analysis and applications 41 (3), 474-508, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6540818005407973960",
+            "cites_id": [
+                "6540818005407973960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pacific sardine (Sardinops sagax, Jenyns 1842) landings prediction. A neural network ecosystemic approach",
+                "pub_year": "2009",
+                "citation": "Fisheries Research 100 (2), 116-125, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2602491985541030933",
+            "cites_id": [
+                "2602491985541030933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental effect on the variability of anchovy (Engraulis ringens) in northern Chile: Autoregressive conditional heteroskedastic approach with exogenonus variable and \u2026",
+                "pub_year": "2023",
+                "citation": "Fisheries Research 260, 106607, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10064050343611049085",
+            "cites_id": [
+                "10064050343611049085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anchovy (Engraulis ringens) and Pacific sardine (Sardinops sagax) variability changes in northern Chile associated with the environment and inter species synchronicity: GARCH \u2026",
+                "pub_year": "2024",
+                "citation": "Progress in Oceanography 221, 103190, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter estimation for fractional power type diffusion: A hybrid Bayesian-deep learning approach",
+                "pub_year": "2023",
+                "citation": "Communications in Statistics-Theory and Methods, 1-21, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hermite spatial variations for the solution to the stochastic heat equation",
+                "pub_year": "2021",
+                "citation": "Mathematical Communications 26 (2), 253-270, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing Seismic Hazard in Chile Using Deep Neural Networks",
+                "pub_year": "2019",
+                "citation": "Chapters, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pesquer\u00edas pel\u00e1gicas, variabilidad y cambio clim\u00e1tico en Chile",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pesquer\u00edas pel\u00e1gicas, variabilidad y cambio clim\u00e1tico",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ventana ambiental \u00f3ptima del reclutamiento de anchoveta del stock sur de Per\u00fa\u2013norte de Chile",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n Del Cambio Clim\u00e1tico Y Pesquer\u00edas Pel\u00e1gicas En Chile (Cclipesca)",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de desembarques de anchoveta (Engraulis ringens), I y II regi\u00f3n, mediante la aplicaci\u00f3n de redes neuronales artificiales.",
+                "pub_year": "2008",
+                "citation": "PONTIFICIA UNIVERSIDAD CAT\u00d3LICA DE VALPARA\u00cdSO, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEEP LEARNING APPROACH FOR",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anchovy and sardine landings in northern Chile: a climate change simulation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LA PESQUER\u00cdA DE JUREL EN EL PAC\u00cdFICO SUR ORIENTAL (1973-2021): ESTIMACIONES DEL RENDIMIENTO M\u00c1XIMO SOSTENIDO",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de desembarques de anchoveta-engraulis ringens-, en el norte de Chile, mediante la aplicaci\u00f3n de redes neuronales artificiales",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter estimation for ARCH model with exogenous variable and missing values",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PREDICCI\u00d3N DE LOS DESEMBARQUES DE JUREL EN LA ZONA CENTRO-SUR DE CHILE MEDIANTE REDES NEURONALES ARTIFICIALES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PREDICCI\u00d3N DE LOS DESEMBARQUES MENSUALES DE MERLUZA COM\u00daN (Merluccius gayi gayi) EN LA ZONA CENTRO-SUR DE CHILE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo de Regresi\u00f3n Lineal El\u00edptica",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4jWVTf4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

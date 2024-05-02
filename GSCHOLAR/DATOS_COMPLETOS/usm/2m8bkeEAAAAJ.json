@@ -1,0 +1,1168 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2m8bkeEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Buil Aranda",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda (Chile)",
+    "organization": 9225498103198054248,
+    "interests": [
+        "graph databases",
+        "semantic web"
+    ],
+    "email_domain": "@inf.utfsm.cl",
+    "homepage": "https://carlosbuil.com/",
+    "citedby": 1569,
+    "citedby5y": 734,
+    "hindex": 15,
+    "hindex5y": 14,
+    "i10index": 22,
+    "i10index5y": 16,
+    "cites_per_year": {
+        "2007": 6,
+        "2008": 13,
+        "2009": 24,
+        "2010": 10,
+        "2011": 16,
+        "2012": 37,
+        "2013": 60,
+        "2014": 104,
+        "2015": 123,
+        "2016": 140,
+        "2017": 145,
+        "2018": 135,
+        "2019": 134,
+        "2020": 128,
+        "2021": 114,
+        "2022": 138,
+        "2023": 153,
+        "2024": 66
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TzubuoF0OCwC",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Corcho",
+            "affiliation": "Ontology Engineering Group, Departamento de Inteligencia Artificial, UPM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YHR0wkkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Arenas",
+            "affiliation": "Professor of Computer Science, Pontificia Universidad Cat\u00f3lica de Chile and IMFD Chile."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vy7mya4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J\u00fcrgen Umbrich",
+            "affiliation": "Onlim GmbH, Austria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P3B2MmwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Manuel Gomez-Perez",
+            "affiliation": "Director of Language Technology Research at expert.ai"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bcReaI0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre-Yves Vandenbussche",
+            "affiliation": "eBay"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "R-SmVOYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Polleres",
+            "affiliation": "Vienna University of Economics and Business (WU - Wirtschaftsuniversit\u00e4t Wien)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vDyk0JgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria-Esther Vidal",
+            "affiliation": "Professor Leibniz University of Hannover, TIB, L3S Research Center; Universidad Simon Bolivar"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "druU9nsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maribel Acosta",
+            "affiliation": "Professor, Technical University of Munich (TUM)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL web-querying infrastructure: ready for action?",
+                "pub_year": "2013",
+                "citation": "The Semantic Web\u2013ISWC 2013: 12th International Semantic Web Conference \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 340,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4430971830256248964",
+            "cites_id": [
+                "4430971830256248964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 Overview",
+                "pub_year": "2013",
+                "citation": "W3C recommendation 21, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 194,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9569680699708803579",
+            "cites_id": [
+                "9569680699708803579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Federating queries in SPARQL 1.1: Syntax, semantics and evaluation",
+                "pub_year": "2013",
+                "citation": "Journal of Web Semantics 18 (1), 1-17, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 132,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1339009761298751942",
+            "cites_id": [
+                "1339009761298751942"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantics and optimization of the SPARQL 1.1 federation extension",
+                "pub_year": "2011",
+                "citation": "The Semanic Web: Research and Applications: 8th Extended Semantic Web \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8839702041633266985",
+            "cites_id": [
+                "8839702041633266985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQLES: Monitoring public SPARQL endpoints",
+                "pub_year": "2017",
+                "citation": "Semantic web 8 (6), 1049-1065, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6763624970207217570",
+            "cites_id": [
+                "6763624970207217570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 federated query",
+                "pub_year": "2013",
+                "citation": "W3C Recommendation 21, 113, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2090101106869113153",
+            "cites_id": [
+                "2090101106869113153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bindings-restricted triple pattern fragments",
+                "pub_year": "2016",
+                "citation": "OTM Confederated International Conferences\" On the Move to Meaningful \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9200832976258716062",
+            "cites_id": [
+                "9200832976258716062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strategies for executing federated queries in SPARQL1. 1",
+                "pub_year": "2014",
+                "citation": "The Semantic Web\u2013ISWC 2014: 13th International Semantic Web Conference, Riva \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:UebtZRa9Y70C",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16787285791391323474",
+            "cites_id": [
+                "16787285791391323474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GWAS and meta-analysis identifies 49 genetic variants underlying critical COVID-19",
+                "pub_year": "2023",
+                "citation": "Nature 617 (7962), 764-768, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:35N4QoGY0k4C",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8213544599541131185",
+            "cites_id": [
+                "8213544599541131185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking federated SPARQL query engines: Are existing testbeds enough?",
+                "pub_year": "2012",
+                "citation": "The Semantic Web\u2013ISWC 2012: 11th International Semantic Web Conference \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7426308369090649198",
+            "cites_id": [
+                "7426308369090649198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identical and nonidentical twins: risk and factors involved in development of islet autoimmunity and type 1 diabetes",
+                "pub_year": "2019",
+                "citation": "Diabetes care 42 (2), 192-199, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7925551900535005322",
+            "cites_id": [
+                "7925551900535005322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF explorer: A visual SPARQL query builder",
+                "pub_year": "2019",
+                "citation": "The Semantic Web\u2013ISWC 2019: 18th International Semantic Web Conference \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9669702863556723344",
+            "cites_id": [
+                "9669702863556723344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 overview. W3C recommendation",
+                "pub_year": "2013",
+                "citation": "World Wide Web Consortium, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3922626638958741087,6418928150350234996",
+            "cites_id": [
+                "3922626638958741087",
+                "6418928150350234996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: a persistent, open-source, graph database",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2111.01540, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13937813111618314650,16149618772164870084",
+            "cites_id": [
+                "13937813111618314650",
+                "16149618772164870084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D1. 1.3: Neon formalisms for modularization: Syntax, semantics, algebra",
+                "pub_year": "2008",
+                "citation": "Universit\u00e4t Karlsruhe, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7110936404893876912,2636529571495119595",
+            "cites_id": [
+                "7110936404893876912",
+                "2636529571495119595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wdbench: A wikidata graph query benchmark",
+                "pub_year": "2022",
+                "citation": "International Semantic Web Conference, 714-731, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:RGFaLdJalmkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=611730185712166683",
+            "cites_id": [
+                "611730185712166683"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring the status of SPARQL endpoints",
+                "pub_year": "2013",
+                "citation": "International Semantic Web Conference (Posters & Demos) 1380, 3-6, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:TQgYirikUcIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17404129182829255049",
+            "cites_id": [
+                "17404129182829255049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GenoVi, an open-source automated circular genome visualizer for bacteria and archaea",
+                "pub_year": "2023",
+                "citation": "PLOS Computational Biology 19 (4), e1010998, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6607178280535929804",
+            "cites_id": [
+                "6607178280535929804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A preliminary investigation into SPARQL query complexity and federation in Bio2RDF",
+                "pub_year": "2015",
+                "citation": "Alberto mendelzon international workshop on foundations of data management, 196, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12617813885955635288",
+            "cites_id": [
+                "12617813885955635288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of access rights in ontology customization",
+                "pub_year": "2007",
+                "citation": "Deliverable D4 4, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=23246709120591655",
+            "cites_id": [
+                "23246709120591655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 Federated Query, W3C Recommendation",
+                "pub_year": "2013",
+                "citation": "World Wide Web Consortium, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:GnPB-g6toBAC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12394235536279779217",
+            "cites_id": [
+                "12394235536279779217"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontologies for the pharmaceutical case studies",
+                "pub_year": "2007",
+                "citation": "Deliverable D8 3, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12765208607932099033",
+            "cites_id": [
+                "12765208607932099033"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LSQ 2.0: A linked dataset of SPARQL query logs",
+                "pub_year": "2022",
+                "citation": "Semantic Web, 1-23, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17639126303956903173",
+            "cites_id": [
+                "17639126303956903173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF Explorer: A Visual Query Builder for Semantic Web Knowledge Graphs.",
+                "pub_year": "2019",
+                "citation": "ISWC (Satellites), 229-232, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:ldfaerwXgEUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7655713085671520456",
+            "cites_id": [
+                "7655713085671520456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Federated query processing for the semantic web",
+                "pub_year": "2014",
+                "citation": "IOS Press, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18359856177432671914",
+            "cites_id": [
+                "18359856177432671914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of user needs, behaviours & requirements wrt interfaces and navigation of ontologies",
+                "pub_year": "2006",
+                "citation": "Deliverable report D 4, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12511643741915286719",
+            "cites_id": [
+                "12511643741915286719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of methods and models for customizing/personalizing ontologies",
+                "pub_year": "2006",
+                "citation": "NeOn project: From http://www. neonproject. org/web-content/index. php, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13086401969890494171",
+            "cites_id": [
+                "13086401969890494171"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D 4.1. 1 Analysis of user needs, behaviours & requirements wrt user interfaces for ontology engineering",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6772462368184141654",
+            "cites_id": [
+                "6772462368184141654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HLA\u2010A*11:01 and HLA\u2010C*04:01 are associated with severe COVID\u201019",
+                "pub_year": "2023",
+                "citation": "HLA 102 (6), 731-739, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14166941237631726829",
+            "cites_id": [
+                "14166941237631726829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PromoterLCNN: a light CNN-based promoter prediction and classification model",
+                "pub_year": "2022",
+                "citation": "Genes 13 (7), 1126, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10175203555428671540",
+            "cites_id": [
+                "10175203555428671540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SHEPHERD: A Shipping-Based Query Processor to Enhance SPARQL Endpoint Performance.",
+                "pub_year": "2014",
+                "citation": "ISWC (Posters & Demos), 453-456, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=686514508017965615",
+            "cites_id": [
+                "686514508017965615"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 Overview. Recommendation",
+                "pub_year": "2013",
+                "citation": "World Wide Web Consortium (W3C), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:k_IJM867U9cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=571950164601346818",
+            "cites_id": [
+                "571950164601346818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applying SPARQL-DQP for federated SPARQL querying over google fusion tables",
+                "pub_year": "2013",
+                "citation": "The Semantic Web: ESWC 2013 Satellite Events: ESWC 2013 Satellite Events \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2692285965697799306",
+            "cites_id": [
+                "2692285965697799306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of user needs, behaviours and requirements on ontology engineering tools",
+                "pub_year": "2008",
+                "citation": "Deliverable D4 1, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1966929317897040904",
+            "cites_id": [
+                "1966929317897040904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQLES: Monitoring public SPARQL endpoints. Semantic Web, 8 (6): 1049\u20131065, 2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9522984183669144859",
+            "cites_id": [
+                "9522984183669144859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DockerPedia: a Knowledge Graph of Docker Images.",
+                "pub_year": "2018",
+                "citation": "ISWC (P&D/Industry/BlueSky), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:4DMP91E08xMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17916762531659741454",
+            "cites_id": [
+                "17916762531659741454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Storage balancing in P2P based distributed RDF data stores",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3303024765375195576",
+            "cites_id": [
+                "3303024765375195576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL 1.1 federated query. W3C recommendation, W3C",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:BqipwSGYUEgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3102737320807616697",
+            "cites_id": [
+                "3102737320807616697"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NeOn Deliverable D8. 3.1",
+                "pub_year": "2007",
+                "citation": "Ontologies for pharmaceutical case studies, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1863625397293498109",
+            "cites_id": [
+                "1863625397293498109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A user interface for exploring and querying knowledge graphs",
+                "pub_year": "2020",
+                "citation": "International Joint Conferences on Artificial Intelligence, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:isC4tDSrTZIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4732088699194419254",
+            "cites_id": [
+                "4732088699194419254"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust service-based semantic querying to distributed heterogeneous databases",
+                "pub_year": "2009",
+                "citation": "2009 20th International Workshop on Database and Expert Systems Application \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3073063339253136604",
+            "cites_id": [
+                "3073063339253136604"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: An Open-Source Graph Database System",
+                "pub_year": "2023",
+                "citation": "Data Intelligence 5 (3), 560-610, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:70eg2SAEIzsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18374056866491205828",
+            "cites_id": [
+                "18374056866491205828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DockerPedia: A Knowledge Graph of Software Images and Their Metadata",
+                "pub_year": "2022",
+                "citation": "International Journal of Software Engineering and Knowledge Engineering 32 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13410741282381809414",
+            "cites_id": [
+                "13410741282381809414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open Standards for Service-Based Database Access and Integration",
+                "pub_year": "2011",
+                "citation": "Grid and Cloud Database Management, 3-21, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3990717959712348796",
+            "cites_id": [
+                "3990717959712348796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Federating Queries to RDF repositories",
+                "pub_year": "2010",
+                "citation": "Universidad Polit\u00e9cnica de Madrid, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5920235161015619973",
+            "cites_id": [
+                "5920235161015619973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL query execution time prediction using Deep Learning",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5188874630357008763",
+            "cites_id": [
+                "5188874630357008763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neural networks approach to SPARQL query performance prediction",
+                "pub_year": "2021",
+                "citation": "2021 XLVII Latin American Computing Conference (CLEI), 1-9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:hMod-77fHWUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5873123585606099364",
+            "cites_id": [
+                "5873123585606099364"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential privacy and SPARQL",
+                "pub_year": "2021",
+                "citation": "Semantic Web, 1-29, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7483518910395616198",
+            "cites_id": [
+                "7483518910395616198"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards Equivalences for Federated SPARQL Queries",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8549077551671970704",
+            "cites_id": [
+                "8549077551671970704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADMIRE D1. 6-Report on Progress of Model, Language and Ontology Research",
+                "pub_year": "2010",
+                "citation": "ADMIRE Internal Project Report, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:HDshCWvjkbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15355728735782143486",
+            "cites_id": [
+                "15355728735782143486"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WS-DAI RDF (S) realization: Introduction, motivational use cases and terminologies",
+                "pub_year": "2009",
+                "citation": "GWD-I, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11221727281618842174",
+            "cites_id": [
+                "11221727281618842174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a Semantic Web Solutions for Directory Services",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18225516022355370827",
+            "cites_id": [
+                "18225516022355370827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Situated support for choice of representation for a semantic web application",
+                "pub_year": "2005",
+                "citation": "Perspectives in Conceptual Modeling: ER 2005 Workshops AOIS, BP-UML, CoMoGIS \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8335834625580707441",
+            "cites_id": [
+                "8335834625580707441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LETEO: Scalable anonymization of big data and its application to learning analytics",
+                "pub_year": "2021",
+                "citation": "Udelar. FI., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linked data search and exploration interfaces",
+                "pub_year": "2017",
+                "citation": "IET Digital Library, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing the Network Load of Triple Pattern Fragments by Supporting Bind Joins.",
+                "pub_year": "2016",
+                "citation": "ISWC (Posters & Demos), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADMIRE D1. 9\u2013Final report on the ADMIRE model, language and ontology",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADMIRE D1. 5\u2013Report defining an iteration of the model and language: PM3 and DL3",
+                "pub_year": "2009",
+                "citation": "ADMIRE project, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADMIRE\u2013Towards the High-Level DMI Model, Language and Ontology",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D6. 1.2 Report on the user requirements V2",
+                "pub_year": "2008",
+                "citation": "NeOn Project Deliverable, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WEASEL: Vodafone Corporate Semantic Web",
+                "pub_year": "2007",
+                "citation": "University of Innsbruck, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Situated support for choice of representation",
+                "pub_year": "2005",
+                "citation": "The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05 \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First International Workshop on Quality of Information Systems (QoIS 2005)-Information System Models Quality-Situated Support for Choice of Representation for a Semantic Web \u2026",
+                "pub_year": "2005",
+                "citation": "Lecture Notes in Computer Science 3770, 386-397, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a Semantic Web Solution for Directory Services",
+                "pub_year": "2005",
+                "citation": "Institutt for datateknikk og informasjonsvitenskap, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF Explorer",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatizing experiment reproducibility using semantic models and container virtualization",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking Federated SPARQL Query Engines: Are Existing Testbeds Enough? Gabriela Montoya, Mar\u00eda-Esther Vidal, Oscar Corcho",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D 4.1. 2 Analysis of user needs, behaviours & requirements on ontology engineering tools",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "D1. 1.3 NeOn Formalisms for Modularization: Syntax, Semantics, Algebra",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards reproducibility of computational environments for Scientific Experiments using Container-based virtualization.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "2m8bkeEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

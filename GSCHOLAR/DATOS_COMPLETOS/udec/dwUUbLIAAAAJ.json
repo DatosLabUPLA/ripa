@@ -1,0 +1,68 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "dwUUbLIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe M. Quinteros",
+    "affiliation": "Ms, Physics, Universidad de Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Quantum optics",
+        "Condensed matter physics",
+        "Computational physics"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 7,
+        "2023": 3,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the Role of Oxygen and Hydrogen Defects in Modulating the Optoelectronic Properties of P-Type Metal Oxide Semiconductors",
+                "pub_year": "2021",
+                "citation": "Chemistry of Materials 33 (19), 7829-7838, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dwUUbLIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4456946979348221924",
+            "cites_id": [
+                "4456946979348221924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First principles simulation of the stimulated Raman spectrum of CuBi2O4",
+                "pub_year": "2022",
+                "citation": "Bulletin of the American Physical Society, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dwUUbLIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

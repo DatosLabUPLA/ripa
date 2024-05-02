@@ -1,0 +1,131 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cdE3hn8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebastian Andr\u00e9s Toro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cdE3hn8AAAAJ&citpid=2",
+    "affiliation": "Profesor Asistente, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Composite Materials",
+        "Mechanics of Materials",
+        "FEM"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 14,
+    "citedby5y": 14,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 2,
+        "2023": 2,
+        "2024": 7
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8fVIl10AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Garcia Herrera",
+            "affiliation": "Profesor Titular, Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ppsbIgkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u00c1lvaro Ridruejo",
+            "affiliation": "Universidad Polit\u00e9cnica de Madrid - UPM (Technical University of Madrid)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qUz8PQ4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan P. Fern\u00e1ndez Bl\u00e1zquez",
+            "affiliation": "Institute IMDEA Materials"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the elastoplastic response in the torsion test applied to a cylindrical sample",
+                "pub_year": "2019",
+                "citation": "Materials 12 (19), 3200, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cdE3hn8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15884576618194754143",
+            "cites_id": [
+                "15884576618194754143"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of Processing Conditions and Mechanical Properties for PEEK/PEI Multilayered Blends",
+                "pub_year": "2022",
+                "citation": "Polymers 14 (21), 4597, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cdE3hn8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17848931610542205115",
+            "cites_id": [
+                "17848931610542205115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of fiber-matrix interface on the mechanical response of a woven carbon fiber/PEEK composite material",
+                "pub_year": "2022",
+                "citation": "Materials 15 (20), 7340, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cdE3hn8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8834529086937661937",
+            "cites_id": [
+                "8834529086937661937"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid numerical\u2013experimental strategy for damage characterization of SAE 1045 steel",
+                "pub_year": "2024",
+                "citation": "European Journal of Mechanics-A/Solids 103, 105169, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "cdE3hn8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2905057220618126519",
+            "cites_id": [
+                "2905057220618126519"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

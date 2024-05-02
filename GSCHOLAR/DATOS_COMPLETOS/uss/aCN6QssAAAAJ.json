@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "aCN6QssAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Anais Tapia",
+    "affiliation": "Universidad San Sebasti\u00e1n",
+    "organization": 1812728570911196340,
+    "interests": [
+        "salud"
+    ],
+    "email_domain": "@correo.uss.cl",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 4,
+        "2022": 7,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Situational factors driving climate change mitigation behaviors: The key role of pro-environmental family",
+                "pub_year": "2020",
+                "citation": "Environment, Development and Sustainability 22, 7269-7285, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aCN6QssAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=289617648595379639",
+            "cites_id": [
+                "289617648595379639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Affinity towards Diversity Using the Implicit Association Test and Self-Reports",
+                "pub_year": "2019",
+                "citation": "Sustainability 11 (20), 5825, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aCN6QssAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4238398459647686686",
+            "cites_id": [
+                "4238398459647686686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Make way for pedestrian: an examination of driver-pedestrian interaction in the sociophysical traffic environment in a Mexican city",
+                "pub_year": "2018",
+                "citation": "LUCAS, MARC YANCY, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aCN6QssAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

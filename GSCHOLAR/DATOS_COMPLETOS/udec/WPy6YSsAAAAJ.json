@@ -1,0 +1,101 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WPy6YSsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Aravena",
+    "affiliation": "MSc Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Qu\u00edmica Anal\u00edtica",
+        "Alimentos",
+        "Electroquimica"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wWhnScMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Gustavo Pe\u00f1a Farfal",
+            "affiliation": "Universidad Aut\u00f3noma de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Rlyxs2IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodolfo Mundaca-Uribe",
+            "affiliation": "Associate Professor. School of Pharmacy, University of Concepcion"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETERMINATION OF ANTIOXIDANT CAPACITY (ORAC) OF GREIGIA SPHACELATA AND CORRELATION WITH VOLTAMMETRIC METHODS",
+                "pub_year": "2020",
+                "citation": "Journal of the Chilean Chemical Society 65 (3), 4925-4928, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WPy6YSsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15482976177444386410",
+            "cites_id": [
+                "15482976177444386410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of chemical and physical variables in the photo-electrochemical removal of estriol (E3) and 17e-Ethinylestradiol (EE2) in aqueous solution.",
+                "pub_year": "2018",
+                "citation": "Journal of the Chilean Chemical Society 65 (3), 6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WPy6YSsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16773114382257791093",
+            "cites_id": [
+                "16773114382257791093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlaci\u00f3n entre m\u00e9todos espectrofotom\u00e9tricos y electroqu\u00edmicos para la determinaci\u00f3n de la capacidad antioxidante en frutos silvestres.",
+                "pub_year": "2020",
+                "citation": "Universidad de Concepci\u00f3n, Facultad de Ciencias Qu\u00edmicas., 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WPy6YSsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

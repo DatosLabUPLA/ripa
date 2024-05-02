@@ -1,0 +1,107 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "A2M7lIMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Renzo Stanley",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [],
+    "email_domain": "@usm.cl",
+    "citedby": 26,
+    "citedby5y": 4,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 4,
+        "2016": 8,
+        "2017": 5,
+        "2018": 4,
+        "2019": 2,
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "32ekRVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Astudillo",
+            "affiliation": "UTFSM (on sabbatical) & UNAB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OzoUv3AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amedeo Napoli",
+            "affiliation": "Senior researcher in computer science, LORIA (CNRS - Inria - U. Lorraine), Nancy"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology and semantic wiki for an intangible cultural heritage inventory",
+                "pub_year": "2013",
+                "citation": "2013 XXXIX Latin American Computing Conference (CLEI), 1-12, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "A2M7lIMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16594447411481117659",
+            "cites_id": [
+                "16594447411481117659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conceptual-kdd approach and its application to cultural heritage",
+                "pub_year": "2013",
+                "citation": "Concept Lattices and their Applications, 163-174, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "A2M7lIMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2747447046867832929",
+            "cites_id": [
+                "2747447046867832929"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Conceptual-KDD Tool for Ontology Construction from a Database Schema.",
+                "pub_year": "2015",
+                "citation": "FCA4AI@ IJCAI, 17-26, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "A2M7lIMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13979923164578015299",
+            "cites_id": [
+                "13979923164578015299"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

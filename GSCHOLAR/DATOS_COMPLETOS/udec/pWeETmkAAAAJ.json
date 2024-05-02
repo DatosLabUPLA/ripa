@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pWeETmkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pamela Catal\u00e1n",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pWeETmkAAAAJ&citpid=1",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Entrelazamiento Cu\u00e1ntico",
+        "Gravedad topol\u00f3gica."
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The joint measurement entanglement can significantly offset the effect of a noisy channel in teleportation",
+                "pub_year": "2018",
+                "citation": "Journal of Physics A: Mathematical and Theoretical 51 (21), 215301, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pWeETmkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15429102027125562612",
+            "cites_id": [
+                "15429102027125562612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A noisy channel less entangled than a pure can improve teleportation",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1710.04311, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pWeETmkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

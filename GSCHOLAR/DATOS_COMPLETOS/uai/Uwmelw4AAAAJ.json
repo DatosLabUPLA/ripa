@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Uwmelw4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Maurice Poirrier",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Uwmelw4AAAAJ&citpid=1",
+    "affiliation": "Alumni Universidad Adolfo Ib\u00e1\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Machine learning",
+        "Data operations"
+    ],
+    "email_domain": "@alumnos.uai.cl",
+    "homepage": "http://maurice.cl/",
+    "citedby": 20,
+    "citedby5y": 19,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 3,
+        "2023": 10
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1pEtteIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Moreno",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q8gupOsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Huerta-Canepa",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust h-index",
+                "pub_year": "2021",
+                "citation": "Scientometrics 126, 1969-1981, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Uwmelw4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4698775127215474359",
+            "cites_id": [
+                "4698775127215474359"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

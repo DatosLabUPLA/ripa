@@ -1,0 +1,411 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "9jBUrwcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Crespo Vergara",
+    "affiliation": "Associate Professor, University of Santiago",
+    "organization": 605437563739143535,
+    "interests": [
+        "spatial econometrics",
+        "real estate risk analysis"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://www.digea.usach.cl/",
+    "citedby": 1015,
+    "citedby5y": 699,
+    "hindex": 12,
+    "hindex5y": 10,
+    "i10index": 12,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2008": 4,
+        "2009": 2,
+        "2010": 2,
+        "2011": 10,
+        "2012": 19,
+        "2013": 22,
+        "2014": 26,
+        "2015": 33,
+        "2016": 56,
+        "2017": 63,
+        "2018": 74,
+        "2019": 83,
+        "2020": 113,
+        "2021": 143,
+        "2022": 148,
+        "2023": 147,
+        "2024": 65
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BZB9HSAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adrienne Gr\u00eat-Regamey",
+            "affiliation": "ETH Z\u00fcrich"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geographical and temporal weighted regression (GTWR)",
+                "pub_year": "2015",
+                "citation": "Geographical Analysis 47 (4), 431-452, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 432,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15536863918860849385",
+            "cites_id": [
+                "15536863918860849385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The use of geographically weighted regression for spatial prediction: an evaluation of models using simulated data sets",
+                "pub_year": "2010",
+                "citation": "Mathematical Geosciences 42, 657-680, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 209,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14701091421464837300",
+            "cites_id": [
+                "14701091421464837300"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the importance of non-linear relationships between landscape patterns and the sustainable provision of ecosystem services",
+                "pub_year": "2014",
+                "citation": "Landscape ecology 29, 201-212, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12710873292883498043",
+            "cites_id": [
+                "12710873292883498043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring, modelling and predicting spatiotemporal variations in house prices",
+                "pub_year": "2015",
+                "citation": "The Annals of Regional Science 54, 417-436, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4265401581782216147",
+            "cites_id": [
+                "4265401581782216147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local hedonic house-price modelling for urban planners: advantages of using local regression techniques",
+                "pub_year": "2013",
+                "citation": "Environment and Planning B: Planning and Design 40 (4), 664-682, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5135278539007986660",
+            "cites_id": [
+                "5135278539007986660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of geographically weighted regression to a 19-year set of house price data in London to calibrate local hedonic price models",
+                "pub_year": "2007",
+                "citation": "Proceedings of the 9th International Conference on Geocomputation, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=192533416505245883",
+            "cites_id": [
+                "192533416505245883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Property valuation using machine learning algorithms: A study in a Metropolitan-Area of Chile",
+                "pub_year": "2016",
+                "citation": "Selection at the AMSE Conferences, 97, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5014995408868052137",
+            "cites_id": [
+                "5014995408868052137"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A spatially explicit analysis of chronic diseases in small areas: a case study of diabetes in Santiago, Chile",
+                "pub_year": "2020",
+                "citation": "International Journal of Health Geographics 19 (1), 24, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12736936709553485799",
+            "cites_id": [
+                "12736936709553485799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Planning from a future vision: inverse modeling in spatial planning",
+                "pub_year": "2011",
+                "citation": "Environment and Planning B: Planning and Design 38 (6), 979-994, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13954652737985848427",
+            "cites_id": [
+                "13954652737985848427"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatially explicit inverse modeling for urban planning",
+                "pub_year": "2012",
+                "citation": "Applied Geography 34, 47-56, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10473726185885497239",
+            "cites_id": [
+                "10473726185885497239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the spatially explicit Gini coefficient: the case study of Chile\u2014a high-income developing country",
+                "pub_year": "2020",
+                "citation": "Letters in Spatial and Resource Sciences 13 (1), 37-47, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:qjMakFHDy7sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7929867084648897947",
+            "cites_id": [
+                "7929867084648897947"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Can we use OpenStreetMap POIs for the Evaluation of Urban Accessibility?",
+                "pub_year": "2016",
+                "citation": "International Conference on GIScience 2016At: Montreal, Canada, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=804068156024564840",
+            "cites_id": [
+                "804068156024564840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Erratum to: The Use of Geographically Weighted Regression for Spatial Prediction: An Evaluation of Models Using Simulated Data Sets",
+                "pub_year": "2011",
+                "citation": "Mathematical Geosciences 43 (3), 399, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:roLk4NBRz8UC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2199671866816750358",
+            "cites_id": [
+                "2199671866816750358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical extensions of GWR: Spatial interpolation and a spatiotemporal approach",
+                "pub_year": "2009",
+                "citation": "National University of Ireland, Maynooth, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:UebtZRa9Y70C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13259930124812424991",
+            "cites_id": [
+                "13259930124812424991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INVERSE MODEL USING LAND AND PROPERTY SUB-SYSTEMS FOR PLANNING FUTURE CITIES: A GENERAL FRAMEWORK.",
+                "pub_year": "2022",
+                "citation": "Journal of Urban & Regional Analysis 14 (1), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12791613822133569428",
+            "cites_id": [
+                "12791613822133569428"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining Geographically Weighted Regression and Geovisual Analytics to investigate temporal variations in house price determinants across London in the period 1980-1998",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7659307538102904536",
+            "cites_id": [
+                "7659307538102904536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using spatial autologistic regression for predicting urban growth",
+                "pub_year": "2023",
+                "citation": "Journal of Spatial Science 68 (4), 651-666, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15518016680065062748",
+            "cites_id": [
+                "15518016680065062748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Participatory Planning Process for Controlling Urbanization: an Inverse Model Approach",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15120773632099658936",
+            "cites_id": [
+                "15120773632099658936"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial allocation of polling places considering urban mobility applied to Santiago, Chile",
+                "pub_year": "2023",
+                "citation": "XV Congreso de Ingenier\u00eda del Transporte (15\u00ba. La Laguna. 2023), 608-617, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Spatially explicit analysis of health inequalities using spatial microsimulation and self-organizing maps",
+                "pub_year": "2019",
+                "citation": "Conference: New Zealand Geospatial Research ConferenceAt: Queenstown, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Spatially explicit analysis of health inequalities using spatial microsimulation and self-organizing maps",
+                "pub_year": "2019",
+                "citation": "Conference: New Zealand Geospatial Research ConferenceAt: Queenstown, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realizing Transition Pathways to Provide Required Ecosystem Services\u2013an Inverse Approach",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial Planning \u2013 an Inverse Problem?",
+                "pub_year": "2011",
+                "citation": "Geocomputation, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9jBUrwcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

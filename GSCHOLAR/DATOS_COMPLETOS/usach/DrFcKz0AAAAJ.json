@@ -1,0 +1,75 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DrFcKz0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javiera Catalan Conejeros",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swirling fluid reduces the bounce of partially filled containers",
+                "pub_year": "2023",
+                "citation": "Physical Review Letters 130 (24), 244001, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DrFcKz0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451804069546698013",
+            "cites_id": [
+                "3451804069546698013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swirling Fluid Reduces the Bounce of Partially Filled Containers",
+                "pub_year": "2023",
+                "citation": "Bulletin of the American Physical Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DrFcKz0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fluid motion for reducing the bounce of partially filled containers",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.03971, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DrFcKz0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "J8T4N2UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ivan Rojas Jofre",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=J8T4N2UAAAAJ&citpid=2",
+    "affiliation": "Universidad Catolica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Data Science | Software Development | IA | Robotics | Machine Learning | Computer Vision"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 19,
+    "citedby5y": 10,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 1,
+        "2016": 3,
+        "2017": 1,
+        "2018": 2,
+        "2019": 3,
+        "2020": 2,
+        "2021": 4,
+        "2022": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3hMydg4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Babette Dellen",
+            "affiliation": "RheinAhrCampus der Hochschule Koblenz"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volume measurement with a consumer depth camera based on structured infrared light",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 16th Catalan Conference on Artificial Intelligence \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "J8T4N2UAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11011137601526542419",
+            "cites_id": [
+                "11011137601526542419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning algorithms analysis applied in the obtainment of projections of different variables in a hydrometallurgical process.",
+                "pub_year": "2021",
+                "citation": "https://drive.google.com/file/d/1zlaWhk_-u_gdiUAPw833dkajV15iN5np/view?usp \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "J8T4N2UAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Habilidades de navegaci\u00f3n para el robot WAM (real o simulado)",
+                "pub_year": "2012",
+                "citation": "Universitat Polit\u00e8cnica de Catalunya, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "J8T4N2UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Habilidades de navegaci\u00f3n para el robot WAM (real o simulado)",
+                "pub_year": "2012",
+                "citation": "Universitat Polit\u00e8cnica de Catalunya. Escola Polit\u00e8cnica Superior d \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "J8T4N2UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

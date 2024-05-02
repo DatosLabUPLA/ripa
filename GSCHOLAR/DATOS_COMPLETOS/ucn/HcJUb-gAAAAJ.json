@@ -1,0 +1,115 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HcJUb-gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Katherine Aro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HcJUb-gAAAAJ&citpid=2",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "control fuzzy",
+        "procesos de propagaci\u00f3n"
+    ],
+    "email_domain": "@alumnos.ucn.cl",
+    "homepage": "https://orcid.org/0000-0001-8784-6540",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n de diferentes estrategias de control para sistemas con retardo",
+                "pub_year": "2019",
+                "citation": "Ciencia e Ingenier\u00eda 40 (3), 303-310, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HcJUb-gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17876611459084263408",
+            "cites_id": [
+                "17876611459084263408"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decentralized control versus a Fuzzy supervisory control: A comparison in a Quadruple-Tank Process",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Third Ecuador Technical Chapters Meeting (ETCM), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HcJUb-gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7414339472318316870",
+            "cites_id": [
+                "7414339472318316870"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Nonlinear Model Predictive Controller for Trajectory Planning of Skid-Steer Mobile Robots in Agricultural Environments",
+                "pub_year": "2023",
+                "citation": "2023 IEEE Conference on AgriFood Electronics (CAFE), 65-69, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HcJUb-gAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16564108140484954961",
+            "cites_id": [
+                "16564108140484954961"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Convolutional Neural Networks for Asset Detection in Dynamic Automation Construction Environments",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HcJUb-gAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning-Based Gain-Scheduling of Trajectory Tracking Controllers for Agricultural Mobile Manipulators Under Off-Road Conditions",
+                "pub_year": "2023",
+                "citation": "2023 21st International Conference on Advanced Robotics (ICAR), 49-55, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HcJUb-gAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

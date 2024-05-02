@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "n-P2-NwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Matias Vial Vial",
+    "affiliation": "Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "Optical communications",
+        "laser propagation",
+        "optical vortices",
+        "robotics"
+    ],
+    "email_domain": "@miuandes.cl",
+    "citedby": 46,
+    "citedby5y": 26,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2015": 3,
+        "2016": 9,
+        "2017": 5,
+        "2018": 3,
+        "2019": 5,
+        "2020": 5,
+        "2021": 5,
+        "2022": 8,
+        "2023": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0W-BzeAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime A. Anguita",
+            "affiliation": "Professor, Universidad de los Andes - Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orbital-angular-momentum crosstalk and temporal fading in a terrestrial laser link using single-mode fiber coupling",
+                "pub_year": "2015",
+                "citation": "Optics express 23 (18), 23133-23142, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "n-P2-NwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2645609458578181147",
+            "cites_id": [
+                "2645609458578181147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of OAM states affected by turbulence for high-speed short-range links",
+                "pub_year": "2014",
+                "citation": "Frontiers in Optics, FTh3B. 5, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "n-P2-NwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1646372823117001849",
+            "cites_id": [
+                "1646372823117001849"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XrGbnK0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebastian Galaz",
+    "affiliation": "Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "vision artificial",
+        "robotica"
+    ],
+    "email_domain": "@miuandes.cl",
+    "homepage": "https://sigalaz.github.io/",
+    "citedby": 16,
+    "citedby5y": 16,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 4,
+        "2022": 3,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning for image-based classification of OAM modes in laser beams propagating through convective turbulence",
+                "pub_year": "2019",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VIII \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "XrGbnK0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8603763858286781906",
+            "cites_id": [
+                "8603763858286781906"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

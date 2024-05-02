@@ -1,0 +1,320 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "xOSxPPAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Ponce Mella",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xOSxPPAAAAAJ&citpid=2",
+    "affiliation": "Computer Science PhD. Student, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Microservices",
+        "Architectural Smells",
+        "Software Engineering",
+        "Microservices security"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 245,
+    "citedby5y": 240,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 2,
+        "2019": 4,
+        "2020": 14,
+        "2021": 52,
+        "2022": 54,
+        "2023": 98,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "32ekRVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Astudillo",
+            "affiliation": "UTFSM (on sabbatical) & UNAB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "k4sVHoUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jacopo Soldani",
+            "affiliation": "University of Pisa, Italy"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "l8BfIEoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gast\u00f3n M\u00e1rquez",
+            "affiliation": "PhD in Informatics Engineering, B\u00edo-B\u00edo University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Elr8_KwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rene Noel",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u7YQWusAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Munoz-Soto",
+            "affiliation": "School of Informatics Engineering, Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iLaBvHQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Riquelme",
+            "affiliation": "Universidad de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Migrating from monolithic architecture to microservices: A Rapid Review",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 145,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1758418385880240611",
+            "cites_id": [
+                "1758418385880240611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smells and refactorings for microservices security: A multivocal literature review",
+                "pub_year": "2022",
+                "citation": "Journal of Systems and Software 192, 111393, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4641583993491164337",
+            "cites_id": [
+                "4641583993491164337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multimodal real-time feedback platform based on spoken interactions for remote active learning support",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (21), 6337, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13049207176965848069",
+            "cites_id": [
+                "13049207176965848069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resultados funcionales tras entrenamiento fisioterap\u00e9utico que incluye la realidad virtual en mayores de 60 a\u00f1os con artroplastia total de cadera: estudio descriptivo",
+                "pub_year": "2017",
+                "citation": "Fisioterapia 39 (6), 236-241, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995328148495530753",
+            "cites_id": [
+                "8995328148495530753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Should microservice security smells stay or be refactored? towards a trade-off analysis",
+                "pub_year": "2022",
+                "citation": "European Conference on Software Architecture, 131-139, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16147351775395156905",
+            "cites_id": [
+                "16147351775395156905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using app inventor to change perceptions about software engineering",
+                "pub_year": "2016",
+                "citation": "2016 35th International Conference of the Chilean Computer Science Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7007668375666650915",
+            "cites_id": [
+                "7007668375666650915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing Architectural Evaluations and Identifying Quality Attributes addressed in Systems-of-Systems: A Systematic Mapping Study",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3777855791055716061",
+            "cites_id": [
+                "3777855791055716061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reference model for outside-in open innovation platforms",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 17th International Symposium on Open Collaboration, 1-8, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15065835884492846960",
+            "cites_id": [
+                "15065835884492846960"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frameworks and High-Availability in Microservices: An Industrial Survey.",
+                "pub_year": "2020",
+                "citation": "CIbSE, 57-70, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=285331646508591952",
+            "cites_id": [
+                "285331646508591952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards resolving security smells in microservices, model-driven",
+                "pub_year": "2023",
+                "citation": "18th International Conference on Software Technologies (ICSOFT), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455381095284577599",
+            "cites_id": [
+                "5455381095284577599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards resolving security smells in microservice-based applications",
+                "pub_year": "2021",
+                "citation": "Advances in Service-Oriented and Cloud Computing: International Workshops of \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17289531243665674940",
+            "cites_id": [
+                "17289531243665674940"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using expert knowledge to propose recreational marine reef\u2010fish management measures in Chile",
+                "pub_year": "2024",
+                "citation": "Conservation Science and Practice, e13057, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "To Security and Beyond: On The Impacts of Microservice Security Smells and Refactorings",
+                "pub_year": "2023",
+                "citation": "2023 XLIX Latin American Computer Conference (CLEI), 1-10, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microservices Security: Bad vs. Good Practices",
+                "pub_year": "2022",
+                "citation": "European Conference on Software Architecture, 337-352, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing Architectural Evaluations and Quality Attributes addressed in Systems-of-Systems: A Systematic Mapping Study",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "xOSxPPAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "knUy7tsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Del Fierro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=knUy7tsAAAAJ&citpid=1",
+    "affiliation": "Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Criminal Law",
+        "Criminal Justice",
+        "Policing",
+        "Legal theory"
+    ],
+    "email_domain": "@edu.uai.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 5,
+        "2021": 2,
+        "2022": 2,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UHM12b0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Wilenmann",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La determinaci\u00f3n de la pena en la pr\u00e1ctica judicial chilena",
+                "pub_year": "2019",
+                "citation": "Pol\u00edtica criminal 14 (27), 456-490, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "knUy7tsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8956461242780418432",
+            "cites_id": [
+                "8956461242780418432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00bfPeligro para la seguridad de la sociedad? Una mirada cr\u00edtica",
+                "pub_year": "2021",
+                "citation": "Derecho Procesal Penal. Una mirada a 20 a\u00f1os de reformas en Chile y Brasil \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "knUy7tsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

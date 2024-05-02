@@ -1,0 +1,95 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zLa6nHkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Ubal Nu\u00f1ez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zLa6nHkAAAAJ&citpid=1",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "Series de Tiempo",
+        "Deep Learning"
+    ],
+    "email_domain": "@postgrado.uv.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volatility forecasting using deep recurrent neural networks as GARCH models",
+                "pub_year": "2023",
+                "citation": "Computational Statistics, 1-27, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zLa6nHkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8332051465849744413",
+            "cites_id": [
+                "8332051465849744413"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the Long-Term Dependencies in Time Series Using Recurrent Artificial Neural Networks",
+                "pub_year": "2023",
+                "citation": "Machine Learning and Knowledge Extraction 5 (4), 1340-1358, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zLa6nHkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15486781505674812954",
+            "cites_id": [
+                "15486781505674812954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de las dependencias a largo plazo en series temporales mediante Redes Neuronales Recurrentes informadas por la estad\u00edstica",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zLa6nHkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de la inflaci\u00f3n mediante el modelo ARFIMA-GARCH",
+                "pub_year": "2013",
+                "citation": "Universidad de Concepci\u00f3n, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "zLa6nHkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

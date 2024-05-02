@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oAbWTskAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Felipe Gonzalez Saavedra",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oAbWTskAAAAJ&citpid=2",
+    "affiliation": "PhD Student Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "sistemas de asistencia a la conducci\u00f3n",
+        "redes vehiculares",
+        "inteligencia artificial",
+        "IoT"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 8,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Survey of cooperative advanced driver assistance systems: from a holistic and systemic vision",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (8), 3040, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oAbWTskAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9438345937676037749",
+            "cites_id": [
+                "9438345937676037749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o y simulaci\u00f3n de antenas empleadas en aplicaciones de UWB",
+                "pub_year": "2012",
+                "citation": "Universidad Central \u201cMarta Abreu\u201d de Las Villas, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "oAbWTskAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

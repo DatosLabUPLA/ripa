@@ -1,0 +1,89 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WJmPT0EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Vidal Mu\u00f1oz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WJmPT0EAAAAJ&citpid=8",
+    "affiliation": "Universidad de Santiago",
+    "organization": 605437563739143535,
+    "interests": [
+        "egalitarianism",
+        "inequality",
+        "distributive justice",
+        "political philosophy",
+        "public administration"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ScefTEoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alberto Mayol",
+            "affiliation": "Universidad de Santiago"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apor\u00edas del proceso refundacional chileno",
+                "pub_year": "2021",
+                "citation": "Revista de Ciencias Sociales Ambos Mundos 2, 37-46, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WJmPT0EAAAAJ:tzM49s52ZIMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10827377563133653229,9333950029484047618",
+            "cites_id": [
+                "10827377563133653229",
+                "9333950029484047618"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "International perspectives on public administration. By Henry T. Sardaryan, Oxfordshire: Routledge. 2021. pp. 124. $47.96 (hbk)",
+                "pub_year": "2022",
+                "citation": "Governance: An International Journal of Policy Administration and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WJmPT0EAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emprendedores del ecosistema de innovaci\u00f3n y emprendimiento OpenBeauchef: Caracterizaci\u00f3n de un modelo cultural del emprendimiento",
+                "pub_year": "2019",
+                "citation": "Universidad de Chile, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WJmPT0EAAAAJ:evX43VCCuoAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

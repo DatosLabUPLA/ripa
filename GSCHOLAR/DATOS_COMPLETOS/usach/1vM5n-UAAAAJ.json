@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1vM5n-UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gustavo A. B\u00e1ez Castillo",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "International Studies"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 32,
+    "citedby5y": 20,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 3,
+        "2017": 1,
+        "2018": 6,
+        "2019": 5,
+        "2020": 6,
+        "2021": 1,
+        "2022": 5,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chile y la OCDE: La dicotom\u00eda entre lo macroecon\u00f3mico y el desarrollo humano",
+                "pub_year": "2014",
+                "citation": "Estudios internacionales (Santiago) 46 (179), 9-34, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1vM5n-UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10303595306068540353",
+            "cites_id": [
+                "10303595306068540353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chile en la OCDE. Un an\u00e1lisis comparado de los est\u00e1ndares sociales y econ\u00f3micos de Chile y los pa\u00edses OCDE, en relaci\u00f3n con los est\u00e1ndares de desempe\u00f1o de sus sistemas educativos",
+                "pub_year": "2013",
+                "citation": "Universidad de Chile, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1vM5n-UAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chile and the OECD. A dichotomy between macroeconomic results and human development",
+                "citation": "Universidad de Chile. Instituto de Estudios Internacionales, 0"
+            },
+            "filled": false,
+            "author_pub_id": "1vM5n-UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

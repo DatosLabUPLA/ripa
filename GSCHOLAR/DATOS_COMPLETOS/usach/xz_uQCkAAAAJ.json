@@ -1,0 +1,69 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "xz_uQCkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Espinosa",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Pol\u00edticas P\u00fablicas",
+        "Educaci\u00f3n",
+        "Macroeconom\u00eda"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 17,
+    "citedby5y": 17,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 8,
+        "2023": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determinantes de g\u00e9nero en las pol\u00edticas de movilidad urbana en Am\u00e9rica Latina",
+                "pub_year": "2019",
+                "citation": "CEPAL, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "xz_uQCkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13517488041354225085,4032343639889192124",
+            "cites_id": [
+                "13517488041354225085",
+                "4032343639889192124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Programas de Salud P\u00fablica y Salud Mental de los J\u00f3venes en Chile: Evidencia de los Espacios Amigables",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "xz_uQCkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

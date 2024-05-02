@@ -1,0 +1,143 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6qGQGIsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Patricio Salas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6qGQGIsAAAAJ&citpid=1",
+    "affiliation": "Assistant Professor, Department of Statistics, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Discrete Choice Models",
+        "Applied Machine Learning",
+        "Statistics",
+        "Travel Modeling",
+        "Transport"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 50,
+    "citedby5y": 47,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 0,
+        "2020": 2,
+        "2021": 1,
+        "2022": 5,
+        "2023": 24,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oeu314AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo De la Fuente",
+            "affiliation": "Assistant Professor, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NeThwLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Astroza",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ISfefdYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Antonio Carrasco",
+            "affiliation": "Professor, Department of Civil Engineering, Universidad de Concepci\u00f3n, Chile. CEDEUS"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A systematic comparative evaluation of machine learning classifiers and discrete choice models for travel mode choice in the presence of response heterogeneity",
+                "pub_year": "2022",
+                "citation": "Expert Systems with Applications 193, 116253, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6qGQGIsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1552824551537914630",
+            "cites_id": [
+                "1552824551537914630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptaci\u00f3n y validaci\u00f3n de la versi\u00f3n chilena del cuestionario \u201cEvaluaci\u00f3n de la Atenci\u00f3n de Enfermedades Cr\u00f3nicas para pacientes\u201d",
+                "pub_year": "2017",
+                "citation": "Revista m\u00e9dica de Chile 145 (7), 869-878, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "6qGQGIsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6554690222102510834",
+            "cites_id": [
+                "6554690222102510834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Physician's Perspective on the Incorporation of Pictograms as a Supplement to Medical Instructions in Chile: A Pilot Study",
+                "pub_year": "2023",
+                "citation": "IRBM 44 (1), 100712, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6qGQGIsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7448904593829370796",
+            "cites_id": [
+                "7448904593829370796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelos de Series de Tiempo para Predecir el N\u00famero de Casos de Variantes Dominantes del SARS-COV-2 Durante las Olas Epid\u00e9micas en Chile",
+                "pub_year": "2022",
+                "citation": "Revista Polit\u00e9cnica 50 (3), 17-26, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6qGQGIsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analizing the Variable Importance from Multinomial Logit Model Using Shapley Values-Based Methods: A Travel Mode Choiceapplication",
+                "citation": "Available at SSRN 4571403, 0"
+            },
+            "filled": false,
+            "author_pub_id": "6qGQGIsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

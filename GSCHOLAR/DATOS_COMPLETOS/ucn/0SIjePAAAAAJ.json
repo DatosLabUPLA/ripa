@@ -1,0 +1,138 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "0SIjePAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ivan Jiron Araya",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0SIjePAAAAAJ&citpid=1",
+    "affiliation": "Profesor Departamento de Matem\u00e1ticas, Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Cryptography",
+        "DNA computing",
+        "Neural Networks"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 3,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 0,
+        "2015": 1,
+        "2016": 0,
+        "2017": 0,
+        "2018": 0,
+        "2019": 0,
+        "2020": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P1dxp0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ismael Soto",
+            "affiliation": "Professor, Electrical Department, USACH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ajkqdVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sabrina Mar\u00edn",
+            "affiliation": "Researcher, Universidad Catolica del Norte, Antofagasta, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WxrcS0QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Acosta Grinok",
+            "affiliation": "Academic, Centro de Biotecnolog\u00eda, Universidad Cat\u00f3lica del Norte"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mSQUBH8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Azurdia",
+            "affiliation": "Associate Professor, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Public Key Cryptography Algorithm Using Chaotic Systems and Hyperelliptic Curves.",
+                "pub_year": "2006",
+                "citation": "10th WSEAS International Conference on systems, Vouliagmeni, Athens, Greece \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "0SIjePAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11466069046757160267",
+            "cites_id": [
+                "11466069046757160267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data Storage and Retrieval on Nanoparticles",
+                "pub_year": "2017",
+                "citation": "IEEE Latin America Transactions 15 (7), 1238-1243, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0SIjePAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9337782993809751064,12309487204358125827,12982675042455333881,325752701450471309,16875595140651335998",
+            "cites_id": [
+                "9337782993809751064",
+                "12309487204358125827",
+                "12982675042455333881",
+                "325752701450471309",
+                "16875595140651335998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new key exchange algorithm over a VLC indoor channel",
+                "pub_year": "2017",
+                "citation": "2017 First South American Colloquium on Visible Light Communications (SACVLC \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "0SIjePAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaciones de la Criptograf\u00eda en Ciberseguridad",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "0SIjePAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ZwMkzEsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Portilla G\u00f3mez",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Machine Learning",
+        "Combustion"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tYkSQiQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Carvajal",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nzPZGyYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Jos\u00e9 Cruz Villanueva",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XusGcIUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alonso Rodriguez",
+            "affiliation": ""
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving Broadband Emission-Based Soot Pyrometry Using Convolutional Neural Networks",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Instrumentation and Measurement Technology \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ZwMkzEsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12132699738026918548",
+            "cites_id": [
+                "12132699738026918548"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards low-cost soot pyrometry in laminar flames using broadband emission measurements and Artificial Neural Networks",
+                "pub_year": "2023",
+                "citation": "Journal of the Energy Institute 109, 101258, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ZwMkzEsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13014591278422514901",
+            "cites_id": [
+                "13014591278422514901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic Classification of Soot Propensity in Flames Using Image Processing and Machine Learning",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ZwMkzEsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

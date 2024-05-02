@@ -1,0 +1,551 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2LCZdhEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ian Burbulis",
+    "affiliation": "Assistant Professor, Universidad San Sebastian",
+    "organization": 1812728570911196340,
+    "interests": [
+        "Lifespan",
+        "Genomics",
+        "Somatic Mosaicism"
+    ],
+    "email_domain": "@uss.cl",
+    "citedby": 1488,
+    "citedby5y": 482,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 9,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "1997": 8,
+        "1998": 16,
+        "1999": 14,
+        "2000": 25,
+        "2001": 41,
+        "2002": 40,
+        "2003": 38,
+        "2004": 30,
+        "2005": 54,
+        "2006": 53,
+        "2007": 69,
+        "2008": 56,
+        "2009": 47,
+        "2010": 56,
+        "2011": 46,
+        "2012": 51,
+        "2013": 60,
+        "2014": 50,
+        "2015": 42,
+        "2016": 62,
+        "2017": 55,
+        "2018": 84,
+        "2019": 102,
+        "2020": 89,
+        "2021": 98,
+        "2022": 89,
+        "2023": 81,
+        "2024": 23
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KUL6wNgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Brenda S.J. Winkel",
+            "affiliation": "Department of Biological Sciences, Virginia Tech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zZGa04UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mike McConnell",
+            "affiliation": "Investigator, Lieber Institute for Brain Development"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2oTK5YsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rusty Gage",
+            "affiliation": "The Salk Institute"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactions among enzymes of the Arabidopsis flavonoid biosynthetic pathway",
+                "pub_year": "1999",
+                "citation": "Proceedings of the National Academy of Sciences 96 (22), 12929-12934, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 463,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730918931296650370",
+            "cites_id": [
+                "9730918931296650370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intersection of diverse neuronal genomes and neuropsychiatric disease: The Brain Somatic Mosaicism Network",
+                "pub_year": "2017",
+                "citation": "Science 356 (6336), eaal1641, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 243,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11189299120415542763",
+            "cites_id": [
+                "11189299120415542763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A null mutation in the first enzyme of flavonoid biosynthesis does not affect male fertility in Arabidopsis.",
+                "pub_year": "1996",
+                "citation": "The Plant Cell 8 (6), 1013-1025, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 242,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9603362747245905294",
+            "cites_id": [
+                "9603362747245905294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disruption of specific flavonoid genes enhances the accumulation of flavonoid enzymes and end-products in Arabidopsis seedlings",
+                "pub_year": "1999",
+                "citation": "Plant molecular biology 40 (1), 45-54, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 204,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3897039876445241053",
+            "cites_id": [
+                "3897039876445241053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using protein-DNA chimeras to detect and count small numbers of molecules",
+                "pub_year": "2005",
+                "citation": "Nature Methods 2 (1), 31-37, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 111,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15129992285037780090",
+            "cites_id": [
+                "15129992285037780090"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neurons with Complex Karyotypes Are Rare in Aged Human Neocortex",
+                "pub_year": "2019",
+                "citation": "Cell reports 26 (4), 825-835. e7, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1092256640043762162",
+            "cites_id": [
+                "1092256640043762162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantifying small numbers of antibodies with a'near-universal'protein-DNA chimera",
+                "pub_year": "2007",
+                "citation": "Nature methods 4 (12), 1011-1013, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16616193483041394006",
+            "cites_id": [
+                "16616193483041394006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiplex protein detection with DNA readout via mass spectrometry",
+                "pub_year": "2013",
+                "citation": "New biotechnology 30 (2), 153-158, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14466970262249405638",
+            "cites_id": [
+                "14466970262249405638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Alpha Project: a model system for systems biology research",
+                "pub_year": "2008",
+                "citation": "IET systems biology 2 (5), 222-233, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2657297960008057246",
+            "cites_id": [
+                "2657297960008057246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cytosolic phosphoenolpyruvate carboxykinase is expressed in \u03b1\u2010cells from human and murine pancreas",
+                "pub_year": "2020",
+                "citation": "Journal of Cellular Physiology 235 (1), 166-175, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8160597701669877816",
+            "cites_id": [
+                "8160597701669877816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gluconeogenic enzymes in \u03b2-Cells: Pharmacological targets for improving insulin secretion",
+                "pub_year": "2019",
+                "citation": "Trends in Endocrinology & Metabolism 30 (8), 520-531, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12169948537743127542",
+            "cites_id": [
+                "12169948537743127542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Are flavonoids synthesized by a multi-enzyme complex?",
+                "pub_year": "1996",
+                "citation": "SAAS bulletin, biochemistry and biotechnology 9, 29-36, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17819572738087869956",
+            "cites_id": [
+                "17819572738087869956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Quinone Antibiotics against Methicillin-Resistant S. aureus",
+                "pub_year": "2021",
+                "citation": "Antibiotics 10 (6), 614, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:4DMP91E08xMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13698494860076728938",
+            "cites_id": [
+                "13698494860076728938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reagents for investigating MAPK signalling in model yeast species",
+                "pub_year": "2010",
+                "citation": "Yeast 27 (7), 423-430, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4154347573313201935",
+            "cites_id": [
+                "4154347573313201935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protein fingerprint system and related methods",
+                "pub_year": "2003",
+                "citation": "US Patent 6,569,685, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14383356424034901386",
+            "cites_id": [
+                "14383356424034901386"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-cell sequencing of the small and AT-skewed genome of malaria parasites",
+                "pub_year": "2021",
+                "citation": "Genome medicine 13 (1), 1-23, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11415594893980314245",
+            "cites_id": [
+                "11415594893980314245"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of pathogen-specific antibodies by loop-mediated isothermal amplification",
+                "pub_year": "2015",
+                "citation": "Clinical and vaccine immunology 22 (4), 374-380, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1531338218545272420",
+            "cites_id": [
+                "1531338218545272420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcription-associated DNA DSBs activate p53 during hiPSC-based neurogenesis",
+                "pub_year": "2022",
+                "citation": "Scientific reports 12 (1), 1-14, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3032616028637849951",
+            "cites_id": [
+                "3032616028637849951"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single-Cell CNV Detection in Human Neuronal Nuclei",
+                "pub_year": "2017",
+                "citation": "Genomic Mosaicism in Neurons and Other Cell Types, 109-131, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=55939926805417564",
+            "cites_id": [
+                "55939926805417564"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved molecular karyotyping in glioblastoma",
+                "pub_year": "2018",
+                "citation": "Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis 811, 16-26, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10889767488521142812",
+            "cites_id": [
+                "10889767488521142812"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compositions and methods for increasing oil production and secretion",
+                "pub_year": "2014",
+                "citation": "US Patent App. 13/702,561, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10966999709248987274",
+            "cites_id": [
+                "10966999709248987274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protein characterization system",
+                "pub_year": "2003",
+                "citation": "US Patent App. 10/444,422, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17602951269445966670",
+            "cites_id": [
+                "17602951269445966670"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanobody LAMPoles: Novel tools for dengue virus and Zika virus diagnosis",
+                "pub_year": "2020",
+                "citation": "The Journal of Immunology 204 (1 Supplement), 82.24-82.24, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6657547612993612579",
+            "cites_id": [
+                "6657547612993612579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reply to\" Lamp for tadpoles\"",
+                "pub_year": "2005",
+                "citation": "Nature Methods 2 (9), 635-636, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17443599405161456603,2905547901015959129",
+            "cites_id": [
+                "17443599405161456603",
+                "2905547901015959129"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Macromolecular organization of flavonoid biosynthesis in Arabidopsis thaliana.",
+                "pub_year": "1998",
+                "citation": "Virginia Tech, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1290719328754538365",
+            "cites_id": [
+                "1290719328754538365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of camelid nanobody based-LAMPole diagnostic tests for dengue and Zika viruses",
+                "pub_year": "2018",
+                "citation": "Molecular Biology of the Cell 29 (26), P1041, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitive Protein Detection Using PCR and Mass Spectrometry",
+                "pub_year": "2009",
+                "citation": "ProQuest, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chimeric fusion molecule for analyte detection and quantitation",
+                "pub_year": "2006",
+                "citation": "US Patent App. 11/286,057, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formation and use of site specific nucleic acid coupled binding polypeptides",
+                "pub_year": "2006",
+                "citation": "US Patent App. 10/515,108, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chimeric fusion molecule for analyte detection and quantitation",
+                "pub_year": "2003",
+                "citation": "US Patent App. 10/218,233, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "2LCZdhEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 8,
+        "not_available": 3
+    }
+}

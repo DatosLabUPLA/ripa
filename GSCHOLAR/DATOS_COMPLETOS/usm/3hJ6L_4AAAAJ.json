@@ -1,0 +1,882 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3hJ6L_4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Jara",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3hJ6L_4AAAAJ&citpid=2",
+    "affiliation": "Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Optical Networks",
+        "Perfomance Evaluation",
+        "Network Design",
+        "Simulation"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://www.electronica.usm.cl/personas/ya-somos-parte/academicos/ficha/jara-nicolas/",
+    "citedby": 322,
+    "citedby5y": 275,
+    "hindex": 11,
+    "hindex5y": 9,
+    "i10index": 11,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2010": 2,
+        "2011": 3,
+        "2012": 0,
+        "2013": 0,
+        "2014": 3,
+        "2015": 2,
+        "2016": 6,
+        "2017": 13,
+        "2018": 15,
+        "2019": 5,
+        "2020": 21,
+        "2021": 33,
+        "2022": 67,
+        "2023": 117,
+        "2024": 32
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FPfLp-MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "reinaldo vallejos",
+            "affiliation": "utfsm"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QmtY9h0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ariel Leiva Lopez",
+            "affiliation": "School of Electrical Engineering, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x5HOolYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Saavedra",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZuDKipwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerardo Rubino",
+            "affiliation": "Inria/Irisa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kP8pBuEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandra Beghelli",
+            "affiliation": "University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vBgTDvoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Danilo B\u00f3rquez-Paredes",
+            "affiliation": "Assistant Professor, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wmzkJOoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Calder\u00f3n",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hX9KTOoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enrique Davalos",
+            "affiliation": "Facultad Polit\u00e9cnica - Universidad Nacional de Asunci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LoRa IoT-based architecture for advanced metering infrastructure in residential smart grid",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 124295-124312, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:aqlVkmm33-oC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5158765643504887373",
+            "cites_id": [
+                "5158765643504887373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LoRa based IoT platform for remote monitoring of large-scale agriculture farms in Chile",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (8), 2824, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12386873308192256807",
+            "cites_id": [
+                "12386873308192256807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering algorithm-based network planning for advanced metering infrastructure in smart grid",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 48992-49006, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8137317625347171059",
+            "cites_id": [
+                "8137317625347171059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking evaluation and wavelength dimensioning of dynamic WDM networks without wavelength conversion",
+                "pub_year": "2017",
+                "citation": "Journal of Optical Communications and Networking 9 (8), 625-634, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13332145134354981667",
+            "cites_id": [
+                "13332145134354981667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BER-adaptive RMLSA algorithm for wide-area flexible optical networks",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 128018-128031, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:0EnyYjriUFMC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15188491358612862039",
+            "cites_id": [
+                "15188491358612862039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-band environments for optical reinforcement learning gym for resource allocation in elastic optical networks",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Optical Network Design and Modeling (ONDM), 1-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5885864875241748249",
+            "cites_id": [
+                "5885864875241748249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic approaches for dynamic provisioning in multi-band elastic optical networks",
+                "pub_year": "2021",
+                "citation": "IEEE Communications Letters 26 (2), 379-383, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=905972892777177370",
+            "cites_id": [
+                "905972892777177370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GenoVi, an open-source automated circular genome visualizer for bacteria and archaea",
+                "pub_year": "2023",
+                "citation": "PLOS Computational Biology 19 (4), e1010998, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6607178280535929804",
+            "cites_id": [
+                "6607178280535929804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method for joint routing, wavelength dimensioning and fault tolerance for any set of simultaneous failures on dynamic WDM optical networks",
+                "pub_year": "2017",
+                "citation": "Optical Fiber Technology 38, 30-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8044255104195926094",
+            "cites_id": [
+                "8044255104195926094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking evaluation of dynamic WDM networks without wavelength conversion",
+                "pub_year": "2016",
+                "citation": "2016 21st European conference on networks and optical communications (NOC \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16466742384394791954",
+            "cites_id": [
+                "16466742384394791954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking probability evaluation of end-to-end dynamic WDM networks",
+                "pub_year": "2012",
+                "citation": "Photonic Network Communications 24, 29-38, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10017374193177113125",
+            "cites_id": [
+                "10017374193177113125"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Routing and spectrum assignment for elastic, static, and without conversion optical networks with ring topology",
+                "pub_year": "2016",
+                "citation": "2016 35th International Conference of the Chilean Computer Science Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1617718919973981634",
+            "cites_id": [
+                "1617718919973981634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Join routing and dimensioning heuristic for dynamic WDM optical mesh networks with wavelength conversion",
+                "pub_year": "2014",
+                "citation": "Optical Fiber Technology 20 (3), 217-223, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4220894007468299984",
+            "cites_id": [
+                "4220894007468299984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A topology-based spectrum assignment solution for static elastic optical networks with ring topologies",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 218828-218837, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11985436226156929313",
+            "cites_id": [
+                "11985436226156929313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource allocation in multicore elastic optical networks: A deep reinforcement learning approach",
+                "pub_year": "2023",
+                "citation": "Complexity 2023, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813943216821900124",
+            "cites_id": [
+                "13813943216821900124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PromoterLCNN: a light CNN-based promoter prediction and classification model",
+                "pub_year": "2022",
+                "citation": "Genes 13 (7), 1126, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:dhFuZR0502QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10175203555428671540",
+            "cites_id": [
+                "10175203555428671540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fault-tolerance solution to any set of failure scenarios on dynamic WDM optical networks with wavelength continuity constraints",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 21291-21301, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11303660598103281520",
+            "cites_id": [
+                "11303660598103281520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alternate paths for multiple fault tolerance on dynamic WDM optical networks",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 18th International Conference on High Performance Switching and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6712372425122236565",
+            "cites_id": [
+                "6712372425122236565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking evaluation and analysis of dynamic WDM networks under heterogeneous ON/OFF traffic",
+                "pub_year": "2016",
+                "citation": "Optical Switching and Networking 20, 35-45, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7668077847763974496",
+            "cites_id": [
+                "7668077847763974496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust automatic net damage detection and tracking on real aquaculture environment using computer vision",
+                "pub_year": "2023",
+                "citation": "Aquacultural Engineering 101, 102323, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2394730149436241369",
+            "cites_id": [
+                "2394730149436241369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CSMA/CA protocol design in hybrid network of Visible Light Communication and RF Femtocell systems",
+                "pub_year": "2023",
+                "citation": "Optics Communications 537, 129434, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17664688486113350869",
+            "cites_id": [
+                "17664688486113350869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How much the wavelength dimensioning methods and a tightened QoS provision impact on the dynamic WDM optical networks capacity?",
+                "pub_year": "2020",
+                "citation": "Optical Switching and Networking 35, 100540, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1554000008041307884",
+            "cites_id": [
+                "1554000008041307884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of amplification and regeneration schemes on the blocking performance and energy consumption of wide-area elastic optical networks",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 134355-134368, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162848378041350883",
+            "cites_id": [
+                "2162848378041350883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking probability evaluation of end-to-end dynamic networks considering the streamline effect",
+                "pub_year": "2009",
+                "citation": "14th European Conference on Networks and Optical Communications, Spain, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1029472235848692584",
+            "cites_id": [
+                "1029472235848692584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bandwidth-Balanced RMLSA Solution for Static Elastic Optical Network: A Two Stages Approach",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 80092-80105, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17461081289179197285",
+            "cites_id": [
+                "17461081289179197285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the performance of SDM-EON through demand prioritization: A comprehensive analysis",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 63475-63490, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15030691866650890850",
+            "cites_id": [
+                "15030691866650890850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fragmentation-aware spectrum assignment strategies for elastic optical networks with static operation",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351338613733430517",
+            "cites_id": [
+                "17351338613733430517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3R regeneration in elastic optical networks and its impact on the network quality of service",
+                "pub_year": "2020",
+                "citation": "2020 22nd International Conference on Transparent Optical Networks (ICTON), 1-4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:8k81kl-MbHgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3662611923072061648",
+            "cites_id": [
+                "3662611923072061648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Spiral Approach to Solve the Routing and Spectrum Assignment Problem in Ring Topologies for Elastic Optical Networks.",
+                "pub_year": "2019",
+                "citation": "SIMULTECH, 269-276, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2625477468711492538",
+            "cites_id": [
+                "2625477468711492538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approaches to dynamic provisioning in multiband elastic optical networks",
+                "pub_year": "2023",
+                "citation": "2023 International Conference on Optical Network Design and Modeling (ONDM), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6342893051253587498",
+            "cites_id": [
+                "6342893051253587498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving multi-band elastic optical networks performance using behavior induction on deep reinforcement learning",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Latin-American Conference on Communications (LATINCOM), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:TQgYirikUcIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8636104776510331577",
+            "cites_id": [
+                "8636104776510331577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent-based distributed protocol for resource discovery and allocation of virtual networks over elastic optical networks",
+                "pub_year": "2022",
+                "citation": "Journal of Optical Communications and Networking 14 (8), 667-679, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3480644000196022075",
+            "cites_id": [
+                "3480644000196022075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic resource allocation in different ultrawideband optical network topologies",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM), 1-2, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:HDshCWvjkbEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7651979668327130497",
+            "cites_id": [
+                "7651979668327130497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Regeneration Placement, Routing and Spectrum Assignment Solution for Translucent Elastic Optical Networks: A Joint Optimization Approach.",
+                "pub_year": "2021",
+                "citation": "ICORES, 467-474, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14723487071006023183",
+            "cites_id": [
+                "14723487071006023183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blocking probability evaluation of alternate-routing in end-to-end dynamic networks considering the streamline effect",
+                "pub_year": "2010",
+                "citation": "15th European Conference on Networks and Optical Communications, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7510981416055199355",
+            "cites_id": [
+                "7510981416055199355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Survivability in optical networks: a solution for the wavelength continuity constraint case",
+                "pub_year": "2019",
+                "citation": "9th Latin-American Symposium On Dependable Computing, LADC 2019, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17124869450911135797",
+            "cites_id": [
+                "17124869450911135797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approaches to dynamic provisioning in multiband elastic optical networks",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an Analytical Tool to Support Planning of 400ZR+-Enabled IPoWDM Networks",
+                "pub_year": "2023",
+                "citation": "2023 Optical Fiber Communications Conference and Exhibition (OFC), 1-3, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fault tolerance method for any set of simultaneous link faults in dynamic WDM optical networks with wavelength continuity constraint",
+                "pub_year": "2022",
+                "citation": "US Patent 11,528,085, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for dimensioning a WDM optical network with wavelength continuity constraint",
+                "pub_year": "2022",
+                "citation": "US Patent 11,368,769, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Routing method for dynamic wdm optical networks with wavelength continuity restrictions",
+                "pub_year": "2022",
+                "citation": "US Patent App. 17/419,202, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bandwidth balance routing approach for saving network capacity in static elastic optical networks",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 22nd International Conference on High Performance Switching and \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On sorting transmission demands in Elastic Optical Networks with Spatial-Division Multiplexing",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical network design considering fault tolerance to any set of link failures",
+                "pub_year": "2018",
+                "citation": "Universit\u00e9 de Rennes; Universidad t\u00e9cnica Federico Santa Mar\u00eda (Valparaiso \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conception de r\u00e9seaux optiques en tenant compte de la tol\u00e9rance aux fautes d\u2019un ensemble quelconque de liens",
+                "pub_year": "2018",
+                "citation": "Rennes 1, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n de la probabilidad de bloqueo en redes din\u00e1micas WDM fin a fin considerando el efecto de flujos en l\u00ednea",
+                "pub_year": "2010",
+                "citation": "UNIVERSIDAD T\u00c9CNICA FEDERICO SANTA MAR\u00cdA, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How much the wavelength dimensioning methods and a tightened QoS provision impact on the dynamic WDM optical networks capacity?(NESIM Best Research Award)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical Communications and Networking",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2017 IEEE 18th International Conference on High Pertormance Switching and Routing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the Performance of SDM-EON Through Demand Prioritization: A Comprehensive Analysis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Best Papers Candidates",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of BER threshold over Blocking Probability of a RMLSA Method for Wide Area Flexible Optical Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3hJ6L_4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

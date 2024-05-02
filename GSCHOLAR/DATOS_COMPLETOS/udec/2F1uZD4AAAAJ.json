@@ -1,0 +1,78 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2F1uZD4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Esteban Alarc\u00f3n Barrueto",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Investigaci\u00f3n social"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 42,
+    "citedby5y": 42,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 13,
+        "2023": 22,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From resistance to creation: Socio-environmental activism in Chile\u2019s \u201csacrifice zones\u201d",
+                "pub_year": "2021",
+                "citation": "Sustainability 13 (6), 3481, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "2F1uZD4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1105656850871546312",
+            "cites_id": [
+                "1105656850871546312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistencias urbanas por la defensa del territorio en el \u00e1rea metropolitana del Gran Concepci\u00f3n, Chile.",
+                "pub_year": "2022",
+                "citation": "Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades, UNAM, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2F1uZD4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La territorializaci\u00f3n de la transici\u00f3n energ\u00e9tica por medio de parques e\u00f3licos en la comuna de Negrete, regi\u00f3n del Biob\u00edo, Chile",
+                "citation": "Quito, Ecuador: Flacso Ecuador, 0"
+            },
+            "filled": false,
+            "author_pub_id": "2F1uZD4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

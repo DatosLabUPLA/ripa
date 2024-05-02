@@ -1,0 +1,53 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ld35_yUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Eduardo Jorquera",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [],
+    "email_domain": "@postgrado.uv.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visual summarization of online news through topics using Latent Dirichlet Allocation",
+                "pub_year": "2017",
+                "citation": "IET Digital Library, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ld35_yUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian Multi-faceted models for measuring classroom professor performance and subject relevance",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ld35_yUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

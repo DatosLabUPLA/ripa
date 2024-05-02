@@ -1,0 +1,359 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3k9Zg3gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Fuhrhop",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3k9Zg3gAAAAJ&citpid=9",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Intelligent Sensors",
+        "Control Systems and Nanotechnology"
+    ],
+    "email_domain": "@uach.cl",
+    "homepage": "http://ingenieria.uach.cl/institutos/electricidad-y-electronica.html",
+    "citedby": 40,
+    "citedby5y": 18,
+    "hindex": 4,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "1997": 1,
+        "1998": 0,
+        "1999": 1,
+        "2000": 0,
+        "2001": 0,
+        "2002": 0,
+        "2003": 0,
+        "2004": 0,
+        "2005": 0,
+        "2006": 0,
+        "2007": 0,
+        "2008": 0,
+        "2009": 0,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 1,
+        "2014": 0,
+        "2015": 1,
+        "2016": 4,
+        "2017": 2,
+        "2018": 12,
+        "2019": 4,
+        "2020": 5,
+        "2021": 5,
+        "2022": 1,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZeCdbIwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anthimos Georgiadis",
+            "affiliation": "Professor f\u00fcr Prozessmesstechnik und intelligente Systeme, Leuphana Universit\u00e4t L\u00fcneburg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FT6nzzAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Katarzyna Polak-Kra\u015bna",
+            "affiliation": "Helmholtz-Zentrum Hereon"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FmXrWQkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paolo Mercorelli",
+            "affiliation": "Distinguished Full Professor and Head of the Chair of Control and Drive Systems, Leuphana University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x0G5AakAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chris Bowen",
+            "affiliation": "University of Bath; Twitter: @BowenNEMESIS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2pzoMsYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "S\u00e9bastien Rochat",
+            "affiliation": "Senior Lecturer, Data Science and Materials Discovery"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s0MIz4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Quevedo",
+            "affiliation": "Queensland University of Technology"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AFM imaging and nanoindentation of polymer of intrinsic microporosity PIM-1",
+                "pub_year": "2017",
+                "citation": "International Journal of Hydrogen Energy 42 (37), 23915-23919, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3756157886341791528",
+            "cites_id": [
+                "3756157886341791528"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrical and Mechanical Characterization of Polymer Nanofibers for Sensor Application",
+                "pub_year": "2016",
+                "citation": "Sierke Verlag, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4786774844105659514",
+            "cites_id": [
+                "4786774844105659514"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Control of the Nonlinear Dynamic behavior of the cantilever-sample system of an Atomic Force Microscope",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Conference on Automatica (ICA-ACCA), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1001607850893702369",
+            "cites_id": [
+                "1001607850893702369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining model predictive and adaptive control for an atomic force microscope piezo-scanner-cantilever system",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Symposium on Sensorless Control for Electrical \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6270521099393316225",
+            "cites_id": [
+                "6270521099393316225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanoindentation of Poly (ethylene oxide) Nanofibers by Atomic force Microscope (AFM)",
+                "pub_year": "2012",
+                "citation": "Proceedings of the SPM ON SPM 2012 International Conference on Scanning \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16606181963797658323",
+            "cites_id": [
+                "16606181963797658323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconfigurable Control of a High Variable Plants",
+                "pub_year": "2001",
+                "citation": "Electronic Engineer Tesis, December, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8359538490251735374",
+            "cites_id": [
+                "8359538490251735374"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconfigurable control system for plants with variable structure",
+                "pub_year": "2016",
+                "citation": "2016 20th International Conference on System Theory, Control and Computing \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7345748810997960518",
+            "cites_id": [
+                "7345748810997960518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pH en un estanque",
+                "pub_year": "1997",
+                "citation": "Informe interno, Dep. de Electr\u00f3nica, Univ. Santa Mar\u00eda, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2260120899208177335",
+            "cites_id": [
+                "2260120899208177335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Battery enhanced PV microinverter with ancillary service capabilities",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 8th Southern Power Electronics Conference (SPEC), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DESARROLLO DE UN ALGORITMO DE PROCESAMIENTO DE IMAGEN AUTOMATIZADO ENFOCADO AL AN\u00c1LISIS DE MICRO Y NANOFIBRAS (DEVELOPMENT OF AN AUTOMATED IMAGE PROCESSING ALGORITHM FOCUSED ON \u2026",
+                "pub_year": "2020",
+                "citation": "Pistas Educativas 42 (137), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Q-Adaptive Control of the Nonlinear Dynamics of the Cantilever-Sample System of an Atomic Force Microscope",
+                "pub_year": "2018",
+                "citation": "IEEE Latin America Transactions 16 (9), 2400 - 2408, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Q- Adaptive Control of the Nonlinear Dynamics of the Cantilever-Sample System of an Atomic Force Microscope",
+                "pub_year": "2018",
+                "citation": "IEEE LATIN AMERICA TRANSACTIONS 16 (9), 2400-2408, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coplanar micro-strips/electrospun sensor system to measure the electronics properties of the polyethylene oxide (PEO) electrospun",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Symposium on Medical Measurements and Applications \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pH in a tank",
+                "pub_year": "1997",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical and Geometrical Characteristics of Electrospun PEO Nanofibers Using Atomic Force and Confocal Laser Scanning Microscopy",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanical Characterization of PIM I by AFM-Nanoindentation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coplanar Waveguide to Measure the Electronics Properties of Polymer Nanowire/Electrospun",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometrical Characterization of Polyethylene Oxide Nanofibers by Atom Force Microscope and Confocal Laser Scanning Microscope",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3k9Zg3gAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

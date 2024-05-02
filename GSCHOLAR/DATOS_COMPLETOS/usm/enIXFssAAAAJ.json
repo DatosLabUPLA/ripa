@@ -1,0 +1,63 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "enIXFssAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gonzalo Am\u00e9stica",
+    "affiliation": "Profesor, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Proyectos",
+        "Emprendimiento"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Consumer Attitude and Behavior During Black Friday and Cyber Monday",
+                "pub_year": "2021",
+                "citation": "International Conference on Human-Computer Interaction, 147-158, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "enIXFssAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15535909971001693401",
+            "cites_id": [
+                "15535909971001693401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online Learning and Student Satisfaction in the Context of the COVID-19 Pandemic",
+                "pub_year": "2021",
+                "citation": "International Conference on Human-Computer Interaction, 199-210, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "enIXFssAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "MULna_AAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Lilianny Marrero",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=MULna_AAAAAJ&citpid=1",
+    "affiliation": "Ph.D. Student at Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 3,
+        "2023": 4,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "32ekRVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Astudillo",
+            "affiliation": "UTFSM (on sabbatical) & UNAB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-EfDLGsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gina Paola Maestre-Gongora",
+            "affiliation": "Professor  Universidad de Antioquia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DevOps-RAF: An assessment framework to measure DevOps readiness in software organizations",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "MULna_AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10167684273743406355",
+            "cites_id": [
+                "10167684273743406355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drought-MRM: Towards a drought-management readiness model for rural communities",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "MULna_AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

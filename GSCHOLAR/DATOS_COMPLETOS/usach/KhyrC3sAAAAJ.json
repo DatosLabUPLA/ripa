@@ -1,0 +1,95 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "KhyrC3sAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Michael Mirandas",
+    "affiliation": "Profesor Universidad de Santiago de Chile (USACH)",
+    "organization": 605437563739143535,
+    "interests": [
+        "Automatizaci\u00f3n y Rob\u00f3tica",
+        "Machine Learning"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 9,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 0,
+        "2015": 0,
+        "2016": 1,
+        "2017": 1,
+        "2018": 0,
+        "2019": 1,
+        "2020": 2,
+        "2021": 1,
+        "2022": 1,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recognition and real-time detection of blinking eyes on electroencephalographic signals using wavelet transform",
+                "pub_year": "2012",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "KhyrC3sAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1034708496426039063",
+            "cites_id": [
+                "1034708496426039063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wavelet design for automatic real-time eye blink detection and recognition in EEG signals",
+                "pub_year": "2019",
+                "citation": "INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL 14 (3), 375-387, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "KhyrC3sAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7332577515526488293",
+            "cites_id": [
+                "7332577515526488293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer vision for quality control assessment of glass containers",
+                "pub_year": "2013",
+                "citation": "Glass Technology-European Journal of Glass Science and Technology Part A 54 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "KhyrC3sAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12338545261093467007",
+            "cites_id": [
+                "12338545261093467007"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

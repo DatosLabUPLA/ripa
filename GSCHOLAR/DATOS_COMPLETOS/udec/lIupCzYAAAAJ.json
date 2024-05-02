@@ -1,0 +1,54 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "lIupCzYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ra\u00fal Astete",
+    "affiliation": "Universidad de concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "graph theory",
+        "boolean networks"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Separating path systems in trees",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2306.00843, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lIupCzYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17737672753526601567",
+            "cites_id": [
+                "17737672753526601567"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

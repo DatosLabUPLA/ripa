@@ -1,0 +1,1326 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_0DHzPQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pedro Gajardo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_0DHzPQAAAAJ&citpid=1",
+    "affiliation": "Universidad Tecnica Federico Santa Maria",
+    "organization": 9225498103198054248,
+    "interests": [
+        "optimization",
+        "control",
+        "variational analysis"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://pgajardo.mat.utfsm.cl/",
+    "citedby": 458,
+    "citedby5y": 224,
+    "hindex": 13,
+    "hindex5y": 8,
+    "i10index": 18,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2006": 9,
+        "2007": 0,
+        "2008": 5,
+        "2009": 5,
+        "2010": 8,
+        "2011": 13,
+        "2012": 12,
+        "2013": 49,
+        "2014": 34,
+        "2015": 18,
+        "2016": 25,
+        "2017": 27,
+        "2018": 19,
+        "2019": 32,
+        "2020": 47,
+        "2021": 63,
+        "2022": 30,
+        "2023": 37,
+        "2024": 15
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vze5x18AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Ramirez C.",
+            "affiliation": "Depto Ingenier\u00eda Matem\u00e1tica & Centro de Modelamiento Matem\u00e1tico, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uUVV-54AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alain Rapaport",
+            "affiliation": "INRAE Montpellier, France"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yEv8q5AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jerome Harmand",
+            "affiliation": "Directeur de recherche, INRAE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fu7_nDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Alvarez",
+            "affiliation": "Departamento de Ingenier\u00eda Matem\u00e1tica, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lxg9a4UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francis Mairet",
+            "affiliation": "Ifremer, PBA, Nantes (France)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0qjQLFsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mazenc",
+            "affiliation": "DR2, INRIA Saclay"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimal time sequential batch reactors with bounded and impulse controls for one or more species",
+                "pub_year": "2009",
+                "citation": "SIAM Journal on Control and Optimization 47 (6), 2827-2856, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5715447876369292838",
+            "cites_id": [
+                "5715447876369292838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal synthesis for the minimum time control problems of fed-batch bioprocesses for growth functions with two maxima",
+                "pub_year": "2013",
+                "citation": "Journal of Optimization Theory and Applications 158 (2), 521-553, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17317880589291317673,18226179799904591303",
+            "cites_id": [
+                "17317880589291317673",
+                "18226179799904591303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimal time bioremediation of natural water resources",
+                "pub_year": "2011",
+                "citation": "Automatica 47 (8), 1764-1769, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11198432480867233117",
+            "cites_id": [
+                "11198432480867233117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the steady state optimization of the biogas production in a two-stage anaerobic digestion model",
+                "pub_year": "2019",
+                "citation": "Journal of mathematical biology 78, 1067-1087, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15648818959338042010",
+            "cites_id": [
+                "15648818959338042010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Competitive exclusion principle in a model of chemostat with delays",
+                "pub_year": "2009",
+                "citation": "Dyn. Contin. Discrete Impuls. Syst. Ser. A Math. Anal 16 (2), 253-272, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15334021725167625753",
+            "cites_id": [
+                "15334021725167625753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an optimal control problem related to the anaerobic digestion process",
+                "pub_year": "2018",
+                "citation": "Journal of Optimization Theory and Applications 178, 627-659, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6290468094621654802",
+            "cites_id": [
+                "6290468094621654802"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Various Lipschitz-like properties for functions and sets I: Directional derivative and tangential characterizations",
+                "pub_year": "2010",
+                "citation": "SIAM Journal on Optimization 20 (4), 1766-1785, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2385334632877293864",
+            "cites_id": [
+                "2385334632877293864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Links between directional derivatives through multidirectional mean value inequalities",
+                "pub_year": "2009",
+                "citation": "Mathematical Programming 116 (1), 57-77, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7908905906768171195",
+            "cites_id": [
+                "7908905906768171195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subdifferential representation formula and subdifferential criteria for the behavior of nonsmooth functions",
+                "pub_year": "2006",
+                "citation": "Nonlinear Analysis: Theory, Methods & Applications 65 (4), 864-891, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17111649420858474614",
+            "cites_id": [
+                "17111649420858474614"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainable thresholds for cooperative epidemiological models",
+                "pub_year": "2018",
+                "citation": "Mathematical biosciences 302, 9-18, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15027050028158022191",
+            "cites_id": [
+                "15027050028158022191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equilibrium problems involving the Lorentz cone",
+                "pub_year": "2014",
+                "citation": "Journal of Global Optimization 58 (2), 321-340, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14204105322722313841",
+            "cites_id": [
+                "14204105322722313841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioremediation of natural water resources via optimal control techniques",
+                "pub_year": "2012",
+                "citation": "BIOMAT 2011, 178-190, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15958335138006223324",
+            "cites_id": [
+                "15958335138006223324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eigenvalues of set-valued operators in Banach spaces",
+                "pub_year": "2005",
+                "citation": "Set-Valued Analysis 13, 1-19, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13902959359428620148",
+            "cites_id": [
+                "13902959359428620148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sustainability standards, multicriteria maximin, and viability",
+                "pub_year": "2020",
+                "citation": "Natural Resource Modeling 33 (3), e12250, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15180774272600266227",
+            "cites_id": [
+                "15180774272600266227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methods for the Sustainable Rebuilding of Overexploited Natural Resources: A viability approach",
+                "pub_year": "2018",
+                "citation": "Environmental Modeling & Assessment 23, 713-727, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:-f6ydRqryjwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17769020223666055432",
+            "cites_id": [
+                "17769020223666055432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inner estimation of the eigenvalue set and exponential series solutions to differential inclusions",
+                "pub_year": "2005",
+                "citation": "J. Convex Anal 12, 1-11, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9919646186804566767",
+            "cites_id": [
+                "9919646186804566767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Viable states for monotone harvest models",
+                "pub_year": "2011",
+                "citation": "Systems & control letters 60 (3), 192-197, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527978933806133639",
+            "cites_id": [
+                "15527978933806133639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Higher-order spectral analysis and weak asymptotic stability of convex processes",
+                "pub_year": "2006",
+                "citation": "Journal of mathematical analysis and applications 318 (1), 155-174, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17480163815626619587",
+            "cites_id": [
+                "17480163815626619587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report# 3: Estimation of maximal ICU beds demand for COVID-19 outbreak in Santiago (Chile) and the effects of different mitigation strategies",
+                "pub_year": "2020",
+                "citation": "April 6, 16, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:4DMP91E08xMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6055627648871729298",
+            "cites_id": [
+                "6055627648871729298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bargaining with intertemporal maximin payoffs",
+                "pub_year": "2019",
+                "citation": "CESifo Working Paper, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8462398214704870",
+            "cites_id": [
+                "8462398214704870"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pareto fronts of the set of sustainable thresholds for constrained control systems",
+                "pub_year": "2021",
+                "citation": "Applied Mathematics & Optimization 83 (2), 1103-1121, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17644686067106988871",
+            "cites_id": [
+                "17644686067106988871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving inverse cone-constrained eigenvalue problems",
+                "pub_year": "2013",
+                "citation": "Numerische Mathematik 123 (2), 309-331, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12189933627006092186",
+            "cites_id": [
+                "12189933627006092186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report# 2: Estimation of maximal ICU beds demand for COVID-19 outbreak in Santiago",
+                "pub_year": "2020",
+                "citation": "Chile. Technical report, CMM-AM2V-CEPS, 03 2020. URL: http://covid-19. cmm \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:70eg2SAEIzsC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9526851880783744599",
+            "cites_id": [
+                "9526851880783744599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconstructing a matrix from a partial sampling of Pareto eigenvalues",
+                "pub_year": "2012",
+                "citation": "Computational Optimization and Applications 51, 1119-1135, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1463716849577903872",
+            "cites_id": [
+                "1463716849577903872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harvesting economic models and catch\u2010to\u2010biomass dependence: The case of small pelagic fish",
+                "pub_year": "2011",
+                "citation": "Natural Resource Modeling 24 (2), 268-296, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18181972459062852134",
+            "cites_id": [
+                "18181972459062852134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report# 4:: Estimation of maximal ICU beds demand for COVID-19 outbreak in some Chilean regions and the effects of different mitigation strategies",
+                "pub_year": "2020",
+                "citation": "Technical report, CMM-AM2V-CEPS, 03 2020. URL: http://covid-19. cmm. uchile. cl, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:TFP_iSt0sucC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15072403928483518093",
+            "cites_id": [
+                "15072403928483518093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of performance in an anaerobic digestion process: one-reactor vs two-reactor configurations",
+                "pub_year": "2019",
+                "citation": "Math. Biosci. Eng 16, 2447-2465, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12575492905442646134",
+            "cites_id": [
+                "12575492905442646134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling cost-effectiveness of syphilis detection strategies in prisoners: exploratory exercise in a Chilean male prison",
+                "pub_year": "2021",
+                "citation": "Cost Effectiveness and Resource Allocation 19, 1-9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:blknAaTinKkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8428269443478880782",
+            "cites_id": [
+                "8428269443478880782"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monotonicity properties arising in a simple model of Wolbachia invasion for wild mosquito populations",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2011.10501, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:GnPB-g6toBAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2975900288717146710",
+            "cites_id": [
+                "2975900288717146710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The viability kernel of dynamical systems with mixed constraints: A level-set approach",
+                "pub_year": "2019",
+                "citation": "Systems & Control Letters 127, 6-12, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4265394793232751518",
+            "cites_id": [
+                "4265394793232751518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and control of in-situ decontamination of large water resources",
+                "pub_year": "2017",
+                "citation": "ESAIM: Proceedings and surveys 57, 70-85, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16611596486633304212",
+            "cites_id": [
+                "16611596486633304212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimality of affine control system of several species in competition on a sequential batch reactor",
+                "pub_year": "2014",
+                "citation": "International Journal of Control 87 (9), 1877-1885, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15310225402167110546",
+            "cites_id": [
+                "15310225402167110546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epsilon-eigenvalues of multivalued operators",
+                "pub_year": "2003",
+                "citation": "Set-Valued Analysis 11, 273-296, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17128751335206386874",
+            "cites_id": [
+                "17128751335206386874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of event-triggered policies of nonpharmaceutical interventions based on epidemiological indicators",
+                "pub_year": "2021",
+                "citation": "Journal of Mathematical Biology 83, 1-35, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6280561481491232988",
+            "cites_id": [
+                "6280561481491232988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence of minimizers on drops",
+                "pub_year": "2013",
+                "citation": "SIAM Journal on Optimization 23 (2), 1154-1166, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17357622788537154052",
+            "cites_id": [
+                "17357622788537154052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Report# 5: scenarios for the opening schools during the Chilean COVID-19 outbreak",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:maZDTaKrznsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16647696515648910168",
+            "cites_id": [
+                "16647696515648910168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelando fen\u00f3menos de evoluci\u00f3n",
+                "pub_year": "2011",
+                "citation": "JC S\u00e1ez editor, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10567064158712167085",
+            "cites_id": [
+                "10567064158712167085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Various Lipschitz-Like Properties for Functions and Sets. II: Subdifferential and Normal Characterizations",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12284672991995452630",
+            "cites_id": [
+                "12284672991995452630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On optimal strategies for feeding in minimal time a SBR with several species",
+                "pub_year": "2012",
+                "citation": "2012 20th Mediterranean Conference on Control & Automation (MED), 378-385, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17357116917570699694",
+            "cites_id": [
+                "17357116917570699694"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cross-nonnegativity and monotonicity analysis of nonlinear dynamical systems",
+                "pub_year": "2021",
+                "citation": "Journal of Differential Equations 300, 33-52, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17692834540366317431",
+            "cites_id": [
+                "17692834540366317431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the set of robust sustainable thresholds",
+                "pub_year": "2021",
+                "citation": "Natural Resource Modeling 34 (4), e12334, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2866368241972103646",
+            "cites_id": [
+                "2866368241972103646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the set of robust sustainable thresholds for uncertain control systems",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.04392, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4157567294990846025",
+            "cites_id": [
+                "4157567294990846025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison theorem for viability kernels via conic preorders",
+                "pub_year": "2020",
+                "citation": "Systems & Control Letters 145, 104799, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610344367144594468",
+            "cites_id": [
+                "5610344367144594468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the effect of syphilis screening at the entry point in chilean prisons",
+                "pub_year": "2017",
+                "citation": "Value in Health 20 (9), A869-A870, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3085390521638246030",
+            "cites_id": [
+                "3085390521638246030"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimal time impulsive control of sequential batch reactors with one or more species",
+                "pub_year": "2008",
+                "citation": "SIAM J. on Control Optimization 47 (6), 2827-2856, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:hC7cP41nSMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17392899880049652462",
+            "cites_id": [
+                "17392899880049652462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "About minimal time impulsive control of sequential batch reactors with several species",
+                "pub_year": "2007",
+                "citation": "2007 American Control Conference, 6116-6121, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557628268852007013",
+            "cites_id": [
+                "15557628268852007013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bargaining on monotonic social choice environments",
+                "pub_year": "2024",
+                "citation": "Theory and Decision 96 (2), 209-238, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensitivity Analysis of the Set of Sustainable Thresholds",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monotonicity results for non-autonomous dynamical systems: The case of a general convex cone",
+                "pub_year": "2023",
+                "citation": "Proceedings of the American Mathematical Society 151 (02), 771-778, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bargaining on monotonic social choice environments [N\u00e9gociation dans des environnements de choix sociaux monotones]",
+                "pub_year": "2023",
+                "citation": "HAL Post-Print, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bargaining On Monotonic Economic Environments",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inmate population models with nonhomogeneous sentence lengths and their effects in an epidemiological model",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.02097, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decision support methods for natural systems at risk. 2020 World Conference on Natural Resource Modeling (WCNRM2020), Valparaiso, Chile, 8-10 January 2020.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling cost-effectiveness of syphilis detection strategies in prisoners: exploratory exercise in a Chilean male prison",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of event-triggered policies of nonpharmaceutical interventions based on epidemiological indicators",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sobre el conjunto de umbrales sostenibles",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal control of diseases in prison populations through screening policies of new inmates",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Control and Optimization 60 (2), S1-S26, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Viability Kernels via Conic Orders",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2004.04473, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REPORT# 1: ESTIMATION OF MAXIMAL CRITICAL HEALTH FACILITIES DEMAND FOR COVID-19 OUTBREAK IN SANTIAGO, CHILE",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of event-triggered policies of nonpharmaceutical interventions based on epidemiological indicators (preprint)",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Various Lipschitz-like properties for functions and sets I: Directional derivative and tangential characterizations",
+                "pub_year": "2020",
+                "citation": "SIAM Publications, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Viability standards and multi-criteria maximin",
+                "pub_year": "2018",
+                "citation": "Cahiers du GREThA (2007-2019), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CHARACTERIZATION OF VARIOUS LIPSCHITZ LIKE PROPERTIES OF FUNCTIONS, SETS, AND SET-VALUED MAPPINGS",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPARACI\u00d3N DE DESEMPE\u00d1O EN UN PROCESO DE DIGESTI\u00d3N ANAEROBIA: MODELO SECUENCIAL VS NO SECUENCIAL",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monotonicity beyond Minty and Kato on locally convex spaces",
+                "pub_year": "2016",
+                "citation": "Journal of Mathematical Analysis and Applications 435 (2), 1701-1709, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tools for improving feeding strategies in a SBR with several species",
+                "pub_year": "2014",
+                "citation": "Bioprocess and biosystems engineering 37, 63-70, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pedro Gajardo, H\u00e9ctor Ram\u00edrez Cabrera",
+                "pub_year": "2014",
+                "citation": "Bioprocess Biosyst Eng 37, 63-70, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence of minimizers on drops",
+                "pub_year": "2013",
+                "citation": "Society for Industrial and Applied Mathematics, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2012 20th Mediterranean Conference on Control and Automation, MED 2012-Conference Proceedings",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EconomiX",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harvesting technology and catch-to-biomass dependence: The case of small pelagic fish",
+                "pub_year": "2009",
+                "citation": "Universidad Alberto Hurtado. Facultad de Econom\u00eda y Negocios, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Viable harvest of monotone bioeconomic models",
+                "pub_year": "2009",
+                "citation": "arXiv preprint arXiv:0906.4842, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "About biological treatment of water resources in minimal time",
+                "pub_year": "2009",
+                "citation": "STIC & Environnement, 14 p., 2009"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelamiento Matem\u00e1tico de la Gesti\u00f3n de Recursos Pesqueros Transfronterizos",
+                "pub_year": "2008",
+                "citation": "Universidad de Chile, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MATHEMATICAL MODELLING FOR THE RENEWABLE RESOURCES MANAGEMENT AND NONDIFFERENTIAL ANALYSIS",
+                "pub_year": "2006",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inner estimation of the eigenvalue set and exponential series solutions to differential inclusions",
+                "pub_year": "2005",
+                "citation": "HELDERMANN VERLAG, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Th\u00e9orie spectrale des op\u00e9rateurs multivoques et applications aux syst\u00e8mes dynamiques: caract\u00e9risation de certaines propri\u00e9t\u00e9s des fonctions non-lisses",
+                "pub_year": "2004",
+                "citation": "Avignon, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ANALISIS COSTO-EFECTIVIDAD DE CUARENTENAS DINAMICAS ACTIVADAS POR DIFERENTES INDICADORES PARA EL CONTROL DEL COVID-19",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REPORTE# 3: ESTIMACI\u00d3N DE LA DEMANDA M\u00c1XIMA DE CAMAS DE UCI PARA EL BROTE DE COVID-19 EN SANTIAGO (CHILE) Y LOS EFECTOS DE LAS DIFERENTES ESTRATEGIAS DE MITIGACI\u00d3N",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TRADE-OFF BETWEEN ENVIRONMENTAL AND PRODUCTIVE OBJECTIVES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Programa curso Optimizacion (MAT 275) ano 2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control y optimizaci\u00f3n de sistemas din\u00e1micos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization, sustainable indicators and application to the design of a recovery program for overexploited fish species",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control \u00f3ptimo para un proceso de digesti\u00f3n anaerobia: Maximizaci\u00f3n de biog\u00e1s",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODELAMIENTO Y OPTIMIZACION DE LA PRODUCCION DE HIDROGENO EN PROCESOS DE DIGESTION ANAEROBIA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Viability in Fishery Management",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis I (MAT223) ano 2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_0DHzPQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 1
+    }
+}

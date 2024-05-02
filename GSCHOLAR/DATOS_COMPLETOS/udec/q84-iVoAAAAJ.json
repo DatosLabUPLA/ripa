@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "q84-iVoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Barros C\u00e1rdenas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q84-iVoAAAAJ&citpid=14",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Active Matter",
+        "Biological Fluid Dynamics"
+    ],
+    "email_domain": "@udec.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YE2czi8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisca Guzm\u00e1n-Lastra",
+            "affiliation": "Departamento de F\u00edsica, Facultad de Ciencias, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Carpets in floating viscous films",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.07856, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q84-iVoAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlling vertical transport driven by active carpets at viscosity interfaces",
+                "pub_year": "2023",
+                "citation": "Bulletin of the American Physical Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q84-iVoAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrodynamic stirring driven by active carpets at fluid interfaces",
+                "pub_year": "2023",
+                "citation": "Bulletin of the American Physical Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q84-iVoAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

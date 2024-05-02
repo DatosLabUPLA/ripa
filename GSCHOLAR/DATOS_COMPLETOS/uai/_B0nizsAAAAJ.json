@@ -1,0 +1,882 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_B0nizsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Moreno Bevilacqua",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_B0nizsAAAAJ&citpid=1",
+    "affiliation": "Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Spatio-temporal Statistics",
+        "likelihood approximations",
+        "covariance models",
+        "Environmental Statistics"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "https://sites.google.com/view/moreno-bevilacqua/home",
+    "citedby": 1249,
+    "citedby5y": 812,
+    "hindex": 18,
+    "hindex5y": 14,
+    "i10index": 29,
+    "i10index5y": 24,
+    "cites_per_year": {
+        "2008": 9,
+        "2009": 5,
+        "2010": 7,
+        "2011": 6,
+        "2012": 17,
+        "2013": 11,
+        "2014": 21,
+        "2015": 55,
+        "2016": 77,
+        "2017": 87,
+        "2018": 106,
+        "2019": 108,
+        "2020": 123,
+        "2021": 161,
+        "2022": 183,
+        "2023": 152,
+        "2024": 85
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating space and space-time covariance functions for large data sets: a weighted composite likelihood approach",
+                "pub_year": "2012",
+                "citation": "Journal of the American Statistical Association 107 (497), 268-280, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 183,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8482950738229551501",
+            "cites_id": [
+                "8482950738229551501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatio-temporal covariance and cross-covariance functions of the great circle distance on a sphere",
+                "pub_year": "2016",
+                "citation": "Journal of the American Statistical Association 111 (514), 888-898, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 176,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17359950651434840992",
+            "cites_id": [
+                "17359950651434840992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation and prediction using generalized Wendland covariance functions under fixed domain asymptotics",
+                "pub_year": "2019",
+                "citation": "The Annals of Statistics 47 (2), 828-856, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 105,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17278500352942387662",
+            "cites_id": [
+                "17278500352942387662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial relationships between two georeferenced variables: With applications in R",
+                "pub_year": "2020",
+                "citation": "Springer Nature, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6090540188374140215",
+            "cites_id": [
+                "6090540188374140215"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing composite likelihood methods based on pairs for spatial Gaussian random fields",
+                "pub_year": "2015",
+                "citation": "Statistics and Computing 25, 877-892, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11149605693788848258",
+            "cites_id": [
+                "11149605693788848258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classes of compactly supported covariance functions for multivariate random fields",
+                "pub_year": "2015",
+                "citation": "Stochastic environmental research and risk assessment 29, 1249-1263, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10627955264548706136",
+            "cites_id": [
+                "10627955264548706136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of random fields using CompRandFld",
+                "pub_year": "2015",
+                "citation": "Journal of Statistical Software 63, 1-27, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4786514559360660342",
+            "cites_id": [
+                "4786514559360660342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Radial basis functions with compact support for multivariate geostatistics",
+                "pub_year": "2013",
+                "citation": "Stochastic environmental research and risk assessment 27, 909-922, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2141687116398406127",
+            "cites_id": [
+                "2141687116398406127"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariance functions that are stationary or nonstationary in space and stationary in time",
+                "pub_year": "2007",
+                "citation": "Statistica Neerlandica 61 (3), 358-382, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5854348596128849028",
+            "cites_id": [
+                "5854348596128849028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling residuals dependence in dynamic life tables: A geostatistical approach",
+                "pub_year": "2008",
+                "citation": "Computational Statistics & Data Analysis 52 (6), 3128-3147, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:4TOpqqG69KYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15998993375858398571",
+            "cites_id": [
+                "15998993375858398571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariance tapering for multivariate Gaussian random fields estimation",
+                "pub_year": "2016",
+                "citation": "Statistical Methods & Applications 25, 21-37, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6380200378737799619",
+            "cites_id": [
+                "6380200378737799619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the flexibility of multivariate covariance models: comment on the paper by Genton and Kleiber",
+                "pub_year": "2015",
+                "citation": "Statistical Science 30 (2), 167-169, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6424225820620366778",
+            "cites_id": [
+                "6424225820620366778"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unifying compactly supported and Mat\u00e9rn covariance functions in spatial statistics",
+                "pub_year": "2022",
+                "citation": "Journal of Multivariate Analysis 189, 104949, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11097975307229892660",
+            "cites_id": [
+                "11097975307229892660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non\u2010Gaussian geostatistical modeling using (skew) t processes",
+                "pub_year": "2021",
+                "citation": "Scandinavian Journal of Statistics 48 (1), 212-245, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3051054172297482063",
+            "cites_id": [
+                "3051054172297482063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonseparable, space-time covariance functions with dynamical compact supports",
+                "pub_year": "2020",
+                "citation": "Statistica Sinica 30 (2), 719-739, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:4DMP91E08xMC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17982333876702164307",
+            "cites_id": [
+                "17982333876702164307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equivalence and orthogonality of Gaussian measures on spheres",
+                "pub_year": "2018",
+                "citation": "Journal of Multivariate Analysis 167, 306-318, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1987575376003552963",
+            "cites_id": [
+                "1987575376003552963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fitting negative spatial covariances to geothermal field temperatures in Nea Kessani (Greece)",
+                "pub_year": "2007",
+                "citation": "Environmetrics: The official journal of the International Environmetrics \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1201085841318705639",
+            "cites_id": [
+                "1201085841318705639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating covariance functions of multivariate skew-Gaussian random fields on the sphere",
+                "pub_year": "2017",
+                "citation": "Spatial Statistics 22, 388-402, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10157082514387035505",
+            "cites_id": [
+                "10157082514387035505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composite likelihood inference for multivariate Gaussian random fields",
+                "pub_year": "2016",
+                "citation": "Journal of agricultural, biological, and environmental statistics 21, 448-469, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5909927120385450006",
+            "cites_id": [
+                "5909927120385450006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Buhmann covariance functions, their compact supports, and their smoothness",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1606.09527, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:8k81kl-MbHgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10084944168385197470",
+            "cites_id": [
+                "10084944168385197470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geomodels: a package for geostatistical Gaussian and non Gaussian data analysis",
+                "pub_year": "2018",
+                "citation": "R package version 1, 3-4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17061563865026264272",
+            "cites_id": [
+                "17061563865026264272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weighted composite likelihood-based tests for space-time separability of covariance functions",
+                "pub_year": "2010",
+                "citation": "Statistics and Computing 20, 283-293, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:WF5omc3nYNoC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5891238399633963348",
+            "cites_id": [
+                "5891238399633963348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On modeling positive continuous data with spatiotemporal dependence",
+                "pub_year": "2020",
+                "citation": "Environmetrics 31 (7), e2632, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:5nxA0vEk-isC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9117552892320909160",
+            "cites_id": [
+                "9117552892320909160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the significance of the correlation between the components of a bivariate Gaussian random field",
+                "pub_year": "2015",
+                "citation": "Environmetrics 26 (8), 545-556, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:0EnyYjriUFMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9016451392896469979",
+            "cites_id": [
+                "9016451392896469979"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Mat\\'ern Model: A Journey through Statistics, Numerical Analysis and Machine Learning",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2303.02759, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:mB3voiENLucC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14989633986908995501",
+            "cites_id": [
+                "14989633986908995501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composite likelihood estimation for a Gaussian process under fixed domain asymptotics",
+                "pub_year": "2019",
+                "citation": "Journal of Multivariate Analysis 174, 104534, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7644667921969093053",
+            "cites_id": [
+                "7644667921969093053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation and prediction of Gaussian processes using generalized Cauchy covariance model under fixed domain asymptotics",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:Zph67rFs4hoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10763749653064416473",
+            "cites_id": [
+                "10763749653064416473"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contours and dimple for the Gneiting class of space-time correlation functions",
+                "pub_year": "2017",
+                "citation": "Biometrika 104 (4), 995-1001, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:_kc_bZDykSQC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13928766466259067516",
+            "cites_id": [
+                "13928766466259067516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validity of covariance models for the analysis of geographical variation",
+                "pub_year": "2014",
+                "citation": "Methods in Ecology and Evolution 5 (4), 329-335, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10226044230828030854",
+            "cites_id": [
+                "10226044230828030854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Families of covariance functions for bivariate random fields on spheres",
+                "pub_year": "2020",
+                "citation": "Spatial Statistics 40, 100448, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7350323342351644645",
+            "cites_id": [
+                "7350323342351644645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduction problems and deformation approaches to nonstationary covariance functions over spheres",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11109480971990104164",
+            "cites_id": [
+                "11109480971990104164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zastavnyi operators and positive definite radial functions",
+                "pub_year": "2020",
+                "citation": "Statistics & Probability Letters 157, 108620, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2885690998707153756",
+            "cites_id": [
+                "2885690998707153756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum likelihood estimation for a bivariate Gaussian process under fixed domain asymptotics",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10172841481724616555",
+            "cites_id": [
+                "10172841481724616555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining Euclidean and composite likelihood for binary spatial data estimation",
+                "pub_year": "2015",
+                "citation": "Stochastic environmental research and risk assessment 29, 335-346, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5698243688293756245",
+            "cites_id": [
+                "5698243688293756245"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotically equivalent prediction in multivariate geostatistics",
+                "pub_year": "2022",
+                "citation": "Bernoulli 28 (4), 2518-2545, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:-f6ydRqryjwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3826017624820191517",
+            "cites_id": [
+                "3826017624820191517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Shkarofsky\u2010Gneiting class of covariance models for bivariate Gaussian random fields",
+                "pub_year": "2018",
+                "citation": "Stat 7 (1), e207, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3682682897865654608",
+            "cites_id": [
+                "3682682897865654608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Likelihood-based inference for multivariate space-time wrapped-Gaussian fields",
+                "pub_year": "2016",
+                "citation": "Journal of Statistical Computation and Simulation 86 (13), 2583-2597, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5595246139717264330",
+            "cites_id": [
+                "5595246139717264330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A selective view of climatological data and likelihood estimation",
+                "pub_year": "2022",
+                "citation": "Spatial Statistics 50, 100596, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:dhFuZR0502QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1201678394899781618",
+            "cites_id": [
+                "1201678394899781618"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stein hypothesis and screening effect for covariances with compact support",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17200462047819759725",
+            "cites_id": [
+                "17200462047819759725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling point referenced spatial count data: A Poisson process approach",
+                "pub_year": "2024",
+                "citation": "Journal of the American Statistical Association 119 (545), 664-677, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3804130919622223893",
+            "cites_id": [
+                "3804130919622223893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nearest neighbors weighted composite likelihood based on pairs for (non-) Gaussian massive spatial data with an application to Tukey-hh random fields estimation",
+                "pub_year": "2024",
+                "citation": "Computational Statistics & Data Analysis 191, 107887, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:qUcmZB5y_30C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17772199422592473331",
+            "cites_id": [
+                "17772199422592473331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A class of random fields with two-piece marginal distributions for modeling point-referenced data with spatial outliers",
+                "pub_year": "2022",
+                "citation": "Test, 1-31, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10727100498429643674",
+            "cites_id": [
+                "10727100498429643674"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space-time estimation and prediction under fixed-domain asymptotics with compactly supported covariance functions",
+                "pub_year": "2022",
+                "citation": "Statistica Sinica 32 (3), 1187-1203, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8862125966664887877",
+            "cites_id": [
+                "8862125966664887877"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blockwise Euclidean likelihood for spatio-temporal covariance models",
+                "pub_year": "2021",
+                "citation": "Econometrics and Statistics 20, 176-201, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=517464418254733434",
+            "cites_id": [
+                "517464418254733434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible Clayton-like spatial copula with application to bounded support data",
+                "pub_year": "2024",
+                "citation": "Journal of Multivariate Analysis 201, 105277, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:hC7cP41nSMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11499718878512115515",
+            "cites_id": [
+                "11499718878512115515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence arguments to bridge cauchy and mat\u00e9rn covariance functions",
+                "pub_year": "2024",
+                "citation": "Statistical Papers 65 (2), 645-660, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blockwise Euclidean likelihood for spatio-temporal covariance models",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum likelihood estimation for a bivariate Gaussian process under fixed domain asymptotics",
+                "pub_year": "2017",
+                "citation": "10.1214/17-EJS1298, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariance tapering for Gaussian multivariate random fields",
+                "pub_year": "2011",
+                "citation": "Proceeding CLADAG 2011 Classification and Data Analysis,, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a pairwise likelihood method for geostatistical data",
+                "pub_year": "2010",
+                "citation": "Atti della XLV Riunione Scientifica della SIS, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A weighted composite likelihood approach for space-time data",
+                "pub_year": "2007",
+                "citation": "Proceedings of the Fifth International Conference S. Co. 2007, 404-408, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary material to Asymptotically Equivalent Prediction in Multivariate Geostatistics",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and estimation of some non Gaussian random fields",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial Relationships Between Two Georeferenced Variables",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_B0nizsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 8,
+        "not_available": 0
+    }
+}

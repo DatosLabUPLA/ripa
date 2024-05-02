@@ -1,0 +1,71 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "EswmIAcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Alfonso Brito Cris\u00d3stomo",
+    "affiliation": "Ingeniero Civil El\u00e9ctrico, Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n",
+    "organization": 3702576657308349741,
+    "interests": [
+        "m\u00e1quinas el\u00e9ctricas",
+        "energ\u00edas renovables",
+        "miner\u00eda"
+    ],
+    "email_domain": "@ing.ucsc.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 3,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Physics-Based Observers for Measurement-While-Drilling System in Down-the-Hole Drills",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (24), 4814, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "EswmIAcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4530157775292357879",
+            "cites_id": [
+                "4530157775292357879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of impact frequency for down-the-hole drills using motor current signature analysis",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (8), 4650, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "EswmIAcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2131071799977619786",
+            "cites_id": [
+                "2131071799977619786"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

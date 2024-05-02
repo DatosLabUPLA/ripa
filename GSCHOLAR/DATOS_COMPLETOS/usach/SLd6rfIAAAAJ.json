@@ -1,0 +1,301 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SLd6rfIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Patrick Vega",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SLd6rfIAAAAJ&citpid=6",
+    "affiliation": "Associate Professor, Department of Mathematics & Computer Science, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Numerical analysis of PDEs",
+        "Finite Element Methods",
+        "A posteriori error analysis"
+    ],
+    "email_domain": "@usach.cl",
+    "homepage": "https://patrickvega.github.io/",
+    "citedby": 94,
+    "citedby5y": 83,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 8,
+        "2019": 8,
+        "2020": 9,
+        "2021": 13,
+        "2022": 19,
+        "2023": 21,
+        "2024": 13
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NX5yi50AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Solano",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LIk7QjAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Th\u00e9ophile CHAUMONT-FRELET",
+            "affiliation": "Inria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dLnFUR4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodolfo Araya",
+            "affiliation": "Universidad de Concepcion, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "deN_8tkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Weifeng Qiu",
+            "affiliation": "City University of Hong Kong"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8pYjH_QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Rojas Hern\u00e1ndez",
+            "affiliation": "Instituto de Matem\u00e1ticas, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JblohmAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Muga",
+            "affiliation": "Instituto de Matem\u00e1ticas, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3WOTouMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stephane Lanteri",
+            "affiliation": "Dr St\u00e9phane Lanteri"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rIHUmm4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Pardo",
+            "affiliation": "Ikerbasque, University of the Basque Country (UPV/EHU), and BCAM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dOQPiuYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jamie M. Taylor",
+            "affiliation": "CUNEF"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "COAIqSYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Uriarte",
+            "affiliation": "Researcher at BCAM - Basque Center for Applied Mathematics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uMhvP7EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Rodriguez",
+            "affiliation": "BCAM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LGq5g7gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Liliana Camargo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order HDG method for curved-interface problems via approximations from straight triangulations",
+                "pub_year": "2016",
+                "citation": "Journal of Scientific Computing 69, 1384-1407, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8431790662348010835",
+            "cites_id": [
+                "8431790662348010835"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an adaptive HDG method for the Brinkman problem",
+                "pub_year": "2019",
+                "citation": "IMA Journal of Numerical Analysis 39 (3), 1502-1528, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=989576951576640580",
+            "cites_id": [
+                "989576951576640580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an HDG method for the Oseen problem",
+                "pub_year": "2019",
+                "citation": "Applied Numerical Mathematics 146, 291-308, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6377188352245973443",
+            "cites_id": [
+                "6377188352245973443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency-explicit a posteriori error estimates for finite element discretizations of Maxwell's equations",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Numerical Analysis 60 (4), 1774-1798, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13960223498589733588",
+            "cites_id": [
+                "13960223498589733588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency-explicit approximability estimates for time-harmonic Maxwell's equations",
+                "pub_year": "2022",
+                "citation": "Calcolo 59, 22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14581547390803636436",
+            "cites_id": [
+                "14581547390803636436"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An adaptive superconvergent mixed finite element method based on local residual minimization",
+                "pub_year": "2023",
+                "citation": "SIAM Journal on Numerical Analysis 61 (5), 2084-2105, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14697803046897274536,2989279431562271799",
+            "cites_id": [
+                "14697803046897274536",
+                "2989279431562271799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency-explicit a posteriori error estimates for discontinuous Galerkin discretizations of Maxwell's equations",
+                "pub_year": "2024",
+                "citation": "SIAM Journal on Numerical Analysis 62 (1), 400-421, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10573888439925670337",
+            "cites_id": [
+                "10573888439925670337"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Memory-based Monte Carlo integration for solving partial differential equations using neural networks",
+                "pub_year": "2023",
+                "citation": "Computational Science \u2013 ICCS 2023: 23th International Conference, Prague \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4492241976775930320",
+            "cites_id": [
+                "4492241976775930320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for finite element discretizations of time-harmonic Maxwell's equations coupled with a non-local hydrodynamic Drude model",
+                "pub_year": "2021",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 385, 114002, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8551002196738994806",
+            "cites_id": [
+                "8551002196738994806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimum-residual a posteriori error estimates for a hybridizable discontinuous Galerkin discretization of the Helmholtz equation",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2304.00418, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SLd6rfIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

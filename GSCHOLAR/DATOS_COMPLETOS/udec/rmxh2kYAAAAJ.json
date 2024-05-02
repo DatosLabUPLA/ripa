@@ -1,0 +1,202 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rmxh2kYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Bernardo A. Hern\u00e1ndez Vicente",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rmxh2kYAAAAJ&citpid=1",
+    "affiliation": "Universidad de Concepci\u00f3n, Chile",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Model Predictive Control",
+        "Adaptive Control",
+        "Switching Systems",
+        "Autonomous Driving",
+        "Vehicle modelling"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://bernardohernandez.github.io/",
+    "citedby": 138,
+    "citedby5y": 121,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 6,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 5,
+        "2018": 10,
+        "2019": 14,
+        "2020": 17,
+        "2021": 15,
+        "2022": 25,
+        "2023": 31,
+        "2024": 19
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear System Identification Versus Physical Modeling of Lateral\u2013Longitudinal Vehicle Dynamics",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Control Systems Technology 29 (3), 1380-1387, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6793492231709260420",
+            "cites_id": [
+                "6793492231709260420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Switching tube-based MPC: Characterization of minimum dwell-time for feasible and robustly stable switching",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Automatic Control 64 (10), 4345-4352, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8807671810479095785",
+            "cites_id": [
+                "8807671810479095785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilizing predictive control with persistence of excitation for constrained linear systems",
+                "pub_year": "2019",
+                "citation": "Systems & Control Letters 126, 58-66, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3363937770671166728",
+            "cites_id": [
+                "3363937770671166728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Persistently exciting tube MPC",
+                "pub_year": "2016",
+                "citation": "2016 American Control Conference (ACC), 948-953, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15262565560861620964",
+            "cites_id": [
+                "15262565560861620964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed model predictive control using a chain of tubes",
+                "pub_year": "2016",
+                "citation": "2016 UKACC 11th International Conference on Control (CONTROL), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12566620149799503448",
+            "cites_id": [
+                "12566620149799503448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed mpc: Guaranteeing global stability from locally designed tubes",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 11829-11834, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=461295294469529197",
+            "cites_id": [
+                "461295294469529197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Tube Model Predictive Control for Driverless Cars Using Linear Data-Driven Models",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Control Systems Technology 31 (3), 1395-1410, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3688479378339437176",
+            "cites_id": [
+                "3688479378339437176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nested Distributed Model Predictive Control",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12387068544504447229",
+            "cites_id": [
+                "12387068544504447229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control for linear systems: adaptive, distributed and switching implementations",
+                "pub_year": "2018",
+                "citation": "University of Sheffield, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determinaci\u00f3n de un modelo de simulaci\u00f3n del movimiento longitudinal de un UAV, utilizando el m\u00e9todo de identificaci\u00f3n de par\u00e1metros",
+                "pub_year": "2012",
+                "citation": "Universidad de Concepci\u00f3n, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rmxh2kYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

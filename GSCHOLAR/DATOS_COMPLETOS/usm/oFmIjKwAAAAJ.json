@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oFmIjKwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Joaquin Meza",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oFmIjKwAAAAJ&citpid=1",
+    "affiliation": "Departamento de Obras Civiles, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Valpara\u00edso, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Flow and transport processes in groundwater",
+        "mathematical modeling of hydrologic processes",
+        "geostatistics",
+        "stochastic analysis"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://obrasciviles.usm.cl/academicos/joaquin-meza/",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 2,
+        "2022": 2,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0LgnrDEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio A. Catalan",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multiple-parameter methodology for placement of tsunami sensor networks",
+                "pub_year": "2020",
+                "citation": "Pure and Applied Geophysics 177, 1451-1470, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "oFmIjKwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11101219532649582378",
+            "cites_id": [
+                "11101219532649582378"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

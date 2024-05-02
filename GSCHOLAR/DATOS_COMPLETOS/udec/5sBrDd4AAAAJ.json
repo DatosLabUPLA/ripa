@@ -1,0 +1,120 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "5sBrDd4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Elias Fierro",
+    "affiliation": "Profesor de F\u00edsica, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Termodin\u00e1mica aplicada",
+        "Redes Neuronales Artificaciales"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 61,
+    "citedby5y": 53,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 4,
+        "2019": 7,
+        "2020": 6,
+        "2021": 8,
+        "2022": 17,
+        "2023": 9,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solubility of hydrogen sulfide in ionic liquids for gas removal processes using artificial neural networks",
+                "pub_year": "2016",
+                "citation": "Journal of environmental chemical engineering 4 (1), 211-218, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5sBrDd4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18129064939594893257",
+            "cites_id": [
+                "18129064939594893257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of thermodynamically inconsistent data on modeling the solubilities of refrigerants in ionic liquids using an artificial neural network",
+                "pub_year": "2021",
+                "citation": "Journal of Molecular Liquids 337, 116417, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5sBrDd4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4043833721163276742",
+            "cites_id": [
+                "4043833721163276742"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "M\u00e9todo de Contribuci\u00f3n de Grupos: una Herramienta Fundamental en cursos Avanzados de Termodin\u00e1mica y F\u00edsica de Fluidos para la Estimaci\u00f3n de Propiedades de Sustancias",
+                "pub_year": "2016",
+                "citation": "Formaci\u00f3n universitaria 9 (3), 99-108, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "5sBrDd4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4257565404668932386",
+            "cites_id": [
+                "4257565404668932386"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of a Single Multilayer Perceptron Model to Predict the Solubility of CO2 in Different Ionic Liquids for Gas Removal Processes",
+                "pub_year": "2022",
+                "citation": "Processes 10 (9), 1686, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5sBrDd4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9221728898529720930",
+            "cites_id": [
+                "9221728898529720930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influencia de datos declarados termodin\u00e1micamente inconsistentes en el modelado de la solubilidad de gases refrigerantes en l\u00edquidos i\u00f3nicos mediante un perceptr\u00f3n multicapa.",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5sBrDd4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

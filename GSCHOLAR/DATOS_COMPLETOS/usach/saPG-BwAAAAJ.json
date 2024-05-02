@@ -1,0 +1,121 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "saPG-BwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jonathan Pereira-Mendoza",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Visible Light Communications",
+        "Digital Signal Processing",
+        "Theory of Communication",
+        "Micro"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P1dxp0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ismael Soto",
+            "affiliation": "Professor, Electrical Department, USACH"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer Vision detection and classification of emitters for visible light communication",
+                "pub_year": "2021",
+                "citation": "2021 Third South American Colloquium on Visible Light Communications (SACVLC \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1488895604247849779",
+            "cites_id": [
+                "1488895604247849779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Digital Filter using NARX Deep Neural Networks for ground-based observatories",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-linear regression model for inertia identification using synchrophasors and Big Data",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noise reduction in a high power VLC signal with an hysteresis band control loop for M-FSK modulation",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Latin-American Conference on Communications (LATINCOM), 1-7, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assignment Model for LEDs and Photodetectors in a VLC System",
+                "pub_year": "2020",
+                "citation": "2020 South American Colloquium on Visible Light Communications (SACVC), 1-6, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Third South American Colloquium on Visible Light Communications SACVLC 2021 Index",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "saPG-BwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

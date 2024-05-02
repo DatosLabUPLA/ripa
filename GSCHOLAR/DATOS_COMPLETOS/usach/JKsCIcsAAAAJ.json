@@ -1,0 +1,459 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JKsCIcsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Franco Quezada",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Stochastic programming",
+        "Mixed-integer linear programming",
+        "Lot-sizing problems"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 97,
+    "citedby5y": 97,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 7,
+        "2021": 20,
+        "2022": 21,
+        "2023": 32,
+        "2024": 16
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Eirc5ywAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Safia Kedad-Sidhoum",
+            "affiliation": "Conservatoire National des Arts et M\u00e9tiers"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qgU2EK4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n D\u00e1vila-G\u00e1lvez",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FG7eTFEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando Garc\u00eda-Mu\u00f1oz",
+            "affiliation": "Researcher at Catalonia Institute for Energy Research"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-stage stochastic integer programming approach for a multi-echelon lot-sizing problem with returns and lost sales",
+                "pub_year": "2020",
+                "citation": "Computers & Operations Research 116, 104865, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12373715951223766222",
+            "cites_id": [
+                "12373715951223766222"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A benders decomposition approach for solving a two-stage local energy market problem under uncertainty",
+                "pub_year": "2023",
+                "citation": "Applied Energy 329, 120226, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9590698274653120086",
+            "cites_id": [
+                "9590698274653120086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic dual dynamic integer programming for a multi-echelon lot-sizing problem with remanufacturing and lost sales",
+                "pub_year": "2019",
+                "citation": "2019 6th International Conference on Control, Decision and Information \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13228956636534367197",
+            "cites_id": [
+                "13228956636534367197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining polyhedral approaches and stochastic dual dynamic integer programming for solving the uncapacitated lot-sizing problem under uncertainty",
+                "pub_year": "2022",
+                "citation": "INFORMS Journal on Computing 34 (2), 1024-1041, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14788978671494472419",
+            "cites_id": [
+                "14788978671494472419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimizing the number of machines with limited workload capacity for scheduling jobs with interval constraints",
+                "pub_year": "2019",
+                "citation": "Applied Mathematical Modelling 74, 512-527, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1195607861311977082",
+            "cites_id": [
+                "1195607861311977082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stochastic dual dynamic integer programming for the uncapacitated lot-sizing problem with uncertain demand and costs",
+                "pub_year": "2019",
+                "citation": "Proceedings of the International Conference on Automated Planning and \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9778066581988998852",
+            "cites_id": [
+                "9778066581988998852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A stochastic dual dynamic integer programming based approach for remanufacturing planning under uncertainty",
+                "pub_year": "2023",
+                "citation": "International Journal of Production Research 61 (17), 5992-6012, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13199255797661512357",
+            "cites_id": [
+                "13199255797661512357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The knapsack problem with scheduled items",
+                "pub_year": "2018",
+                "citation": "Electronic Notes in Discrete Mathematics 69, 293-300, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17904702329007559808",
+            "cites_id": [
+                "17904702329007559808"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A partial nested decomposition approach for remanufacturing planning under uncertainty",
+                "pub_year": "2021",
+                "citation": "Advances in Production Management Systems. Artificial Intelligence for \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8388142497648252044",
+            "cites_id": [
+                "8388142497648252044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New valid inequalities for a multi-echelon multi-item lot-sizing problem with returns and lost sales",
+                "pub_year": "2021",
+                "citation": "International Conference on Computational Logistics, 192-207, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10316399955055755491",
+            "cites_id": [
+                "10316399955055755491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The product-mold-machine manufacturing problem",
+                "pub_year": "2022",
+                "citation": "IFAC-PapersOnLine 55 (10), 866-871, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560349286842760373",
+            "cites_id": [
+                "3560349286842760373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The balanced dispatching problem in passengers transport services on demand",
+                "pub_year": "2021",
+                "citation": "Expert Systems with Applications 177, 114918, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14489639638550760640",
+            "cites_id": [
+                "14489639638550760640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The balanced dispatching problem in passengers transport services on demand",
+                "pub_year": "2018",
+                "citation": "Computational Logistics: 9th International Conference, ICCL 2018, Vietri sul \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15131956399817822710",
+            "cites_id": [
+                "15131956399817822710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring a resolution method based on an evolutionary game-theoretical model for minimizing the machines with limited workload capacity and interval constraints",
+                "pub_year": "2015",
+                "citation": "Modelling, Computation and Optimization in Information Systems and \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7322901669378856461",
+            "cites_id": [
+                "7322901669378856461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The product-mold-machine manufacturing problem: Complexity, MILP models and constructive heuristics",
+                "pub_year": "2024",
+                "citation": "Computers & Industrial Engineering, 109937, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-product Lot-Sizing Problem with Remanufacturing, Lost Sales and Sequence-Dependent Changeover Cost",
+                "pub_year": "2023",
+                "citation": "International Conference on Computational Logistics, 517-532, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-stage stochastic programming model for lot-sizing with onsite generation of renewable energy",
+                "pub_year": "2023",
+                "citation": "IWLS2023-International Workshop on Lot-Sizing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A partial decomposition approach for solving the stochastic uncapacitated lot-sizing problem",
+                "pub_year": "2022",
+                "citation": "EURO2022-32nd European Conference on Operations Research, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New valid inequalities for a multi-item multi-echelon lot-sizing problem with returns and lost sales",
+                "pub_year": "2021",
+                "citation": "International Workshop on Lot-Sizing-IWLS 2021, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A practical assessment of MDP and Stochastic Programming approach on the Stochastic Uncapacitated Lot-Sizing problem",
+                "pub_year": "2021",
+                "citation": "ROADEF2021, 22\u00e8me congr\u00e8s annuel de la soci\u00e9t\u00e9 Fran\u00e7aise de Recherche \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic lot-sizing problem with remanufacturing: a dual dynamic decomposition approach",
+                "pub_year": "2019",
+                "citation": "PGMO Days, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic programming based decomposition approach for the stochastic uncapacitated single-item lot-sizing problem",
+                "pub_year": "2019",
+                "citation": "10th International Workshop on Lot sizing-IWLS 2019, 73-77, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection and Scheduling of Actions for Innovation Capabilities Improvement",
+                "pub_year": "2019",
+                "citation": "2019 6th International Conference on Control, Decision and Information \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic uncapacitated single-item lot-sizing problem: a dual dynamic decomposition approach",
+                "pub_year": "2019",
+                "citation": "ROADEF 2019-20\u00e8me congr\u00e8s de la soci\u00e9t\u00e9 Fran\u00e7aise de Recherche \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic lot-sizing for remanufacturing planning with lost sales and returns",
+                "pub_year": "2018",
+                "citation": "IWLS 2018-9th International Workshop on Lot sizing, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valid inequalities for solving a stochastic lot-sizing problem with returns",
+                "pub_year": "2018",
+                "citation": "23rs Symposium on Mathematical Programming-ISMP 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lot-sizing for remanufacturing under uncertainty: a stochastic multi-stage mixed-integer programming approach",
+                "pub_year": "2018",
+                "citation": "ROADEF 2018-19e congr\u00e8s de la soci\u00e9t\u00e9 fran\u00e7aise de Recherche Op\u00e9rationnelle \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Balancing Resources and Demand: A Bi-Objective Mixed-Integer Programming Approach of Healthcare Districts in Chile",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "JKsCIcsAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

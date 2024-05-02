@@ -1,0 +1,472 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cfmvWC0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Miguel Carrasco",
+    "affiliation": "Profesor de Matem\u00e1ticas, Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "optimizaci\u00f3n",
+        "optimizaci\u00f3n convexa",
+        "inteligencia artificial",
+        "machine learning",
+        "optimizaci\u00f3n estructural"
+    ],
+    "email_domain": "@uandes.cl",
+    "citedby": 390,
+    "citedby5y": 228,
+    "hindex": 11,
+    "hindex5y": 10,
+    "i10index": 14,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2006": 1,
+        "2007": 3,
+        "2008": 2,
+        "2009": 3,
+        "2010": 7,
+        "2011": 5,
+        "2012": 8,
+        "2013": 9,
+        "2014": 18,
+        "2015": 12,
+        "2016": 13,
+        "2017": 32,
+        "2018": 39,
+        "2019": 41,
+        "2020": 45,
+        "2021": 41,
+        "2022": 50,
+        "2023": 30,
+        "2024": 19
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimization of the expected compliance as an alternative approach to multiload truss optimization",
+                "pub_year": "2005",
+                "citation": "Structural and Multidisciplinary optimization 29, 470-476, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5110330950662486060",
+            "cites_id": [
+                "5110330950662486060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double regularization methods for robust feature selection and SVM classification via DC programming",
+                "pub_year": "2018",
+                "citation": "Information Sciences 429, 377-389, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4474130304819630079",
+            "cites_id": [
+                "4474130304819630079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variance-expected compliance model for structural optimization",
+                "pub_year": "2012",
+                "citation": "Journal of optimization theory and applications 152, 136-151, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17950156039117441770",
+            "cites_id": [
+                "17950156039117441770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic topology design optimization for continuous elastic materials",
+                "pub_year": "2015",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 289, 131-154, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9504434863840322847",
+            "cites_id": [
+                "9504434863840322847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A second-order cone programming formulation for twin support vector machines",
+                "pub_year": "2016",
+                "citation": "Applied intelligence 45, 265-276, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7181965345233490817",
+            "cites_id": [
+                "7181965345233490817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A second-order cone programming formulation for nonparallel hyperplane support vector machine",
+                "pub_year": "2016",
+                "citation": "Expert Systems with Applications 54, 95-104, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:5nxA0vEk-isC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15097726855318639582",
+            "cites_id": [
+                "15097726855318639582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust nonparallel support vector machines via second-order cone programming",
+                "pub_year": "2019",
+                "citation": "Neurocomputing 364, 227-238, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=199557130854786607",
+            "cites_id": [
+                "199557130854786607"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-class SVM approach based on the l1-norm minimization of the distances between the reduced convex hulls",
+                "pub_year": "2015",
+                "citation": "Pattern Recognition 48 (5), 1598-1607, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:UebtZRa9Y70C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13208455087538849342",
+            "cites_id": [
+                "13208455087538849342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel multi-class SVM model using second-order cone constraints",
+                "pub_year": "2016",
+                "citation": "Applied Intelligence 44, 457-469, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18328897367687194046",
+            "cites_id": [
+                "18328897367687194046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epsilon-nonparallel support vector regression",
+                "pub_year": "2019",
+                "citation": "Applied Intelligence 49 (12), 4223-4236, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14411250479178713282",
+            "cites_id": [
+                "14411250479178713282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A feasible direction algorithm for nonlinear second-order cone programs",
+                "pub_year": "2019",
+                "citation": "Optimization Methods and Software 34 (6), 1322-1341, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:0EnyYjriUFMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14913002725337017820",
+            "cites_id": [
+                "14913002725337017820"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularized minimax probability machine",
+                "pub_year": "2019",
+                "citation": "Knowledge-Based Systems 177, 127-135, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8137620866544367001",
+            "cites_id": [
+                "8137620866544367001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust formulation for twin multiclass support vector machine",
+                "pub_year": "2017",
+                "citation": "Applied Intelligence 47, 1031-1043, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4000052771989302963",
+            "cites_id": [
+                "4000052771989302963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new method for reliability analysis and reliability-based design optimization",
+                "pub_year": "2019",
+                "citation": "Structural and Multidisciplinary Optimization 59, 1655-1671, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1791532660235249809",
+            "cites_id": [
+                "1791532660235249809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of a hybrid projection-proximal point algorithm coupled with approximation methods in convex optimization",
+                "pub_year": "2005",
+                "citation": "Mathematics of Operations Research 30 (4), 966-984, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16521201335773390579",
+            "cites_id": [
+                "16521201335773390579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of the sequential parametric convex approximation method to the design of robust trusses",
+                "pub_year": "2017",
+                "citation": "Journal of Global Optimization 68 (1), 169-187, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11532015452453666241",
+            "cites_id": [
+                "11532015452453666241"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An expected compliance model based on topology optimization for designing structures submitted to random loads",
+                "pub_year": "2012",
+                "citation": "Element doo, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5132661290087811776",
+            "cites_id": [
+                "5132661290087811776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A variance-expected compliance approach for topology optimization",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7047673596104830164",
+            "cites_id": [
+                "7047673596104830164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid extragradient proximal algorithm coupled with parametric approximation and penalty/barrier methods",
+                "pub_year": "2013",
+                "citation": "Optimization 62 (3), 397-414, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1361766350582518563",
+            "cites_id": [
+                "1361766350582518563"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validation of a new variance-expected compliance model for structural optimization",
+                "pub_year": "2008",
+                "citation": "Proceedings of the Congress EngOpt, 978857650156-5, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17922438267620494142",
+            "cites_id": [
+                "17922438267620494142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Feasible Direction Algorithm for Nonlinear Second-Order Cone Optimization Problems",
+                "pub_year": "2014",
+                "citation": "Technical report, August 2014, submitted, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dual convergence for penalty algorithms in convex programming",
+                "pub_year": "2012",
+                "citation": "Journal of Optimization Theory and Applications 153, 388-407, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PREPUBLICACIONES DEL DEPARTAMENTO DE MATEM\u00c1TICA APLICADA",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on the convergence of an inertial version of a diagonal hybrid projection-point algorithm",
+                "pub_year": "2010",
+                "citation": "Optimization 59 (4), 561-574, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmes d'optimisation de type proximal coupl\u00e9s avec des m\u00e9thodes de p\u00e9nalisation et applications en optimisation de structures",
+                "pub_year": "2007",
+                "citation": "Montpellier 2, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dual convergence for penalty proximal point algorithms in convex programming",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "9. A feasible direction algorithm for solving nonlinear second-order cone optimization problems",
+                "citation": "VIII FAST WORKSHOP ON APPLIED AND COMPUTATIONAL MATHEMATICS 2015, 17, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust truss optimization using the sequential parametric convex approximation method",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cfmvWC0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 0
+    }
+}

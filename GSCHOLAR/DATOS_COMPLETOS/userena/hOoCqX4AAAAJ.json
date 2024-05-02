@@ -1,0 +1,649 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "hOoCqX4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto Carlos Cabrales",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hOoCqX4AAAAJ&citpid=2",
+    "affiliation": "Universidad de La Serena",
+    "organization": 6030355530770144394,
+    "interests": [
+        "Numerical methods in Fluid mechanics and heat transfer"
+    ],
+    "email_domain": "@userena.cl",
+    "homepage": "https://rcabrales.wordpress.com/",
+    "citedby": 124,
+    "citedby5y": 105,
+    "hindex": 7,
+    "hindex5y": 6,
+    "i10index": 5,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 2,
+        "2015": 1,
+        "2016": 6,
+        "2017": 4,
+        "2018": 4,
+        "2019": 5,
+        "2020": 4,
+        "2021": 17,
+        "2022": 25,
+        "2023": 37,
+        "2024": 17
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "szI1px4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Guillen-Gonzalez",
+            "affiliation": "Full professor, Universidad de Sevilla"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vLjigV0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ernesto Castillo",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cMKza3UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enrique Fernandez Cara",
+            "affiliation": "Profesor de Matem\u00e1ticas, Universidad de Sevilla"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1o3Xg0cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Ch\u00e1vez Toro",
+            "affiliation": "PhD. Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-do-rLwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "R. A. Ananias",
+            "affiliation": "Universidad del Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UBQ2gFEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amaru Gonzalez",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lsgiTBQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Luiz Boldrini",
+            "affiliation": "Researcher of Mathematics, State University of Campinas, Brazil"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2B5Iz-gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anderson L. A. de Araujo",
+            "affiliation": "Professor de Matem\u00e1tica, Universidade Federal de Vi\u00e7osa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_rhKwDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u00c9lder Jes\u00fas Villamizar-Roa",
+            "affiliation": "Universidad Industrial de Santander, Colombia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uFldLV4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J. Rafael Rodr\u00edguez-Galv\u00e1n",
+            "affiliation": "Professor of Mathematics. Universidad de C\u00e1diz"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Time-Splitting Finite-Element Stable Approximation for the Ericksen--Leslie Equations",
+                "pub_year": "2015",
+                "citation": "SIAM Journal on Scientific Computing 37 (2), B261-B282, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=201120416386281917",
+            "cites_id": [
+                "201120416386281917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometric multigrid technique for solving heat convection-diffusion and phase change problems",
+                "pub_year": "2017",
+                "citation": "International Communications in Heat and Mass Transfer 88, 108-119, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4041551412107190913",
+            "cites_id": [
+                "4041551412107190913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A uniform error estimate in time for spectral Galerkin approximations of the magneto\u2010micropolar fluid equations",
+                "pub_year": "2012",
+                "citation": "Numerical Methods for Partial Differential Equations 28 (2), 689-706, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=98489344407882357",
+            "cites_id": [
+                "98489344407882357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling unsteady heat and mass transfer with prediction of mechanical stresses in wood drying",
+                "pub_year": "2021",
+                "citation": "International Communications in Heat and Mass Transfer 123, 105230, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8133595256515918842",
+            "cites_id": [
+                "8133595256515918842"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modeling of macrosegregation during solidification of binary alloy by control volume finite element method",
+                "pub_year": "2017",
+                "citation": "Applied Mathematical Modelling 52, 288-305, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10135552583859980437",
+            "cites_id": [
+                "10135552583859980437"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational modeling of a PV-PCM passive cooling system during a day\u2013night cycle at arid and semi-arid climate zones",
+                "pub_year": "2022",
+                "citation": "Energy Conversion and Management 270, 116202, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:aqlVkmm33-oC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6770802038699364346",
+            "cites_id": [
+                "6770802038699364346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An approach to accelerate the convergence of SIMPLER algorithm for convection-diffusion problems of fluid flow with heat transfer and phase change",
+                "pub_year": "2021",
+                "citation": "International Communications in Heat and Mass Transfer 129, 105715, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13549381334177421329",
+            "cites_id": [
+                "13549381334177421329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of time integration scheme in the numerical approximation of thermally coupled problems: From first to third order",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 99, 345-360, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:4TOpqqG69KYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14262321834321710821",
+            "cites_id": [
+                "14262321834321710821"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A projection\u2010based time\u2010splitting algorithm for approximating nematic liquid crystal flows with stretching",
+                "pub_year": "2017",
+                "citation": "ZAMM\u2010Journal of Applied Mathematics and Mechanics/Zeitschrift f\u00fcr Angewandte \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10984425416279372211",
+            "cites_id": [
+                "10984425416279372211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical study of the use of residual-and non-residual-based stabilized VMS formulations for incompressible power-law fluids",
+                "pub_year": "2022",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 400, 115586, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11055168754395634236",
+            "cites_id": [
+                "11055168754395634236"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability and convergence for a complete model of mass diffusion",
+                "pub_year": "2011",
+                "citation": "Applied numerical mathematics 61 (11), 1161-1185, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16584628234438278483",
+            "cites_id": [
+                "16584628234438278483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced order modeling of parametrized pulsatile blood flows: Hematocrit percentage and heart rate",
+                "pub_year": "2023",
+                "citation": "International Journal of Engineering Science 193, 103943, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11585226287649614067",
+            "cites_id": [
+                "11585226287649614067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-relaxed finite volume fractional step schemes for unsteady incompressible flows",
+                "pub_year": "2023",
+                "citation": "Computers & Mathematics with Applications 146, 241-252, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7931429380311538093",
+            "cites_id": [
+                "7931429380311538093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Control of Insect Populations",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (15), 1762, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12802236510843947101",
+            "cites_id": [
+                "12802236510843947101"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and optimal control of some solidification processes",
+                "pub_year": "2014",
+                "citation": "Discrete Contin. Dyn. Syst 34, 3985-4017, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12683976832008939301",
+            "cites_id": [
+                "12683976832008939301"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sobre la diferenciabilidad de funciones en espacios de Banach",
+                "pub_year": "2006",
+                "citation": "Revista Integraci\u00f3n, temas de matem\u00e1ticas 24 (2), 87-100, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3362962305478543308",
+            "cites_id": [
+                "3362962305478543308"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence rates of approximations of incompressible flows through granular porous media",
+                "pub_year": "2020",
+                "citation": "GEM-International Journal on Geomathematics 11 (1), 19, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12004789696869977139",
+            "cites_id": [
+                "12004789696869977139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution for an aggregation equation with degenerate diffusion",
+                "pub_year": "2020",
+                "citation": "Applied Mathematics and Computation 377, 125145, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9771294138113272181",
+            "cites_id": [
+                "9771294138113272181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ecuaciones de Boussinesq: estimaciones uniformes en el tiempo de las aproximaciones de Galerkin espectrales",
+                "pub_year": "2009",
+                "citation": "Revista Integraci\u00f3n, temas de matem\u00e1ticas 27 (1), 37-57, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551725048708813202",
+            "cites_id": [
+                "6551725048708813202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerated finite volume schemes for dynamic convection-dominant power-law fluid flows",
+                "pub_year": "2024",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 424, 116877, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D solidification with macrosegregation of a binary alloy",
+                "pub_year": "2015",
+                "citation": "Proceedings of the XXIV Congress on Differential Equations and Applications \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Liquid Crystal and Phase-Field models are related by Mathematics",
+                "pub_year": "2014",
+                "citation": "Seminario IMUS Diciembre 2014 (2014),, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the control of some systems modelling solidification processes and related phenomena",
+                "pub_year": "2009",
+                "citation": "IFAC Workshop on\" Control of Distibuted Parameter Systems (2009)., 2009"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algumas contribui\u00e7\u00f5es a analise matematica ea simula\u00e7\u00e3o computacional da solidifica\u00e7\u00e3o de ligas binarias.",
+                "pub_year": "2007",
+                "citation": "University of Campinas, Brazil, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alguns Resultados Sobre uma Classe de Equacoes Diferenciais Parciais nao Lineares",
+                "pub_year": "2002",
+                "citation": "[sn], 2002"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation of phase change problems by variational multiscale techniques",
+                "citation": "BOOK OF, 99, 0"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-, Second-, and Third-Order in Time Finite Volume Fractional Step Schemes for Unsteady Incompressible Flows",
+                "citation": "Second-, and Third-Order in Time Finite Volume Fractional Step Schemes for \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A PROJECTION-BASED TIME-SPLITTING FINITE ELEMENT METHOD FOR THE NUMERICAL APPROXIMATION OF NEMATIC LIQUID CRYSTALS FLOWS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VALPARAISO NUMERICO IV",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apuntes del Curso M\u00e9todos Num\u00e9ricos con Matlab",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Magneto-micropolar fluid equations: An uniform error estimate in time for spectral Galerkin approximations",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the regularity for the solutions of the Boussinesq system",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un m\u00e9todo de vol\u00famenes de control basado en elementos para la simulaci\u00f3n num\u00e9rica de procesos de solidificaci\u00f3n.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solidificaci\u00f3n de aleaciones met\u00e1licas bajo la influencia de campos magn\u00e9ticos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control num\u00e9rico de la proliferaci\u00f3n de insectos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A CONTROL VOLUME FINITE ELEMENT METHOD FOR SIMULATE MACROSEGRATION IN BINARY ALLOYS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hOoCqX4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

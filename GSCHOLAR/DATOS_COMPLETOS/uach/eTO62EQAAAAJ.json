@@ -1,0 +1,89 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eTO62EQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Duilio Fonseca-Gallardo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eTO62EQAAAAJ&citpid=1",
+    "affiliation": "Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Earth Science",
+        "Glaciology",
+        "Environment",
+        "Education"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "citedby": 27,
+    "citedby5y": 27,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 6,
+        "2021": 5,
+        "2022": 10,
+        "2023": 4,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "05kAnTUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marius Schaefer",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z7VXXH8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Far\u00edas-Barahona",
+            "affiliation": "University of Erlangen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface energy fluxes on Chilean glaciers: measurements and models",
+                "pub_year": "2019",
+                "citation": "The Cryosphere Discussions, 1-25, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "eTO62EQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8571113924530193733",
+            "cites_id": [
+                "8571113924530193733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EL BALANCE DE ENERG\u00cdA SUPERFICIAL DE GLACIARES DE CHILE",
+                "pub_year": "2017",
+                "citation": "UNIVERSIDAD AUSTRAL DE CHILE, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eTO62EQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

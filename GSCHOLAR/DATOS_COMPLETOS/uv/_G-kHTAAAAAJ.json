@@ -1,0 +1,159 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_G-kHTAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Eduardo Godoy",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_G-kHTAAAAAJ&citpid=1",
+    "affiliation": "Universidad de Valpara\u00edso",
+    "organization": 17388732461633852730,
+    "interests": [
+        "Applied Research",
+        "Artifitial Inteligene to health applied",
+        "Sw Architecting",
+        "Programimg Language"
+    ],
+    "email_domain": "@postgrado.uv.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZaqDIPcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Salas F.",
+            "affiliation": "Universidad de Valpara\u00edso / Millennium Institute for Intelligent Healthcare Engineering / MEDING"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MwddGZMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Mellado",
+            "affiliation": "Estudiante Doctorado en Ciencias e Ingenier\u00eda para la Salud, Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vjjC-dQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marvin Querales",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x5dvWeIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Steren Chabert",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TR_CpjYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Sotelo",
+            "affiliation": "Profesor del Departamento de Inform\u00e1tica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iLaBvHQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Riquelme",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CG70k_AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Puraivan",
+            "affiliation": "PhD student at Universidad de Valpara\u00edso, Chile. https://orcid.org/0000-0003-2134-8922"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eq254vUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Veloz",
+            "affiliation": "Associate professor, Biomedical Engineering, Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fake news detection on Twitter using a data mining framework based on explainable machine learning techniques",
+                "pub_year": "2021",
+                "citation": "IET Digital Library, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_G-kHTAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8899972325668219012",
+            "cites_id": [
+                "8899972325668219012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A named entity recognition framework using transformers to identify relevant clinical findings from mammographic radiological reports",
+                "pub_year": "2023",
+                "citation": "18th International Symposium on Medical Information Processing and Analysis \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_G-kHTAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13429538234716604972",
+            "cites_id": [
+                "13429538234716604972"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Torwards Trustworthy Machine Learning based systems: Evaluating breast cancer predictions interpretability using Human Centered Machine Learning and UX Techniques",
+                "pub_year": "2023",
+                "citation": "International Conference on Human-Computer Interaction, 538-545, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_G-kHTAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

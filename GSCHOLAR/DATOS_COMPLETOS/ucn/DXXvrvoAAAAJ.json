@@ -1,0 +1,64 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DXXvrvoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pedro Reyes Norambuena",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DXXvrvoAAAAJ&citpid=4",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [],
+    "email_domain": "@ucn.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel MCDM approach based on OPA-WINGS for policy making in undergraduate elective courses",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (22), 4211, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DXXvrvoAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9158493183530700984",
+            "cites_id": [
+                "9158493183530700984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of machine learning techniques for pedestrian dynamics simulation models",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 13th International Conference on Pattern Recognition Systems \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DXXvrvoAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

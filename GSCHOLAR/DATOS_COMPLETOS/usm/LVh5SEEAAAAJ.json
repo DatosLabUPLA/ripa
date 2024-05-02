@@ -1,0 +1,130 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "LVh5SEEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Villenas Cortez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LVh5SEEAAAAJ&citpid=1",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 26,
+    "citedby5y": 26,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 7,
+        "2023": 14,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pl-toon: A low-cost experimental platform for teaching and research on decentralized cooperative control",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (6), 2072, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12019945449068781253",
+            "cites_id": [
+                "12019945449068781253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Kalman-based compensation strategy for platoons subject to data loss: Numerical and empirical study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (5), 1228, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402102112501622545",
+            "cites_id": [
+                "9402102112501622545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensor Calibration and Filtering for an Agent of the PL-TOON Platooning Platform",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6030647263891876117",
+            "cites_id": [
+                "6030647263891876117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Role of Sampling Time in String Stabilization for Platooning: An Experimental Case Study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (13), 2923, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7855476733995865861",
+            "cites_id": [
+                "7855476733995865861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical study of a Kalman filtering based strategy for platooning with lossy communication",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6093556247916019831",
+            "cites_id": [
+                "6093556247916019831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Validation of Cooperative Adaptive Cruise Control Schemes Under the Presence of Time Delays",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LVh5SEEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

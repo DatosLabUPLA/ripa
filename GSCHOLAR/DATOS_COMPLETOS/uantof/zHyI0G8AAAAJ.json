@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zHyI0G8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Aldo P. Padilla",
+    "affiliation": "Universidad de Antofagasta",
+    "organization": 7010446216104013295,
+    "interests": [],
+    "email_domain": "@uantof.cl",
+    "citedby": 30,
+    "citedby5y": 18,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 1,
+        "2015": 2,
+        "2016": 2,
+        "2017": 3,
+        "2018": 3,
+        "2019": 2,
+        "2020": 9,
+        "2021": 2,
+        "2022": 2,
+        "2023": 0,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation of the solubilities of alkali chlorides in mixed solvents: Polyethylene glycol+ H2O and Ethanol+ H2O",
+                "pub_year": "2012",
+                "citation": "Calphad 38, 35-42, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "zHyI0G8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9751400857550933104",
+            "cites_id": [
+                "9751400857550933104"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Density and Viscosity Modeling System LiCl-PEG4000-H2O at 25\u00baC using the Pitzer model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zHyI0G8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

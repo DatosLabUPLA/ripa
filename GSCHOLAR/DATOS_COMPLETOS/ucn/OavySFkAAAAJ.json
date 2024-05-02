@@ -1,0 +1,61 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "OavySFkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Esteban L. Severino",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "microbiology",
+        "bioactive compounds",
+        "antibiotics",
+        "diabetic foot osteomyelitis",
+        "biotechnology"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 2,
+        "2022": 4,
+        "2023": 6,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Insights into the microbiology of the chaotropic brines of Salar de Atacama, Chile",
+                "pub_year": "2019",
+                "citation": "Frontiers in microbiology 10, 1611, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OavySFkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8684359399794809270",
+            "cites_id": [
+                "8684359399794809270"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

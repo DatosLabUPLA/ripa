@@ -1,0 +1,92 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SBYNf08AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Gidi",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SBYNf08AAAAJ&citpid=1",
+    "affiliation": "PhD student, University of Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [],
+    "email_domain": "@udec.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic optimization algorithms for quantum applications",
+                "pub_year": "2023",
+                "citation": "Physical Review A 108 (3), 032409, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SBYNf08AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15289976214037404542",
+            "cites_id": [
+                "15289976214037404542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formation of multiple BGK-like structures in the time-asymptotic state of collisionless Vlasov-Poisson plasmas",
+                "pub_year": "2023",
+                "citation": "Physical Review E 107 (6), 065203, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SBYNf08AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14401179874247809103",
+            "cites_id": [
+                "14401179874247809103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vlasov-poisson simulations of the transverse instability of BGK-like modes in bump-on-tail distributed plasmas.",
+                "pub_year": "2020",
+                "citation": "Universidad de Concepci\u00f3n., 2020"
+            },
+            "filled": false,
+            "author_pub_id": "SBYNf08AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling of Solitary Ion-acoustic Waves and Electron Holes in Maxwellian Unmagnetized Plasmas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "SBYNf08AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ymkHBykAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Cristobal Karich",
+    "affiliation": "Dise\u00f1ador Industrial, Universidad Adolfo Iba\u00f1ez",
+    "organization": 10448777709790852446,
+    "interests": [
+        "Design",
+        "technology",
+        "3dprinting",
+        "interaction"
+    ],
+    "email_domain": "@uai.cl",
+    "homepage": "http://www.karichdesign.com/",
+    "citedby": 23,
+    "citedby5y": 23,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 7,
+        "2023": 6,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The 1730 great metropolitan chile earthquake and tsunami commemoration: Joint efforts to increase the country\u2019s awareness",
+                "pub_year": "2020",
+                "citation": "Geosciences 10 (6), 246, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ymkHBykAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2912812611168695771",
+            "cites_id": [
+                "2912812611168695771"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating tsunami simulations in web applications using BROWNI, an open source client-side GPU-powered tsunami simulation library",
+                "pub_year": "2022",
+                "citation": "Computers & Geosciences 159, 104976, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ymkHBykAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18089753333780958833",
+            "cites_id": [
+                "18089753333780958833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating tsunami models, web applications, and 3D projection mapping for disaster risk communication in the digital age",
+                "pub_year": "2019",
+                "citation": "AGU Fall Meeting Abstracts 2019, ED43B-1104, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ymkHBykAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

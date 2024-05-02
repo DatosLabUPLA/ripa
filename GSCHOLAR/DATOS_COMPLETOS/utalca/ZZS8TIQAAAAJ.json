@@ -1,0 +1,56 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ZZS8TIQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Elizabeth Manosalva",
+    "affiliation": "Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Teor\u00eda de representaciones. Combinatoria algebraica"
+    ],
+    "email_domain": "@inst-mat.utalca.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 2,
+        "2023": 1,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unitary representations of the Cherednik algebra: -homology",
+                "pub_year": "2021",
+                "citation": "Mathematische Zeitschrift 299 (3), 2215-2255, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ZZS8TIQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086447381934518743",
+            "cites_id": [
+                "16086447381934518743"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

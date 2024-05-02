@@ -1,0 +1,727 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "q5gQNvIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel Navia",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q5gQNvIAAAAJ&citpid=3",
+    "affiliation": "Chemical and Environmental Engineering Department, Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Process Optimization Under Uncertainty",
+        "Real Time Optimization",
+        "Stochastic Optimization",
+        "Sensibility Annalysis",
+        "Dynamic Optimiza"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 346,
+    "citedby5y": 217,
+    "hindex": 12,
+    "hindex5y": 9,
+    "i10index": 13,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2014": 10,
+        "2015": 22,
+        "2016": 32,
+        "2017": 28,
+        "2018": 34,
+        "2019": 27,
+        "2020": 30,
+        "2021": 39,
+        "2022": 44,
+        "2023": 55,
+        "2024": 21
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TP1lGM8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Sarabia",
+            "affiliation": "Universidad de Burgos (\u00c1rea de Ingenier\u00eda de Sistemas y Autom\u00e1tica)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nLqvy7EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "gloria guti\u00e9rrez rodr\u00edguez",
+            "affiliation": "Profesora Titular, Universidad de Valladolid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1dp-SB4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paulina Quintanilla",
+            "affiliation": "Brunel University London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GJfhGnkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raquel Lebrero",
+            "affiliation": "Profesora, Universidad de Valladolid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bg290LcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrea Carvajal",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DUKAx64AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raul Mu\u00f1oz (ORCID:0000-0003-1207...",
+            "affiliation": "Universidad de Valladolid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6vyFk4YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Cubillos",
+            "affiliation": "Academico Departamento de Ingenier\u00eda Quimica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J7BYrD8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rebeca P\u00e9rez",
+            "affiliation": "Investigador Postdoctoral, Universidad de Valladolid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wqiTfvkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u0130lker Akmirza",
+            "affiliation": "gebze technical university"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZcH_ZVYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar  De Prada Moraga",
+            "affiliation": "Universidad de Valladolid"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anoxic denitrification of BTEX: Biodegradation kinetics and pollutant interactions",
+                "pub_year": "2018",
+                "citation": "Journal of environmental management 214, 125-136, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1234182992309490493",
+            "cites_id": [
+                "1234182992309490493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modifier-adaptation methodology for real-time optimization reformulated as a nested optimization problem",
+                "pub_year": "2015",
+                "citation": "Industrial & engineering chemistry research 54 (48), 12054-12071, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2044058484442796335",
+            "cites_id": [
+                "2044058484442796335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method to coordinate decentralized NMPC controllers in oxygen distribution networks",
+                "pub_year": "2013",
+                "citation": "Computers & Chemical Engineering, 122-137, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17708645144990773512",
+            "cites_id": [
+                "17708645144990773512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time optimization for a laboratory-scale flotation column",
+                "pub_year": "2016",
+                "citation": "Computers & chemical engineering 86, 62-74, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1849726415082094815",
+            "cites_id": [
+                "1849726415082094815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nested modifier-adaptation for RTO in the otto williams reactor",
+                "pub_year": "2013",
+                "citation": "IFAC Proceedings Volumes 46 (32), 123-128, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12560943901411539758",
+            "cites_id": [
+                "12560943901411539758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supercritical CO2 oilseed extraction in multi-vessel plants. 3. Effect of extraction pressure and plant size on production cost",
+                "pub_year": "2017",
+                "citation": "The Journal of Supercritical Fluids 122, 109-118, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8694312111086833384",
+            "cites_id": [
+                "8694312111086833384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic flotation model for predictive control incorporating froth physics. Part I: Model development",
+                "pub_year": "2021",
+                "citation": "Minerals Engineering 173, 107192, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3517456269459911093",
+            "cites_id": [
+                "3517456269459911093"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a control strategy to cope with biogas flowrate variations during photosynthetic biogas upgrading",
+                "pub_year": "2019",
+                "citation": "Biomass and bioenergy 131, 105414, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11250675008784913092",
+            "cites_id": [
+                "11250675008784913092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handling infeasibilities in dual modifier-adaptation methodology for real-time optimization",
+                "pub_year": "2012",
+                "citation": "IFAC Proceedings Volumes 45 (15), 537-542, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2525292213749828831",
+            "cites_id": [
+                "2525292213749828831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison between two methods of stochastic optimization for a dynamic hydrogen consuming plant",
+                "pub_year": "2014",
+                "citation": "Computers & Chemical Engineering 63, 219-233, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5962995950024490854",
+            "cites_id": [
+                "5962995950024490854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic MPC with modifier adaptation using transient measurements",
+                "pub_year": "2021",
+                "citation": "Computer Aided Chemical Engineering 50, 1253-1258, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1820661609290206934,8767080695081796660",
+            "cites_id": [
+                "1820661609290206934",
+                "8767080695081796660"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coordination of distributed model predictive controllers using price-driven coordination and sensitivity analysis",
+                "pub_year": "2013",
+                "citation": "IFAC Proceedings Volumes 46 (32), 215-220, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13864962600596842259",
+            "cites_id": [
+                "13864962600596842259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic optimization integrating modifier adaptation using transient measurements",
+                "pub_year": "2021",
+                "citation": "Computers & Chemical Engineering 149, 107282, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054660171393402474",
+            "cites_id": [
+                "9054660171393402474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic flotation model for predictive control incorporating froth physics. Part II: Model calibration and validation",
+                "pub_year": "2021",
+                "citation": "Minerals Engineering 173, 107190, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:4DMP91E08xMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5889527230130661088",
+            "cites_id": [
+                "5889527230130661088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modifier-Adaptation methodology for RTO applied to Distillation Columns",
+                "pub_year": "2015",
+                "citation": "IFAC-PapersOnLine 48 (8), 223-228, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16294949986921568043",
+            "cites_id": [
+                "16294949986921568043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shared Resources Management by Price Coordination",
+                "pub_year": "2012",
+                "citation": "ESCAPE22 (European Symposium on Computer Aided Process Engineering), 902-906, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17613935280709845159",
+            "cites_id": [
+                "17613935280709845159"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On dealing with measured disturbances in the modifier adaptation method for real-time optimization",
+                "pub_year": "2019",
+                "citation": "Computers & Chemical Engineering 128, 141-163, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16099353098326985386",
+            "cites_id": [
+                "16099353098326985386"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modifier-adaptation based on transient measurements applied to a laboratory-scale flotation column",
+                "pub_year": "2017",
+                "citation": "Computer Aided Chemical Engineering 40, 1729-1734, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14732615327351189890",
+            "cites_id": [
+                "14732615327351189890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nested Modifier-Adaptation Methodology for RTO in the Otto Williams Reactor",
+                "pub_year": "2013",
+                "citation": "10th International Symposium on Dynamics and Control Process Systems (DYCOPS \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10386006457181276890",
+            "cites_id": [
+                "10386006457181276890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic model predictive control for a rougher froth flotation cell using physics-based models",
+                "pub_year": "2023",
+                "citation": "Minerals Engineering 196, 108050, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10108070479850986549",
+            "cites_id": [
+                "10108070479850986549"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A methodology to implement a closed-loop feedback-feedforward level control in a laboratory-scale flotation bank using peristaltic pumps",
+                "pub_year": "2023",
+                "citation": "MethodsX 10, 102081, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5084332975034730854",
+            "cites_id": [
+                "5084332975034730854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lignocellulosic residue valorization in a sequential process of solid\u2010state fermentation and solid substrate anaerobic digestion",
+                "pub_year": "2022",
+                "citation": "Journal of Chemical Technology & Biotechnology 97 (6), 1575-1584, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15560494548289049608",
+            "cites_id": [
+                "15560494548289049608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed modifier-adaptation for RTo in a continuous bioreactor",
+                "pub_year": "2014",
+                "citation": "IFAC Proceedings Volumes 47 (3), 7635-7640, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15981355429268498900",
+            "cites_id": [
+                "15981355429268498900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handling uncertainties in process optimization",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7880868074107344952",
+            "cites_id": [
+                "7880868074107344952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Proposal to Include the Information of Disturbances in Modifier Adaptation Methodology for Real Time Optimization",
+                "pub_year": "2018",
+                "citation": "Computer Aided Chemical Engineering 43, 1081-1086, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7122991912359963407",
+            "cites_id": [
+                "7122991912359963407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient nested modifier adaptation for rto using lagrangian functions",
+                "pub_year": "2017",
+                "citation": "Computer Aided Chemical Engineering 40, 1723-1728, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7059556960486326225",
+            "cites_id": [
+                "7059556960486326225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed stochastic optimization of a process plant start-up",
+                "pub_year": "2014",
+                "citation": "IFAC Proceedings Volumes 47 (3), 2734-2739, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9698997895069424400",
+            "cites_id": [
+                "9698997895069424400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation platform of an industrial propylene-propane splitter integrated to Advanced Process Control for Real Time Optimization experiments",
+                "pub_year": "2022",
+                "citation": "IFAC-PapersOnLine 55 (7), 673-678, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11660415857428481837",
+            "cites_id": [
+                "11660415857428481837"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis of Multiperiod Heat Exchanger Networks  Comprising Different Heat Exchanger Types",
+                "pub_year": "2010",
+                "citation": "20th European Symposium on Computer Aided Process Engineering \u2013 ESCAPE20, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142543185653070528",
+            "cites_id": [
+                "17142543185653070528"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual environment of an industrial splitter to test Dynamic Real Time Optimization",
+                "pub_year": "2023",
+                "citation": "Simulation Modelling Practice and Theory 129, 102821, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in Dynamic Modelling for Model Predictive Control for Froth Flotation",
+                "pub_year": "2023",
+                "citation": "2023 AIChE Annual Meeting, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Changes in Feed Particle Size within an Economic Model Predictive Control Strategy for Froth Flotation",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 2317-2322, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust NMPC of a Hydrodesulfuration Unit Using Multi-stage Stochastic Programing",
+                "pub_year": "2014",
+                "citation": "Computer Aided Chemical Engineering 33, 793-798, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PROGRAMACI\u00d3N DE CONTROLADOR PREDICTIVO EN ECOSIMPRO\u00ae E IMPLEMENTACI\u00d3N EN PLANTA DE DISTRIBUCI\u00d3N DE OX\u00cdGENO",
+                "pub_year": "2013",
+                "citation": "XXXIV Jornadas de Autom\u00e1tica, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory Plant of a Gas Distribution Network",
+                "pub_year": "2012",
+                "citation": "Advances in Control Education 9 (1), 390-395, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizaci\u00f3n en tiempo real de un reactor qu\u00edmico usando adaptaci\u00f3n de modificadores",
+                "pub_year": "2012",
+                "citation": "Actas de las XXXIII Jornadas de Autom\u00e1tica: Vigo, 5 al 7 de Septiembre de \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heat Integration and Optimal HEN Design Applied to a Gas Pipeline / Power Generation System",
+                "pub_year": "2010",
+                "citation": "19th International Congress of Chemical and Process Engineering CHISA 2010 \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Features in Dynamic Optimization with EcosimPro",
+                "pub_year": "2010",
+                "citation": "X Simposio Internacional de Automatizaci\u00f3n, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time optimization with modifier adaptation based on dynamic gradient estimation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nested Modifier-Adaptation for Real Time Optimization in the Otto Williams Reactor",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q5gQNvIAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 10,
+        "not_available": 6
+    }
+}

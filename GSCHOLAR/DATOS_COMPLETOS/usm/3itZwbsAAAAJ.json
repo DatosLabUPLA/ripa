@@ -1,0 +1,1520 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3itZwbsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Patricio Cortes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3itZwbsAAAAJ&citpid=2",
+    "affiliation": "Universidad Tecnica Federico Santa Maria, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Power Electronics",
+        "Predictive Control"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 16683,
+    "citedby5y": 6869,
+    "hindex": 35,
+    "hindex5y": 26,
+    "i10index": 59,
+    "i10index5y": 36,
+    "cites_per_year": {
+        "2008": 198,
+        "2009": 292,
+        "2010": 427,
+        "2011": 433,
+        "2012": 636,
+        "2013": 845,
+        "2014": 1052,
+        "2015": 1366,
+        "2016": 1474,
+        "2017": 1472,
+        "2018": 1496,
+        "2019": 1577,
+        "2020": 1437,
+        "2021": 1507,
+        "2022": 1100,
+        "2023": 1062,
+        "2024": 186
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KZ5TMuAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Rodriguez",
+            "affiliation": "Professor, Engineering Faculty, Universidad San Sebastian"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X5xPjmkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samir Kouro",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0gRNgsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Silva",
+            "affiliation": "Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-sul52cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leopoldo Garc\u00eda Franquelo",
+            "affiliation": "Professor Dept. of Electronics Engineering, Universidad de Sevilla (University of Seville), Spain"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "h9hPvFMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Vazquez",
+            "affiliation": "Associate Professor (Universidad de Sevilla)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s0MIz4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Quevedo",
+            "affiliation": "Queensland University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c1VhcpIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marian P. Kazmierkowski",
+            "affiliation": "Profesor in Power Electronics and Drives"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c9ql-BAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo A. Perez",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mfnr2oEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan I. Yuz",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VK95M7QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose I. Leon",
+            "affiliation": "University of Seville"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control\u2014A simple and powerful method to control power converters",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on industrial electronics 56 (6), 1826-1838, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2316,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8963053496299398258,15766118584641972844",
+            "cites_id": [
+                "8963053496299398258",
+                "15766118584641972844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control in power electronics and drives",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on industrial electronics 55 (12), 4312-4324, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2057,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=172876708651083573",
+            "cites_id": [
+                "172876708651083573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control of a voltage source inverter",
+                "pub_year": "2007",
+                "citation": "IEEE transactions on industrial electronics 54 (1), 495-503, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1990,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9460900372186080546",
+            "cites_id": [
+                "9460900372186080546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of power converters and electrical drives",
+                "pub_year": "2012",
+                "citation": "John Wiley & Sons, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1621,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3045422192876587653",
+            "cites_id": [
+                "3045422192876587653"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delay compensation in model predictive current control of a three-phase inverter",
+                "pub_year": "2011",
+                "citation": "IEEE Transactions on Industrial Electronics 59 (2), 1323-1325, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1177,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628618006482892494",
+            "cites_id": [
+                "16628618006482892494"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Control of an Inverter With Output   Filter for UPS Applications",
+                "pub_year": "2009",
+                "citation": "IEEE Transactions on industrial electronics 56 (6), 1875-1883, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 793,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13299846039373227893",
+            "cites_id": [
+                "13299846039373227893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guidelines for weighting factors design in model predictive control of power converters and drives",
+                "pub_year": "2009",
+                "citation": "2009 IEEE International Conference on Industrial Technology, 1-7, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 773,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14005782891717697293",
+            "cites_id": [
+                "14005782891717697293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a three-phase neutral-point-clamped inverter",
+                "pub_year": "2007",
+                "citation": "IEEE Transactions on Industrial Electronics 54 (5), 2697-2705, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 696,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5301949685231724580",
+            "cites_id": [
+                "5301949685231724580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of multilevel cascaded H-bridge inverters",
+                "pub_year": "2010",
+                "citation": "IEEE Transactions on Industrial Electronics 57 (8), 2691-2699, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 651,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15185532910485915094",
+            "cites_id": [
+                "15185532910485915094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct power control of an AFE using predictive control",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Power Electronics 23 (5), 2516-2523, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 568,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12653487341383486831",
+            "cites_id": [
+                "12653487341383486831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive torque control of induction machines based on state-space models",
+                "pub_year": "2009",
+                "citation": "IEEE Transactions on Industrial Electronics 56 (6), 1916-1924, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 551,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14406634053694581645",
+            "cites_id": [
+                "14406634053694581645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control strategy with imposed load current spectrum",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on power Electronics 23 (2), 612-618, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 474,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343288513150322547",
+            "cites_id": [
+                "13343288513150322547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of an AFE rectifier with dynamic references",
+                "pub_year": "2011",
+                "citation": "IEEE transactions on power electronics 27 (7), 3128-3136, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:HDshCWvjkbEC",
+            "num_citations": 298,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4538185840486534130",
+            "cites_id": [
+                "4538185840486534130"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive current control of grid-connected neutral-point-clamped converters to meet low-voltage ride-through requirements",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Industrial Electronics 62 (3), 1503-1514, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:KxtntwgDAa4C",
+            "num_citations": 209,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13925915094284694288",
+            "cites_id": [
+                "13925915094284694288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control with constant switching frequency using a discrete space vector modulation with virtual state vectors",
+                "pub_year": "2009",
+                "citation": "2009 IEEE international conference on industrial technology, 1-6, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 195,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4839215188493663933",
+            "cites_id": [
+                "4839215188493663933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control algorithm technique for multilevel asymmetric cascaded H-bridge inverters",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Industrial Electronics 55 (12), 4354-4361, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 194,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15013341199471046072",
+            "cites_id": [
+                "15013341199471046072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new modulation method to reduce common-mode voltages in multilevel inverters",
+                "pub_year": "2004",
+                "citation": "IEEE transactions on industrial electronics 51 (4), 834-839, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 188,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17931582594118969182",
+            "cites_id": [
+                "17931582594118969182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of three-phase inverter",
+                "pub_year": "2004",
+                "citation": "Electron. Lett 40 (9), 561-562, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 156,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17455563015045763232",
+            "cites_id": [
+                "17455563015045763232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a three-phase UPS inverter using two steps prediction horizon",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1283-1288, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:_kc_bZDykSQC",
+            "num_citations": 142,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17642791672448294363",
+            "cites_id": [
+                "17642791672448294363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive power control of an AC/DC/AC converter",
+                "pub_year": "2005",
+                "citation": "Fourtieth IAS Annual Meeting. Conference Record of the 2005 Industry \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10753808872514809635",
+            "cites_id": [
+                "10753808872514809635"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a back-to-back NPC converter-based wind power system",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Industrial Electronics 63 (7), 4615-4627, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:08ZZubdj9fEC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11789659424621745136",
+            "cites_id": [
+                "11789659424621745136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilevel direct power control\u2014A generalized approach for grid-tied multilevel converter applications",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Power Electronics 29 (10), 5592-5604, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:NhqRSupF_l8C",
+            "num_citations": 94,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1326809033389748828",
+            "cites_id": [
+                "1326809033389748828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control based selective harmonic elimination with low switching frequency for multilevel converters",
+                "pub_year": "2009",
+                "citation": "2009 IEEE Energy Conversion Congress and Exposition, 3130-3136, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477781634189078278",
+            "cites_id": [
+                "16477781634189078278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances in mining haul trucks",
+                "pub_year": "2004",
+                "citation": "IEEE Transactions on Industrial Electronics 51 (2), 321-329, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2141031469638947321",
+            "cites_id": [
+                "2141031469638947321"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a three-phase neutral point clamped inverter",
+                "pub_year": "2005",
+                "citation": "2005 IEEE 36th Power Electronics Specialists Conference, 1364-1369, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:S16KYo8Pm5AC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4771504309581587467",
+            "cites_id": [
+                "4771504309581587467"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive direct torque control of an induction machine",
+                "pub_year": "2004",
+                "citation": "Proc. Power Electron. Motion Control Conf 2 (4), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:WF5omc3nYNoC",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2938465059421333318",
+            "cites_id": [
+                "2938465059421333318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resonances in a high-power active-front-end rectifier system",
+                "pub_year": "2005",
+                "citation": "IEEE Transactions on industrial electronics 52 (2), 482-488, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8919744966646965464",
+            "cites_id": [
+                "8919744966646965464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vector control of a diesel-driven doubly fed induction machine for a stand-alone variable speed energy system",
+                "pub_year": "2002",
+                "citation": "IEEE 2002 28th Annual Conference of the Industrial Electronics Society \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:bnK-pcrLprsC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5696561522311610846",
+            "cites_id": [
+                "5696561522311610846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2201421469882218959",
+            "cites_id": [
+                "2201421469882218959"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cost function-based predictive control for power converters",
+                "pub_year": "2006",
+                "citation": "IECON 2006-32nd Annual Conference on IEEE Industrial Electronics, 2268-2273, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14117692103566570517",
+            "cites_id": [
+                "14117692103566570517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a single-phase cascaded h-bridge photovoltaic energy conversion system",
+                "pub_year": "2012",
+                "citation": "Proceedings of The 7th International Power Electronics and Motion Control \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:hMod-77fHWUC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11336332816952504583",
+            "cites_id": [
+                "11336332816952504583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control of grid-connected neutral-point-clamped converters to meet low voltage ride-through requirements",
+                "pub_year": "2008",
+                "citation": "2008 IEEE Power Electronics Specialists Conference, 2423-2428, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15848625925513839071",
+            "cites_id": [
+                "15848625925513839071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of a Matrix Converter",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:M05iB0D1s5AC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8612662497740377522",
+            "cites_id": [
+                "8612662497740377522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite-states model predictive control of a four-level diode-clamped inverter",
+                "pub_year": "2008",
+                "citation": "2008 IEEE Power Electronics Specialists Conference, 2203-2208, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3951187706977978876",
+            "cites_id": [
+                "3951187706977978876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modulation and control of a three-phase phase-modular isolated matrix-type PFC rectifier",
+                "pub_year": "2017",
+                "citation": "IEEE Transactions on Power Electronics 33 (6), 4703-4715, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:yB1At4FlUx8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10222241454249641092",
+            "cites_id": [
+                "10222241454249641092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite states model predictive control for shunt active filters",
+                "pub_year": "2011",
+                "citation": "IECON 2011-37th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16273921564569841874",
+            "cites_id": [
+                "16273921564569841874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite control set MPC of an AFE rectifier with dynamic references",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1265-1270, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1114953250751630921",
+            "cites_id": [
+                "1114953250751630921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control methods for low voltage ride-through compliance in grid-connected NPC converter based wind power systems using predictive control",
+                "pub_year": "2009",
+                "citation": "2009 IEEE Energy Conversion Congress and Exposition, 363-369, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:4DMP91E08xMC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7274312093516092154",
+            "cites_id": [
+                "7274312093516092154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three-phase inverter with output LC filter using predictive control for UPS applications",
+                "pub_year": "2007",
+                "citation": "2007 European Conference on Power Electronics and Applications, 1-7, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:8k81kl-MbHgC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15777228725988471113",
+            "cites_id": [
+                "15777228725988471113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative evaluation of multi-loop control schemes for a high-bandwidth AC power source with a two-stage LC output filter",
+                "pub_year": "2012",
+                "citation": "2012 International Conference on Renewable Energy Research and Applications \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7548956424969869875",
+            "cites_id": [
+                "7548956424969869875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of cascaded H-bridge multilevel inverters",
+                "pub_year": "2009",
+                "citation": "2009 13th European Conference on Power Electronics and Applications, 1-9, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Zph67rFs4hoC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10189779456301758387",
+            "cites_id": [
+                "10189779456301758387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between FS-MPC control strategy for an UPS inverter application in \u03b1-\u03b2 and abc frames",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Symposium on Industrial Electronics, 3133-3138, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:IWHjjKOFINEC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10427886932979891068",
+            "cites_id": [
+                "10427886932979891068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New modulation and control scheme for phase-modular isolated matrix-type three-phase AC/DC converter",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:a0OBvERweLwC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7216167395338391856",
+            "cites_id": [
+                "7216167395338391856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control with reduction of switching frequency for three phase voltage source inverters",
+                "pub_year": "2011",
+                "citation": "2011 IEEE International Symposium on Industrial Electronics, 1817-1822, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:dhFuZR0502QC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5298655188017319822",
+            "cites_id": [
+                "5298655188017319822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive current control of a three-level five-phase NPC VSI using simplified computational approach",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Applied Power Electronics Conference and Exposition-APEC 2014 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13103731716173176484",
+            "cites_id": [
+                "13103731716173176484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a grid-connected cascaded H-bridge multilevel converter",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 2011 14th European Conference on Power Electronics and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:mB3voiENLucC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17279142610300123281",
+            "cites_id": [
+                "17279142610300123281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control for cascaded H-bridge multilevel inverters with even power distribution",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1271-1276, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8929993700999082521",
+            "cites_id": [
+                "8929993700999082521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive direct power control algorithm for three phase AC/DC converter",
+                "pub_year": "2007",
+                "citation": "EUROCON 2007-The International Conference on\" Computer as a Tool\", 1530-1534, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1040536337771714180",
+            "cites_id": [
+                "1040536337771714180"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control of a three-to-five phase matrix converter",
+                "pub_year": "2011",
+                "citation": "2011 Workshop on Predictive Control of Electrical Drives and Power \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16653758477841621501",
+            "cites_id": [
+                "16653758477841621501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current controller for sensorless induction motor drive",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1845-1850, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:4TOpqqG69KYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17922394593548817099",
+            "cites_id": [
+                "17922394593548817099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative evaluation of three-phase isolated matrix-type PFC rectifier concepts for high efficiency 380VDC supplies of future telco and data centers",
+                "pub_year": "2014",
+                "citation": "2014 16th European Conference on Power Electronics and Applications, 1-10, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16910145155136897131",
+            "cites_id": [
+                "16910145155136897131"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of predictive current control for three-phase voltage source inverters based on switching frequency and current error",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 2011 14th European Conference on Power Electronics and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:-f6ydRqryjwC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14723259562636875655",
+            "cites_id": [
+                "14723259562636875655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a direct ac/ac matrix converter for power supply applications",
+                "pub_year": "2012",
+                "citation": "IET Digital Library, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:blknAaTinKkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11162277499868288745",
+            "cites_id": [
+                "11162277499868288745"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized direct power control for grid connected multilevel converters",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1351-1358, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:qUcmZB5y_30C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12845356088832061856",
+            "cites_id": [
+                "12845356088832061856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite control set model predictive current control of a five-phase voltage source inverter",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Conference on Industrial Technology, 1787-1792, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17460033349663944477",
+            "cites_id": [
+                "17460033349663944477"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite state model predictive current control of a three-level five-phase NPC voltage source inverter",
+                "pub_year": "2010",
+                "citation": "IECON 2010-36th Annual Conference on IEEE Industrial Electronics Society \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7112953909554514905",
+            "cites_id": [
+                "7112953909554514905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase-oriented control of a modular 3-Phase 3-level 4-leg inverter AC power source supplying floating or grounded loads",
+                "pub_year": "2013",
+                "citation": "2013 IEEE Energy Conversion Congress and Exposition, 1357-1363, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:abG-DnoFyZgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6582601542832529298",
+            "cites_id": [
+                "6582601542832529298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method of predictive current control with reduced number of calculations for five-phase voltage source inverters",
+                "pub_year": "2009",
+                "citation": "2009 35th Annual Conference of IEEE Industrial Electronics, 53-58, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2027372570782528496",
+            "cites_id": [
+                "2027372570782528496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative evaluation of predictive control schemes for three-phase buck-type PFC rectifiers",
+                "pub_year": "2012",
+                "citation": "Proceedings of The 7th International Power Electronics and Motion Control \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:maZDTaKrznsC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12430618960448871519",
+            "cites_id": [
+                "12430618960448871519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-intensity interval exercise therapy to reduce cardiovascular risk factors in people with the metabolic syndrome; systematic review with meta-analysis",
+                "pub_year": "2015",
+                "citation": "Nutricion hospitalaria 32 (6), 2460-2471, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:kh2fBNsKQNwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=113849355470837349",
+            "cites_id": [
+                "113849355470837349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detailed analysis and design of a three-phase phase-modular isolated matrix-type PFC rectifier",
+                "pub_year": "2014",
+                "citation": "2014 International Power Electronics Conference (IPEC-Hiroshima 2014-ECCE \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4401104477645470189",
+            "cites_id": [
+                "4401104477645470189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swiss rectifier output voltage control with inner loop power flow programming (PFP)",
+                "pub_year": "2013",
+                "citation": "2013 IEEE 14th Workshop on Control and Modeling for Power Electronics \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5373298732717613671",
+            "cites_id": [
+                "5373298732717613671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of induction machines",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:PoWvk5oyLR8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11849362826405542346",
+            "cites_id": [
+                "11849362826405542346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of permanent magnet synchronous motors",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504194650512992454",
+            "cites_id": [
+                "4504194650512992454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control of a doubly fed inductor generator (DFIG) for fast power reference tracking",
+                "pub_year": "2012",
+                "citation": "2012 15th International Power Electronics and Motion Control Conference (EPE \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:p2g8aNsByqUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9525641810962330293",
+            "cites_id": [
+                "9525641810962330293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weighting factor design",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11282751732067771919",
+            "cites_id": [
+                "11282751732067771919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative evaluation of control schemes for a high bandwidth three-phase AC source",
+                "pub_year": "2012",
+                "citation": "Proceedings of The 7th International Power Electronics and Motion Control \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:k_IJM867U9cC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13323997048445362441",
+            "cites_id": [
+                "13323997048445362441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of an active front-end rectifier",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:SpbeaW3--B0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13207394210665144085",
+            "cites_id": [
+                "13207394210665144085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cost function selection",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:-FonjvnnhkoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7663981749027118796",
+            "cites_id": [
+                "7663981749027118796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electric propulsion technology based in predictive direct torque control and asymmetrical dual three-phase drives",
+                "pub_year": "2010",
+                "citation": "13th International IEEE Conference on Intelligent Transportation Systems \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8358555789776917829",
+            "cites_id": [
+                "8358555789776917829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive current control of a two-level five-phase voltage source inverter",
+                "pub_year": "2010",
+                "citation": "Int. Journal of Applied Engineering Research 5 (21), 3503-3514, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:P5F9QuxV20EC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3169634401975656203",
+            "cites_id": [
+                "3169634401975656203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guidelines for weighting factors adjustment in finite state model predictive control of power converters and drives",
+                "pub_year": "2009",
+                "citation": "Proc. IEEE Int. Conf. Ind. Tech.(ICIT), 1-7, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:rmuvC79q63oC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15806126782760149334",
+            "cites_id": [
+                "15806126782760149334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preservaci\u00f3n digital de objetos sonoros patrimoniales en Chile",
+                "pub_year": "2017",
+                "citation": "Serie Bibliotecolog\u00eda y Gesti\u00f3n de Informaci\u00f3n, 1, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:4fGpz3EwCPoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5268035839586334038",
+            "cites_id": [
+                "5268035839586334038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classical Control Methods for Power Converters and Drives",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8787781960618502506",
+            "cites_id": [
+                "8787781960618502506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Delay compensation",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:Dip1O2bNi0gC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14763473755209922503",
+            "cites_id": [
+                "14763473755209922503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of model parameter errors",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:e_rmSamDkqQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11653054952413062715",
+            "cites_id": [
+                "11653054952413062715"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ficha terape\u00fatica en el cuidado de lesiones d\u00e9rmicas",
+                "pub_year": "2007",
+                "citation": "Revista ROL de enfermer\u00eda 30 (1), 42-43, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:xtoqd-5pKcoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15222774013750715888",
+            "cites_id": [
+                "15222774013750715888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bibliotecas universitarias como socios estrat\u00e9gicos en la evaluaci\u00f3n de la investigaci\u00f3n acad\u00e9mica: caso de \u00e9xito del servicio de bibliometr\u00eda del Sistema de Bibliotecas UC",
+                "pub_year": "2019",
+                "citation": "Encuentro de ciencias de la informaci\u00f3n (1ero.: 2019: Chaco, Argentina), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:LO7wyVUgiFcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Appendix A: Predictive Control Simulation-Three-Phase Inverter",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:ClCfbGk0d_YC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Appendix C: Predictive Control Simulation-Matrix Converter",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EMI/EMC",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:foquWX3nUaYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Appendix B: Predictive Control Simulation-Torque Control of an Induction Machine Fed by a Two-Level Voltage Source Inverter",
+                "pub_year": "2012",
+                "citation": "Wiley-IEEE Press, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:i2xiXl-TujoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between FS-MPC control strategy for an UPS inverter application in \u03b1-\u03b2 and abc frames",
+                "pub_year": "2010",
+                "citation": "International Symposium On Industrial Electronics (ISIE), 3133-3138. Bari \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:M7yex6snE4oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guidelines for weighting factors design in model predictive control of power converters and drives",
+                "pub_year": "2009",
+                "citation": "International Conference On Industrial Technology (ICIT), 1-7. Gippsland \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:YohjEiUPhakC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Therapeutic card on the care of skin injuries",
+                "pub_year": "2007",
+                "citation": "Revista de enfermeria (Barcelona, Spain) 30 (1), 42-43, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:86PQX7AUzd4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "26p3 Predictive Power Control of an AC/DC/AC Converter",
+                "pub_year": "2005",
+                "citation": "CONFERENCE RECORD OF THE IEEE INDUSTRY APPLICATIONS CONFERENCE 40 (2), 934, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:ML0RJ9NH7IQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Altmetric Analysis of Open Access Scholarly Research Headed by Latin American Institutions from 2009 to 2018 Around SDG 3\" Good Health and Wellbeing",
+                "citation": "Policy 2, 4, 0"
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:bz8QjSJIRt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Invited Special Sessions",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of a Three-Phase SWISS Rectifier",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Problems Associated With the Direct Torque Control of an Interior Permanent-Magnet Synchronous Motor Drive and Their Remedies..................................... MF Rahman, ME \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "3itZwbsAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bk5HgVUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo A. Vel\u00e1squez Cisterna",
+    "affiliation": "UdeC",
+    "organization": 4555896482842878823,
+    "interests": [],
+    "email_domain": "@udec.cl",
+    "citedby": 38,
+    "citedby5y": 30,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 8,
+        "2019": 6,
+        "2020": 2,
+        "2021": 4,
+        "2022": 14,
+        "2023": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5VLmgCYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Correa",
+            "affiliation": "Professor, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P0YhYL0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Rivera",
+            "affiliation": "Universidad del Desarrollo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low-cost IoT based environmental monitoring system. A citizen approach to pollution awareness",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN conference on electrical, electronics engineering, information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "bk5HgVUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825883063265994497",
+            "cites_id": [
+                "5825883063265994497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of robotic system for humus productions. A strategy for recycling awareness",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "bk5HgVUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

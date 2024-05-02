@@ -1,0 +1,83 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Geq6FC8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nelson Villalba Riquelme",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "\u00f3ptica",
+        "informaci\u00f3n cu\u00e1ntica"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transmission of optical communication signals through ring core fiber using perfect vortex beams",
+                "pub_year": "2023",
+                "citation": "Optics Express 31 (24), 40113-40123, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Geq6FC8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3315540095195831269",
+            "cites_id": [
+                "3315540095195831269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian inference of spectrometric data and validation with numerical simulations of plasma sheath diagnostics of a plasma focus discharge",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (1), 15601, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Geq6FC8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17783510993573941684",
+            "cites_id": [
+                "17783510993573941684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observations on the dynamics of the plasma sheath axial acceleration phase on a Plasma Focus Discharge of hundreds of Joules",
+                "pub_year": "2016",
+                "citation": "APS Division of Plasma Physics Meeting Abstracts 2016, GP10. 158, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Geq6FC8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

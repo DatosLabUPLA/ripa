@@ -1,0 +1,447 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Y6syn0cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Eduardo Aguilar Torres",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y6syn0cAAAAJ&citpid=3",
+    "affiliation": "Academic, Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "Computer vision",
+        "machine learning",
+        "artificial intelligence"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 346,
+    "citedby5y": 328,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 17,
+        "2019": 43,
+        "2020": 58,
+        "2021": 53,
+        "2022": 73,
+        "2023": 69,
+        "2024": 32
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p_MCjd4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "petia radeva",
+            "affiliation": "Full professor, University of Barcelona, Senior Researcher, Computer Vision Center"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ds9PBtsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marc Bola\u00f1os",
+            "affiliation": "CTO and Co-founder at www.aigecko.com"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p5hq1OAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bhalaji Nagarajan",
+            "affiliation": "Departament de Matem\u00e0tiques i Inform\u00e0tica, Universitat de Barcelona"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NsEuxqwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Beatriz Remeseiro",
+            "affiliation": "Associate Professor, University of Oviedo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sPA0_GkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Bekios-Calfa",
+            "affiliation": "Universidad Cat\u00f3lica del Norte - DISC"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grab, pay, and eat: Semantic food detection for smart restaurants",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Multimedia 20 (12), 3266-3275, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 124,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9010293618407027625",
+            "cites_id": [
+                "9010293618407027625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Food recognition using fusion of classifiers based on CNNs",
+                "pub_year": "2017",
+                "citation": "Image Analysis and Processing-ICIAP 2017: 19th International Conference \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 74,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17842394879835807450",
+            "cites_id": [
+                "17842394879835807450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularized uncertainty-based multi-task learning model for food analysis",
+                "pub_year": "2019",
+                "citation": "Journal of Visual Communication and Image Representation 60, 360-370, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17668008320840789768",
+            "cites_id": [
+                "17668008320840789768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring food detection using CNNs",
+                "pub_year": "2018",
+                "citation": "Computer Aided Systems Theory\u2013EUROCAST 2017: 16th International Conference \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=540378903005994749",
+            "cites_id": [
+                "540378903005994749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple wavelet pooling for cnns",
+                "pub_year": "2018",
+                "citation": "Proceedings of the European conference on computer vision (ECCV) workshops, 0-0, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12525460464369291997",
+            "cites_id": [
+                "12525460464369291997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty-aware integration of local and flat classifiers for food recognition",
+                "pub_year": "2020",
+                "citation": "Pattern Recognition Letters 136, 237-243, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15632497016062213839",
+            "cites_id": [
+                "15632497016062213839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian deep learning for semantic segmentation of food images",
+                "pub_year": "2022",
+                "citation": "Computers and Electrical Engineering 103, 108380, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6840354096040509269",
+            "cites_id": [
+                "6840354096040509269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty modeling and deep learning applied to food image analysis",
+                "pub_year": "2020",
+                "citation": "International Joint Conference on Biomedical Engineering Systems and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8740411442642668002",
+            "cites_id": [
+                "8740411442642668002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Class-conditional data augmentation applied to image classification",
+                "pub_year": "2019",
+                "citation": "Computer Analysis of Images and Patterns: 18th International Conference \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4074084789713961174",
+            "cites_id": [
+                "4074084789713961174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty-aware data augmentation for food recognition",
+                "pub_year": "2021",
+                "citation": "2020 25th International Conference on Pattern Recognition (ICPR), 4017-4024, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13261368104898921592",
+            "cites_id": [
+                "13261368104898921592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Food recognition by integrating local and flat classifiers",
+                "pub_year": "2019",
+                "citation": "Iberian Conference on Pattern Recognition and Image Analysis, 65-74, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743470903139151732",
+            "cites_id": [
+                "15743470903139151732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nutritional monitoring in older people prevention services",
+                "pub_year": "2021",
+                "citation": "Digital Health Technology for Better Aging: A Multidisciplinary Approach, 77-102, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12406754172866280451",
+            "cites_id": [
+                "12406754172866280451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty-aware selecting for an ensemble of deep food recognition models",
+                "pub_year": "2022",
+                "citation": "Computers in Biology and Medicine 146, 105645, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:Se3iqnhoufwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11100795657406108406",
+            "cites_id": [
+                "11100795657406108406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian DivideMix++ for Enhanced Learning with Noisy Labels",
+                "pub_year": "2024",
+                "citation": "Neural Networks 172, 106122, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11914965153447201168",
+            "cites_id": [
+                "11914965153447201168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring multi-food detection using deep learning-based algorithms",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 13th International Conference on Pattern Recognition Systems \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3657909467337012481",
+            "cites_id": [
+                "3657909467337012481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "S2ML-TL framework for multi-label food recognition",
+                "pub_year": "2021",
+                "citation": "International Conference on Pattern Recognition, 629-646, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16725400985952398206",
+            "cites_id": [
+                "16725400985952398206"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continual Evidential Deep Learning for Out-of-Distribution Detection",
+                "pub_year": "2023",
+                "citation": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16602769796568158587",
+            "cites_id": [
+                "16602769796568158587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Can deep learning models recognize chilean diet",
+                "pub_year": "2022",
+                "citation": "IEEE Latin America Transactions 20 (9), 2131-2138, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5774603563268870308",
+            "cites_id": [
+                "5774603563268870308"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust Deep Neural Network for Learning in Noisy Multi-Label Food Images",
+                "pub_year": "2024",
+                "citation": "Sensors 24 (7), 2034, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep ensemble-based hard sample mining for food recognition",
+                "pub_year": "2023",
+                "citation": "Journal of Visual Communication and Image Representation 95, 103905, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Localizaci\u00f3n simult\u00e1nea y mapeo para control de un robot m\u00f3vil aut\u00f3nomo usando escaneo de nube de puntos LiDAR y m\u00e9todos de aprendizaje de m\u00e1quina",
+                "pub_year": "2023",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 31, 0-0, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hacia una detecci\u00f3n precisa de cascos de seguridad en tiempo real a trav\u00e9s de un m\u00e9todo basado en el aprendizaje profundo",
+                "pub_year": "2023",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 31, 0-0, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep Learning and Uncertainty Modeling in Visual Food Analysis",
+                "pub_year": "2020",
+                "citation": "Universitat de Barcelona, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clasificaci\u00f3n de g\u00e9nero utilizando vectores de frecuencia basados en descriptores locales",
+                "pub_year": "2016",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 24 (1), 124-134, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Y6syn0cAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 9
+    }
+}

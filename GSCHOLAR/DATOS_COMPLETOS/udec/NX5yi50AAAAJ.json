@@ -1,0 +1,843 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NX5yi50AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Manuel Solano",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "numerical analysis",
+        "scientific computing"
+    ],
+    "email_domain": "@ing-mat.udec.cl",
+    "homepage": "http://www.ing-mat.udec.cl/~msolano/",
+    "citedby": 715,
+    "citedby5y": 506,
+    "hindex": 16,
+    "hindex5y": 14,
+    "i10index": 22,
+    "i10index5y": 20,
+    "cites_per_year": {
+        "2013": 18,
+        "2014": 25,
+        "2015": 18,
+        "2016": 25,
+        "2017": 34,
+        "2018": 73,
+        "2019": 56,
+        "2020": 93,
+        "2021": 98,
+        "2022": 113,
+        "2023": 92,
+        "2024": 54
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori error analysis for HDG methods using extensions from subdomains to achieve boundary conformity",
+                "pub_year": "2014",
+                "citation": "Mathematics of Computation 83 (286), 665-699, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15598004725660488464",
+            "cites_id": [
+                "15598004725660488464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving Dirichlet boundary-value problems on curved domains by extensions from subdomains",
+                "pub_year": "2012",
+                "citation": "SIAM Journal on Scientific Computing 34 (1), A497-A519, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:5nxA0vEk-isC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14553946430117551776",
+            "cites_id": [
+                "14553946430117551776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A superconvergent HDG method for the Maxwell equations",
+                "pub_year": "2017",
+                "citation": "Journal of Scientific Computing 70 (3), 1010-1029, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5256965520681843426",
+            "cites_id": [
+                "5256965520681843426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of the absorption efficiency of an amorphous-silicon thin-film tandem solar cell backed by a metallic surface-relief grating",
+                "pub_year": "2013",
+                "citation": "Applied optics 52 (5), 966-979, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11275350697199058140",
+            "cites_id": [
+                "11275350697199058140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving convection-diffusion problems on curved domains by extensions from subdomains",
+                "pub_year": "2014",
+                "citation": "Journal of Scientific Computing 59 (2), 512-543, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:0EnyYjriUFMC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14394394357426096324",
+            "cites_id": [
+                "14394394357426096324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order HDG method for curved-interface problems via approximations from straight triangulations",
+                "pub_year": "2016",
+                "citation": "Journal of Scientific Computing 69 (3), 1384-1407, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8431790662348010835",
+            "cites_id": [
+                "8431790662348010835"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order HDG method for Stokes flow in curved domains",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 79 (3), 1505-1533, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:WF5omc3nYNoC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14564747202874689650",
+            "cites_id": [
+                "14564747202874689650"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of rigorous coupled-wave approach and finite element method for photovoltaic devices with periodically corrugated metallic backreflector",
+                "pub_year": "2014",
+                "citation": "JOSA A 31 (10), 2275-2284, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:roLk4NBRz8UC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11446159781159853329",
+            "cites_id": [
+                "11446159781159853329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coupling at a distance HDG and BEM",
+                "pub_year": "2012",
+                "citation": "SIAM Journal on Scientific Computing 34 (1), A28-A47, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1893221292046775225",
+            "cites_id": [
+                "1893221292046775225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an adaptive HDG method for the Brinkman problem",
+                "pub_year": "2018",
+                "citation": "IMA Journal of Numerical Analysis, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=989576951576640580",
+            "cites_id": [
+                "989576951576640580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adequacy of the rigorous coupled-wave approach for thin-film silicon solar cells with periodically corrugated metallic backreflectors: spectral analysis",
+                "pub_year": "2015",
+                "citation": "JOSA A 32 (7), 1222-1230, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3105261002201691086",
+            "cites_id": [
+                "3105261002201691086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Hybridizable Discontinuous Galerkin solver for the Grad\u2013Shafranov equation",
+                "pub_year": "2019",
+                "citation": "Computer Physics Communications 235, 120-132, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:qjMakFHDy7sC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8222290035259340590",
+            "cites_id": [
+                "8222290035259340590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Periodically multilayered planar optical concentrator for photovoltaic solar cells",
+                "pub_year": "2013",
+                "citation": "Applied Physics Letters 103 (19), 191115, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:ufrVoPGSRksC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9228263427260510780",
+            "cites_id": [
+                "9228263427260510780"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Buffer layer between a planar optical concentrator and a solar cell",
+                "pub_year": "2015",
+                "citation": "AIP Advances 5 (9), 097150, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012675777634962354",
+            "cites_id": [
+                "15012675777634962354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order mixed-FEM for diffusion problems on curved domains",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 79 (1), 49-78, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17303279708100485930",
+            "cites_id": [
+                "17303279708100485930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An HDG method for dissimilar meshes",
+                "pub_year": "2022",
+                "citation": "IMA Journal of Numerical Analysis 42 (2), 1665-1699, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:dhFuZR0502QC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4362636666504791012",
+            "cites_id": [
+                "4362636666504791012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A perfectly matched layer for finite-element calculations of diffraction by metallic surface-relief gratings",
+                "pub_year": "2018",
+                "citation": "Wave Motion 78, 68-82, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:8k81kl-MbHgC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14676381188870564926",
+            "cites_id": [
+                "14676381188870564926"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Hybridizable Discontinuous Galerkin discretization of the Grad\u2013Shafranov equation by extension from polygonal subdomains",
+                "pub_year": "2020",
+                "citation": "Computer Physics Communications 255, 107239, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:_kc_bZDykSQC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9357401467492601880",
+            "cites_id": [
+                "9357401467492601880"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dispersion Analysis of HDG Methods",
+                "pub_year": "2018",
+                "citation": "Journal of Scientific Computing, 1-33, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4995927876319985748",
+            "cites_id": [
+                "4995927876319985748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an HDG method for the Oseen problem",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6377188352245973443",
+            "cites_id": [
+                "6377188352245973443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An HDG method for Maxwell\u2019s equations in heterogeneous media",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 368, 113178, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:4DMP91E08xMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8556652293518114490",
+            "cites_id": [
+                "8556652293518114490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analyses of a high order unfitted mixed-FEM for Stokes flow",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 360, 112780, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8733912147483128565",
+            "cites_id": [
+                "8733912147483128565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of an unfitted HDG method for semi-linear elliptic problems",
+                "pub_year": "2021",
+                "citation": "Numerische Mathematik 148 (4), 919-958, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12285525281648687506",
+            "cites_id": [
+                "12285525281648687506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dissimilar non-matching HDG discretization for Stokes flows",
+                "pub_year": "2022",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 399, 115292, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:hC7cP41nSMkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16387606433124823210",
+            "cites_id": [
+                "16387606433124823210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An unfitted HDG method for Oseen equations",
+                "pub_year": "2022",
+                "citation": "Journal of Computational and Applied Mathematics 399, 113721, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:4TOpqqG69KYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2425886605427849829",
+            "cites_id": [
+                "2425886605427849829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic model for finite-element calculations of diffraction by shallow metallic surface-relief gratings",
+                "pub_year": "2017",
+                "citation": "JOSA A 34 (1), 68-79, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:Zph67rFs4hoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16796876722564609146",
+            "cites_id": [
+                "16796876722564609146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of an unfitted HDG method for a class of non-linear elliptic problems",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 90 (3), 1-28, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17173743761146576010",
+            "cites_id": [
+                "17173743761146576010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An anisotropic a priori error analysis for a convection-dominated diffusion problem using the HDG method",
+                "pub_year": "2019",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 345, 382-401, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13857027225169697757",
+            "cites_id": [
+                "13857027225169697757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of the absorption efficiency of an amorphous-silicon thin-film tandem solar cell backed by a metallic surface-relief grating: erratum",
+                "pub_year": "2015",
+                "citation": "Applied Optics 54 (3), 398-399, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12628548813722590325",
+            "cites_id": [
+                "12628548813722590325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order unfitted HDG method for the Helmholtz equation with first order absorbing boundary condition",
+                "pub_year": "2021",
+                "citation": "preprint 27, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6105314248916672132",
+            "cites_id": [
+                "6105314248916672132"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of a conforming and locking-free four-field formulation for the stationary Biot\u2019s model",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55, S475-S506, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817884605003482032",
+            "cites_id": [
+                "13817884605003482032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An HDG method for non-matching meshes",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4348124350797499935",
+            "cites_id": [
+                "4348124350797499935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Banach spaces-based mixed finite element methods for the coupled Navier\u2013Stokes and Poisson\u2013Nernst\u2013Planck equations",
+                "pub_year": "2022",
+                "citation": "Preprint 2035, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4681621930384037873",
+            "cites_id": [
+                "4681621930384037873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An asymptotic model based on matching far and near field expansions for thin gratings problems",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55, S507-S533, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7278638658202315454",
+            "cites_id": [
+                "7278638658202315454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order unfitted hybridizable discontinuous Galerkin method for linear elasticity",
+                "pub_year": "2024",
+                "citation": "IMA Journal of Numerical Analysis 44 (2), 945-979, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11532648351288211574",
+            "cites_id": [
+                "11532648351288211574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Afternote to \u201cCoupling at a Distance\u201d: Convergence Analysis and A Priori Error Estimates",
+                "pub_year": "2022",
+                "citation": "Computational Methods in Applied Mathematics 22 (4), 945-970, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2405583348320747572",
+            "cites_id": [
+                "2405583348320747572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an unfitted mixed finite element method for a class of quasi-Newtonian Stokes flow",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 114, 225-243, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5967706981524425846",
+            "cites_id": [
+                "5967706981524425846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An unfitted HDG method for a distributed optimal control problem",
+                "pub_year": "2024",
+                "citation": "Journal of Computational and Applied Mathematics 441, 115703, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Adaptive and Quasi-periodic HDG Method for Maxwell\u2019s Equations in Heterogeneous Media",
+                "pub_year": "2024",
+                "citation": "Journal of Scientific Computing 98 (1), 7, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Erratum: \u201cPeriodically multilayered planar optical concentrator for photovoltaic solar cells\u201d [Appl. Phys. Lett. 103, 191115 (2013)]",
+                "pub_year": "2015",
+                "citation": "Applied Physics Letters 106 (7), 079901, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nanostructures for improving the spectral response of photovoltaic cells",
+                "pub_year": "2013",
+                "citation": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 246, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming finite element method for a nonisothermal fluid-membrane interaction",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PERFORMANCE OF RCWA AND A FE METHOD IN SIMULATIONS OF PHOTOVOLTAIC DEVICES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valpara\u00edso Num\u00e9rico IV",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LA SERENA NUMERICA II",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ON THE ROBUSTNESS OF A HDG METHOD FOR ELLIPTIC PROBLEMS IN GENERAL DOMAINS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A HIGH ORDER HDG METHOD FOR CURVED-INTERFACE PROBLEMS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VALPARAISO NUMERICO IV",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN ADAPTIVE HDG METHOD FOR THE BRINKMAN PROBLEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NX5yi50AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 15,
+        "not_available": 0
+    }
+}

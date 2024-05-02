@@ -1,0 +1,103 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "mhFxxVQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "L. Torres",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mhFxxVQAAAAJ&citpid=1",
+    "affiliation": "Estudiante, Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "simulaciones numericas",
+        "materiales compuestos",
+        "programaci\u00f3n"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 2,
+        "2022": 2,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jXIaxzcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karin Saavedra Redlich",
+            "affiliation": "Profesora Asociada, Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3FkyWewAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Hinojosa",
+            "affiliation": "Universidad de Talca. Facultad de Ingenier\u00eda."
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study of interlaminar properties for a unidirectional glass fiber reinforced epoxy composite",
+                "pub_year": "2018",
+                "citation": "Proceedings of the Institution of Mechanical Engineers, Part L: Journal of \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "mhFxxVQAAAAJ:-f6ydRqryjwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12954200429576510844",
+            "cites_id": [
+                "12954200429576510844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of Mode I Interlaminar Damage of a GFRP Composite Using Cohesive Laws in the Framework of the Equivalent LEFM R-Curve and an Optimised Algorithm",
+                "pub_year": "2021",
+                "citation": "Polymers 13 (9), 1482, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "mhFxxVQAAAAJ:HDshCWvjkbEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5761719901491688045",
+            "cites_id": [
+                "5761719901491688045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adversarial Search Algorithms Performance in the Yote Game",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "mhFxxVQAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

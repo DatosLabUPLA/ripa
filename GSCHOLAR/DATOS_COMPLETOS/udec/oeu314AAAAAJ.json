@@ -1,0 +1,391 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oeu314AAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo De la Fuente",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oeu314AAAAAJ&citpid=1",
+    "affiliation": "Assistant Professor, University of Concepcion",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Simulation",
+        "Optimization",
+        "Machine Learning",
+        "Logistics"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "https://rodrigodelafuente.com/",
+    "citedby": 217,
+    "citedby5y": 216,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 2,
+        "2020": 5,
+        "2021": 21,
+        "2022": 55,
+        "2023": 93,
+        "2024": 39
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dawp_aYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maichel M. Aguayo",
+            "affiliation": "Researcher, Facultad de Ingenier\u00eda y Tecnolog\u00eda, Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NeThwLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Astroza",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6qGQGIsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio Salas",
+            "affiliation": "Assistant Professor, Department of Statistics, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ISfefdYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Antonio Carrasco",
+            "affiliation": "Professor, Department of Civil Engineering, Universidad de Concepci\u00f3n, Chile. CEDEUS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5q3l9pQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian A. Rodriguez-Cartes",
+            "affiliation": "North Carolina State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pYc5HnQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Mena-Quijada",
+            "affiliation": "Data Modeling | Biometrics @ARAUCO"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NQ0I79MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Neira",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "34zH7dUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mathias A. Klapp",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WbeeQ0YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Erazo",
+            "affiliation": "Research Scientist II at Amazon"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GBvonbcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Acu\u00f1a C.",
+            "affiliation": "Profesor Asociado, Facultad de Ciencias Forestales, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GZDg2n8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hari Rajagopalan",
+            "affiliation": "School of Business Francis Marion University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A deep learning ensemble model for wildfire susceptibility mapping",
+                "pub_year": "2021",
+                "citation": "Ecological Informatics 65, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 54,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15987752848843221282",
+            "cites_id": [
+                "15987752848843221282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A systematic comparative evaluation of machine learning classifiers and discrete choice models for travel mode choice in the presence of response heterogeneity",
+                "pub_year": "2022",
+                "citation": "Expert Systems with Applications 193, 116253, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1552824551537914630",
+            "cites_id": [
+                "1552824551537914630"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New compact integer programming formulations for the multi-trip vehicle routing problem with time windows",
+                "pub_year": "2020",
+                "citation": "Computers & Industrial Engineering 144, 106399, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867977730019761898",
+            "cites_id": [
+                "4867977730019761898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A facility location and equipment emplacement technique model with expected coverage for the location of fire stations in the Concepci\u00f3n province, Chile",
+                "pub_year": "2020",
+                "citation": "Computers & Industrial Engineering 147, 106522, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17707184400022084322",
+            "cites_id": [
+                "17707184400022084322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enabling intelligent processes in simulation utilizing the TensorFlow deep learning resources",
+                "pub_year": "2018",
+                "citation": "2018 Winter Simulation Conference (WSC), 1108-1119, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=511871843808895774",
+            "cites_id": [
+                "511871843808895774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metamodeling a system dynamics model: A contemporary comparison of methods",
+                "pub_year": "2017",
+                "citation": "2017 Winter Simulation Conference (WSC), 1926-1937, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3266075960136942409",
+            "cites_id": [
+                "3266075960136942409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simulation-optimization approach for the facility location and vehicle assignment problem for firefighters using a loosely coupled spatio-temporal arrival process",
+                "pub_year": "2021",
+                "citation": "Computers & Industrial Engineering 157 (July 2021, 107242), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:qjMakFHDy7sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12985925514532989053",
+            "cites_id": [
+                "12985925514532989053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simulation model to determine staffing strategy and warehouse capacity for a local distribution center",
+                "pub_year": "2019",
+                "citation": "2019 Winter Simulation Conference (WSC), 1743-1754, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11867011336196196011",
+            "cites_id": [
+                "11867011336196196011"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed-integer programming methodology to design tidal current farms integrating both cost and benefits: A case study in the Chacao Channel, Chile",
+                "pub_year": "2021",
+                "citation": "Applied Energy 294, 116980, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246981135089218535",
+            "cites_id": [
+                "14246981135089218535"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimization-based approach for an integrated forest fire monitoring system with multiple technologies and surveillance drones",
+                "pub_year": "2024",
+                "citation": "European Journal of Operational Research 313 (2), 435-451, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13833822131493982942",
+            "cites_id": [
+                "13833822131493982942"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Simulation-Based Approach to Compare Policies and Stakeholders\u2019 Behaviors for the Ride-Hailing Assignment Problem",
+                "pub_year": "2021",
+                "citation": "2021 Winter Simulation Conference (WSC), 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:roLk4NBRz8UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14520831139158981869",
+            "cites_id": [
+                "14520831139158981869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of machine learning methods for dry biomass estimation based on green logging residues chips",
+                "pub_year": "2021",
+                "citation": "International Journal of Forest Engineering 32 (2), 174-184, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10027526833128359246",
+            "cites_id": [
+                "10027526833128359246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scheduling mobile dental clinics: A heuristic approach considering fairness among school districts",
+                "pub_year": "2022",
+                "citation": "Health Care Management Science, 1-26, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15139451806780682204",
+            "cites_id": [
+                "15139451806780682204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time optimization for relocation and dispatching of Emergency Medical Services with balanced workload and outsourced ride-hailing services",
+                "pub_year": "2024",
+                "citation": "Computers & Industrial Engineering 187, 109823, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Events Simulation",
+                "pub_year": "2023",
+                "citation": "SAGE Publications, Inc., 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technical and Economic Viability of Agricultural Residue-Based Power Generation in Southern Chile Through Discrete Location Models",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 3rd International Conference on BioGeoSciences: Modeling \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analizing the Variable Importance from Multinomial Logit Model Using Shapley Values-Based Methods: A Travel Mode Choiceapplication",
+                "citation": "Available at SSRN 4571403, 0"
+            },
+            "filled": false,
+            "author_pub_id": "oeu314AAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

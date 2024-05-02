@@ -1,0 +1,128 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7i3NyjkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Henry Marina",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7i3NyjkAAAAJ&citpid=1",
+    "affiliation": "PhD Student, Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Applied Mathematic",
+        "VLC",
+        "Machine Learning"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 3,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8B769s4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maykop P\u00e9rez Mart\u00ednez",
+            "affiliation": "Profesor de Ingenier\u00eda El\u00e9ctrica,  Universidad Tecnol\u00f3gica de la Habana"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experiencia de la matem\u00e1tica, aplicada a los circuitos el\u00e9ctricos en la carrera de ingenier\u00eda el\u00e9ctrica",
+                "pub_year": "2021",
+                "citation": "Modelling in Science Education and Learning 14 (2), 51-58, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6840159677362547869",
+            "cites_id": [
+                "6840159677362547869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic Traffic Light Detection Using AI for VLC",
+                "pub_year": "2022",
+                "citation": "2022 13th International Symposium on Communication Systems, Networks and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13050990625992549167",
+            "cites_id": [
+                "13050990625992549167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "M\u00e9todo de frecuencia para el an\u00e1lisis de los circuitos el\u00e9ctricos en la carrera de Ingenier\u00eda El\u00e9ctrica",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matem\u00e1tica aplicada a los circuitos el\u00e9ctricos en la carrera de Ingenier\u00eda El\u00e9ctrica",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computer Vision detection for Traffic Lights",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tutorial sobre M\u00e9todo de las Variables de Estado",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7i3NyjkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

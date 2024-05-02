@@ -1,0 +1,133 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JbKIUsMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Leonardo Pizarro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JbKIUsMAAAAJ&citpid=2",
+    "affiliation": "Research Engineer, UTFSM",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Networks",
+        "Quantum Computing",
+        "System Architecture"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 27,
+    "citedby5y": 24,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 1,
+        "2020": 1,
+        "2021": 9,
+        "2022": 6,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and operational implementation of the integrated tsunami forecast and warning system in Chile (SIPAT)",
+                "pub_year": "2020",
+                "citation": "Coastal Engineering Journal, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10129229718447948147",
+            "cites_id": [
+                "10129229718447948147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Docker-based implementation for an astronomical data analysis cloud service [M]",
+                "pub_year": "2018",
+                "citation": "XXVII Astronomical Data Analysis Software & Systems, ADASS, 1-4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17379540562282187676",
+            "cites_id": [
+                "17379540562282187676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New ACS Bulk Data Transfer Service for CTA",
+                "pub_year": "2018",
+                "citation": "16th Int. Conf. on Accelerator and Large Experimental Control Systems \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7391569743171291293",
+            "cites_id": [
+                "7391569743171291293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Packaging and high availability for distributed control systems",
+                "pub_year": "2018",
+                "citation": "16th Int. Conf. on Accelerator and Large Experimental Control Systems \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6184565155572359933",
+            "cites_id": [
+                "6184565155572359933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features and evolution of patients with COVID-19 who required mechanical ventilation",
+                "pub_year": "2021",
+                "citation": "Revista Medica de Chile 149 (11), 1544-1551, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracter\u00edsticas y resultados de pacientes COVID-19 tratados con ventilaci\u00f3n mec\u00e1nica invasiva en Hospital San Juan de Dios. Marzo-junio 2020",
+                "pub_year": "2021",
+                "citation": "Revista m\u00e9dica de Chile 149 (11), 1544-1551, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JbKIUsMAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

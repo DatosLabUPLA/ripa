@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ijnn7E8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Enzo Meneses",
+    "affiliation": "Student of Computer Science, Universidad Austral deChile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "data structures",
+        "parallel algorithms"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2023": 7,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infinite conformal symmetry and emergent chiral fields of topologically nontrivial configurations: From Yang-Mills-Higgs theory to the Skyrme model",
+                "pub_year": "2022",
+                "citation": "Physical Review D 106 (10), 105016, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ijnn7E8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14227031340416939682",
+            "cites_id": [
+                "14227031340416939682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating range minimum queries with ray tracing cores",
+                "pub_year": "2024",
+                "citation": "Future Generation Computer Systems 157, 98-111, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Ijnn7E8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782957144512630231",
+            "cites_id": [
+                "2782957144512630231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GGArray: A Dynamically Growable GPU Array",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ijnn7E8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YIMWl3oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andres Perez",
+    "affiliation": "Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Agua",
+        "Agua y Cambio clim\u00e1tico",
+        "Manejo de recursos hidricos",
+        "evaporaci\u00f3n."
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 1,
+        "2023": 4,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mountain Lake Evaporation: A Comparative Study between Hourly Estimations Models and In Situ Measurements",
+                "pub_year": "2020",
+                "citation": "Water 12 (9), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YIMWl3oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11664900375131555590",
+            "cites_id": [
+                "11664900375131555590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n de modelos para estimar evaporaci\u00f3n en cuerpos de agua, caso de estudio: lago Laja.",
+                "pub_year": "2016",
+                "citation": "Universidad de Concepci\u00f3n, Facultad de Ingenier\u00eda Agr\u00edcola., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "YIMWl3oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

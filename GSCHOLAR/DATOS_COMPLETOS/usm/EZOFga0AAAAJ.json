@@ -1,0 +1,326 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "EZOFga0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Fern\u00e1ndez Gil",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=EZOFga0AAAAJ&citpid=14",
+    "affiliation": "Research / UTFSM",
+    "organization": 9225498103198054248,
+    "interests": [
+        "optimization",
+        "mathematical programming",
+        "vehicle routing",
+        "energy"
+    ],
+    "email_domain": "@jp.inf.utfsm.cl",
+    "citedby": 105,
+    "citedby5y": 101,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 1,
+        "2020": 4,
+        "2021": 8,
+        "2022": 14,
+        "2023": 44,
+        "2024": 29
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qe7EZ0MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mariam G\u00f3mez S\u00e1nchez",
+            "affiliation": "Professor/ Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y4cOc34AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Lalla-Ruiz",
+            "affiliation": "Associate Professor, University of Twente"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1XmfDUAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yunesky Masip Macia",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PuMO0YsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stefan Vo\u00df",
+            "affiliation": "Professor of Information Systems, University of Hamburg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DCaSx88AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vinelia Cordova V\u00e1zquez",
+            "affiliation": "Profesora de Inform\u00e1tica, Miembro del CEMARNA, Universidad de Pinar del R\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S8kSozYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alain P\u00e9rez Alonso",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda (UTFSM)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XSclebAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martijn Mes",
+            "affiliation": "Full Professor, University of Twente"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource-constrained multi-project scheduling problem: A survey",
+                "pub_year": "2023",
+                "citation": "European Journal of Operational Research 309 (3), 958-976, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13568639534911278587",
+            "cites_id": [
+                "13568639534911278587"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mathematical model for the optimization of renewable energy systems",
+                "pub_year": "2020",
+                "citation": "Mathematics 9 (1), 39, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8995879668689516214",
+            "cites_id": [
+                "8995879668689516214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of heuristics and hybrid methods for green vehicle routing problems considering emissions",
+                "pub_year": "2022",
+                "citation": "Journal of Advanced Transportation 2022, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5296324761362773458",
+            "cites_id": [
+                "5296324761362773458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating a SMT solver based local search in ant colony optimization for solving RCMPSP",
+                "pub_year": "2019",
+                "citation": "IEEE Latin American Conference on Computational Intelligence (LA-CCI), 1-6, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3061951799211556080",
+            "cites_id": [
+                "3061951799211556080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "System for the analysis of cognitive behavior in the elderly.",
+                "pub_year": "2016",
+                "citation": "Revista cubana de inform\u00e1tica m\u00e9dica 8 (1), 97-108, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3994719087731757943,15709042831936687041",
+            "cites_id": [
+                "3994719087731757943",
+                "15709042831936687041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed\u2010integer linear programming model and a metaheuristic approach for the selection and allocation of land parcels problem",
+                "pub_year": "2022",
+                "citation": "International Transactions in Operational Research, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2093111686938252798",
+            "cites_id": [
+                "2093111686938252798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cumulative VRP with time windows: A trade-off analysis",
+                "pub_year": "2020",
+                "citation": "Computational Logistics: 11th International Conference, ICCL 2020, Enschede \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:roLk4NBRz8UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6891408058158913542",
+            "cites_id": [
+                "6891408058158913542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The cumulative vehicle routing problem with time windows: models and algorithm",
+                "pub_year": "2023",
+                "citation": "Annals of Operations Research, 1-29, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4720044834755210219",
+            "cites_id": [
+                "4720044834755210219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of a smart integrated renewable energy system for isolated rural villages using integer linear programming",
+                "pub_year": "2019",
+                "citation": "IEEE 7th International Engineering, Sciences and Technology Conference \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17694393106150581492",
+            "cites_id": [
+                "17694393106150581492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de seguimiento din\u00e1mico de posici\u00f3n de contenedores utilizando tel\u00e9fonos inteligentes con sistema operativo Android.",
+                "pub_year": "2018",
+                "citation": "Revista Cubana de Ciencias Inform\u00e1ticas 12 (1), 90-101, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17284091060545056620",
+            "cites_id": [
+                "17284091060545056620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of green pickup and delivery operations in multi-depot distribution problems",
+                "pub_year": "2021",
+                "citation": "Computational Logistics: 12th International Conference, ICCL 2021, Enschede \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=580352112541405715",
+            "cites_id": [
+                "580352112541405715"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Socio-environmental and technical factors assessment of photovoltaic hydrogen production in Antofagasta, Chile",
+                "pub_year": "2024",
+                "citation": "Energy Strategy Reviews 53, 101373, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Mixed Integer Linear Programming approach for the 2D Strip Packing Problem with different size options for plots of land in Smart Floating Farms",
+                "pub_year": "2019",
+                "citation": "III International Conference on Agro BigData and Decision Support Systems in \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy Strategy Reviews",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing Socio-Environmental and Technical Factors for Solar-Powered Green Hydrogen Production: A Case Study of Antofagasta Region, Chile",
+                "citation": "Chile, 0"
+            },
+            "filled": false,
+            "author_pub_id": "EZOFga0AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

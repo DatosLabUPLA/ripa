@@ -1,0 +1,1174 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kNfcNMQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Milan S. Derpich",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kNfcNMQAAAAJ&citpid=2",
+    "affiliation": "Department of Electronic Engineering, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Rate-Distortion Theory",
+        "Signal Processing",
+        "Networked Control",
+        "Sampling and Quantization",
+        "Communications Theory"
+    ],
+    "email_domain": "@usm.cl",
+    "homepage": "http://profesores.elo.utfsm.cl/~mderpich",
+    "citedby": 627,
+    "citedby5y": 229,
+    "hindex": 14,
+    "hindex5y": 7,
+    "i10index": 15,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2006": 8,
+        "2007": 9,
+        "2008": 18,
+        "2009": 19,
+        "2010": 26,
+        "2011": 31,
+        "2012": 30,
+        "2013": 38,
+        "2014": 23,
+        "2015": 32,
+        "2016": 34,
+        "2017": 56,
+        "2018": 67,
+        "2019": 44,
+        "2020": 36,
+        "2021": 61,
+        "2022": 42,
+        "2023": 41,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s0MIz4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Quevedo",
+            "affiliation": "Queensland University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ApQt28MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Reinaldo A. Valenzuela",
+            "affiliation": "Dir. Wireless Comms. Research Dept., Bell Labs, Alcatel-Lucent"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hUZ1H5EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge F. Silva",
+            "affiliation": "University of Chile, Department of Electrical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_VCOXFwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sumohana S. Channappayya",
+            "affiliation": "IIT Hyderabad"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hSvRKGQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Howard Huang",
+            "affiliation": "Nokia Bell Labs"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A framework for control system design subject to average data-rate constraints",
+                "pub_year": "2010",
+                "citation": "IEEE Transactions on Automatic Control 56 (8), 1886-1899, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18150671760993880404",
+            "cites_id": [
+                "18150671760993880404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved upper bounds to the causal quadratic rate-distortion function for Gaussian stationary sources",
+                "pub_year": "2012",
+                "citation": "IEEE Transactions on Information Theory 58 (5), 3131-3152, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9090226897333043100",
+            "cites_id": [
+                "9090226897333043100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A characterization of the minimal average data rate that guarantees a given closed-loop performance level",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Automatic Control 61 (8), 2171-2186, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=398458698422257625",
+            "cites_id": [
+                "398458698422257625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On optimal perfect reconstruction feedback quantizers",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Signal Processing 56 (8), 3871-3890, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8179632048320183264",
+            "cites_id": [
+                "8179632048320183264"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On optimal perfect reconstruction feedback quantizers",
+                "pub_year": "2008",
+                "citation": "IEEE Transactions on Signal Processing 56 (8), 3871-3890, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8179632048320183264",
+            "cites_id": [
+                "8179632048320183264"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wireless access channels with near-ground level antennas",
+                "pub_year": "2012",
+                "citation": "IEEE Transactions on Wireless Communications 11 (6), 2204-2211, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4433995074383945100",
+            "cites_id": [
+                "4433995074383945100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utilizing prior knowledge in robust optimal experiment design",
+                "pub_year": "2006",
+                "citation": "IFAC Proceedings Volumes 39 (1), 1358-1363, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1612384114717578000",
+            "cites_id": [
+                "1612384114717578000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple coding for achieving mean square stability over bit-rate limited channels",
+                "pub_year": "2008",
+                "citation": "2008 47th IEEE Conference on Decision and Control, 2698-2703, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264807103274910100",
+            "cites_id": [
+                "13264807103274910100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple coding for achieving mean square stability over bit-rate limited channels",
+                "pub_year": "2008",
+                "citation": "2008 47th IEEE Conference on Decision and Control, 2698-2703, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13264807103274910100",
+            "cites_id": [
+                "13264807103274910100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal noise shaping for networked control systems",
+                "pub_year": "2007",
+                "citation": "2007 European Control Conference (ECC), 577-584, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7747311220966866388",
+            "cites_id": [
+                "7747311220966866388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An achievable data-rate region subject to a stationary performance constraint for LTI plants",
+                "pub_year": "2011",
+                "citation": "IEEE Transactions on Automatic Control 56 (8), 1968-1973, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15871448384977921792",
+            "cites_id": [
+                "15871448384977921792"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Characterization of-Compressible Ergodic Sequences",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Signal Processing 63 (11), 2915-2928, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12195759001395769187",
+            "cites_id": [
+                "12195759001395769187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An upper bound to zero-delay rate distortion via Kalman filtering for vector Gaussian sources",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Information Theory Workshop (ITW), 534-538, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6730355448376979590",
+            "cites_id": [
+                "6730355448376979590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Achievable gains of directional antennas in outdoor-indoor propagation environments",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Wireless Communications 14 (3), 1447-1456, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1717189291561292662",
+            "cites_id": [
+                "1717189291561292662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fundamental inequalities and identities involving mutual and directed informations in closed-loop systems",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1301.6427, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1821072940781949187",
+            "cites_id": [
+                "1821072940781949187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The quadratic Gaussian rate-distortion function for source uncorrelated distortions",
+                "pub_year": "2008",
+                "citation": "Data Compression Conference (dcc 2008), 73-82, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=679289792078898619",
+            "cites_id": [
+                "679289792078898619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The quadratic Gaussian rate-distortion function for source uncorrelated distortions",
+                "pub_year": "2008",
+                "citation": "Data Compression Conference (dcc 2008), 73-82, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=679289792078898619",
+            "cites_id": [
+                "679289792078898619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the minimal average data-rate that guarantees a given closed loop performance level",
+                "pub_year": "2010",
+                "citation": "IFAC Proceedings Volumes 43 (19), 67-72, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13152283198143972209",
+            "cites_id": [
+                "13152283198143972209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical evaluation of the received power gain when remote radio heads are used to enhance the coverage area in urban environments",
+                "pub_year": "2013",
+                "citation": "IEEE transactions on wireless communications 12 (6), 2830-2839, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6191490151977872349",
+            "cites_id": [
+                "6191490151977872349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Directed data-processing inequalities for systems with feedback",
+                "pub_year": "2021",
+                "citation": "Entropy 23 (5), 533, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6627203869983563506",
+            "cites_id": [
+                "6627203869983563506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The high-resolution rate-distortion function under the structural similarity index",
+                "pub_year": "2011",
+                "citation": "EURASIP Journal on Advances in Signal Processing 2011, 1-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14780137753567793111",
+            "cites_id": [
+                "14780137753567793111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on\" A Framework for Control System Design Subject to Average Data-Rate Constraints\"",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2103.12897, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082011491242131070",
+            "cites_id": [
+                "6082011491242131070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of time delay on the average data rate and performance in networked control systems",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Automatic Control 67 (1), 16-31, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13217730039848064994",
+            "cites_id": [
+                "13217730039848064994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second-order spectral statistics for the power gain of wideband wireless channels",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Vehicular Technology 63 (3), 1013-1031, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:4DMP91E08xMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12509315155791190936",
+            "cites_id": [
+                "12509315155791190936"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measurement-based evaluation of spectral efficiencies in outdoor-indoor multiuser MISO systems in femto-cells",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Wireless Communications 15 (9), 5889-5903, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:hC7cP41nSMkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12081644740856810777",
+            "cites_id": [
+                "12081644740856810777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential remote source coding in wireless acoustic sensor networks",
+                "pub_year": "2012",
+                "citation": "2012 Proceedings of the 20th European Signal Processing Conference (EUSIPCO \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13869334808166346102",
+            "cites_id": [
+                "13869334808166346102"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditions for optimality of scalar feedback quantization",
+                "pub_year": "2008",
+                "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7238149419610809507",
+            "cites_id": [
+                "7238149419610809507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditions for optimality of scalar feedback quantization",
+                "pub_year": "2008",
+                "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7238149419610809507",
+            "cites_id": [
+                "7238149419610809507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Achieving the quadratic Gaussian rate-distortion function for source uncorrelated distortions",
+                "pub_year": "2008",
+                "citation": "arXiv preprint arXiv:0801.1718, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6120618442565903575",
+            "cites_id": [
+                "6120618442565903575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interplay between transmission delay, average data rate, and performance in output feedback control over digital communication channels",
+                "pub_year": "2017",
+                "citation": "2017 American Control Conference (ACC), 1691-1696, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731743086145990968",
+            "cites_id": [
+                "5731743086145990968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zero-delay rate distortion via filtering for unstable vector Gaussian sources",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1701.06368, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13147636589283729205",
+            "cites_id": [
+                "13147636589283729205"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rate-distortion in closed-loop LTI systems",
+                "pub_year": "2013",
+                "citation": "2013 Information Theory and Applications Workshop (ITA), 1-2, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15111897574525197183",
+            "cites_id": [
+                "15111897574525197183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An empirical study of the achievable rates of several indoor network-MIMO techniques",
+                "pub_year": "2010",
+                "citation": "IEEE Transactions on Wireless Communications 10 (2), 581-591, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6561580258509509517",
+            "cites_id": [
+                "6561580258509509517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal source coding with signal transfer function constraints",
+                "pub_year": "2009",
+                "citation": "The University of Newcastle, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11129092479482793597",
+            "cites_id": [
+                "11129092479482793597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal source coding with signal transfer function constraints",
+                "pub_year": "2009",
+                "citation": "The University of Newcastle, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11129092479482793597",
+            "cites_id": [
+                "11129092479482793597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantization and sampling of not necessarily band-limited signals",
+                "pub_year": "2006",
+                "citation": "2006 IEEE International Conference on Acoustics Speech and Signal Processing \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8797035290254554771",
+            "cites_id": [
+                "8797035290254554771"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on \u201cFeedback Capacity of Stationary Gaussian Channels\u201d",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Information Theory, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8812945069727972764",
+            "cites_id": [
+                "8812945069727972764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the second order power spectral statistics of wideband indoor microwave channels",
+                "pub_year": "2010",
+                "citation": "21st Annual IEEE International Symposium on Personal, Indoor and Mobile \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13244541280570427163",
+            "cites_id": [
+                "13244541280570427163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymmetric successive compute-and-forward",
+                "pub_year": "2016",
+                "citation": "2016 Iran Workshop on Communication and Information Theory (IWCIT), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:-f6ydRqryjwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17276423216094015274",
+            "cites_id": [
+                "17276423216094015274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approaching the capacity of two\u2010pair bidirectional Gaussian relay networks",
+                "pub_year": "2015",
+                "citation": "IET Communications 9 (12), 1458-1465, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2244227549622045390",
+            "cites_id": [
+                "2244227549622045390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Precise best k-term approximation error analysis of ergodic processes",
+                "pub_year": "2014",
+                "citation": "2014 IEEE International Symposium on Information Theory, 2654-2658, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9752002254392981663",
+            "cites_id": [
+                "9752002254392981663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approaching the capacity of two-way Gaussian relay channel with relay private messages",
+                "pub_year": "2014",
+                "citation": "2014 IEEE International Symposium on Information Theory, 2729-2733, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9789974824766077432",
+            "cites_id": [
+                "9789974824766077432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of feedback quantizers for networked control systems",
+                "pub_year": "2008",
+                "citation": "Submitted to Int. J. Robust Nonlinear Control, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13764757411703211241",
+            "cites_id": [
+                "13764757411703211241"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The entropy gain of linear systems and some of its implications",
+                "pub_year": "2021",
+                "citation": "Entropy 23 (8), 947, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10048795127279463053",
+            "cites_id": [
+                "10048795127279463053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stationarity in the realizations of the causal rate-distortion function for one-sided stationary sources",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1804.03784, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:TFP_iSt0sucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7106369348378882940",
+            "cites_id": [
+                "7106369348378882940"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space-frequency second-order statistics of the power gain of wideband indoor channels",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Wireless Communications and Networking Conference (WCNC), 34-39, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:dhFuZR0502QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7405451186064187116",
+            "cites_id": [
+                "7405451186064187116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum expected rates of block-fading channels with entropy-constrained channel state feedback",
+                "pub_year": "2013",
+                "citation": "IEEE transactions on communications 61 (2), 576-589, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2067769390819559661",
+            "cites_id": [
+                "2067769390819559661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bound on the MSE of Oversampled Dithered Quantization With Feedback",
+                "pub_year": "2009",
+                "citation": "IEEE Signal Processing Letters 16 (6), 541-544, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15946129033867484794",
+            "cites_id": [
+                "15946129033867484794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal AD-Conversion via Sampled-Data Receding Horizon Control Theory",
+                "pub_year": "2006",
+                "citation": "2006 Chinese Control Conference, 1417-1422, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17227206373990853724",
+            "cites_id": [
+                "17227206373990853724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction to \u201cA Framework for Control System Design Subject to Average Data-Rate Constraints\u201d[Aug 11 1886-1899]",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Automatic Control 67 (10), 5677-5679, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:rO6llkc54NcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2155286453192656083",
+            "cites_id": [
+                "2155286453192656083"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed-rate universal lossy source coding and model identification: Connection with zero-rate density estimation and the skeleton estimator",
+                "pub_year": "2018",
+                "citation": "Entropy 20 (9), 640, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:maZDTaKrznsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8918437019574215389",
+            "cites_id": [
+                "8918437019574215389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On avoiding the effect of non-minimum phase zeros over the signal-to-noise ratio limitation",
+                "pub_year": "2018",
+                "citation": "IEEE control systems letters 2 (4), 827-832, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12699315449329207964",
+            "cites_id": [
+                "12699315449329207964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The entropy gain of linear time-invariant filters and some of its implications",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1512.03655, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8172231629172470260",
+            "cites_id": [
+                "8172231629172470260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Necessary and sufficient conditions for zero-rate density estimation",
+                "pub_year": "2011",
+                "citation": "2011 IEEE Information Theory Workshop, 613-617, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15872788570810941553",
+            "cites_id": [
+                "15872788570810941553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some mutual information inequalities",
+                "pub_year": "2008",
+                "citation": "Technical report, School of Electrical Engineering and Computer Science, The \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15997293563300715836",
+            "cites_id": [
+                "15997293563300715836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal noise-shaping DPCM",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11099582309214424366",
+            "cites_id": [
+                "11099582309214424366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dual Effect, Certainty Equivalence, and Separation Revisited: A Counterexample and a Relaxed Characterization for Optimality",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Automatic Control 68 (2), 1259-1266, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical comparison of propagation models for relay-based networks in urban environments",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 7313-7325, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Joint source-channel coding via model predictive control",
+                "pub_year": "2021",
+                "citation": "European Journal of Control 61, 142-150, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Structure of the Realizations of the Causal Information Rate-Distortion Function for Markovian Sources: Realizations with Densities",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1809.05968, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The capacity gap calculation for multi-pair bidirectional Gaussian relay networks based on successive compute-and-forward strategy",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Symposium on Information Theory (ISIT), 1849-1853, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Characterization of l (p)-Compressible Ergodic Sequences",
+                "pub_year": "2015",
+                "citation": "IEEE-INST Electrical Electronics Engineers, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical gains achievable with low altitude remote radio heads in wireless urban links",
+                "pub_year": "2012",
+                "citation": "2012 IEEE International Conference on Communications (ICC), 6815-6819, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article The High-Resolution Rate-Distortion Function under the Structural Similarity Index",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Independent source coding for control over noiseless channels",
+                "pub_year": "2010",
+                "citation": "2010 Information Theory and Applications Workshop (ITA), 1-2, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient Data Representations for Signal Processing and Control:\" Making Most of a Little\"",
+                "pub_year": "2006",
+                "citation": "2006 Chinese Control Conference, PL-17-PL-37, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient Data Representations for Signal Processing and Control:\" Making Most of a Little\"",
+                "pub_year": "2006",
+                "citation": "2006 Chinese Control Conference, PL-17-PL-37, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probability of Interpolation for a Mute Sample Interpolative A/D Converter with Horizon-Length Two",
+                "pub_year": "2005",
+                "citation": "TENCON 2005-2005 IEEE Region 10 Conference, 1-6, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comments on \u201cInformation Nonanticipative Rate Distortion Function And Its Applications\u201d",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paper C",
+                "citation": "TRADE-OFFS BETWEEN PERFORMANCE, DATA RATE AND TRANSMISSION DELAY IN \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AbdollahRamezani, Sajjad Abtahi, Azra Aminian, Gholamali Aref, Mohammad Reza",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kNfcNMQAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

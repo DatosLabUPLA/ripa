@@ -1,0 +1,150 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "CNHqiPwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alvaro Valderrama",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Machine Learning",
+        "Renewable Energy"
+    ],
+    "email_domain": "@sansano.usm.cl",
+    "citedby": 51,
+    "citedby5y": 51,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 13,
+        "2023": 22,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Mbzn2xcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Valle",
+            "affiliation": "Universidad de Playa Ancha"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hndLsckAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo \u00d1anculef",
+            "affiliation": "Federico Santa Maria Technical University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0LgnrDEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio A. Catalan",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automating configuration of convolutional neural network hyperparameters using genetic algorithm",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 156139-156152, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16682188206433371075",
+            "cites_id": [
+                "16682188206433371075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discriminating the occurrence of inundation in tsunami early warning with one-dimensional convolutional neural networks",
+                "pub_year": "2022",
+                "citation": "Scientific reports 12 (1), 10321, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7580435426742001230",
+            "cites_id": [
+                "7580435426742001230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning applications for urban photovoltaic potential estimation: A survey",
+                "pub_year": "2023",
+                "citation": "Neurocomputing 526, 80-95, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16376440235110859876",
+            "cites_id": [
+                "16376440235110859876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating Time Series of Tsunami Inundation using One-Dimensional Convolutional Neural Networks for Early Warning.",
+                "pub_year": "2022",
+                "citation": "EGU General Assembly Conference Abstracts, EGU22-10179, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Heterogeneous 1D Convolutional Architecture for Urban Photovoltaic E stimation",
+                "pub_year": "2021",
+                "citation": "Intelligent Computing Theories and Application: 17th International \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine Learning and Metaheuristics can Collaborate: Image Classification Case Study",
+                "pub_year": "2020",
+                "citation": "Software Engineering Perspectives in Intelligent Systems: Proceedings of 4th \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "CNHqiPwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

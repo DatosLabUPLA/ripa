@@ -1,0 +1,113 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eu6JAQUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alberto Del Real",
+    "affiliation": "Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [],
+    "email_domain": "@miuandes.cl",
+    "citedby": 35,
+    "citedby5y": 34,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 1,
+        "2020": 2,
+        "2021": 0,
+        "2022": 5,
+        "2023": 18,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UY5TDqEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Oyonarte",
+            "affiliation": "Profesor Titular, Director Programa de Especializaci\u00f3n en Ortodoncia, Universidad de los Andes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wQwcHlAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valeria Ramirez",
+            "affiliation": "Universidad de los Andes Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of automated artificial intelligence to predict the need for orthodontic extractions",
+                "pub_year": "2022",
+                "citation": "The Korean Journal of Orthodontics 52 (2), 102-111, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "eu6JAQUAAAAJ:u9iWguZQMMsC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5921460940077234875",
+            "cites_id": [
+                "5921460940077234875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagnostic assessment of skeletal maturity through dental maturation in Hispanic growing individuals",
+                "pub_year": "2017",
+                "citation": "APOS Trends in Orthodontics 7 (1), 35, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eu6JAQUAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6559666180703901728",
+            "cites_id": [
+                "6559666180703901728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tratamiento cirug\u00eda-primero con extracciones de premolares y su relaci\u00f3n con la inclinaci\u00f3n incisiva. Reporte de casos",
+                "pub_year": "2017",
+                "citation": "Revista Espa\u00f1ola de Ortodoncia 47 (4), 181-189, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eu6JAQUAAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de la estabilidad de la posici\u00f3n del primer molar superior: serie de casos",
+                "pub_year": "2017",
+                "citation": "Revista Espa\u00f1ola de Ortodoncia 47 (3), 125-135, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "eu6JAQUAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

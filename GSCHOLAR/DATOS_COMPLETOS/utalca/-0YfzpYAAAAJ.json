@@ -1,0 +1,1529 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-0YfzpYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Renzo Angles",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-0YfzpYAAAAJ&citpid=2",
+    "affiliation": "Department of Computer Science, Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Graph databases",
+        "Query Languages",
+        "RDF",
+        "SPARQL"
+    ],
+    "email_domain": "@utalca.cl",
+    "homepage": "http://renzoangles.net/",
+    "citedby": 4730,
+    "citedby5y": 2637,
+    "hindex": 20,
+    "hindex5y": 19,
+    "i10index": 32,
+    "i10index5y": 28,
+    "cites_per_year": {
+        "2007": 19,
+        "2008": 33,
+        "2009": 54,
+        "2010": 83,
+        "2011": 100,
+        "2012": 139,
+        "2013": 183,
+        "2014": 217,
+        "2015": 223,
+        "2016": 315,
+        "2017": 314,
+        "2018": 322,
+        "2019": 347,
+        "2020": 406,
+        "2021": 495,
+        "2022": 608,
+        "2023": 620,
+        "2024": 157
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jzeqUi4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Gutierrez",
+            "affiliation": "Computer Science Department, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9OH3PokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Barcel\u00f3",
+            "affiliation": "Institute for Mathematical and Computational Engineering, PUC Chile & IMFD Chile & CENIA Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DCIZE1kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter Boncz",
+            "affiliation": "Professor, VU University Amsterdam & CWI"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WHug6IAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Reutter",
+            "affiliation": "Professor, Computer Science at Pontificia Universidad Cat\u00f3lica de Chile & IMFD Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SsQvjlsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Orri Erling",
+            "affiliation": "Program Manager"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Sr__Xp8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arnau Prat",
+            "affiliation": "PhD in Computer Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2FyH0igAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ioan Toma",
+            "affiliation": "Onlim GmbH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ldj4sHYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Irini Fundulaki",
+            "affiliation": "Principal Researcher, Institute of Computer Science, FORTH"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Survey of graph database models",
+                "pub_year": "2008",
+                "citation": "ACM Computing Surveys (CSUR) 40 (1), 1-39, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1567,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16599166238277170287",
+            "cites_id": [
+                "16599166238277170287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of modern query languages for graph databases",
+                "pub_year": "2017",
+                "citation": "ACM Computing Surveys (CSUR) 50 (5), 1-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:TQgYirikUcIC",
+            "num_citations": 483,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16698935509372365158",
+            "cites_id": [
+                "16698935509372365158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of current graph database models",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 28th International Conference on Data Engineering Workshops, 171-177, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 476,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5252643413413749793",
+            "cites_id": [
+                "5252643413413749793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The expressive power of SPARQL",
+                "pub_year": "2008",
+                "citation": "International Semantic Web Conference, 114-129, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 421,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10081325791902777818",
+            "cites_id": [
+                "10081325791902777818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Property Graph Database Model.",
+                "pub_year": "2018",
+                "citation": "AMW, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 251,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611395974374633875",
+            "cites_id": [
+                "12611395974374633875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying RDF data from a graph database perspective",
+                "pub_year": "2005",
+                "citation": "European semantic web conference, 346-360, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 243,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2299282998151153955,12801220959883738055",
+            "cites_id": [
+                "2299282998151153955",
+                "12801220959883738055"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "G-CORE: A core for future graph query languages",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 2018 International Conference on Management of Data, 1421 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:TFP_iSt0sucC",
+            "num_citations": 223,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15994526253714830746",
+            "cites_id": [
+                "15994526253714830746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The future is big graphs: a community view on graph processing systems",
+                "pub_year": "2021",
+                "citation": "Communications of the ACM 64 (9), 62-71, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 154,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3223316004341264883",
+            "cites_id": [
+                "3223316004341264883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The linked data benchmark council: a graph and RDF industry benchmarking effort",
+                "pub_year": "2014",
+                "citation": "ACM SIGMOD Record 43 (1), 27-31, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 114,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13017806271759994967",
+            "cites_id": [
+                "13017806271759994967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking database systems for social network applications",
+                "pub_year": "2013",
+                "citation": "First International Workshop on Graph Data Management Experiences and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15834100753151012157",
+            "cites_id": [
+                "15834100753151012157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An introduction to graph data management",
+                "pub_year": "2018",
+                "citation": "Graph Data Management: Fundamental Issues and Recent Developments, 1-32, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15167205483149064288",
+            "cites_id": [
+                "15167205483149064288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping RDF databases to property graph databases",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 86091-86110, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3396247746170383071",
+            "cites_id": [
+                "3396247746170383071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF and Property Graphs Interoperability: Status and Issues.",
+                "pub_year": "2019",
+                "citation": "AMW 2369, 1-11, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10607813152102573759",
+            "cites_id": [
+                "10607813152102573759"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The LDBC social network benchmark",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2001.02299, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15171558250918671281",
+            "cites_id": [
+                "15171558250918671281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The multiset semantics of SPARQL patterns",
+                "pub_year": "2016",
+                "citation": "The Semantic Web\u2013ISWC 2016: 15th International Semantic Web Conference, Kobe \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:HDshCWvjkbEC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11978395659444914886",
+            "cites_id": [
+                "11978395659444914886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pg-keys: Keys for property graphs",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 2021 International Conference on Management of Data, 2423 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:NhqRSupF_l8C",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14875872603355389724",
+            "cites_id": [
+                "14875872603355389724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Subqueries in SPARQL.",
+                "pub_year": "2011",
+                "citation": "AMW 749, 12, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1869367230538721449",
+            "cites_id": [
+                "1869367230538721449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PG-Schema: Schemas for property graphs",
+                "pub_year": "2023",
+                "citation": "Proceedings of the ACM on Management of Data 1 (2), 1-25, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17152843065381821267",
+            "cites_id": [
+                "17152843065381821267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the formulation of performant SPARQL queries",
+                "pub_year": "2015",
+                "citation": "Journal of Web Semantics 31, 1-26, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14421372511032166240",
+            "cites_id": [
+                "14421372511032166240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: a persistent, open-source, graph database",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2111.01540, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:KxtntwgDAa4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13937813111618314650,16149618772164870084",
+            "cites_id": [
+                "13937813111618314650",
+                "16149618772164870084"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GSP4PDB: a web tool to visualize, search and explore protein-ligand structural patterns",
+                "pub_year": "2020",
+                "citation": "BMC bioinformatics 21, 1-15, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7528573744112416748",
+            "cites_id": [
+                "7528573744112416748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Negation in SPARQL",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1603.06053, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15728472768924216748",
+            "cites_id": [
+                "15728472768924216748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Practical Query Language for Graph DBs.",
+                "pub_year": "2013",
+                "citation": "AMW, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5551847065352598504",
+            "cites_id": [
+                "5551847065352598504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pgo: Describing property graphs in rdf",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 118355-118369, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:a0OBvERweLwC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11877895696435864297",
+            "cites_id": [
+                "11877895696435864297"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Latin American perspectives to internationalize undergraduate information technology education",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 2016 ITiCSE Working Group Reports, 1-22, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6646579476604050025",
+            "cites_id": [
+                "6646579476604050025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RDF query languages need support for graph properties",
+                "pub_year": "2004",
+                "citation": "Technical Report tr/dcc-2004\u20133, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=642947425910001851",
+            "cites_id": [
+                "642947425910001851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wdbench: A wikidata graph query benchmark",
+                "pub_year": "2022",
+                "citation": "International Semantic Web Conference, 714-731, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:738O_yMBCRsC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=611730185712166683",
+            "cites_id": [
+                "611730185712166683"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilayer graphs: a unified data model for graph databases",
+                "pub_year": "2022",
+                "citation": "Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14698496149284875924",
+            "cites_id": [
+                "14698496149284875924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SQL Nested Queries in SPARQL.",
+                "pub_year": "2010",
+                "citation": "AMW, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560322572247208383",
+            "cites_id": [
+                "5560322572247208383"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Serialization for property graphs",
+                "pub_year": "2019",
+                "citation": "Beyond Databases, Architectures and Structures. Paving the Road to Smart \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:RGFaLdJalmkC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13100378676300337455",
+            "cites_id": [
+                "13100378676300337455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Let's build Bridges, not Walls: SPARQL Querying of TinkerPop Graph Databases with Sparql-Gremlin",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 14th International Conference on Semantic Computing (ICSC), 408-415, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:M05iB0D1s5AC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1865193953369392008",
+            "cites_id": [
+                "1865193953369392008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graph Query Languages.",
+                "pub_year": "2019",
+                "citation": "Encyclopedia of big data technologies, 883-890, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16959494856960121066",
+            "cites_id": [
+                "16959494856960121066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlation and Substitution in SPARQL",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1606.01441, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14816796905338072893",
+            "cites_id": [
+                "14816796905338072893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "R3MAT: A Rapid and Robust Graph Generator",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 130048-130065, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:D03iK_w7-QYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11951036610250148328",
+            "cites_id": [
+                "11951036610250148328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Edutrivias: Web support system based on trivia for the teaching-learning process",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4491724347501749935",
+            "cites_id": [
+                "4491724347501749935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Problem of Correlation and Substitution in SPARQL--Extended Version",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1801.04387, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:isC4tDSrTZIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3202405012797248275",
+            "cites_id": [
+                "3202405012797248275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Nested Graph Model for Visualizing RDF Data.",
+                "pub_year": "2009",
+                "citation": "AMW, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=408837751355030632",
+            "cites_id": [
+                "408837751355030632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power-law distributed graph generation with mapreduce",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 94405-94415, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17513492901985208330",
+            "cites_id": [
+                "17513492901985208330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct mappings between RDF and property graph databases",
+                "pub_year": "2019",
+                "citation": "arXiv, arXiv: 1912.02127, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16524544572357229753",
+            "cites_id": [
+                "16524544572357229753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A graph-based approach for querying protein-ligand structural patterns",
+                "pub_year": "2018",
+                "citation": "Bioinformatics and Biomedical Engineering: 6th International Work-Conference \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:maZDTaKrznsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16172672406436253639",
+            "cites_id": [
+                "16172672406436253639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: An Open-Source Graph Database System",
+                "pub_year": "2023",
+                "citation": "Data Intelligence 5 (3), 560-610, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18374056866491205828",
+            "cites_id": [
+                "18374056866491205828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transforming RDF Data into Property Graphs",
+                "pub_year": "2020",
+                "citation": "IEEE Latin America Transactions 18 (01), 130-137, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16937537897577177701",
+            "cites_id": [
+                "16937537897577177701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introducci\u00f3n a las bases de datos RDF",
+                "pub_year": "2015",
+                "citation": "Reporte t\u00e9cnico). In, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4873766611448074620",
+            "cites_id": [
+                "4873766611448074620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking Linked Open Data Management Systems",
+                "pub_year": "2014",
+                "citation": "ERCIM NEWS 96, 24-25, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14264313482316805433",
+            "cites_id": [
+                "14264313482316805433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog",
+                "pub_year": "2023",
+                "citation": "Proceedings of the VLDB Endowment 16 (13), 4240-4253, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:geHnlv5EZngC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9365889900772426614",
+            "cites_id": [
+                "9365889900772426614"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the teaching-learning process in engineering through a game-based web support system: Edutrivias",
+                "pub_year": "2021",
+                "citation": "Educating Engineers for Future Industrial Revolutions: Proceedings of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:abG-DnoFyZgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4281225449388862201",
+            "cites_id": [
+                "4281225449388862201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "G-CORE",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 2018 International Conference on Management of Data, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:8AbLer7MMksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17552154521147194062",
+            "cites_id": [
+                "17552154521147194062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaci\u00f3n m\u00f3vil para el autoaprendizaje de lengua de se\u00f1as chilena",
+                "pub_year": "2017",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13345738660357138530",
+            "cites_id": [
+                "13345738660357138530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supporting property graphs in apache giraph",
+                "pub_year": "2016",
+                "citation": "2016 XLII Latin American Computing Conference (CLEI), 1-12, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10586009193670269681",
+            "cites_id": [
+                "10586009193670269681"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un sistema de discusi\u00f3n seguro con participaci\u00f3n an\u00f3nima a trav\u00e9s de servicios Web",
+                "pub_year": "2013",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 21 (1), 82-98, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14381555243424546527",
+            "cites_id": [
+                "14381555243424546527"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying from a Graph Database Perspective: the case of RDF",
+                "pub_year": "2005",
+                "citation": "Department of Computer Science Universidad de Chile, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12985931979596156481",
+            "cites_id": [
+                "12985931979596156481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Path Querying in Graph Databases: A systematic mapping study",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: A Multi-modal, Multi-model Graph Database",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimized relational database for querying structural patterns in proteins",
+                "pub_year": "2024",
+                "citation": "Database 2024, baad093, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SparqLog: A System for Efficient Evaluation of SPARQL 1.1 Queries via Datalog [Experiment, Analysis and Benchmark]",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2307.06119, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lenguajes y modelos subyacentes a los grafos de conocimiento",
+                "pub_year": "2022",
+                "citation": "Actas del Congreso Internacional de Ingenier\u00eda de Sistemas, 17-26, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PG S: Schemas for Property Graphs",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2211.10962, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Work-in-Progress: Decision Support System for the Process of Student Academic Registration",
+                "pub_year": "2022",
+                "citation": "International Conference on Interactive Collaborative Learning, 850-857, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Algebra for Path Manipulation in Graph Databases",
+                "pub_year": "2022",
+                "citation": "European Conference on Advances in Databases and Information Systems, 61-74, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generaci\u00f3n de grafos inducidos por la ley de potencia",
+                "pub_year": "2020",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correction to: Serialization for Property Graphs",
+                "pub_year": "2019",
+                "citation": "Beyond Databases, Architectures and Structures. Paving the Road to Smart \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o e implementaci\u00f3n de algoritmos de grafos para Apache Giraph",
+                "pub_year": "2017",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o de un workload real para un benchmark de bases de datos orientadas a grafos",
+                "pub_year": "2017",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of Modern Graph Query Languages1",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1610.06264, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de una interfaz gr\u00e1fica para consultas SPARQL",
+                "pub_year": "2016",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "B\u00fasqueda aproximada en espacios m\u00e9tricos usando agrupamientos basados en distancias cuantizadas",
+                "pub_year": "2016",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo e implementaci\u00f3n de una API que extiende Apache Giraph incorporando soporte Property Graphs",
+                "pub_year": "2016",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drones: aterrizaje de alta precisi\u00f3n asistido por c\u00e1mara",
+                "pub_year": "2016",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o, implementaci\u00f3n y pruebas de un \u00edndice para espacios m\u00e9tricos en memoria secundaria",
+                "pub_year": "2015",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2015"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How to generate query parameters in RDF benchmarks?",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 30th International Conference on Data Engineering Workshops, 272-274, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gesti\u00f3n de datos RDF usando una base de datos orientada a grafos",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de una herramienta Web que apoye la gesti\u00f3n de bases de datos de grafo",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso del m\u00e9todo de compresi\u00f3n Re-Pair para disminuir el espacio requerido por los \u00edndices utilizados en espacios m\u00e9tricos basados en permutaciones",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o e implementaci\u00f3n de m\u00e9tricas de similitud entre frases",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gesti\u00f3n de datos biol\u00f3gicos usando bases de datos RDF",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de un benchmark para bases de datos de grafos orientado a consultas de caminos",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking Linked Open Data Management Systems",
+                "pub_year": "2014",
+                "citation": "ERCIM News 2014 (96), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of methods to assess similarity between phrases",
+                "pub_year": "2014",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio sobre restricciones de integridad para bases de dato de grafo",
+                "pub_year": "2012",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de una Plataforma Web para la Oferta y Calificaci\u00f3n del Teletrabajo",
+                "pub_year": "2012",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generaci\u00f3n de datos para benchmarking de bases de datos de grafos",
+                "pub_year": "2012",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio y comparaci\u00f3n de bases de datos orientadas a grafos",
+                "pub_year": "2012",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web-based Refining of Machine Translations",
+                "pub_year": "2011",
+                "citation": "2011 30th International Conference of the Chilean Computer Science Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n del mapeo modelo relacional a RDF",
+                "pub_year": "2011",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio, definici\u00f3n e implementaci\u00f3n de m\u00e9tricas de similitud entre frases",
+                "pub_year": "2011",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de SPARQL Composicional con Consultas Anidadas basadas en SQL.",
+                "pub_year": "2011",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n., 2011"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diseno e implementacion de un sistema de manejo de consumo de materiales centralizado para la empresa AMS Family SA",
+                "pub_year": "2010",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenieria Civil en Computacion, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelos de Base de Datos de Grafo y RDF",
+                "pub_year": "2009",
+                "citation": "Universidad de Chile, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n entre metodolog\u00eda estructurada y metodolog\u00eda orientada a objetos aplicada al an\u00e1lisis y dise\u00f1o de un sistema de control de fletes",
+                "pub_year": "2009",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenieria Civil en Computacion, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiset semantics in SPARQL, Relational Algebra and Datalog",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: A multi-modal, multi-model graph database engine",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Future Is Big Graphs: A Community View on Graph Processing Systems Ensuring the success of big graph processing for the next decade and beyond.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n del mapeo directo desde datos relaci\u00f3nales a rdf",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelos de Base",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A secure discussion system with anonymous participation through Web services",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SCCC 2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program Committee Chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abedjan, Ziawasch",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SCCC 2010 Referees",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Abstract Data Model for the Tabulator Data Browser",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SCCC 2010 Program Committee",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-0YfzpYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 8,
+        "not_available": 0
+    }
+}

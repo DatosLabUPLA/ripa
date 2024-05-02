@@ -1,0 +1,872 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "S-JpQxgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicolas Th\u00e9riault",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "cryptography",
+        "algorithmic number theory"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 775,
+    "citedby5y": 109,
+    "hindex": 11,
+    "hindex5y": 6,
+    "i10index": 13,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2003": 14,
+        "2004": 24,
+        "2005": 21,
+        "2006": 29,
+        "2007": 47,
+        "2008": 67,
+        "2009": 61,
+        "2010": 60,
+        "2011": 42,
+        "2012": 41,
+        "2013": 70,
+        "2014": 38,
+        "2015": 32,
+        "2016": 49,
+        "2017": 32,
+        "2018": 25,
+        "2019": 29,
+        "2020": 20,
+        "2021": 28,
+        "2022": 19,
+        "2023": 11,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xP6rgLsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Emmanuel Thom\u00e9",
+            "affiliation": "INRIA Nancy"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jZnKVgIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierrick Gaudry",
+            "affiliation": "CNRS / INRIA / Universit\u00e9 de Lorraine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z5x8QqgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jordi Pujol\u00e0s",
+            "affiliation": "Universitat de Lleida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N3z3PfcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josep M. Miret",
+            "affiliation": "Universitat de Lleida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b1DDIcYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Douglas Stebila",
+            "affiliation": "University of Waterloo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7Bhcs94AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Robert Granger",
+            "affiliation": "Reader (Associate Professor), Department of Computer Science, University of Surrey"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pYTEVIEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Frederik Vercauteren",
+            "affiliation": "Professor at Katholieke Universiteit Leuven"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3btdFg4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "K. Gopalakrishnan",
+            "affiliation": "Department of Computer Science, East Carolina University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_YY10qsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Edgardo Riquelme",
+            "affiliation": "Universidad del B\u00edo B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w4RZKW4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricard Garra",
+            "affiliation": "University of Lleida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "O39nNoQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Santi Mart\u00ednez Rodr\u00edguez",
+            "affiliation": "Universitat de Lleida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oqOymwQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Crist\u00f3bal Leiva Aburto",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EkWmcu4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Renate Scheidler",
+            "affiliation": "Department of Mathematics & Statistics and Department of Computer Science, University of Calgary"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P1dxp0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ismael Soto",
+            "affiliation": "Professor, Electrical Department, USACH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0zwnLpAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "miguel domingo alfaro marchant",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kG_95CgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paulo Barreto",
+            "affiliation": "University of Washington Tacoma"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A double large prime variation for small genus hyperelliptic index calculus",
+                "pub_year": "2007",
+                "citation": "Mathematics of Computation 76 (257), 475-492, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 202,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10740068151504264741,2419052165774922872",
+            "cites_id": [
+                "10740068151504264741",
+                "2419052165774922872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Index calculus attack for hyperelliptic curves of small genus",
+                "pub_year": "2003",
+                "citation": "Advances in Cryptology-ASIACRYPT 2003: 9th International Conference on the \u2026, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 165,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12604346004369483558",
+            "cites_id": [
+                "12604346004369483558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ate pairing on hyperelliptic curves",
+                "pub_year": "2007",
+                "citation": "Advances in Cryptology-EUROCRYPT 2007: 26th Annual International Conference \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10977199311384012571",
+            "cites_id": [
+                "10977199311384012571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unified point addition formul\u00e6 and side-channel attacks",
+                "pub_year": "2006",
+                "citation": "Cryptographic Hardware and Embedded Systems-CHES 2006: 8th International \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1787487175969764256,6958270003190547061,6761341144822704010,14510549006184986752",
+            "cites_id": [
+                "1787487175969764256",
+                "6958270003190547061",
+                "6761341144822704010",
+                "14510549006184986752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPA resistant left-to-right integer recodings",
+                "pub_year": "2005",
+                "citation": "International Workshop on Selected Areas in Cryptography, 345-358, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5326227970690784703,4563960615703716165",
+            "cites_id": [
+                "5326227970690784703",
+                "4563960615703716165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rethinking low genus hyperelliptic jacobian arithmetic over binary fields: Interplay of field arithmetic and explicit formulae",
+                "pub_year": "2008",
+                "citation": "Journal of Mathematical Cryptology 2 (3), 227-255, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10358879670699896956,15438546069101899075",
+            "cites_id": [
+                "10358879670699896956",
+                "15438546069101899075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving discrete logarithms from partial knowledge of the key",
+                "pub_year": "2007",
+                "citation": "Progress in Cryptology\u2013INDOCRYPT 2007: 8th International Conference on \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9560000529344395594",
+            "cites_id": [
+                "9560000529344395594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of optimizations for software implementations of small binary field arithmetic",
+                "pub_year": "2007",
+                "citation": "Arithmetic of Finite Fields: First International Workshop, WAIFI 2007 \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7122126822003046540",
+            "cites_id": [
+                "7122126822003046540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weil descent attack for Kummer extentions",
+                "pub_year": "2003",
+                "citation": "JOURNAL-RAMANUJAN MATHEMATICAL SOCIETY 18 (3), 281-312, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7428601485749046200",
+            "cites_id": [
+                "7428601485749046200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weil descent attack for Artin-Schreier curves",
+                "pub_year": "2003",
+                "citation": "preprint, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15584253135954465466",
+            "cites_id": [
+                "15584253135954465466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Faster halvings in genus 2",
+                "pub_year": "2009",
+                "citation": "Selected Areas in Cryptography: 15th International Workshop, SAC 2008 \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10872558090918739387",
+            "cites_id": [
+                "10872558090918739387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing optimal 2-3 chains for pairings",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 4th International Conference on Progress in Cryptology \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:_kc_bZDykSQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16359424218405536788",
+            "cites_id": [
+                "16359424218405536788"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete atomic blocks for elliptic curves in jacobian coordinates over prime fields",
+                "pub_year": "2012",
+                "citation": "Progress in Cryptology\u2013LATINCRYPT 2012: 2nd International Conference on \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4466271289503448456",
+            "cites_id": [
+                "4466271289503448456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalizations of the Josephus problem",
+                "pub_year": "2000",
+                "citation": "Utilitas Mathematica 58, 161-174, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15650196411007951249",
+            "cites_id": [
+                "15650196411007951249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bisection for genus 2 curves with a real model",
+                "pub_year": "2015",
+                "citation": "Bulletin of the Belgian Mathematical Society-Simon Stevin 22 (4), 589-602, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4228279429156918692",
+            "cites_id": [
+                "4228279429156918692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisection for supersingular genus 2 curves in characteristic 2.",
+                "pub_year": "2014",
+                "citation": "Adv. Math. Commun. 8 (4), 375-387, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10332556326577740919",
+            "cites_id": [
+                "10332556326577740919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisection for non-supersingular genus 2 curves in characteristic 2",
+                "pub_year": "2016",
+                "citation": "International Journal of Computer Mathematics 93 (8), 1254-1264, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6663273383179546369",
+            "cites_id": [
+                "6663273383179546369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Same value analysis on Edwards curves",
+                "pub_year": "2019",
+                "citation": "Journal of Cryptographic Engineering, 1-22, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13427005190450870592",
+            "cites_id": [
+                "13427005190450870592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bisection and squares in genus 2",
+                "pub_year": "2015",
+                "citation": "Finite Fields and Their Applications 36, 170-188, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9723507609534263933",
+            "cites_id": [
+                "9723507609534263933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for Complete Atomic Blocks for Elliptic Curves in Jacobian Coordinates over Prime Fields Countermeasure for Simple-Side Channel Attacks and C-Safe-Fault Attacks for Left \u2026",
+                "pub_year": "2014",
+                "citation": "US Patent App. 13/892,816, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11333028993948099844",
+            "cites_id": [
+                "11333028993948099844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient halving for genus 3 curves over binary fields",
+                "pub_year": "2010",
+                "citation": "Advances in Mathematics of Communications 4 (1), 23, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=363717511998833519",
+            "cites_id": [
+                "363717511998833519"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Index Calculus for Hyperelliptic Curves",
+                "pub_year": "2005",
+                "citation": "Handbook of Elliptic and Hyperelliptic Curve Cryptography, 511-527, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2967328069750601974",
+            "cites_id": [
+                "2967328069750601974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Index Calculus",
+                "pub_year": "2005",
+                "citation": "Handbook of Elliptic and Hyperelliptic Curve Cryptography, 495-509, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528919246196637377",
+            "cites_id": [
+                "8528919246196637377"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Progress in Cryptology\u2013LATINCRYPT 2019: 6th International Conference on Cryptology and Information Security in Latin America, Santiago de Chile, Chile, October 2\u20134, 2019 \u2026",
+                "pub_year": "2019",
+                "citation": "Springer Nature, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4364433432863927348",
+            "cites_id": [
+                "4364433432863927348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal 2-3 Chains for Scalar Multiplication",
+                "pub_year": "2019",
+                "citation": "Progress in Cryptology \u2013 LATINCRYPT 2017 11368, 89-108, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4973723799743975594,4125993228625173632",
+            "cites_id": [
+                "4973723799743975594",
+                "4125993228625173632"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisections and cubes in elliptic curves",
+                "pub_year": "2023",
+                "citation": "Journal of Pure and Applied Algebra 227 (4), 107259, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10927354869242748698",
+            "cites_id": [
+                "10927354869242748698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The 2-adic valuation of the cardinality of Jacobians of genus 2 curves over quadratic towers of finite fields",
+                "pub_year": "2019",
+                "citation": "Journal of Algebra and Its Applications 18 (07), 1950135, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6991925009155704856,209243785759961358",
+            "cites_id": [
+                "6991925009155704856",
+                "209243785759961358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method for Complete Atomic Blocks for Elliptic Curves in Jacobian Coordinates over Prime Fields Countermeasure for Simple-Side Channel Attacks and C-Safe-Fault Attacks for \u2026",
+                "pub_year": "2015",
+                "citation": "US Patent App. 14/044,544, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5022178225913223862",
+            "cites_id": [
+                "5022178225913223862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group arithmetic in C3, 5 curves",
+                "pub_year": "2013",
+                "citation": "Journal of Symbolic Computation 56, 1-26, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2966594970372251731",
+            "cites_id": [
+                "2966594970372251731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperelliptic Curve Security",
+                "pub_year": "2011",
+                "citation": "Encyclopedia of Cryptography and Security, 573-576, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13115109916888973869",
+            "cites_id": [
+                "13115109916888973869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of the arithmetic of the ideal class group for genus 4 hyperelliptic curves over projective coordinates.",
+                "pub_year": "2010",
+                "citation": "Adv. Math. Commun. 4 (2), 115-139, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:8k81kl-MbHgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17900514408000686251",
+            "cites_id": [
+                "17900514408000686251"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The discrete logarithm problem in the Jacobian of algebraic curves",
+                "pub_year": "2004",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7686084381557727370",
+            "cites_id": [
+                "7686084381557727370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On l-th roots and division by l",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.06619, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Index calculus algorithm for non-planar curves",
+                "pub_year": "2023",
+                "citation": "Finite Fields and Their Applications 90, 102227, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisections and cubes in elliptic curves",
+                "pub_year": "2023",
+                "citation": "Journal of Pure and Applied Algebra, 2023, vol. 227, n\u00fam. 4, 107259, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperelliptic Curves",
+                "pub_year": "2021",
+                "citation": "Encyclopedia of Cryptography, Security and Privacy, 1-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symbolic Trisection Polynomials for Genus 2 Curves in Odd Characteristic",
+                "pub_year": "2018",
+                "citation": "SIAM Journal on Discrete Mathematics 32 (4), 2421-2440, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Special issue on GEOCRYPT 2013",
+                "pub_year": "2014",
+                "citation": "GEOCRYPT 2013 8 (4), i-ii, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperelliptic Curves Performance",
+                "pub_year": "2011",
+                "citation": "Encyclopedia of Cryptography and Security, 580-582, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A special issue CHILE 2009",
+                "pub_year": "2010",
+                "citation": "ADVANCES IN MATHEMATICS OF COMMUNICATIONS 4 (2), I-II, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A filtering method for the hyperelliptic curve index calculus and its analysis.",
+                "pub_year": "2010",
+                "citation": "Adv. Math. Commun. 4 (2), 189-213, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unified point addition formula and side-channel attacks",
+                "pub_year": "2006",
+                "citation": "Lecture Notes in Computer Science 4249, Article number: CHES 2006 354-368, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an exact cost analysis of index calculus algorithms",
+                "pub_year": "2006",
+                "citation": "Presentation at ECC, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schoof\u2019s Point Counting Algorithm",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El problema del logaritmo discreto: ayer, hoy y manana",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Modular Exponentiation and Factorization of Small Degree Polynomials over Binary Fields",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "S-JpQxgAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 0
+    }
+}

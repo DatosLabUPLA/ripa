@@ -1,0 +1,163 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rDGPPA0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto Garc\u00eda Segura",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rDGPPA0AAAAJ&citpid=3",
+    "affiliation": "Doctorando en Sistemas de Ingenieria, Universidad de Talca",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Graph databases",
+        "graph query languages"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "citedby": 27,
+    "citedby5y": 27,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 7,
+        "2021": 9,
+        "2022": 6,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0YfzpYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Renzo Angles",
+            "affiliation": "Department of Computer Science, Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5ePgNYAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "mauricio arenas-salinas",
+            "affiliation": "universidad de talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Hc986uIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Paredes",
+            "affiliation": "Assistant Professor of Computer Science, Universidad de Talca"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GSP4PDB: a web tool to visualize, search and explore protein-ligand structural patterns",
+                "pub_year": "2020",
+                "citation": "BMC bioinformatics 21 (2), 1-15, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7528573744112416748",
+            "cites_id": [
+                "7528573744112416748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "R3MAT: A Rapid and Robust Graph Generator",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 130048-130065, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11951036610250148328",
+            "cites_id": [
+                "11951036610250148328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transforming RDF Data into Property Graphs",
+                "pub_year": "2020",
+                "citation": "IEEE Latin America Transactions 18 (01), 130-137, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16937537897577177701",
+            "cites_id": [
+                "16937537897577177701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Path Querying in Graph Databases: A systematic mapping study",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimized relational database for querying structural patterns in proteins",
+                "pub_year": "2023",
+                "citation": "Database 2024, baad093, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Algebra for Path Manipulation in Graph Databases",
+                "pub_year": "2022",
+                "citation": "European Conference on Advances in Databases and Information Systems, 61-74, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de un benchmark para bases de datos de grafos orientado a consultas de caminos",
+                "pub_year": "2014",
+                "citation": "Universidad de Talca (Chile). Escuela de Ingenier\u00eda Civil en Computaci\u00f3n, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rDGPPA0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

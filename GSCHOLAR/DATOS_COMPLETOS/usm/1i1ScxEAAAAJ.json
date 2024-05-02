@@ -1,0 +1,946 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1i1ScxEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco J Vargas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1i1ScxEAAAAJ&citpid=2",
+    "affiliation": "Universidad Tecnica Federico Santa Maria, Chile",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Networked Control Systems",
+        "Mutivariable Control",
+        "Platooning"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 312,
+    "citedby5y": 212,
+    "hindex": 11,
+    "hindex5y": 8,
+    "i10index": 12,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2009": 1,
+        "2010": 2,
+        "2011": 1,
+        "2012": 8,
+        "2013": 8,
+        "2014": 12,
+        "2015": 9,
+        "2016": 15,
+        "2017": 18,
+        "2018": 23,
+        "2019": 40,
+        "2020": 32,
+        "2021": 26,
+        "2022": 29,
+        "2023": 62,
+        "2024": 23
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MrFi22oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andres Peters",
+            "affiliation": "Faculty of Engineering and Sciences, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kov68wMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro I. Maass",
+            "affiliation": "Assistant Professor - Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bKWlH0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Anthony Gord\u00f3n Almeida, PhD",
+            "affiliation": "Federico Santa Mar\u00eda Technical University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IIuxXr0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jie Chen",
+            "affiliation": "Chair Professor of Electronic Engineering, City University of Hong Kong"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal control over multiple erasure channels using a data dropout compensation scheme",
+                "pub_year": "2016",
+                "citation": "Automatica 68, 155-161, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:P5F9QuxV20EC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2576167853108420002",
+            "cites_id": [
+                "2576167853108420002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of two-input two-output systems over SNR-constrained channels",
+                "pub_year": "2013",
+                "citation": "Automatica 49 (10), 3133-3140, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035637831674910522",
+            "cites_id": [
+                "4035637831674910522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Necessary and sufficient conditions for mean square stabilization over MIMO SNR-constrained channels",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 26-31, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739251776666334489",
+            "cites_id": [
+                "4739251776666334489"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String stability for predecessor following platooning over lossy communication channels",
+                "pub_year": "2018",
+                "citation": "23rd  International Symposium on Mathematical Theory of Networks and Systems, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:8AbLer7MMksC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7921588802381494706",
+            "cites_id": [
+                "7921588802381494706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pl-toon: A low-cost experimental platform for teaching and research on decentralized cooperative control",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (6), 2072, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12019945449068781253",
+            "cites_id": [
+                "12019945449068781253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mean square stabilization over snr-constrained channels with colored and spatially correlated additive noises",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Automatic Control 64 (11), 4825-4832, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:geHnlv5EZngC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3338543828468720155",
+            "cites_id": [
+                "3338543828468720155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic in genetic regulatory network models",
+                "pub_year": "2009",
+                "citation": "International Journal of Computers Communications & Control 4 (4), 363-373, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8688696922041616998",
+            "cites_id": [
+                "8688696922041616998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of simple strategies for vehicular platooning with lossy communication",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 103996-104010, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6185720395148372907",
+            "cites_id": [
+                "6185720395148372907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stabilizability of MIMO systems over parallel noisy channels",
+                "pub_year": "2014",
+                "citation": "53rd IEEE Conference on Decision and Control, 6074-6079, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6636401517024590328",
+            "cites_id": [
+                "6636401517024590328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal ripple-free deadbeat control using an integral of time squared error (ITSE) index",
+                "pub_year": "2011",
+                "citation": "Automatica 47 (9), 2134-2137, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13440805175528320349",
+            "cites_id": [
+                "13440805175528320349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the existence of a stabilizing solution of modified algebraic Riccati equations in terms of standard algebraic Riccati equations and linear matrix inequalities",
+                "pub_year": "2019",
+                "citation": "IEEE Control Systems Letters 4 (1), 91-96, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9621047030567908613",
+            "cites_id": [
+                "9621047030567908613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Explicit conditions for stabilization over noisy channels subject to SNR constraints",
+                "pub_year": "2013",
+                "citation": "2013 9th Asian Control Conference (ASCC), 1-6, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15913633130247893560",
+            "cites_id": [
+                "15913633130247893560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mean square stability conditions for platoons with lossy inter-vehicle communication channels",
+                "pub_year": "2023",
+                "citation": "Automatica 147, 110710, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2893580329172530220",
+            "cites_id": [
+                "2893580329172530220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Platoon stability conditions under inter-vehicle additive noisy communication channels",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 3150-3155, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:PELIpwtuRlgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3249255732742468981",
+            "cites_id": [
+                "3249255732742468981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of TITO systems over parallel SNR-constrained AWN channels",
+                "pub_year": "2012",
+                "citation": "IFAC Proceedings Volumes 45 (13), 85-90, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16347487138721776086",
+            "cites_id": [
+                "16347487138721776086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal estimation in feedback control loops with packet dropouts compensation strategies",
+                "pub_year": "2017",
+                "citation": "2017 25th Mediterranean Conference on Control and Automation (MED), 993-998, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:tOudhMTPpwUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15060140083445278258",
+            "cites_id": [
+                "15060140083445278258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of MIMO systems over additive correlated noise channels subject to multiple SNR-constraints",
+                "pub_year": "2018",
+                "citation": "2018 European Control Conference (ECC), 1493-1498, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:sSrBHYA8nusC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10636239895525393910",
+            "cites_id": [
+                "10636239895525393910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilisation over signal-to-noise ratio constrained channels: robust analysis for the discrete-time case",
+                "pub_year": "2015",
+                "citation": "2015 IEEE Conference on Control Applications (CCA), 1761-1766, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11849478952683043478",
+            "cites_id": [
+                "11849478952683043478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of remote controllers for LTI plants over erasure channels",
+                "pub_year": "2014",
+                "citation": "IFAC Proceedings Volumes 47 (3), 10882-10887, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14736569875323814557",
+            "cites_id": [
+                "14736569875323814557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of a class of controllers and data-dropout compensators for LTI plants controlled over erasure channels",
+                "pub_year": "2013",
+                "citation": "52nd IEEE Conference on Decision and Control, 6741-6746, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7689908999650081699",
+            "cites_id": [
+                "7689908999650081699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asma: Diagn\u00f3stico y Clasificaci\u00f3n",
+                "pub_year": "2001",
+                "citation": "Arch Venez Pueri Pediatr 64, S5-S8, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:7T2F9Uy0os0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2409681444573326183",
+            "cites_id": [
+                "2409681444573326183"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nutrici\u00f3n del lactante",
+                "pub_year": "2001",
+                "citation": "Arch Venez Puer Ped 64, S13-S17, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:NJ774b8OgUMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13827959528465852228",
+            "cites_id": [
+                "13827959528465852228"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nutrici\u00f3n del lactante",
+                "pub_year": "2000",
+                "citation": "Arch Venez Puer Pediat 64 (s3), 2000"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:JQOojiI6XY0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12348464927378242658",
+            "cites_id": [
+                "12348464927378242658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Kalman-based compensation strategy for platoons subject to data loss: Numerical and empirical study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (5), 1228, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402102112501622545",
+            "cites_id": [
+                "9402102112501622545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of speed saturation in a predecessor-following vehicle platoon",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:5ugPr518TE4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5966546066201968543",
+            "cites_id": [
+                "5966546066201968543"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and design of partly networked architectures for two-input two-output LTI systems",
+                "pub_year": "2011",
+                "citation": "IFAC Proceedings Volumes 44 (1), 5663-5668, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12458713429835389796",
+            "cites_id": [
+                "12458713429835389796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensor Calibration and Filtering for an Agent of the PL-TOON Platooning Platform",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:WqliGbK-hY8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6030647263891876117",
+            "cites_id": [
+                "6030647263891876117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Algebraic Formula for Performance Bounds of a Weighted  Optimal Control Problem",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Automatic Control 66 (2), 781-786, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:olpn-zPbct0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4202889684986802688",
+            "cites_id": [
+                "4202889684986802688"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control with erasure channels: Performance characterization using an equivalent SNR constrained problem",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 6410-6415, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:08ZZubdj9fEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2351582406344945203",
+            "cites_id": [
+                "2351582406344945203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of ripple-free deadbeat controllers based on an ITSE index",
+                "pub_year": "2010",
+                "citation": "18th Mediterranean Conference on Control and Automation, MED'10, 401-406, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1813305600876785598",
+            "cites_id": [
+                "1813305600876785598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plant and buffer state estimation for networked predictive control over multiple erasure channels",
+                "pub_year": "2023",
+                "citation": "ISA transactions 137, 358-368, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9171937391308708496",
+            "cites_id": [
+                "9171937391308708496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Cooperative Control Algorithm for Line and Predecessor Following Platoons Subject to Unreliable Distance Measurements",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (4), 801, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:1yQoGdGgb4wC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7048014342185639466",
+            "cites_id": [
+                "7048014342185639466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An alternative setup to study stabilization of networked control systems over correlated fading channels",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 3066-3071, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:_B80troHkn4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2642862899474720666",
+            "cites_id": [
+                "2642862899474720666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low cost experimental platform for the study of scalability issues in multi-agent systems",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:bnK-pcrLprsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10782598098866824849",
+            "cites_id": [
+                "10782598098866824849"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance bounds of a SISO H\u221econtrol problem with non-minimum phase plants",
+                "pub_year": "2017",
+                "citation": "2017 11th Asian Control Conference (ASCC), 180-185, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11854398516381170806",
+            "cites_id": [
+                "11854398516381170806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stochastic string stability with applications to platooning over additive noise channels",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.05718, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:tzM49s52ZIMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9715829252595720872",
+            "cites_id": [
+                "9715829252595720872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Role of Sampling Time in String Stabilization for Platooning: An Experimental Case Study",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (13), 2923, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:Fu2w8maKXqMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7855476733995865861",
+            "cites_id": [
+                "7855476733995865861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical study of a Kalman filtering based strategy for platooning with lossy communication",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6093556247916019831",
+            "cites_id": [
+                "6093556247916019831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of reduced model based boundary control design for linear port Hamiltonian systems",
+                "pub_year": "2022",
+                "citation": "IFAC-PapersOnLine 55 (26), 107-112, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:ye4kPcJQO24C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=795719340934850340",
+            "cites_id": [
+                "795719340934850340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String Stability of a PI-controlled Vehicular Platoon",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:5awf1xo2G04C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5632075822321206239",
+            "cites_id": [
+                "5632075822321206239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of an experimental platform for the automation of the goalkeeper of a foosball table",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:XiVPGOgt02cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5346256534917021112",
+            "cites_id": [
+                "5346256534917021112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the eigenvalues of a class of matrices with displacement structure arising in optimal control",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1808.10730, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2393435560024792511",
+            "cites_id": [
+                "2393435560024792511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feedback control over lossy channels: Optimal estimation considering data-loss compensation strategies",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 5366-5371, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438218222195678677",
+            "cites_id": [
+                "7438218222195678677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal state prediction in feedback systems with data loss compensation strategies",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:vRqMK49ujn8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=959076231114725756",
+            "cites_id": [
+                "959076231114725756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Lp string stability analysis in predecessor-following platoons under packet losses",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.11043, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:2KloaMYe4IUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RUPU: An Experimental Platform to Study Line-Following Platooning Problems",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:-_dYPAW6P2MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LQI Control of a Self Balancing Robot: A Numerical Study of the Impact of the Integral Approximation",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:35r97b3x0nAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Probabilistic Graphical Model for Semi-Autogenous Grinding Processes",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:evX43VCCuoAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cooperative Identification of Multi-Agent Systems in Presence of Integral Action: Insights from a Two-Agent Framework",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 10216-10221, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Port Hamiltonian based model for platooning applications including air drag effects",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 3917-3922, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:tKAzc9rXhukC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Validation of Cooperative Adaptive Cruise Control Schemes Under the Presence of Time Delays",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:N5tVd3kTz84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Two Control Strategies for Platoons with Communication Losses",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Linear Quadratic Regulation of Linear Port-Hamiltonian Systems",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 6857-6862, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equivalence between feedback systems with correlated multiplicative noisy channels and with additive noisy channels",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Titulaci\u00f3n conjunta de grado en nutrici\u00f3n humana y diet\u00e9tica y ciencia y tecnolog\u00eda de los alimentos (PID 12-132)",
+                "pub_year": "2015",
+                "citation": "Innovaci\u00f3n docente y buenas pr\u00e1cticas en la Universidad de Granada., 324-337, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:hkOj_22Ku90C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manejo de la meningitis bacteriana en ni\u00f1os complicaciones y secuelas",
+                "pub_year": "2003",
+                "citation": "Arch. venez. pueric. pediatr, 46-53, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diseno de una plataforma experimental para la automatizacion del arquero de una mesa de futbol",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1i1ScxEAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 3
+    }
+}

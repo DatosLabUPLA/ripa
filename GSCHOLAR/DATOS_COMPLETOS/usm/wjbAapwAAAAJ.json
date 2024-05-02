@@ -1,0 +1,109 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wjbAapwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Paola Quitral-Manosalva",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wjbAapwAAAAJ&citpid=1",
+    "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 9225498103198054248,
+    "interests": [
+        "Asteroseismology",
+        "roAp stars"
+    ],
+    "email_domain": "@usm.cl",
+    "citedby": 109,
+    "citedby5y": 108,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 9,
+        "2020": 25,
+        "2021": 29,
+        "2022": 21,
+        "2023": 9,
+        "2024": 15
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qCm1FPoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Margarida Cunha",
+            "affiliation": "Universidade do Porto"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uBrPANsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oleg Kochukhov",
+            "affiliation": "Professor of Astronomy, Department of Physics and Astronomy, Uppsala University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rotation and pulsation in Ap stars: first light results from TESS sectors 1 and 2",
+                "pub_year": "2019",
+                "citation": "Monthly Notices of the Royal Astronomical Society 487 (3), 3523-3549, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "wjbAapwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14270401155821420919",
+            "cites_id": [
+                "14270401155821420919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TESS cycle\u20091 observations of roAp stars with 2-min cadence data",
+                "pub_year": "2021",
+                "citation": "Monthly Notices of the Royal Astronomical Society 506 (1), 1073-1110, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wjbAapwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18367039792691333206",
+            "cites_id": [
+                "18367039792691333206"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A theoretical tool for the study of radial velocities in the atmospheres of roAp stars",
+                "pub_year": "2018",
+                "citation": "Monthly Notices of the Royal Astronomical Society 480 (2), 1676-1688, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "wjbAapwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17524389661988742584",
+            "cites_id": [
+                "17524389661988742584"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

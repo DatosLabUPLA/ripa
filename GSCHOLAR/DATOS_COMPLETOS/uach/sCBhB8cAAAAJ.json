@@ -1,0 +1,113 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "sCBhB8cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Melissa Rebolledo",
+    "affiliation": "Laboratorio de Ictiolog\u00eda, Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Fish parasitology",
+        "Community Ecology",
+        "Fish hematology",
+        "Aquatic Ecology",
+        "Functional diversity"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "citedby": 25,
+    "citedby5y": 17,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2015": 3,
+        "2016": 2,
+        "2017": 2,
+        "2018": 1,
+        "2019": 2,
+        "2020": 1,
+        "2021": 4,
+        "2022": 7,
+        "2023": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PdtbPP0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio F Landaeta",
+            "affiliation": "Full professor, Universidad de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efecto del endopar\u00e1sito Prosorhynchoides sp.(Trematoda: Bucephalidae) en la capacidad de nado sostenido del baunco Girella laevifrons (Osteichthyes: Kyphosidae)",
+                "pub_year": "2014",
+                "citation": "Revista de biolog\u00eda marina y oceanograf\u00eda 49 (3), 625-630, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sCBhB8cAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16143414212532595877",
+            "cites_id": [
+                "16143414212532595877"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of the parasite community of two notothens, Notothenia rossii and N. coriiceps (Pisces: Nototheniidae), from King George Island, Antarctica",
+                "pub_year": "2019",
+                "citation": "Journal of helminthology 93 (6), 732-737, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "sCBhB8cAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8778424187367404069",
+            "cites_id": [
+                "8778424187367404069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of metacercariae of Prosorhynchoides sp.(Trematoda: Bucephalidae) on the swimming ability and blood parameters of the intertidal fish Girella laevifrons (Osteichthyes \u2026",
+                "pub_year": "2023",
+                "citation": "Experimental Parasitology 246, 108473, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "sCBhB8cAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of the endoparasite Prosorhynchoides sp (Trematoda: Bucephalidae) on the sustained swimming capacity of the sea chub Girella laevifrons (Osteichthyes: Kyphosidae)",
+                "pub_year": "2014",
+                "citation": "REVISTA DE BIOLOGIA MARINA Y OCEANOGRAFIA 49 (3), 625-630, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "sCBhB8cAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

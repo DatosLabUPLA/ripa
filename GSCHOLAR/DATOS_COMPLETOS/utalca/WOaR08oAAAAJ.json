@@ -1,0 +1,109 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WOaR08oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Joaqu\u00edn V\u00e1squez Mar\u00edn",
+    "affiliation": "Cirujano Dentista, Universidad de Talca, Chile",
+    "organization": 7732664165981901274,
+    "interests": [
+        "Odontolog\u00eda",
+        "Estomatolog\u00eda",
+        "Sismolog\u00eda"
+    ],
+    "email_domain": "@alumnos.utalca.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 4,
+        "2023": 6,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ilsDOAkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean-Baptiste Ammirati",
+            "affiliation": "University of Lausanne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GvRZCFMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leoncio Cabrera",
+            "affiliation": "Researcher at Universidad de Chile, PhD ISTerre UGA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6ir2g-cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Ruiz",
+            "affiliation": "Associated Professor - Director of Geophysics department - Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volcanic origin of a long\u2010lived swarm in the Central Bransfield Basin, Antarctica",
+                "pub_year": "2022",
+                "citation": "Geophysical Research Letters 49 (1), e2021GL095447, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WOaR08oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3070350740904133775",
+            "cites_id": [
+                "3070350740904133775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aumento notorio de la sismicidad de la provincia del Neuqu\u00e9n, en el per\u00edodo 2015-2020",
+                "pub_year": "2020",
+                "citation": "Asociaci\u00f3n Geol\u00f3gica Argentina, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WOaR08oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15798692696187633602",
+            "cites_id": [
+                "15798692696187633602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A long-lived swarm on the Central Bransfield Basin, Antarctica",
+                "pub_year": "2022",
+                "citation": "Authorea Preprints, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WOaR08oAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

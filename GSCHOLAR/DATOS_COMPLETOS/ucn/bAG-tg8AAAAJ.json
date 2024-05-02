@@ -1,0 +1,83 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bAG-tg8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Urrutia-Astorga",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bAG-tg8AAAAJ&citpid=1",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "software engineering",
+        "mobile computing",
+        "high performance computing",
+        "cloud computing",
+        "devops"
+    ],
+    "email_domain": "@ucn.cl",
+    "homepage": "https://godie.cl/",
+    "citedby": 18,
+    "citedby5y": 18,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 4,
+        "2022": 6,
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZdizWdYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Salazar Reinoso",
+            "affiliation": "Universidad Cat\u00f3lica del Norte"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volcanic Anomalies monitoring System (VOLCANOMS), a low-cost volcanic monitoring system based on Landsat images",
+                "pub_year": "2020",
+                "citation": "Remote Sensing 12 (10), 1589, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bAG-tg8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14330399956560379522",
+            "cites_id": [
+                "14330399956560379522"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ROGER: Extracting Narratives Using Large Language Models from Robert Gerstmann's Historical Photo Archive of the Sacambaya Expedition in 1928",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bAG-tg8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

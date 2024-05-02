@@ -1,0 +1,75 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rA0Qc6UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Pontigo",
+    "affiliation": "Research assistant, Universidad Austral de Chile",
+    "organization": 16206413231987421209,
+    "interests": [
+        "Conservation Biology",
+        "Molecular ecology",
+        "Disease ecology",
+        "Wildlife management and conservation",
+        "Conservation medicine"
+    ],
+    "email_domain": "@alumnos.uach.cl",
+    "citedby": 35,
+    "citedby5y": 35,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 5,
+        "2022": 13,
+        "2023": 13,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monitoring vertebrate biodiversity of a protected coastal wetland using eDNA metabarcoding",
+                "pub_year": "2022",
+                "citation": "Environmental DNA 4 (1), 77-92, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rA0Qc6UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7920635297409516507",
+            "cites_id": [
+                "7920635297409516507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Midsummer trophic overlap between guanaco and sheep in Patagonian rangelands",
+                "pub_year": "2020",
+                "citation": "Rangeland Ecology & Management 73 (3), 394-402, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rA0Qc6UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6219745484480386496",
+            "cites_id": [
+                "6219745484480386496"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

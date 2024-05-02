@@ -1,0 +1,135 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nlSWxVAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "gabriel ovando-leon",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nlSWxVAAAAAJ&citpid=1",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 3,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0-RzjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Marin",
+            "affiliation": "University of Santiago, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hwXEZ0IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Veronica Gil-Costa",
+            "affiliation": "UNSL - CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YEA9FKgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis Veas Castillo",
+            "affiliation": "Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simulation tool for a large-scale NOSQL database",
+                "pub_year": "2019",
+                "citation": "2019 Spring Simulation Conference (SpringSim), 1-12, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "nlSWxVAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16160750611148795116",
+            "cites_id": [
+                "16160750611148795116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bot-based emergency software applications for natural disaster situations",
+                "pub_year": "2022",
+                "citation": "Future Internet 14 (3), 81, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nlSWxVAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13405634602315672493",
+            "cites_id": [
+                "13405634602315672493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MinVisited: a message routing protocol for delay tolerant network",
+                "pub_year": "2018",
+                "citation": "2018 26th Euromicro International Conference on Parallel, Distributed and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "nlSWxVAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14341727518405339687",
+            "cites_id": [
+                "14341727518405339687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Framework to Simulate Rescue Operations after a Natural Disaster/Framework Experimental para Simular Operaciones de Rescate luego de un Desastre Natural.",
+                "pub_year": "2020",
+                "citation": "Journal of Computer Science & Technology 20 (2), 62-72, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "nlSWxVAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Framework to Simulate Rescue Operations after a Natural Disaster",
+                "pub_year": "2020",
+                "citation": "Universidad Nacional de La Plata: Facultad de Inform\u00e1tica, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "nlSWxVAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}
