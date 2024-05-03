@@ -1,0 +1,53 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "A8NJENcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Javier Bisbal Zenteno",
+    "affiliation": "PhD student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@uc.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic plane reformating for 4D flow MRI using continuous reinforcement learning",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "A8NJENcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic 3D to 2D reformatting in 4D \u00ebow MRI using continuous reinforced learning",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "A8NJENcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

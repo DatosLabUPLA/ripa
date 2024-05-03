@@ -1,0 +1,130 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Rs3fd90AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rolando Reyes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Rs3fd90AAAAJ&citpid=1",
+    "affiliation": "PhD student, Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Plant Molecular Biology",
+        "Plant Physiology",
+        "Plant Biotechnology"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 10,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lnoqSroAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dubiel Alfonso Gonz\u00e1lez",
+            "affiliation": "Universidad de La Habana"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u3wIhGUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yohan Pillon",
+            "affiliation": "Institut de Recherche pour le D\u00e9veloppement"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "q2Sr320AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rosalina Beraza\u00edn Iturralde",
+            "affiliation": "Jard\u00edn Bot\u00e1nico Nacional, Universidad de La Habana"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The X-ray fluorescence screening of multiple elements in herbarium specimens from the Neotropical region reveals new records of metal accumulation in plants",
+                "pub_year": "2021",
+                "citation": "Metallomics 13 (8), mfab045, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Rs3fd90AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5167982824033029088",
+            "cites_id": [
+                "5167982824033029088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Divergent roles of IREG/Ferroportin transporters from the nickel hyperaccumulator Leucocroton havanensis",
+                "pub_year": "2024",
+                "citation": "Physiologia Plantarum 176 (2), e14261, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Rs3fd90AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Divergent roles of IREG/Ferroportin transporters from the nickel hyperaccumulator Leucocroton havanensis",
+                "pub_year": "2023",
+                "citation": "bioRxiv, 2023.08. 11.552958, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Rs3fd90AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metal accumulating plants, their importance. Nickel hyperaccumulator Leucocroton havanensis Borhidi",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Rs3fd90AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plantas que acumulan metales, su importancia. Leucocroton havanensis Borhidi hiperacumuladora de n\u00edquel",
+                "pub_year": "2019",
+                "citation": "Revista de Investigaciones de la Universidad Le Cordon Bleu 6 (2), 7-18, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Rs3fd90AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "w0kwxlQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yasna Segura",
+    "affiliation": "Universidad de Magallanes",
+    "organization": 14351944662178497517,
+    "interests": [
+        "Concrete"
+    ],
+    "email_domain": "@umag.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 5,
+        "2023": 3,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary studies on hydrated cement for its reuse in geopolymers",
+                "pub_year": "2016",
+                "citation": "Dyna 83 (196), 229-238, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "w0kwxlQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5779231088447127011",
+            "cites_id": [
+                "5779231088447127011"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reutilizaci\u00f3n de residuos de construcci\u00f3n en la fabricaci\u00f3n de conglomerantes de activaci\u00f3n alcalina",
+                "pub_year": "2016",
+                "citation": "Universitat Polit\u00e8cnica de Val\u00e8ncia, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "w0kwxlQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10806349656148102231",
+            "cites_id": [
+                "10806349656148102231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudios preliminares sobre cemento hidratado para su reutilizaci\u00f3n en geopol\u00edmeros",
+                "pub_year": "2016",
+                "citation": "Dyna 83, 229-238, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "w0kwxlQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17609439688363641428",
+            "cites_id": [
+                "17609439688363641428"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,1914 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Z7vx73QAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Thomas F\u00fchrer",
+    "affiliation": "Facultad de Matem\u00e1ticas Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Numerical analysis",
+        "Finite Element Method",
+        "Boundary Element Method"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "homepage": "http://www.mat.uc.cl/~tofuhrer/",
+    "citedby": 1153,
+    "citedby5y": 685,
+    "hindex": 19,
+    "hindex5y": 16,
+    "i10index": 37,
+    "i10index5y": 28,
+    "cites_per_year": {
+        "2012": 18,
+        "2013": 32,
+        "2014": 78,
+        "2015": 53,
+        "2016": 50,
+        "2017": 107,
+        "2018": 92,
+        "2019": 123,
+        "2020": 66,
+        "2021": 153,
+        "2022": 148,
+        "2023": 139,
+        "2024": 52
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hw1wn0YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dirk Praetorius",
+            "affiliation": "Professor of Numerics of PDEs, TU Wien"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ju9eWDkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Feischl",
+            "affiliation": "Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WZD9rDgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Norbert Heuer",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "K2dY8ckAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Karkulik",
+            "affiliation": "Department of Mathematics, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dkYtJYoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antti H. Niemi",
+            "affiliation": "University of Oulu"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1d7Au-sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ernst Peter Stephan",
+            "affiliation": "Professor of Mathematics, Leibniz University Hannover"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FMvvtAoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gregor Gantner",
+            "affiliation": "University of Bonn"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qEn6PEUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michele Ruggeri",
+            "affiliation": "University of Bologna"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive FEM with optimal convergence rates for a certain class of nonsymmetric and possibly nonlinear problems",
+                "pub_year": "2014",
+                "citation": "SIAM Journal on Numerical Analysis 52 (2), 601-625, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:t6usbXjVLHcC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11116662047588498136",
+            "cites_id": [
+                "11116662047588498136"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classical FEM-BEM coupling methods: nonlinearities, well-posedness, and adaptivity",
+                "pub_year": "2013",
+                "citation": "Computational Mechanics 51 (4), 399-419, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:dhFuZR0502QC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16860077714350089021",
+            "cites_id": [
+                "16860077714350089021"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency and optimality of some weighted-residual error estimator for adaptive 2D boundary element methods",
+                "pub_year": "2013",
+                "citation": "Computational Methods in Applied Mathematics 13 (3), 305-332, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17788255495836282264",
+            "cites_id": [
+                "17788255495836282264"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive boundary element methods: a posteriori error estimators, adaptivity, convergence, and implementation",
+                "pub_year": "2015",
+                "citation": "Archives of Computational Methods in Engineering 22 (3), 309-389, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1273875594609339862,1985115806158180790,13695140420688434777",
+            "cites_id": [
+                "1273875594609339862",
+                "1985115806158180790",
+                "13695140420688434777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space\u2013time least-squares finite elements for parabolic equations",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 92, 27-36, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:maZDTaKrznsC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11669153145041319724",
+            "cites_id": [
+                "11669153145041319724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale modeling in micromagnetics: Existence of solutions and numerical integration",
+                "pub_year": "2014",
+                "citation": "Mathematical Models and Methods in Applied Sciences 24 (13), 2627-2662, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:qjMakFHDy7sC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2537523058618023750",
+            "cites_id": [
+                "2537523058618023750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal convergence rates for adaptive boundary element methods with data approximation, part I: weakly-singular integral equation",
+                "pub_year": "2014",
+                "citation": "Calcolo 51, 531-562, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13131520357398520249",
+            "cites_id": [
+                "13131520357398520249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy norm based error estimators for adaptive BEM for hypersingular integral equations",
+                "pub_year": "2015",
+                "citation": "Applied Numerical Mathematics 95, 15-35, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16864892915862407333",
+            "cites_id": [
+                "16864892915862407333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An ultraweak formulation of the Kirchhoff\u2013Love plate bending model and DPG approximation",
+                "pub_year": "2019",
+                "citation": "Mathematics of Computation 88 (318), 1587-1619, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:-f6ydRqryjwC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7589913077520753015",
+            "cites_id": [
+                "7589913077520753015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local inverse estimates for non-local boundary integral operators",
+                "pub_year": "2017",
+                "citation": "Mathematics of Computation 86 (308), 2651-2686, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12312807012809397760",
+            "cites_id": [
+                "12312807012809397760"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A time-stepping DPG scheme for the heat equation",
+                "pub_year": "2017",
+                "citation": "Computational Methods in Applied Mathematics 17 (2), 237-252, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17203655888444303657",
+            "cites_id": [
+                "17203655888444303657"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal convergence rates for adaptive boundary element methods with data approximation. Part II: Hyper-singular integral equation",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11630124387744735384",
+            "cites_id": [
+                "11630124387744735384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HILBERT \u2014 a MATLAB implementation of adaptive 2D-BEM: HILBERT Is a Lovely Boundary Element Research Tool",
+                "pub_year": "2014",
+                "citation": "Numerical Algorithms 67, 1-32, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1477379808515704038",
+            "cites_id": [
+                "1477379808515704038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining micromagnetism and magnetostatic Maxwell equations for multiscale magnetic simulations",
+                "pub_year": "2013",
+                "citation": "Journal of magnetism and magnetic materials 343, 163-168, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8082498654032172930",
+            "cites_id": [
+                "8082498654032172930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The double adaptivity paradigm:(How to circumvent the discrete inf\u2013sup conditions of Babu\u0161ka and Brezzi)",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 95, 41-66, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:RGFaLdJalmkC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12837731169567340261",
+            "cites_id": [
+                "12837731169567340261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive boundary element methods for optimal convergence of point errors",
+                "pub_year": "2016",
+                "citation": "Numerische Mathematik 132, 541-567, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=751050552775202128",
+            "cites_id": [
+                "751050552775202128"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverse estimates for elliptic boundary integral operators and their application to the adaptive coupling of FEM and BEM",
+                "pub_year": "2012",
+                "citation": "arXiv preprint arXiv:1211.4360, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:0EnyYjriUFMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15464740220269167021",
+            "cites_id": [
+                "15464740220269167021"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully discrete DPG methods for the Kirchhoff\u2013Love plate bending model",
+                "pub_year": "2019",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 343, 550-571, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17744340758295116357",
+            "cites_id": [
+                "17744340758295116357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the DPG method for Signorini problems",
+                "pub_year": "2018",
+                "citation": "IMA Journal of Numerical Analysis 38 (4), 1893-1926, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4432108695082693838",
+            "cites_id": [
+                "4432108695082693838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superconvergent DPG methods for second-order elliptic problems",
+                "pub_year": "2019",
+                "citation": "Computational Methods in Applied Mathematics 19 (3), 483-502, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:ufrVoPGSRksC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12719988908706097062",
+            "cites_id": [
+                "12719988908706097062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive BEM with inexact PCG solver yields almost optimal computational costs",
+                "pub_year": "2019",
+                "citation": "Numerische Mathematik 141, 967-1008, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:mB3voiENLucC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1789138890685461366",
+            "cites_id": [
+                "1789138890685461366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superconvergence in a DPG method for an ultra-weak formulation",
+                "pub_year": "2018",
+                "citation": "Computers & Mathematics with Applications 75 (5), 1705-1718, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:WF5omc3nYNoC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17805194803632772571",
+            "cites_id": [
+                "17805194803632772571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust coupling of DPG and BEM for a singularly perturbed transmission problem",
+                "pub_year": "2017",
+                "citation": "Computers & Mathematics with Applications 74 (8), 1940-1954, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13284394966761197048",
+            "cites_id": [
+                "13284394966761197048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal preconditioning for the symmetric and nonsymmetric coupling of adaptive finite elements and boundary elements",
+                "pub_year": "2017",
+                "citation": "Numerical Methods for Partial Differential Equations 33 (3), 603-632, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4193550152629189736",
+            "cites_id": [
+                "4193550152629189736"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of Adaptive BEM and Adaptive FEM-BEM Coupling for Estimators Without h-Weighting Factor",
+                "pub_year": "2014",
+                "citation": "Computational Methods in Applied Mathematics 14 (4), 485-508, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12407193037408911781",
+            "cites_id": [
+                "12407193037408911781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal additive Schwarz preconditioning for hypersingular integral equations on locally refined triangulations",
+                "pub_year": "2017",
+                "citation": "Calcolo 54, 367-399, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5053394808259257681,3619928008578025571",
+            "cites_id": [
+                "5053394808259257681",
+                "3619928008578025571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ZZ-type a posteriori error estimators for adaptive boundary element methods on a curve",
+                "pub_year": "2014",
+                "citation": "Engineering Analysis with Boundary Elements 38, 49-60, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:roLk4NBRz8UC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8939353048086480224",
+            "cites_id": [
+                "8939353048086480224"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zur Kopplung von finiten Elementen und Randelementen",
+                "pub_year": "2014",
+                "citation": "Technische Universit\u00e4t Wien, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3933635490824224451",
+            "cites_id": [
+                "3933635490824224451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MINRES for second-order PDEs with singular data",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Numerical Analysis 60 (3), 1111-1135, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9867455965393198135",
+            "cites_id": [
+                "9867455965393198135"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilevel decompositions and norms for negative order Sobolev spaces",
+                "pub_year": "2022",
+                "citation": "Mathematics of Computation 91 (333), 183-218, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4213958464377585562",
+            "cites_id": [
+                "4213958464377585562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG method with optimal test functions for a fractional advection diffusion equation",
+                "pub_year": "2017",
+                "citation": "Journal of Scientific Computing 72 (2), 568-585, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Zph67rFs4hoC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12197584397445204709",
+            "cites_id": [
+                "12197584397445204709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability of symmetric and nonsymmetric FEM\u2013BEM couplings for nonlinear elasticity problems",
+                "pub_year": "2015",
+                "citation": "Numerische Mathematik 130, 199-223, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=505893624408045478",
+            "cites_id": [
+                "505893624408045478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trace operators of the bi-Laplacian and applications",
+                "pub_year": "2021",
+                "citation": "IMA Journal of Numerical Analysis 41 (2), 1031-1055, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:r0BpntZqJG4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6975062869616517909",
+            "cites_id": [
+                "6975062869616517909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An ultraweak formulation of the Reissner\u2013Mindlin plate bending model and DPG approximation",
+                "pub_year": "2020",
+                "citation": "Numerische Mathematik 145 (2), 313-344, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1824053805390925000",
+            "cites_id": [
+                "1824053805390925000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A short note on plain convergence of adaptive least-squares finite element methods",
+                "pub_year": "2020",
+                "citation": "Computers & Mathematics with Applications 80 (6), 1619-1632, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:hMod-77fHWUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14224825399868843072",
+            "cites_id": [
+                "14224825399868843072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A linear Uzawa-type FEM\u2013BEM solver for nonlinear transmission problems",
+                "pub_year": "2018",
+                "citation": "Computers & Mathematics with Applications 75 (8), 2678-2697, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12493992722818640116",
+            "cites_id": [
+                "12493992722818640116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the coupling of DPG and BEM",
+                "pub_year": "2017",
+                "citation": "Mathematics of Computation 86 (307), 2261-2284, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:8k81kl-MbHgC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10580225216476615830",
+            "cites_id": [
+                "10580225216476615830"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal additive Schwarz methods for the hp-BEM: the hypersingular integral operator in 3D on locally refined meshes",
+                "pub_year": "2015",
+                "citation": "Computers & Mathematics with Applications 70 (7), 1583-1605, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11581907184046854186",
+            "cites_id": [
+                "11581907184046854186"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultraweak formulation of linear PDEs in nondivergence form and DPG approximation",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 95, 67-84, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14642235259902465107",
+            "cites_id": [
+                "14642235259902465107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for shallow shells",
+                "pub_year": "2022",
+                "citation": "Numerische Mathematik 152 (1), 67-99, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:70eg2SAEIzsC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133457368968696943",
+            "cites_id": [
+                "17133457368968696943"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of backward Euler primal DPG methods",
+                "pub_year": "2021",
+                "citation": "Computational Methods in Applied Mathematics 21 (4), 811-826, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9392433695064073504",
+            "cites_id": [
+                "9392433695064073504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal additive Schwarz preconditioning for adaptive 2D IGA boundary element methods",
+                "pub_year": "2019",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 351, 571-598, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11513499940104863561",
+            "cites_id": [
+                "11513499940104863561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficiency and optimality of some weighted-residual error estimator for adaptive 2D boundary element methods, ASC Report 15/2012",
+                "pub_year": "2012",
+                "citation": "Institute for Analysis and Scientific Computing, Vienna University of Technology, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8226369004550735064",
+            "cites_id": [
+                "8226369004550735064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining the DPG method with finite elements",
+                "pub_year": "2018",
+                "citation": "Computational Methods in Applied Mathematics 18 (4), 639-652, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5478895612400633426",
+            "cites_id": [
+                "5478895612400633426"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal convergence rates for adaptive boundary element methods with data approximation, part II: Hypersingular integral equation. ASC Report 30/2013",
+                "pub_year": "2013",
+                "citation": "Institute for Analysis and Scientific Computing, Vienna University of Technology, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7948910436910129631",
+            "cites_id": [
+                "7948910436910129631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a Mixed FEM and a FOSLS with H\u2212 1 Loads",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2210.14063, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:p2g8aNsByqUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14515976765599063126",
+            "cites_id": [
+                "14515976765599063126"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A locking-free DPG scheme for Timoshenko beams",
+                "pub_year": "2021",
+                "citation": "Computational Methods in Applied Mathematics 21 (2), 373-383, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:blknAaTinKkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18009554332033101497",
+            "cites_id": [
+                "18009554332033101497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive Uzawa algorithm for the Stokes equation",
+                "pub_year": "2019",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 53 (6), 1841-1870, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6297289890168987221",
+            "cites_id": [
+                "6297289890168987221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal convergence rates for adaptive boundary element methods with data approximation-Part II: Hyper-singular integral equation",
+                "pub_year": "2013",
+                "citation": "Institute of Analysis and Scientific Computing, TU Wien, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15692503864205411181",
+            "cites_id": [
+                "15692503864205411181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient additive Schwarz preconditioning for hypersingular integral equations",
+                "pub_year": "2013",
+                "citation": "ASC Report 25, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:BqipwSGYUEgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14108426914133786119",
+            "cites_id": [
+                "14108426914133786119"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of adaptive FEM-BEM coupling driven by residual-based error estimators",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:08ZZubdj9fEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12971867447894478322",
+            "cites_id": [
+                "12971867447894478322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive FEM with optimal convergence rates for a certain class of non-symmetric and possibly non-linear problems, ASC Report 43/2012",
+                "pub_year": "2012",
+                "citation": "Institute for Analysis and Scientific Computing, Vienna University of Technology, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15716026285857229430",
+            "cites_id": [
+                "15716026285857229430"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Matlab implementation of adaptive 2D-BEM",
+                "pub_year": "2011",
+                "citation": "ASC Report 24, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5200605636862844846",
+            "cites_id": [
+                "5200605636862844846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Least-squares finite elements for distributed optimal control problems",
+                "pub_year": "2023",
+                "citation": "Numerische Mathematik 154 (3-4), 409-442, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:u9iWguZQMMsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=494003804454696908",
+            "cites_id": [
+                "494003804454696908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust DPG method for large domains",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 94, 15-27, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16749588120055790904",
+            "cites_id": [
+                "16749588120055790904"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-order least-squares method for the obstacle problem",
+                "pub_year": "2020",
+                "citation": "Numerische Mathematik 144 (1), 55-88, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9816987668222404834",
+            "cites_id": [
+                "9816987668222404834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient numerical computation of direct exchange areas in thermal radiation analysis",
+                "pub_year": "2016",
+                "citation": "Numerical Heat Transfer, Part B: Fundamentals 69 (6), 511-533, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3908167773041956916",
+            "cites_id": [
+                "3908167773041956916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Well-posedness of first-order acoustic wave equations and space-time finite element approximation",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2311.10536, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:bnK-pcrLprsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3679348484829351784",
+            "cites_id": [
+                "3679348484829351784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space-time finite element methods for parabolic distributed optimal control problems",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2208.09879, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:KxtntwgDAa4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3132293369916004828",
+            "cites_id": [
+                "3132293369916004828"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG methods for a fourth-order div problem",
+                "pub_year": "2022",
+                "citation": "Computational Methods in Applied Mathematics 22 (3), 545-562, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:M05iB0D1s5AC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13152594356046779063",
+            "cites_id": [
+                "13152594356046779063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New a priori analysis of first\u2010order system least\u2010squares finite element methods for parabolic problems",
+                "pub_year": "2019",
+                "citation": "Numerical Methods for Partial Differential Equations 35 (5), 1777-1800, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:hC7cP41nSMkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10344651050775516921",
+            "cites_id": [
+                "10344651050775516921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal quasi-diagonal preconditioners for pseudodifferential operators of order minus two",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 79, 1161-1181, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:HDshCWvjkbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6283571220961293445",
+            "cites_id": [
+                "6283571220961293445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive FEM, BEM, and FEM-BEM coupling with optimal rates for strongly non-symmetric problems",
+                "pub_year": "2013",
+                "citation": "ASC Report, Vienna University of Technology 39, 2013, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3547191220919583169",
+            "cites_id": [
+                "3547191220919583169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed finite elements for Kirchhoff-Love plate bending",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2305.08693, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:1qzjygNMrQYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13761838468597949919",
+            "cites_id": [
+                "13761838468597949919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A discontinuous Petrov\u2013Galerkin method for Reissner\u2013Mindlin plates",
+                "pub_year": "2023",
+                "citation": "SIAM Journal on Numerical Analysis 61 (2), 995-1017, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16475324363852816589",
+            "cites_id": [
+                "16475324363852816589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HILBERT, a MATLAB implementation of adaptive BEM (Release 3)",
+                "pub_year": "2013",
+                "citation": "Institute of Analysis and Scientific Computing, TU Wien, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11384640976381654785",
+            "cites_id": [
+                "11384640976381654785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classical FEM-BEM couplings: well-posedness, nonlinearities, and adaptivity",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14803202548222315080",
+            "cites_id": [
+                "14803202548222315080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HILBERT (Release 2)\u2014A Matlab implementation of adaptive BEM",
+                "pub_year": "2010",
+                "citation": "ASC Report, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13084267891193387005",
+            "cites_id": [
+                "13084267891193387005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust DPG Test Spaces and Fortin Operators\u2014The  and  Cases",
+                "pub_year": "2024",
+                "citation": "SIAM Journal on Numerical Analysis 62 (2), 718-748, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7606468236411148541",
+            "cites_id": [
+                "7606468236411148541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-order system least-squares finite element method for singularly perturbed Darcy equations",
+                "pub_year": "2023",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 57 (4), 2283-2300, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374379128040143924,1576888265853510633",
+            "cites_id": [
+                "5374379128040143924",
+                "1576888265853510633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for Reissner-Mindlin plates",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2205.13301, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10026141247234968328",
+            "cites_id": [
+                "10026141247234968328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space-Time Least-Squares Finite Element Methods for Parabolic Distributed Optimal Control Problems",
+                "pub_year": "2024",
+                "citation": "Computational Methods in Applied Mathematics, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-interpolators with application to postprocessing in finite element methods",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.13183, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust hybrid finite element methods for reaction-dominated diffusion problems",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.12956, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a Mixed FEM and a FOSLS with \ud835\udc3b\u22121 Loads",
+                "pub_year": "2024",
+                "citation": "Computational Methods in Applied Mathematics 24 (2), 363-378, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for the quad-curl problem",
+                "pub_year": "2023",
+                "citation": "Computers & Mathematics with Applications 149, 221-238, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for linear quadratic optimal control problems",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.09169, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust DPG Fortin operators",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2301.13021, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust DPG method for large domains & nbsp",
+                "pub_year": "2021",
+                "citation": "COMPUTERS & MATHEMATICS WITH APPLICATIONS 94, 15-27, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trace operators of the bi-Laplacian and applications (vol 41, pg 1031, 2021)",
+                "pub_year": "2021",
+                "citation": "OXFORD UNIV PRESS, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Erratum to:\u201cTrace operators of the bi-Laplacian and applications\u201d",
+                "pub_year": "2021",
+                "citation": "IMA Journal of Numerical Analysis 41 (1), 800-800, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oden Institute REPORT 19-07",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive BEM with inexact PCG solver yields almost optimal computational costs",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A wirebasket preconditioner for the mortar boundary element method",
+                "pub_year": "2018",
+                "citation": "Advances in Computational Mathematics 44, 23-49, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive isogeometric methods with optimal convergence rates",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG for plate problems-traces",
+                "pub_year": "2018",
+                "citation": "Oberwolfach Reports, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal convergence rates for goal-oriented adaptivity Alexander Haberl",
+                "pub_year": "2016",
+                "citation": "Workshop on boundary elements and adaptivity, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal convergence rates for goal-oriented adaptivity",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal additive Schwarz preconditioning for the hp-BEM: the hypersingular integral operator in 3D",
+                "pub_year": "2015",
+                "citation": "Linz, Austria, May 6\u20138, 2015 11th Austrian Numerical Analysis Day, 17, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive BEM for optimal convergence of point errors",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal preconditioning for the coupling of adaptive FEM and BEM",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal AFEM for non-symmetric operators",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of adaptive BEM for the Faermann error estimator",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal preconditioning for the coupling of adaptive finite elements and boundary elements",
+                "pub_year": "2014",
+                "citation": "11th World Congress on Computational Mechanics (WCCM XI), 2108-2119, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal preconditioning for the coupling of adaptive finite and boundary elements",
+                "pub_year": "2014",
+                "citation": "Institute of Analysis and Scientific Computing, TU Wien, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability of FEM-BEM couplings for nonlinear elasticity problems",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM-BEM couplings in nonlinear elasticity",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence and quasi-optimality of adaptive BEM-state of the art",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive FEM with optimal convergence rates for a certain class of non-symmetric problems",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal adaptive FEM for non-symmetric operators",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal adaptive BEM (IABEM 2013)",
+                "pub_year": "2013",
+                "citation": "IABEM 2013 Proceedings, 44-47, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM-BEM couplings without stabilization (IABEM 2013)",
+                "pub_year": "2013",
+                "citation": "IABEM 2013 Proceedings, 48-53, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of adaptive FEM-BEM coupling",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "What is quasi-optimality of adaptive FEM?",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FEM-BEM coupling without stabilization",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of adaptive BEM: State of the art",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-Optimal Convergence Rates for Some Adaptive Boundary Element Method in 2D and 3D",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel inverse estimates for non-local operators (IABEM 2013)",
+                "pub_year": "2012",
+                "citation": "Institute of Analysis and Scientific Computing, TU Wien, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasi-optimal adaptive BEM",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel inverse estimates for non-local operators",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence and quasi-optimality of adaptive boundary element methods",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing the Magenetostatic Potential",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerische Berechnung des magnetischen Streufelds",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Space-time finite elements for the wave equation",
+                "citation": "BOOK OF, 88, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From DPG to mixed FEM",
+                "citation": "BOOK OF, 79, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG APPROACH FOR DEALING WITH STRESS CONCENTRATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPACE-TIME FINITE ELEMENTS FOR THE OPTIMAL CONTROL OF PARABOLIC EQUATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG FOR REISSNER\u2013MINDLIN PLATES, PART 2",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG METHOD FOR THE QUAD-DIV PROBLEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DISCONTINUOUS PETROV-GALERKIN METHOD WITH OPTIMAL TEST FUNCTIONS FOR PLATE AND SHELL STRUCTURES",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG Method for the Fourth-Order DIV Equation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MAFELAP 2019 abstracts for the mini-symposium Novel adaptive discretization schemes for variational inequalities",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MAFELAP 2019 abstracts for the mini-symposium Advances in Integral Equations",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG METHOD FOR THE BI-LAPLACE EQUATION",
+                "citation": "MAFELAP 2019 abstracts for the mini-symposium Numerical methods in \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG FOR PLATE BENDING, PART I",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LA SERENA NUMERICA II",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ASC",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Z7vx73QAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 30,
+        "not_available": 3
+    }
+}

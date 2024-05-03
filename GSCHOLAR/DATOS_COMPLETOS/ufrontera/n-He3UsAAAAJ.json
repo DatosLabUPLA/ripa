@@ -1,0 +1,96 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "n-He3UsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "JAVIER IGNACIO LORCA ESPIRO",
+    "affiliation": "Researcher/Lecturer UFRO",
+    "organization": 13908003347799972066,
+    "interests": [
+        "mathematical physics",
+        "topological quantum field theories",
+        "gravitation"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-Abelian fusion rules from Abelian systems with SPT phases and graph topological order",
+                "pub_year": "2022",
+                "citation": "Annals of Physics 446, 169109, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "n-He3UsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=691980030090675577",
+            "cites_id": [
+                "691980030090675577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topological order from a cohomological and higher gauge theory perspective",
+                "pub_year": "2017",
+                "citation": "arXiv e-prints, arXiv: 1711.04186, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "n-He3UsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14724378933097047753",
+            "cites_id": [
+                "14724378933097047753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantum double models coupled to matter fields: A detailed review for a dualization procedure",
+                "pub_year": "2023",
+                "citation": "International Journal of Quantum Information 21 (04), 2350018, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "n-He3UsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sobre o estado fundamental de teorias de n-gauge abelianas topol\u00f3gicas",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "n-He3UsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

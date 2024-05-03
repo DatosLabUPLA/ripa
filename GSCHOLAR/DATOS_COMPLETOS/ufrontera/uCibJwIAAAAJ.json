@@ -1,0 +1,1856 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uCibJwIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Priscilla Brebi",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uCibJwIAAAAJ&citpid=1",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 2530,
+    "citedby5y": 1641,
+    "hindex": 24,
+    "hindex5y": 21,
+    "i10index": 50,
+    "i10index5y": 38,
+    "cites_per_year": {
+        "2011": 9,
+        "2012": 49,
+        "2013": 44,
+        "2014": 96,
+        "2015": 169,
+        "2016": 128,
+        "2017": 174,
+        "2018": 190,
+        "2019": 262,
+        "2020": 308,
+        "2021": 312,
+        "2022": 341,
+        "2023": 298,
+        "2024": 118
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qPbyi4AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "JUAN CARLOS ROA",
+            "affiliation": "PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE. Professor  and Chair Department  of Pathology."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SYXodmQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrew E. Jaffe",
+            "affiliation": "VP, Head of Data Sciences, Neumora Therapeutics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CcOf8ycAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manel Esteller",
+            "affiliation": "Director, Josep Carreras Leukaemia Research Institute. University of Barcelona and ICREA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nFW-2Q8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael A Irizarry",
+            "affiliation": "Professor, Biostatistics and Computational Biology, Dana-Farber and Harvard"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YdbVU3sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mariana Brait",
+            "affiliation": "Johns Hopkins University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fK1jeoYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William Westra",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CTC6D7oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rolf Halden",
+            "affiliation": "Professor & Director, Biodesign Center for Environ. Health Engineering, Arizona State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "k0DL7tYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lynn Rose Goldman",
+            "affiliation": "Dean, Milken Institute School of Public Health, George Washington University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ogYW40gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wim Van Criekinge",
+            "affiliation": "Professor Bioinformatics, University of Ghent"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PWP6NQgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Stephen J. Meltzer",
+            "affiliation": "The Johns Hopkins University School of Medicine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "htYt03sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristina Kurachi",
+            "affiliation": "University of S\u00e3o Paulo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z11Nj_AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Judit Ribas",
+            "affiliation": "Professor Lector de Farmacologia, Universitat de Lleida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VdcMO1UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nandini Sahasrabuddhe",
+            "affiliation": "Institute of Bioinformatics"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OhuG0FcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Akhilesh Pandey, M.D., Ph.D.",
+            "affiliation": "Professor, Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cpKS6J8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juliana Lucena Schussel",
+            "affiliation": "Professora Adjunta, Departamento de Estomatologia,  UFPR"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_ipLM94AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tejaswini Subbannayya",
+            "affiliation": "Synergy Vision"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tools for sequence-based miRNA target prediction: what to choose?",
+                "pub_year": "2016",
+                "citation": "International journal of molecular sciences 17 (12), 1987, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 438,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12227749816597240020",
+            "cites_id": [
+                "12227749816597240020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global DNA hypomethylation is associated with in utero exposure to cotinine and perfluorinated alkyl compounds",
+                "pub_year": "2010",
+                "citation": "Epigenetics 5 (6), 539-546, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:mB3voiENLucC",
+            "num_citations": 216,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3897735047238105716",
+            "cites_id": [
+                "3897735047238105716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NID2 and HOXA9 promoter hypermethylation as biomarkers for prevention and early detection in oral cavity squamous cell carcinoma tissues and saliva",
+                "pub_year": "2011",
+                "citation": "Cancer prevention research 4 (7), 1061-1072, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:HDshCWvjkbEC",
+            "num_citations": 155,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3599067692924651701",
+            "cites_id": [
+                "3599067692924651701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epigenetic alterations in preneoplastic and neoplastic lesions of the cervix",
+                "pub_year": "2012",
+                "citation": "Clinical epigenetics 4, 1-7, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 140,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13282163581020906406",
+            "cites_id": [
+                "13282163581020906406"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emerging role of miRNAs in the drug resistance of gastric cancer",
+                "pub_year": "2016",
+                "citation": "International journal of molecular sciences 17 (3), 424, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 109,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13260108698876482094",
+            "cites_id": [
+                "13260108698876482094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "miR-1 and miR-145 act as tumor suppressor microRNAs in gallbladder cancer",
+                "pub_year": "2014",
+                "citation": "International journal of clinical and experimental pathology 7 (5), 1849, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1673297454444136261",
+            "cites_id": [
+                "1673297454444136261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential promoter methylation of kinesin family member 1a in plasma is associated with breast cancer and DNA repair capacity",
+                "pub_year": "2014",
+                "citation": "Oncology reports 32 (2), 505-512, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:TQgYirikUcIC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3122732738782960144",
+            "cites_id": [
+                "3122732738782960144"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-resolution microbiome profiling uncovers Fusobacterium nucleatum, Lactobacillus gasseri/johnsonii, and Lactobacillus vaginalis associated to oral and oropharyngeal cancer \u2026",
+                "pub_year": "2017",
+                "citation": "Oncotarget 8 (67), 110931, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:k_IJM867U9cC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9169779145837785277",
+            "cites_id": [
+                "9169779145837785277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diagn\u00f3stico de la infecci\u00f3n por virus papiloma humano en el hombre",
+                "pub_year": "2013",
+                "citation": "Revista chilena de infectolog\u00eda 30 (2), 186-192, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9599131907810722629",
+            "cites_id": [
+                "9599131907810722629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of hyaluronic acid on the regulation of inflammatory mediators in osteoarthritis of the temporomandibular joint: a systematic review",
+                "pub_year": "2017",
+                "citation": "International journal of oral and maxillofacial surgery 46 (5), 590-595, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 65,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16639491089749493777",
+            "cites_id": [
+                "16639491089749493777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reliable Epstein-Barr Virus classification based on phylogenomic and population analyses",
+                "pub_year": "2019",
+                "citation": "Scientific reports 9 (1), 9829, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15984695838321605679",
+            "cites_id": [
+                "15984695838321605679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The ERK/MAPK pathway is overexpressed and activated in gallbladder cancer",
+                "pub_year": "2017",
+                "citation": "Pathology-Research and Practice 213 (5), 476-482, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:-f6ydRqryjwC",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15768849069940020631",
+            "cites_id": [
+                "15768849069940020631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Early detection of gastric cancer using global, genome-wide and IRF4, ELMO1, CLIP4 and MSC DNA methylation in endoscopic biopsies",
+                "pub_year": "2017",
+                "citation": "Oncotarget 8 (24), 38501, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14507840236909150293,12668120252251459698",
+            "cites_id": [
+                "14507840236909150293",
+                "12668120252251459698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DNA promoter methylation as a diagnostic and therapeutic biomarker in gallbladder cancer",
+                "pub_year": "2012",
+                "citation": "Clinical epigenetics 4, 1-11, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13018873256896548181",
+            "cites_id": [
+                "13018873256896548181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Immunohistochemical expression of phospho-mTOR is associated with poor prognosis in patients with gallbladder adenocarcinoma",
+                "pub_year": "2013",
+                "citation": "Archives of pathology & laboratory medicine 137 (4), 552-557, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4212737428968707384",
+            "cites_id": [
+                "4212737428968707384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-wide methylation profiling reveals Zinc finger protein 516 (ZNF516) and FK-506-binding protein 6 (FKBP6) promoters frequently methylated in cervical \u2026",
+                "pub_year": "2014",
+                "citation": "Epigenetics 9 (2), 308-317, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316393433411520902",
+            "cites_id": [
+                "316393433411520902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Brown seaweed fucoidan in cancer: Implications in metastasis and drug resistance",
+                "pub_year": "2020",
+                "citation": "Marine Drugs 18 (5), 232, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:ldfaerwXgEUC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6941534672059585209",
+            "cites_id": [
+                "6941534672059585209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genotyping of human papillomavirus in cervical intraepithelial neoplasia in a high\u2010risk population",
+                "pub_year": "2011",
+                "citation": "Journal of medical virology 83 (5), 833-837, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5878511106031756775",
+            "cites_id": [
+                "5878511106031756775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long non-coding RNAs in gastric cancer: mechanisms and potential applications",
+                "pub_year": "2016",
+                "citation": "Oncotarget 5, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8199543182839966705",
+            "cites_id": [
+                "8199543182839966705"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global and gene-specific DNA methylation pattern discriminates cholecystitis from gallbladder cancer patients in Chile",
+                "pub_year": "2015",
+                "citation": "Future oncology 11 (2), 233-249, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4455086424086860663",
+            "cites_id": [
+                "4455086424086860663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genotipificaci\u00f3n del virus papiloma humano en mujeres bajo 25 a\u00f1os de edad participantes del Programa Nacional del C\u00e1ncer C\u00e9rvico-uterino en la Regi\u00f3n de la Araucan\u00eda, Chile",
+                "pub_year": "2014",
+                "citation": "Revista chilena de infectolog\u00eda 31 (5), 542-548, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16173969125046417358",
+            "cites_id": [
+                "16173969125046417358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of ZAR1 and SFRP4 methylation status as potentials biomarkers for diagnosis in cervical cancer: exploratory study phase I",
+                "pub_year": "2014",
+                "citation": "Biomarkers 19 (3), 181-188, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16166521108718663526",
+            "cites_id": [
+                "16166521108718663526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of CC chemokines subfamily in the platinum drugs resistance promotion in cancer",
+                "pub_year": "2020",
+                "citation": "Frontiers in immunology 11, 533580, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:M05iB0D1s5AC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2833301106217958185",
+            "cites_id": [
+                "2833301106217958185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workflow optimization in a clinical laboratory using Lean management principles in the pre-analytical phase",
+                "pub_year": "2021",
+                "citation": "Journal of Medical Biochemistry 40 (1), 26, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15284573280898747211",
+            "cites_id": [
+                "15284573280898747211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel methylation biomarkers for colorectal cancer prognosis",
+                "pub_year": "2021",
+                "citation": "Biomolecules 11 (11), 1722, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4575407054339272231",
+            "cites_id": [
+                "4575407054339272231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of clock genes in fibrinolysis regulation: Circadian disturbance and its effect on fibrinolytic activity",
+                "pub_year": "2020",
+                "citation": "Frontiers in Physiology 11, 508740, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7336654260941468456",
+            "cites_id": [
+                "7336654260941468456"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reprimo as a modulator of cell migration and invasion in the MDA-MB-231 breast cancer cell line",
+                "pub_year": "2016",
+                "citation": "Biological Research 49, 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:WF5omc3nYNoC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3902156539750560483",
+            "cites_id": [
+                "3902156539750560483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The emerging role of PIWI-interacting RNAs (piRNAs) in gastrointestinal cancers: An updated perspective",
+                "pub_year": "2021",
+                "citation": "Cancers 14 (1), 202, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:abG-DnoFyZgC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16022882309853089418",
+            "cites_id": [
+                "16022882309853089418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional and transcriptomic characterization of carboplatin-resistant A2780 ovarian cancer cell line",
+                "pub_year": "2019",
+                "citation": "Biological Research 52, 1-13, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:RGFaLdJalmkC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5358414431827733599",
+            "cites_id": [
+                "5358414431827733599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cellular FLICE-like inhibitory protein long form (c-FLIPL) overexpression is related to cervical cancer progression",
+                "pub_year": "2013",
+                "citation": "International Journal of Gynecological Pathology 32 (3), 316-322, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6506660952143642579",
+            "cites_id": [
+                "6506660952143642579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n y tipificaci\u00f3n de virus papiloma humano en lesiones preneopl\u00e1sicas de cuello uterino",
+                "pub_year": "2010",
+                "citation": "Revista m\u00e9dica de Chile 138 (11), 1343-1350, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10512615555737855280",
+            "cites_id": [
+                "10512615555737855280"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Landscape of genome-wide DNA methylation of colorectal cancer metastasis",
+                "pub_year": "2020",
+                "citation": "Cancers 12 (9), 2710, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15896433979732057306",
+            "cites_id": [
+                "15896433979732057306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of gastritis and gastric cancer risk in the Chilean population using the OLGA system",
+                "pub_year": "2019",
+                "citation": "Pathology & Oncology Research 25, 1135-1142, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16444506188792500823",
+            "cites_id": [
+                "16444506188792500823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infecciones de transmisi\u00f3n sexual en semen: el hombre como vector de transmisi\u00f3n",
+                "pub_year": "2013",
+                "citation": "International Journal of Morphology 31 (1), 254-263, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:8k81kl-MbHgC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14916977240035326634",
+            "cites_id": [
+                "14916977240035326634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inhibition of connective tissue growth factor (CTGF/CCN2) in gallbladder cancer cells leads to decreased growth in vitro",
+                "pub_year": "2013",
+                "citation": "International Journal of Experimental Pathology 94 (3), 195-202, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5235947385552680185",
+            "cites_id": [
+                "5235947385552680185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-wide and gene-specific epigenomic platforms for hepatocellular carcinoma biomarker development trials",
+                "pub_year": "2014",
+                "citation": "Gastroenterology research and practice 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=769031840851634225",
+            "cites_id": [
+                "769031840851634225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infecci\u00f3n por el virus del papiloma humano en el hombre y su relaci\u00f3n con el c\u00e1ncer: estado actual y prospectivas",
+                "pub_year": "2013",
+                "citation": "Revista Internacional de Androlog\u00eda 11 (1), 25-30, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16565619892553806638",
+            "cites_id": [
+                "16565619892553806638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Environmental and lifestyle risk factors in the carcinogenesis of gallbladder cancer",
+                "pub_year": "2022",
+                "citation": "Journal of Personalized Medicine 12 (2), 234, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7829287358185590990",
+            "cites_id": [
+                "7829287358185590990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connective tissue growth factor immunohistochemical expression is associated with gallbladder cancer progression",
+                "pub_year": "2013",
+                "citation": "Archives of Pathology & Laboratory Medicine 137 (2), 245-250, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7396958362150407357",
+            "cites_id": [
+                "7396958362150407357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIST1H2BB and MAGI2 Methylation and Somatic Mutations as Precision Medicine Biomarkers for Diagnosis and Prognosis of High-grade Serous Ovarian Cancer",
+                "pub_year": "2020",
+                "citation": "Cancer Prevention Research 13 (9), 783-794, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:rO6llkc54NcC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9493634246381446414",
+            "cites_id": [
+                "9493634246381446414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epigallocatechin gallate enhances MAL-PDT cytotoxic effect on PDT-resistant skin cancer squamous cells",
+                "pub_year": "2020",
+                "citation": "International journal of molecular sciences 21 (9), 3327, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9018994129402923075",
+            "cites_id": [
+                "9018994129402923075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency of Human papillomavirus in women attending cervical cancer screening program in Chile",
+                "pub_year": "2017",
+                "citation": "BMC cancer 17, 1-10, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:TFP_iSt0sucC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5709330261919041616",
+            "cites_id": [
+                "5709330261919041616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reprimo, a Potential p53-Dependent Tumor Suppressor Gene, Is Frequently Hypermethylated in Estrogen Receptor \u03b1-Positive Breast Cancer",
+                "pub_year": "2017",
+                "citation": "International journal of molecular sciences 18 (8), 1525, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:isC4tDSrTZIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7171527526617663727",
+            "cites_id": [
+                "7171527526617663727"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n molecular de agentes infecciosos de transmisi\u00f3n sexual en un grupo de hombres sintom\u00e1ticos y su relaci\u00f3n con la conducta sexual",
+                "pub_year": "2016",
+                "citation": "Revista chilena de infectolog\u00eda 33 (5), 505-512, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9080693216323883675",
+            "cites_id": [
+                "9080693216323883675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long non-coding RNAs (lncRNAs) as regulators of the PI3K/AKT/mTOR pathway in gastric carcinoma",
+                "pub_year": "2023",
+                "citation": "International journal of molecular sciences 24 (7), 6294, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:UxriW0iASnsC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4581225335489041425",
+            "cites_id": [
+                "4581225335489041425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low spontaneous breathing effort during extracorporeal membrane oxygenation in a porcine model of severe acute respiratory distress syndrome",
+                "pub_year": "2020",
+                "citation": "Anesthesiology 133 (5), 1106-1117, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15892172810109989034",
+            "cites_id": [
+                "15892172810109989034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clinical and public health research using methylated DNA immunoprecipitation (MeDIP): a comparison of commercially available kits to examine differential DNA methylation across \u2026",
+                "pub_year": "2012",
+                "citation": "Epigenetics 7 (1), 106-112, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3111158549297041558",
+            "cites_id": [
+                "3111158549297041558"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection and genotyping of human papillomavirus in biopsies of uterine cervical adenocarcinoma",
+                "pub_year": "2009",
+                "citation": "Revista medica de Chile 137 (3), 377-382, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:maZDTaKrznsC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4892000807340575298",
+            "cites_id": [
+                "4892000807340575298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frecuencia de la infecci\u00f3n por Chlamydia trachomatis en un grupo de mujeres de la Regi\u00f3n de la Araucan\u00eda, Chile",
+                "pub_year": "2013",
+                "citation": "Revista chilena de infectolog\u00eda 30 (6), 611-615, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:roLk4NBRz8UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9951274409823464345",
+            "cites_id": [
+                "9951274409823464345"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perfil de metilaci\u00f3n de genes supresores de tumores como factor pron\u00f3stico en pacientes con leucemia mieloide aguda",
+                "pub_year": "2011",
+                "citation": "International Journal of Morphology 29 (1), 151-157, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:ufrVoPGSRksC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1738084008742350053",
+            "cites_id": [
+                "1738084008742350053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional and transcriptomic characterization of cisplatin-resistant AGS and MKN-28 gastric cancer cell lines",
+                "pub_year": "2020",
+                "citation": "PloS one 15 (1), e0228331, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:70eg2SAEIzsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3691367229149045081",
+            "cites_id": [
+                "3691367229149045081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection and genotyping of human papillomavirus virus (HPV): a comparative analysis of clinical performance in cervical and urine samples in Chilean women",
+                "pub_year": "2018",
+                "citation": "International Journal of Clinical and Experimental Pathology 11 (11), 5413, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14679521614138868969",
+            "cites_id": [
+                "14679521614138868969"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term effects of altered photoperiod during pregnancy on liver gene expression of the progeny",
+                "pub_year": "2019",
+                "citation": "Frontiers in Physiology 10, 1377, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6047881980985732344",
+            "cites_id": [
+                "6047881980985732344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of DNA methylation in promoter regions of SFRP4 and ZAR1 in urine and plasma of women with cervical lesions",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11196197595818614326",
+            "cites_id": [
+                "11196197595818614326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perfil de metilaci\u00f3n de genes supresores de tumores APAF1, ASSP1, p73 y FHIT en pacientes con leucemia linfobl\u00e1stica aguda infantil",
+                "pub_year": "2013",
+                "citation": "International Journal of Morphology 31 (3), 973-979, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:UebtZRa9Y70C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2167876474347230554",
+            "cites_id": [
+                "2167876474347230554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NID2 and HOXA9 promoter hypermethylation as biomarkers for prevention and early detection in oral cavity squamous cell carcinoma tissues and saliva. Cancer Prev. Res. 4, 1061 \u2026",
+                "pub_year": "2011",
+                "citation": "CAPR-11-0006, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:P5F9QuxV20EC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2248364905710346069",
+            "cites_id": [
+                "2248364905710346069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n y tipificaci\u00f3n de virus papiloma humano en adenocarcinoma de cuello uterino mediante reverse line blot, Regi\u00f3n de La Araucan\u00eda, Chile",
+                "pub_year": "2009",
+                "citation": "Revista m\u00e9dica de Chile 137 (3), 377-382, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:Se3iqnhoufwC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2358783788638115541",
+            "cites_id": [
+                "2358783788638115541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistance to platinum-based cancer drugs: a special focus on epigenetic mechanisms",
+                "pub_year": "2021",
+                "citation": "Pharmacogenomics 22 (12), 777-790, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4612789157427966466",
+            "cites_id": [
+                "4612789157427966466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Role of lncRNAs in the Development of an Aggressive Phenotype in Gallbladder Cancer",
+                "pub_year": "2021",
+                "citation": "Journal of Clinical Medicine 10 (18), 4206, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2185498523751671277",
+            "cites_id": [
+                "2185498523751671277"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prevalencia de la infecci\u00f3n por Chlamydia trachomatis y su potencial impacto perinatal en pacientes chilenas",
+                "pub_year": "2021",
+                "citation": "Revista chilena de infectolog\u00eda 38 (4), 523-531, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:_xSYboBqXhAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14868031068544216149",
+            "cites_id": [
+                "14868031068544216149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hypermethylation biomarkers for detection of cervical cancer",
+                "pub_year": "2014",
+                "citation": "US Patent 8,859,468, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18091439320380265909",
+            "cites_id": [
+                "18091439320380265909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic patterns found in the nuclear localization signals (Nlss) associated with ebv-1 and ebv-2 provide new insights into their contribution to different cell-type specificities",
+                "pub_year": "2021",
+                "citation": "Cancers 13 (11), 2569, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:a0OBvERweLwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4742154238744119993",
+            "cites_id": [
+                "4742154238744119993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phylogenetic dating analysis of HTLV-1 from Chile suggests transmissions events related to ancient migrations and contemporary expansion",
+                "pub_year": "2020",
+                "citation": "International Journal of Infectious Diseases 99, 186-189, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:u_35RYKgDlwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13136090489204278341",
+            "cites_id": [
+                "13136090489204278341"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Immune and Genetic Susceptibility in the Development of Cervical Cancer",
+                "pub_year": "2016",
+                "citation": "Int. J. Cancer Clin. Res 3, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8823680334340312326",
+            "cites_id": [
+                "8823680334340312326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hipermetilaci\u00f3n del gen supresor de tumores P53 en pacientes pedi\u00e1tricos con leucemia linfobl\u00e1stica aguda",
+                "pub_year": "2014",
+                "citation": "International Journal of Morphology 32 (4), 1243-1247, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16990428315050344412",
+            "cites_id": [
+                "16990428315050344412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Loss of ZNF516 protein expression is related with HR-HPV infection and cervical preneoplastic lesions",
+                "pub_year": "2019",
+                "citation": "Archives of Gynecology and Obstetrics 299, 1099-1108, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:BqipwSGYUEgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4396596743712501319",
+            "cites_id": [
+                "4396596743712501319"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract B28: FKBP6 gene is involved in progression of cervical cancer",
+                "pub_year": "2016",
+                "citation": "Molecular Cancer Research 14 (11_Supplement), B28-B28, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4269230418972149953",
+            "cites_id": [
+                "4269230418972149953"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human papillomavirus genotyping of cervical uterine preneoplastic lesions in a high risk area",
+                "pub_year": "2010",
+                "citation": "Revista M\u00e9dica de Chile 138 (11), 1343-1350, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6042405298758628619",
+            "cites_id": [
+                "6042405298758628619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epigenetic modulation of cytokine expression in gastric cancer: influence on angiogenesis, metastasis and chemoresistance",
+                "pub_year": "2024",
+                "citation": "Frontiers in Immunology 15, 1347530, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3840697447942358695",
+            "cites_id": [
+                "3840697447942358695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PpIX synthesis increases PDT resistant cells due to the modulating effect of EGCG on the heme synthesis pathway",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 2845-2845, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5556605906462234927",
+            "cites_id": [
+                "5556605906462234927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome analysis suggests HTLV-1aA introduction in Chile related to migrations of ancestral indigenous populations",
+                "pub_year": "2022",
+                "citation": "Virus Research 311, 198687, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9540307593786875322",
+            "cites_id": [
+                "9540307593786875322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review on Brown seaweed Fucoidan in cancer: Implications in metastasis and drug resistance",
+                "pub_year": "2021",
+                "citation": "Technological Innovation in Pharmaceutical Research 1, 50-74, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:yD5IFk8b50cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11921840658358658521",
+            "cites_id": [
+                "11921840658358658521"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pansinusitis aguda odontog\u00e9nica en adolescente: Reporte de caso",
+                "pub_year": "2019",
+                "citation": "Revista cl\u00ednica de periodoncia, implantolog\u00eda y rehabilitaci\u00f3n oral 12 (2 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:lSLTfruPkqcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14656206410899944011",
+            "cites_id": [
+                "14656206410899944011"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract LB-247: Early detection of gastric cancer using global and gene-specific promoter DNA methylation in endoscopic biopsies",
+                "pub_year": "2017",
+                "citation": "Cancer Research 77 (13_Supplement), LB-247-LB-247, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1223284758011542217",
+            "cites_id": [
+                "1223284758011542217"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "c-FLIP knockdown increases apoptosis in cervical cancer cell lines",
+                "pub_year": "2011",
+                "citation": "Cancer Research 71 (8_Supplement), 4780-4780, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6490220549681415177",
+            "cites_id": [
+                "6490220549681415177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n e integraci\u00f3n del virus del papiloma humano de alto riesgo en lesiones pre-neopl\u00e1sicas en mujeres del sur de Chile: un estudio transversal",
+                "pub_year": "2024",
+                "citation": "Revista Chilena de Infectolog\u00eda 41 (1), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Genetic Diversity of Epstein\u2013Barr Virus among Patients with Gastric Cancer in Southern Chile",
+                "pub_year": "2023",
+                "citation": "International Journal of Molecular Sciences 24 (14), 11276, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CCR5/CCL5 axis inhibition reverses cisplatin-chemoresistance phenotye in gastric cancer cells",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 1740-1740, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BDNF methylation and expression is associated with stage and CMS classification in colorectal cancer",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 1302-1302, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The synergic effect of cisplatin and a chemokine receptor antagonist sensitizes drug resistant gastric cancer cells and inhibits tumoroid formation",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 1749-1749, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vivo pilot study of the effect of EGCG in photodynamic therapy on non melanoma skin cancer",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 2422-2422, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Community Genomic Health Promotion Program evaluates precision DNA methylation biomarkers for use in self-testing and collection kits in urine, to increase cervical cancer \u2026",
+                "pub_year": "2023",
+                "citation": "Cancer Research 83 (7_Supplement), 1978-1978, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composition for topical use for photodynamic therapy",
+                "pub_year": "2022",
+                "citation": "US Patent App. 17/611,136, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prevalence of Chlamydia trachomatis infection and a potential perinatal impact in Chilean patients",
+                "pub_year": "2021",
+                "citation": "Revista Chilena de Infectologia: Organo Oficial de la Sociedad Chilena de \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PO-183 Identification of differentially hypomethylated genes associated to metastasis behaviour in colorectal cancer",
+                "pub_year": "2018",
+                "citation": "ESMO Open 3, A92-A93, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PO-492 Establishment of new drug-resistant gastric cancer cell lines",
+                "pub_year": "2018",
+                "citation": "ESMO Open 3, A214-A215, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preparation and Preliminary Evaluation of Epigallocatechin Gallate Microcapsules on Gallbladder Cancer Cell Growth",
+                "pub_year": "2018",
+                "citation": "Biomedical Journal of Scientific & Technical Research 3 (5), 3568-3575, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency of Human papillomavirus in women attending cervical cancer screening program in Chile",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:KxtntwgDAa4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reprimo, a potential tumor suppressor gene TP53-dependent, modulates negatively cell migration and invasion in the MDA-MB-231 breast cancer cell line",
+                "pub_year": "2016",
+                "citation": "MOLECULAR CANCER RESEARCH 14, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract B29: ZNF516 a potential tumor suppressor gene candidate is implied in tumor progression in cervical cancer",
+                "pub_year": "2016",
+                "citation": "Molecular Cancer Research 14 (11_Supplement), B29-B29, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract B30: Resistance to Photodynamic Therapy in Non-Melanoma Skin Cancer Cells",
+                "pub_year": "2016",
+                "citation": "Molecular Cancer Research 14 (11_Supplement), B30-B30, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract A31: Reprimo, a potential tumor suppressor gene TP53-dependent, modulates negatively cell migration and invasion in the MDA-MB-231 breast cancer cell line",
+                "pub_year": "2016",
+                "citation": "Molecular Cancer Research 14 (11_Supplement), A31-A31, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Immunohistochemical expression of RPRM is associated with low expression of proliferation marker Ki67 in patients with breast cancer",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efectos de la inhibici\u00f3n de C-Flipl en l\u00edneas celulares de C\u00e1ncer de cuello uterino",
+                "pub_year": "2015",
+                "citation": "International Journal of Morphology 33 (2), 638-646, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of c-FLIPL knockdown in cervical uterine carcinoma cell lines",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of the response and mechanisms of MAL-PDT of different squamous carcinoma cell lines",
+                "pub_year": "2015",
+                "citation": "Photodiagnosis and Photodynamic Therapy 12 (3), 349, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human papillomavirus genotyping in urine samples of women with squamous intraepithelial lesions of cervix.",
+                "pub_year": "2013",
+                "citation": "Cancer Research 73 (8_Supplement), 4789-4789, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel promoter hypermethylation marker for prognostic in cervicouterine cancinogenesis.",
+                "pub_year": "2013",
+                "citation": "Cancer Research 73 (8_Supplement), 647-647, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "c-FLIP (L) dual function in cervical cancer.",
+                "pub_year": "2013",
+                "citation": "Cancer Research 73 (8_Supplement), 2956-2956, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perfil de Metilaci\u00f3n de Genes Supresores de Tumores APAF1, ASSP1, p73 y FHIT en Pacientes con Leucemia infobl\u00e1stica Aguda Infantil",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inhibition of connective tissue growth factor (CTGF/CCN2) in gallbladder cancer cells leads to decreased growth in vitro",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connective Tissue Growth Factor Immunohistochemical Expression Is Associated With Gallbladder Cancer Progression",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Promoter methylation of SNFP4 gene as potential diagnosis biomarker in cervical cancer: Exploratory study phase I",
+                "pub_year": "2012",
+                "citation": "Cancer Research 72 (8_Supplement), 5575-5575, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ZNF516 and FKBP6 promoter hypermethylation as a potential companion diagnostic panel for HPV-positive and inconclusive-Pap women",
+                "pub_year": "2012",
+                "citation": "Cancer Research 72 (8_Supplement), 5574-5574, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Downregulation of ZNF516 and INTS1 is related with promoter methylation in cervical uterine cancer cell lines",
+                "pub_year": "2012",
+                "citation": "Cancer Research 72 (8_Supplement), 4037-4037, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DETECCION DE GENES HIPERMETILADOS EN CITOBRUSH, SUERO Y ORINA DE MUJERES CON NEOPLASIA CERVICAL COMO BIOMARCADORES DE DIAGNOSTICO PRECOZ, PROGRESION Y/O PRONOSTICO.",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global DNA hypomethylation is independently associated with clinical diagnosis of gastric cancer, inflammation severity, and metaplasia",
+                "pub_year": "2011",
+                "citation": "CANCER RESEARCH 71, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methylation portraits discriminate between hepatocellular carcinoma cases and controls",
+                "pub_year": "2011",
+                "citation": "Cancer Research 71 (8_Supplement), 3172-3172, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abstract LB-440: Global DNA hypomethylation is independently associated with clinical diagnosis of gastric cancer, inflammation severity, and metaplasia",
+                "pub_year": "2011",
+                "citation": "Cancer Research 71 (8_Supplement), LB-440-LB-440, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concurrent gene promoter hypermethylation and reduced immunohistochemical expression of potential biomarkers in cervical cancer: A Phase I biomarker development trial",
+                "pub_year": "2011",
+                "citation": "Cancer Research 71 (8_Supplement), 3026-3026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-wide microarray platforms uncover novel hypermethylated genes in an oral squamous cell carcinoma case-control study: A phase I preclinical biomarker development study",
+                "pub_year": "2010",
+                "citation": "Cancer Research 70 (8_Supplement), 2924-2924, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of epigenomics biomarkers for early detection and progression of cervical carcinogenesis",
+                "pub_year": "2010",
+                "citation": "Cancer Research 70 (8_Supplement), 4899-4899, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human papillomavirus genotyping of cervical uterine preneoplastic lesions in a high risk area Detecci\u00f3n y tipificaci\u00f3n de virus papiloma humano en lesiones preneopl\u00e1sicas de \u2026",
+                "pub_year": "2010",
+                "citation": "Sociedad Medica de Santiago, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Art\u00edculos de Investigaci\u00f3n/Research Articles",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article Genome-Wide and Gene-Specific Epigenomic Platforms for Hepatocellular Carcinoma Biomarker Development Trials",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uCibJwIAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 19,
+        "not_available": 0
+    }
+}

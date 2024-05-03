@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "17_SbPUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandra Araya Gonz\u00e1lez",
+    "affiliation": "Doctoranda en Historia, P. Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@uc.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 4,
+        "2022": 1,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cNo \u00e9ramos del MIR los pobladores, nosotros est\u00e1bamos por una necesidad que era la vivienda\u201d: los pobladores del campamento Nueva La Habana y el MIR, 1970-1973",
+                "pub_year": "2017",
+                "citation": "Revista de Historia y Geograf\u00eda, 107-139, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "17_SbPUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=857091770497046667",
+            "cites_id": [
+                "857091770497046667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REVISI\u00d3N DE PR\u00c1CTICAS ACAD\u00c9MICAS EN TIEMPOS DE ESTALLIDO Y PANDEMIA",
+                "pub_year": "2020",
+                "citation": "1991. Revista de Estudios Internacionales 2 (2), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "17_SbPUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La hidra de la memoria: voces del campamento Cardenal Ra\u00fal Silva Henr\u00edquez, Santiago de Chile, 1983-1985",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "17_SbPUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

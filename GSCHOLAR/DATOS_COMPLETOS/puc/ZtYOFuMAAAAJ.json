@@ -1,0 +1,145 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ZtYOFuMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Esteban Denecken Campa\u00f1a",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ZtYOFuMAAAAJ&citpid=1",
+    "affiliation": "Biomedical Imaging Center, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Image Processing",
+        "MRI",
+        "water-fat separation",
+        "phase-contrast"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://orcid.org/my-orcid?orcid=0000-0002-4234-2450",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zgHSnJYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Arrieta",
+            "affiliation": "Academic at the Faculty of Engineering, Universidad Alberto Hurtado"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7M_TC6MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Uribe",
+            "affiliation": "Professor of Medical Physics and Imaging"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pPuBjOIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo E. Andia",
+            "affiliation": "Biomedical Imaging Center, School of Medicine, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TR_CpjYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Sotelo",
+            "affiliation": "Profesor del Departamento de Inform\u00e1tica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NNQ6dUYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hern\u00e1n Mella",
+            "affiliation": "Assistant Professor, School of Electrical Engineering, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9EM2bHIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Irarrazaval",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TCz_FngAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Tejos",
+            "affiliation": "Professor, Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of respiratory gating on hemodynamic parameters from 4D flow MRI",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (6), 2943, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ZtYOFuMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3705517954647648219",
+            "cites_id": [
+                "3705517954647648219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous acquisition of water-fat concentrations and velocity images using a Phase-contrast Three-point Dixon method",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ZtYOFuMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous acquisition of water-fat concentrations and velocity images using a Phase-contrast T2*-IDEAL method",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ZtYOFuMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of respiratory Gating on hemodynamic parameters from 4D flow MRI",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ZtYOFuMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "O10AFEoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Poblete",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=O10AFEoAAAAJ&citpid=5",
+    "affiliation": "University of Technology Sydney, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Power Electronics",
+        "Multilevel Converters",
+        "Battery Energy Storage Systems"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 91,
+    "citedby5y": 91,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 5,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2020": 4,
+        "2021": 6,
+        "2022": 25,
+        "2023": 45,
+        "2024": 11
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uvAD4FQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Pereda",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile + Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1pJSaQYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo P. Aguilera",
+            "affiliation": "Associate Professor, University of Technology Sydney, Australia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3oxpKVsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Neira",
+            "affiliation": "University of Edinburgh, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nTjCGdsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Josep Pou",
+            "affiliation": "Nanyang Technological University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "miRqj88AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dylan Dah-Chuan Lu",
+            "affiliation": "Professor, University of Technology Sydney, Australia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended kalman filtering for full-state estimation and sensor reduction in modular multilevel converters",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Industrial Electronics 70 (2), 1927-1938, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16470082712873294589",
+            "cites_id": [
+                "16470082712873294589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed neural network observer for submodule capacitor voltage estimation in modular multilevel converters",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Power Electronics 37 (9), 10306-10318, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5442982732220092175",
+            "cites_id": [
+                "5442982732220092175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential phase-shifted model predictive control for modular multilevel converters",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Energy Conversion 36 (4), 2691-2702, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7798625063810825384",
+            "cites_id": [
+                "7798625063810825384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Denoising and voltage estimation in modular multilevel converters using deep neural-networks",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 207973-207981, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13607886361588076132",
+            "cites_id": [
+                "13607886361588076132"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed current control of cascaded multilevel inverters",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Conference on Industrial Technology (ICIT), 1509-1514, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11926420141604993577",
+            "cites_id": [
+                "11926420141604993577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-horizon sequential fcs-mpc approaches for modular multilevel matrix converters",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Industrial Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13561532224716578040",
+            "cites_id": [
+                "13561532224716578040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Consensus-based distributed control of a multilevel battery energy storage system",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 21st Workshop on Control and Modeling for Power Electronics \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2457872432323788484",
+            "cites_id": [
+                "2457872432323788484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequential phase-shifted model predictive control for a multilevel converter with integrated battery energy storage",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 11th International Symposium on Power Electronics for Distributed \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=901216134874403372",
+            "cites_id": [
+                "901216134874403372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Sorting Strategy for Modular Multilevel Converters With Partially Integrated 2nd Life Battery Energy Storage Systems for fast EV charging",
+                "pub_year": "2022",
+                "citation": "2022 IEEE 7th Southern Power Electronics Conference (SPEC), 1-7, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629623445519192732",
+            "cites_id": [
+                "10629623445519192732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized Feed-Forward Sampling Method for Multilevel Cascaded H-Bridge Converters",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Industrial Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14623861097044216070",
+            "cites_id": [
+                "14623861097044216070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive Optimal Variable-Angle PS-PWM Strategy for Cascaded H-Bridge Converters",
+                "pub_year": "2024",
+                "citation": "IEEE Transactions on Industrial Electronics, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computationally Efficient MPC for Modular Multilevel Matrix Converters Operating With Fixed Switching Frequency",
+                "pub_year": "2023",
+                "citation": "IEEE Open Journal of the Industrial Electronics Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power Balance of a Delta-Connected CHB Converter with MPC for Photovoltaic Systems",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Future Energy Electronics Conference (IFEEC), 305-310, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feed-Forward Technique to Emulate Natural Sampling Method for Cascaded H-Bridge Converters",
+                "pub_year": "2023",
+                "citation": "IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inter-Cluster Power Control of Modular Multilevel Converters with Integrated Battery Energy Storage for Electric Vehicle Low Voltage Operation",
+                "pub_year": "2022",
+                "citation": "2022 IEEE 7th Southern Power Electronics Conference (SPEC), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Switching Sequence Direct Power Control for AC/DC Converters with Enhanced Converter Model for Lower Switching Frequencies",
+                "pub_year": "2022",
+                "citation": "2022 32nd Australasian Universities Power Engineering Conference (AUPEC), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-Loop Performance Improvement for MMCs Based on Optimal Reference Governor",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 12th Energy Conversion Congress & Exposition-Asia (ECCE-Asia \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "O10AFEoAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

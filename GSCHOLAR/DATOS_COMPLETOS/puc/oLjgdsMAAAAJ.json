@@ -1,0 +1,73 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oLjgdsMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Sep\u00falveda",
+    "affiliation": "Phd Student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Hot Springs",
+        "MGE",
+        "CRISPR-Cas"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 219,
+    "citedby5y": 219,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 19,
+        "2022": 85,
+        "2023": 83,
+        "2024": 30
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A global metagenomic map of urban microbiomes and antimicrobial resistance",
+                "pub_year": "2021",
+                "citation": "Cell 184 (13), 3376-3393. e17, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oLjgdsMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 209,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18373850282736708567",
+            "cites_id": [
+                "18373850282736708567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Network pharmacology reveals multitarget mechanism of action of drugs to be repurposed for COVID-19",
+                "pub_year": "2022",
+                "citation": "Frontiers Media, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "oLjgdsMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13186791789309498093",
+            "cites_id": [
+                "13186791789309498093"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

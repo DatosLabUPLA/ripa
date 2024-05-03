@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nr63KjMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis San Martin",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nr63KjMAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Optimization under uncertainty",
+        "Robust optimization",
+        "Stochastic programming",
+        "Capability-based planning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo de localizaci\u00f3n de instalaciones y distribuci\u00f3n log\u00edstica en el campo de batalla",
+                "pub_year": "2020",
+                "citation": "Bolet\u00edn Cient\u00edfico Tecnol\u00f3gico 24 (1), 15-34, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "nr63KjMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=900579628521449185",
+            "cites_id": [
+                "900579628521449185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo de localizaci\u00f3n y ruteo de veh\u00edculos en dos fases para el abastecimiento log\u00edstico en el campo de batalla",
+                "pub_year": "2021",
+                "citation": "BOLET\u00cdN CIENT\u00cdFICO-TECNOL\u00d3GICO N\u00b025 1 (25), 45-60, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "nr63KjMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

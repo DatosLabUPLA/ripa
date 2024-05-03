@@ -1,0 +1,110 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ir-_rFEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "L. A. Castro-Enr\u00edquez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ir-_rFEAAAAJ&citpid=2",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Quantum optics",
+        "Topological phases",
+        "Quantum entanglement",
+        "Open quantum systems",
+        "Plasmonics"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 33,
+    "citedby5y": 33,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 10,
+        "2023": 11,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JRRl8WQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alberto Mart\u00edn-Ruiz",
+            "affiliation": "Instituto de Ciencias Nucleares, UNAM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "A57iWxQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauro Cambiaso",
+            "affiliation": "Assistant Professor, Universidad Andr\u00e9s Bello"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical response of a topological-insulator\u2013quantum-dot hybrid interacting with a probe electric field",
+                "pub_year": "2020",
+                "citation": "Physical Review A 102 (1), 013720, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ir-_rFEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10335124204416192111",
+            "cites_id": [
+                "10335124204416192111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fano resonances induced by the topological magnetoelectric effect",
+                "pub_year": "2020",
+                "citation": "Europhysics Letters 131 (6), 64003, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ir-_rFEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14614613685758491261",
+            "cites_id": [
+                "14614613685758491261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topological signatures in the entanglement of a topological insulator-quantum dot hybrid",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (20856), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ir-_rFEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11422087972821828435",
+            "cites_id": [
+                "11422087972821828435"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

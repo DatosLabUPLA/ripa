@@ -1,0 +1,115 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ORbNtTwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mariela I. Gonz\u00e1lez-Flores",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ORbNtTwAAAAJ&citpid=1",
+    "affiliation": "Centro de Excelencia de Modelaci\u00f3n y Computaci\u00f3n Cient\u00edfica, Universidad de La Frontera, Chile",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Statistical Physics",
+        "Percolation",
+        "Transition phase",
+        "Monte Carlo Simulations",
+        "High-performance computing"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Site-bond percolation in two-dimensional kagome lattices: Analytical approach and numerical simulations",
+                "pub_year": "2021",
+                "citation": "Physical Review E 104 (1), 014130, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3569566586219610710",
+            "cites_id": [
+                "3569566586219610710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-GPU Accelerating Strategies of Ant Colony Optimization Algorithms Using Rank Based and Strong Elitist Versions",
+                "pub_year": "2023",
+                "citation": "2023 International Symposium on Computer Architecture and High Performance \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed site-bond percolation in Archimedean (3,122) lattices",
+                "pub_year": "2022",
+                "citation": "Physica A: Statistical Mechanics and its Applications 604, 127897, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analytic approach to maximize entropy for computing equilibrium densities of k-mers on linear chains",
+                "pub_year": "2021",
+                "citation": "Journal of Physics A: Mathematical and Theoretical 54 (5), 055007, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Site-bond percolation on simple cubic lattices: Numerical simulation and analytical approach",
+                "pub_year": "2016",
+                "citation": "IOP Publishing, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Site-bond percolation on triangular lattices: Monte Carlo simulation and analytical approach",
+                "pub_year": "2013",
+                "citation": "Elsevier, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "ORbNtTwAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 1
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kLU2Of0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Benjam\u00edn Palacios",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kLU2Of0AAAAJ&citpid=1",
+    "affiliation": "Assistant Professor, Department of Mathematics, Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Inverse problems",
+        "partial differential equations",
+        "microlocal analysis",
+        "medical imaging"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "homepage": "https://sites.google.com/view/bpalacios/home",
+    "citedby": 79,
+    "citedby5y": 61,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2017": 6,
+        "2018": 11,
+        "2019": 12,
+        "2020": 7,
+        "2021": 12,
+        "2022": 9,
+        "2023": 18,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ihVS4FAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Osses",
+            "affiliation": "PhD Applied Mathematics (U. de Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rISDhsMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Evelyn Cueva",
+            "affiliation": "Escuela Polit\u00e9cnica Nacional"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Mheu0J0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastian Acosta",
+            "affiliation": "Assistant Professor. Baylor College of Medicine and Texas Children's Hospital"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "duMfIFAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gunther Uhlmann",
+            "affiliation": "University of Washington"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xo4I1CAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yiran WANG",
+            "affiliation": "Department of Mathematics, Emory University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vxq83ZwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillaume Bal",
+            "affiliation": "Professor of Applied Mathematics, University of Chicago"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermoacoustic tomography for an integro-differential wave equation modeling attenuation",
+                "pub_year": "2018",
+                "citation": "Journal of Differential Equations 264 (3), 1984-2010, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12922029930673109210",
+            "cites_id": [
+                "12922029930673109210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconstruction for multi-wave imaging in attenuating media with large damping coefficient",
+                "pub_year": "2016",
+                "citation": "Inverse Problems 32 (12), 125008, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7621016883054702379",
+            "cites_id": [
+                "7621016883054702379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative analysis of metal artifacts in X-ray tomography",
+                "pub_year": "2018",
+                "citation": "SIAM Journal on Mathematical Analysis 50 (5), 4914-4936, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10153800255820013317",
+            "cites_id": [
+                "10153800255820013317"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical modeling for 2D light-sheet fluorescence microscopy image reconstruction",
+                "pub_year": "2020",
+                "citation": "Inverse Problems 36 (7), 075005, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1150107463476812658",
+            "cites_id": [
+                "1150107463476812658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing streaking artifacts in quantitative susceptibility mapping",
+                "pub_year": "2017",
+                "citation": "SIAM Journal on Imaging Sciences 10 (4), 1921-1934, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17716374742892406073",
+            "cites_id": [
+                "17716374742892406073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lipschitz stability for backward heat equation with application to fluorescence microscopy",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Mathematical Analysis 53 (5), 5948-5978, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5122866279118837827",
+            "cites_id": [
+                "5122866279118837827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pencil-beam approximation of stationary Fokker--Planck",
+                "pub_year": "2020",
+                "citation": "SIAM Journal on Mathematical Analysis 52 (4), 3487-3519, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8578682037829792755",
+            "cites_id": [
+                "8578682037829792755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential recovery for Reissner--Mindlin and Kirchhoff--Love plate models using global Carleman estimates",
+                "pub_year": "2013",
+                "citation": "Inverse Problems 29 (7), 075009, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12715687752123957741",
+            "cites_id": [
+                "12715687752123957741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photoacoustic tomography in attenuating media with partial data",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.08615, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16765806579501115914",
+            "cites_id": [
+                "16765806579501115914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pencil-beam approximation of fractional Fokker-Planck",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2012.01906, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022722418417810565",
+            "cites_id": [
+                "3022722418417810565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pseudo-Differential Sweeping Method for Ultrasound Waves with Fractional Attenuation",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.09080, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Erratum: Lipschitz Stability for Backward Heat Equation with Application to Fluorescence Microscopy",
+                "pub_year": "2023",
+                "citation": "SIAM Journal on Mathematical Analysis 55 (3), 2467-2473, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fermi pencil beams and off-axis laser detection",
+                "pub_year": "2023",
+                "citation": "JOSA A 40 (6), 1076-1083, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Inverse Problem of Thermoacoustic Tomography in Attenuating Media",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kLU2Of0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 0
+    }
+}

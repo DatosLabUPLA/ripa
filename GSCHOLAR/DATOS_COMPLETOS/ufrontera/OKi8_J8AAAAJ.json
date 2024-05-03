@@ -1,0 +1,721 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "OKi8_J8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gino I. Montecinos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OKi8_J8AAAAJ&citpid=2",
+    "affiliation": "Departamento de Ingenier\u00eda Matem\u00e1tica- Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Scientific Computing",
+        "Numerical Method for Hyperbolic Balance Laws"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 623,
+    "citedby5y": 382,
+    "hindex": 14,
+    "hindex5y": 11,
+    "i10index": 15,
+    "i10index5y": 13,
+    "cites_per_year": {
+        "2013": 9,
+        "2014": 16,
+        "2015": 33,
+        "2016": 68,
+        "2017": 50,
+        "2018": 62,
+        "2019": 59,
+        "2020": 71,
+        "2021": 75,
+        "2022": 58,
+        "2023": 91,
+        "2024": 27
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperbolic reformulation of a 1D viscoelastic blood flow model and ADER finite volume schemes",
+                "pub_year": "2014",
+                "citation": "Journal of Computational Physics 266, 101-123, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17166137298987360902",
+            "cites_id": [
+                "17166137298987360902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of solvers for the generalized Riemann problem for hyperbolic systems with source terms",
+                "pub_year": "2012",
+                "citation": "Journal of Computational Physics 231 (19), 6472-6494, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 80,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14092452886609611999",
+            "cites_id": [
+                "14092452886609611999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advection-diffusion-reaction equations: hyperbolization and high-order ADER discretizations",
+                "pub_year": "2014",
+                "citation": "SIAM Journal on Scientific Computing 36 (5), A2423-A2457, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498459126046165899",
+            "cites_id": [
+                "12498459126046165899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reformulations for general advection\u2013diffusion\u2013reaction equations and locally implicit ADER schemes",
+                "pub_year": "2014",
+                "citation": "Journal of Computational Physics 275, 415-442, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10843230883137704466",
+            "cites_id": [
+                "10843230883137704466"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of reduced\u2010order unscented Kalman filter for parameter identification in 1\u2010dimensional blood flow models using experimental data",
+                "pub_year": "2017",
+                "citation": "International journal for numerical methods in biomedical engineering 33 (8 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10091492061545967520",
+            "cites_id": [
+                "10091492061545967520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit, semi-analytical solution of the generalized Riemann problem for stiff hyperbolic balance laws",
+                "pub_year": "2015",
+                "citation": "Journal of Computational Physics 303, 146-172, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10570244420037442761",
+            "cites_id": [
+                "10570244420037442761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational electrodynamics in material media with constraint-preservation, multidimensional Riemann solvers and sub-cell resolution \u2013 Part II, higher order FVTD schemes",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Physics 354, 613 - 645, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11328903168495467197",
+            "cites_id": [
+                "11328903168495467197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational haemodynamics in stenotic internal jugular veins",
+                "pub_year": "2015",
+                "citation": "Journal of mathematical biology 70, 745-772, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10474106283736305130,17806171856354566999",
+            "cites_id": [
+                "10474106283736305130",
+                "17806171856354566999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superhydrophobic SLA 3D printed materials modified with nanoparticles biomimicking the hierarchical structure of a rice leaf",
+                "pub_year": "2022",
+                "citation": "Science and Technology of Advanced Materials 23 (1), 300-321, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12328360371530557611",
+            "cites_id": [
+                "12328360371530557611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient, second order accurate, universal generalized Riemann problem solver based on the HLLI Riemann solver",
+                "pub_year": "2018",
+                "citation": "Journal of Computational Physics 375, 1238-1269, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18442049796022298270",
+            "cites_id": [
+                "18442049796022298270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Junction-generalized Riemann problem for stiff hyperbolic balance laws in networks: an implicit solver and ADER schemes",
+                "pub_year": "2016",
+                "citation": "Journal of Computational Physics 315, 409-433, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6191579563226435823",
+            "cites_id": [
+                "6191579563226435823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring various flux vector splittings for the magnetohydrodynamic system",
+                "pub_year": "2016",
+                "citation": "Journal of Computational Physics 311, 1-21, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3832586105899499851",
+            "cites_id": [
+                "3832586105899499851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some issues in modelling venous haemodynamics",
+                "pub_year": "2012",
+                "citation": "Numerical Methods for Hyperbolic Equations: Theory and Applications. An \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4057479958269442274",
+            "cites_id": [
+                "4057479958269442274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADER methods for hyperbolic equations with a time-reconstruction solver for the generalized Riemann problem: the scalar case",
+                "pub_year": "2020",
+                "citation": "Communications on Applied Mathematics and Computation 2, 369-402, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:4DMP91E08xMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8653899038910115151",
+            "cites_id": [
+                "8653899038910115151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AENO: A novel reconstruction method in conjunction with ADER schemes for hyperbolic equations",
+                "pub_year": "2023",
+                "citation": "Communications on Applied Mathematics and Computation 5 (2), 776-852, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:IWHjjKOFINEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10509322817557650560",
+            "cites_id": [
+                "10509322817557650560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An ADER-type scheme for a class of equations arising from the water-wave theory",
+                "pub_year": "2016",
+                "citation": "Computers & Fluids 132, 76-93, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4485708739512937329",
+            "cites_id": [
+                "4485708739512937329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified Cauchy-Kowalewskaya procedure for the local implicit solution of generalized Riemann problems of hyperbolic balance laws",
+                "pub_year": "2020",
+                "citation": "Computers & Fluids 202, 104490, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7617938715441094920",
+            "cites_id": [
+                "7617938715441094920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solver for the generalized Riemann problem for balance laws with stiff source terms: the scalar case",
+                "pub_year": "2012",
+                "citation": "Hyperbolic Problems: Theory, Numerics and Applications (In 2 Volumes), 576-583, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2729711157567636207",
+            "cites_id": [
+                "2729711157567636207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A cell-centered polynomial basis for efficient Galerkin predictors in the context of ADER finite volume schemes. The one-dimensional case",
+                "pub_year": "2017",
+                "citation": "Computers & Fluids, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8470774351467817234",
+            "cites_id": [
+                "8470774351467817234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical methods for advection-diffusion-reaction equations and medical applications",
+                "pub_year": "2014",
+                "citation": "Universit\u00e0 degli studi di Trento, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9700254243312105907",
+            "cites_id": [
+                "9700254243312105907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical procedure and coupled system formulation for the adjoint approach in hyperbolic PDE-constrained optimization problems",
+                "pub_year": "2019",
+                "citation": "IMA Journal of Applied Mathematics 84 (3), 483-516, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455296429516003245",
+            "cites_id": [
+                "13455296429516003245"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytic solutions for the Burgers equation with source terms",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1503.09079, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11022344070574984910",
+            "cites_id": [
+                "11022344070574984910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AENO: a novel reconstruction method in conjunction with ADER schemes for hyperbolic equations. Communications on Applied Mathematics and Computation, 2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6267354715364517990",
+            "cites_id": [
+                "6267354715364517990"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ENO-ET: a reconstruction scheme based on extended ENO stencil and truncated highest-order term",
+                "pub_year": "2023",
+                "citation": "Applied Mathematics and Computation 442, 127742, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15992973301034535268",
+            "cites_id": [
+                "15992973301034535268"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADER scheme with a simplified solver for the generalized Riemann problem and an average ENO reconstruction procedure. Application to blood flow",
+                "pub_year": "2022",
+                "citation": "Computers & Fluids 248, 105685, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:HDshCWvjkbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6410211286314937500",
+            "cites_id": [
+                "6410211286314937500"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An iterative scaling function procedure for solving scalar non-linear hyperbolic balance laws",
+                "pub_year": "2021",
+                "citation": "Applied Numerical Mathematics 162, 35-52, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15971636585043427950",
+            "cites_id": [
+                "15971636585043427950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimized CPML formulation for high order FVTD schemes for CED",
+                "pub_year": "2021",
+                "citation": "IEEE Journal on Multiscale and Multiphysics Computational Techniques 6, 183-200, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14328790985431189965",
+            "cites_id": [
+                "14328790985431189965"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A universal centred high-order method based on implicit Taylor series expansion with fast second order evolution of spatial derivatives",
+                "pub_year": "2021",
+                "citation": "Journal of Computational Physics 443, 110535, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13109379036267551787",
+            "cites_id": [
+                "13109379036267551787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical procedure and unified formulation for the adjoint approach in hyperbolic PDE-constrained optimal control problems",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1711.09297, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6831233076202327580",
+            "cites_id": [
+                "6831233076202327580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of reduced order Kalman filter for parameter identification in one-dimensional blood flow models using experimental data",
+                "pub_year": "2016",
+                "citation": "Berlin: Weierstra\u00df-Institut f\u00fcr Angewandte Analysis und Stochastik, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11665418902033234203",
+            "cites_id": [
+                "11665418902033234203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A strategy to implement Dirichlet boundary conditions in the context of ADER finite volume schemes. One-dimensional conservation laws",
+                "pub_year": "2016",
+                "citation": "Computers \\& Fluids 140, 357 - 370, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12841160402396901493",
+            "cites_id": [
+                "12841160402396901493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal control approach for moving bottom detection in one-dimensional shallow waters by surface measurements",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2401.17239, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OPTIMAL CONTROL APPROACH FOR MOVING BOTTOM DETECTION IN ONE-DIMENSIONAL SHALLOW WATERS BY SURFACE MEASUREMENTS",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extension of the ENO-ET Reconstruction Scheme to Two Space Dimensions on Cartesian Meshes in Conjunction with the ADER Approach",
+                "pub_year": "2023",
+                "citation": "East Asian Journal on Applied Mathematics 13, 759-790, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revisiting Essentially Non-Oscillatory Reconstruction Schemes",
+                "pub_year": "2022",
+                "citation": "M\u00e1laga, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Superhydrophobic SLA 3D printed materials modified with nanoparticles biomimicking the hierarchical structure of a rice leaf",
+                "pub_year": "2022",
+                "citation": "Taylor & Francis, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CGO SOLUTIONS FOR COUPLED CONDUCTIVITY EQUATIONS",
+                "pub_year": "2022",
+                "citation": "Mathematical Reports, Romanian Academy 24, 217-240, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fast algorithm of the shear-compression damage model for the simulation of block caving",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2012.14776, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A shear-compression damage model for the simulation of underground mining by block caving",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2012.11118, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplified Cauchy-Kowalewskaya procedure for the implicit solution of generalized Riemann problems of hyperbolic balance laws",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1907.08872, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational haemodynamics in stenotic internal jugular veins",
+                "pub_year": "2013",
+                "citation": "The MATHCARD EU Project-www. mathcard. eu, Chia Laguna, Domus de Maria \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solutions of a singularly nonlinear Schr\u00f6dinger equation",
+                "pub_year": "2008",
+                "citation": "VII WPDE, 7, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The ENO-ET spatial reconstruction scheme: advances in non-linear high-order numerical schemes",
+                "citation": "BOOK OF, 145, 0"
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "It is with great honor that we welcome you to the WORKSHOP ON NONLINEAR ANALYSIS AND CONTROL THEORY 60th Anniversary of Prof. Enrique Zuazua with will take...",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A NOVEL CELL-CENTERED POLYNOMIAL BASIS FOR THE PREDICTOR STEPS IN THE CONTEXT ADER FINITE VOLUME SCHEMES. THE ONE-DIMENSIONAL CASE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TOWARDS HIGH ORDER METHODS FOR BLOOD FLOW",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OKi8_J8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 1
+    }
+}

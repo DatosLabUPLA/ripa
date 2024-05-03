@@ -1,0 +1,97 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "U7JO9gsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mat\u00edas Pi\u00f1a Aguilera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=U7JO9gsAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Artificial Intelligence",
+        "Computer Science Education",
+        "Data Science"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7S6RcTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Baier",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZGr9beMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Isabel Hilliger",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qJ1jacoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Ruz",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zCVDMaAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Astudillo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Protocol to Follow-up with Students in Large-enrollment Courses",
+                "pub_year": "2021",
+                "citation": "2021 ASEE Virtual Annual Conference Content Access, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "U7JO9gsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16640977383989008040",
+            "cites_id": [
+                "16640977383989008040"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Work-In-Progress: Caring for Student's Academic and Personal Challenges via The Wellbeing Teaching Assistant",
+                "citation": "TRANSFORMING ENGINEERING EDUCATION 2023, 206, 0"
+            },
+            "filled": false,
+            "author_pub_id": "U7JO9gsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wmvZWZcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Polett Garc\u00e9s",
+    "affiliation": "Estudiante de Doctorado en Biomedicina, Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Enfermedades neurodegenerativas",
+        "astrocitos",
+        "sistema nervioso"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "homepage": "https://www.unab.cl/en/",
+    "citedby": 29,
+    "citedby5y": 29,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 7,
+        "2023": 7,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mast cell and astrocyte hemichannels and their role in Alzheimer\u2019s disease, ALS, and harmful stress conditions",
+                "pub_year": "2021",
+                "citation": "International Journal of Molecular Sciences 22 (4), 1924, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wmvZWZcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15168773567203442838",
+            "cites_id": [
+                "15168773567203442838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mature iPSC-derived astrocytes of an ALS/FTD patient carrying the TDP43 A90V  mutation display a mild reactive state and release polyP toxic to motoneurons",
+                "pub_year": "2023",
+                "citation": "Frontiers in Cell and Developmental Biology 11, 1226604, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wmvZWZcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5128241367354484109",
+            "cites_id": [
+                "5128241367354484109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inorganic polyphosphate: from basic research to diagnostic and therapeutic opportunities in ALS/FTD",
+                "pub_year": "2024",
+                "citation": "Biochemical Society Transactions 52 (1), 123-135, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wmvZWZcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mature iPSC-derived astrocytes of an ALS/FTD patient carrying the TDP43 A90V mutation display a mild reactive state and release polyP toxic to motoneurons",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "wmvZWZcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

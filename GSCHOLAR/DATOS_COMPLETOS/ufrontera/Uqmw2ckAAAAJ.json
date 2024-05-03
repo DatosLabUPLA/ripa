@@ -1,0 +1,125 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Uqmw2ckAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Tomas Mora CHandia",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Fluid Mechanics",
+        "Heat Transfer",
+        "CFD",
+        "Thermodynamics",
+        "Pyrolysis"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "homepage": "http://dim.ufro.cl/",
+    "citedby": 16,
+    "citedby5y": 11,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 2,
+        "2017": 2,
+        "2018": 1,
+        "2019": 1,
+        "2020": 1,
+        "2021": 4,
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1Naq_nUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "EDUARDO IGNACIO DIEZ CIFUENTES",
+            "affiliation": "Department of Mechanical Engineering, Universidad de La Frontera"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of roughness on the mechanical adhesion of single lap joints",
+                "pub_year": "2012",
+                "citation": "The Journal of Adhesion 88 (4-6), 376-390, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Uqmw2ckAAAAJ:sSrBHYA8nusC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4034823093018375837",
+            "cites_id": [
+                "4034823093018375837"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct Improvement in the Combustion Chamber and the Radiant Surface to Reduce the Emission of Particles in Biomass Cooking Stoves Used in Araucan\u00eda, Chile",
+                "pub_year": "2021",
+                "citation": "Sustainability 13 (13), 7205, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Uqmw2ckAAAAJ:eflP2zaiRacC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=204506645865854933",
+            "cites_id": [
+                "204506645865854933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Rate Reaction Mechanism Adapted for Modelling Pseudo-Equilibrium Pyrolysis o",
+                "pub_year": "2022",
+                "citation": "Processes 10 (10), 2131, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Uqmw2ckAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bio-additive for heavy oils, which comprises rapeseed oil methyl esters, surfactants, diluents and metal oxides, and use thereof for reducing polluting emissions and as a \u2026",
+                "pub_year": "2020",
+                "citation": "US Patent 10,723,966, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Uqmw2ckAAAAJ:8AbLer7MMksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a global multistage reaction mechanism for fast pyrolysis of chlorella vulgaris microalgas anf its application in computational fluid dynamics simulations.",
+                "pub_year": "2018",
+                "citation": "Universidade de S\u00e3o Paulo, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Uqmw2ckAAAAJ:geHnlv5EZngC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

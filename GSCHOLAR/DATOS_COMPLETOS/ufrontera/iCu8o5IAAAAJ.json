@@ -1,0 +1,55 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "iCu8o5IAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pedro Cacha\u00f1a",
+    "affiliation": "Ingeniero Civil Electr\u00f3nico, Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Control Autom\u00e1tico"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 2,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PTZ camera tuning for real time monitoring of cows in grazing fields",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 11th Latin American Symposium on Circuits & Systems (LASCAS), 1-4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "iCu8o5IAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4783492195722540520",
+            "cites_id": [
+                "4783492195722540520"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

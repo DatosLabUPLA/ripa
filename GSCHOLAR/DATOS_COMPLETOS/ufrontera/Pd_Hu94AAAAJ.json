@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Pd_Hu94AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Benjamin Leyton",
+    "affiliation": "Bioinformatician, BIOREN, Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Microbial genomics"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 26,
+    "citedby5y": 26,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 7,
+        "2023": 17,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Treat Me Well or Will Resist: Uptake of Mobile Genetic Elements Determine the Resistome of Corynebacterium striatum",
+                "pub_year": "2021",
+                "citation": "International Journal of Molecular Sciences 22 (14), 7499, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Pd_Hu94AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6266038030368338479",
+            "cites_id": [
+                "6266038030368338479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond to the stable: role of the insertion sequences as epidemiological descriptors in Corynebacterium striatum",
+                "pub_year": "2022",
+                "citation": "Frontiers in Microbiology 13, 806576, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Pd_Hu94AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15495285961937310579",
+            "cites_id": [
+                "15495285961937310579"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Physical Pretreatments Applied in Three Commercial Kits for the Extraction of High-Quality DNA from Activated Sewage Sludge",
+                "pub_year": "2023",
+                "citation": "International Journal of Molecular Sciences 24 (20), 15243, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Pd_Hu94AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive Genome Analysis of Neisseria meningitidis from South America Reveals a Distinctive Pathogenicity-Related Prophage Repertoire",
+                "pub_year": "2022",
+                "citation": "International Journal of Molecular Sciences 23 (24), 15731, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Pd_Hu94AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome Sequences of 408 SARS-CoV-2 Strains Obtained from Nasopharyngeal Swabs in La Araucan\u00eda Region, Southern Chile",
+                "pub_year": "2022",
+                "citation": "Microbiology Resource Announcements 11 (4), e00121-22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Pd_Hu94AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

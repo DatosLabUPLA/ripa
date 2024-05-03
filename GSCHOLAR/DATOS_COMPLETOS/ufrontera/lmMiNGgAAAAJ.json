@@ -1,0 +1,452 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "lmMiNGgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Arturo Padilla Bernedo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lmMiNGgAAAAJ&citpid=2",
+    "affiliation": "Universidad de La Frontera, Department of Mechanical Engineering",
+    "organization": 13908003347799972066,
+    "interests": [
+        "System Identification",
+        "Control Theory",
+        "Machine Learning",
+        "Robotics"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 139,
+    "citedby5y": 111,
+    "hindex": 7,
+    "hindex5y": 6,
+    "i10index": 6,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 0,
+        "2015": 8,
+        "2016": 9,
+        "2017": 4,
+        "2018": 6,
+        "2019": 8,
+        "2020": 15,
+        "2021": 20,
+        "2022": 26,
+        "2023": 29,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8etJJGoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hugues Garnier",
+            "affiliation": "Professor of Control Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oCJiX0QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fengwei Chen",
+            "affiliation": "Wuhan University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mfnr2oEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan I. Yuz",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RYUeTagAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marion Gilson",
+            "affiliation": "Professor, Universit\u00e9 de Lorraine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1Naq_nUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "EDUARDO IGNACIO DIEZ CIFUENTES",
+            "affiliation": "Department of Mechanical Engineering, Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oxXRh94AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "CARLOS OMAR MUNOZ POBLETE",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ItUk3gYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Gonz\u00e1lez Salazar",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3EHG2XEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erardo Leal-Mu\u00f1oz",
+            "affiliation": "Profesor, Universidad de La Frontera"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data-driven modeling of wireless power transfer systems with slowly time-varying parameters",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Power Electronics 35 (11), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13280885263416679045,13090291851577326801",
+            "cites_id": [
+                "13280885263416679045",
+                "13090291851577326801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursive IV identification of continuous-time models with time-delay from sampled data",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Control Systems Technology 28 (3), 1074 - 1082, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5352763964123234006",
+            "cites_id": [
+                "5352763964123234006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Version 7.0 of the CONTSID toolbox",
+                "pub_year": "2015",
+                "citation": "IFAC Symposium on System Identification, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14419906344045772267",
+            "cites_id": [
+                "14419906344045772267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuous-time system identification of the steering dynamics of a ship on a river",
+                "pub_year": "2014",
+                "citation": "International Journal of Control 87 (7), 1387\u20131405, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5040836782643932915",
+            "cites_id": [
+                "5040836782643932915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of continuous-time models with slowly time-varying parameters",
+                "pub_year": "2019",
+                "citation": "Control Engineering Practice, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868516238721976145",
+            "cites_id": [
+                "1868516238721976145"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursive identification of continuous-time systems with time-varying parameters",
+                "pub_year": "2017",
+                "citation": "Universit\u00e9 de Lorraine, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4744350958553628878",
+            "cites_id": [
+                "4744350958553628878"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursive online IV method for identification of continuous-time slowly time-varying models in closed loop",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 4008-4013, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17720659879155417646",
+            "cites_id": [
+                "17720659879155417646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time identification of linear continuous-time systems with slowly time-varying parameters",
+                "pub_year": "2016",
+                "citation": "2016 IEEE 55th Conference on Decision and Control (CDC), 3769-3774, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17593284219009805642",
+            "cites_id": [
+                "17593284219009805642"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-Loop Identification and Control of Inland Vessels",
+                "pub_year": "2015",
+                "citation": "Transport of Water versus Transport over Water, 345-368, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11255507325576854603",
+            "cites_id": [
+                "11255507325576854603"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuous-time system identification of a ship on a river",
+                "pub_year": "2013",
+                "citation": "52nd IEEE Conference on Decision and Control, 4553-4558, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=22269411130587433",
+            "cites_id": [
+                "22269411130587433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of computer vision techniques to estimate surface roughness on wood-based sanded workpieces",
+                "pub_year": "2023",
+                "citation": "Measurements, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8827703595498337993",
+            "cites_id": [
+                "8827703595498337993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Linear Parameter Varying Hammerstein Model for Dynamic Modeling of WPT Systems",
+                "pub_year": "2023",
+                "citation": "IEEE TRANSACTIONS ON POWER ELECTRONICS 38 (12), 16230-16244, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397678996484829163",
+            "cites_id": [
+                "16397678996484829163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Features of patients admitted for COVID-19 at a regional hospital in the Chilean Araucania Region",
+                "pub_year": "2021",
+                "citation": "Revista Medica de Chile 149 (11), 1552-1560, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17276620588362880010",
+            "cites_id": [
+                "17276620588362880010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caracter\u00edsticas cl\u00ednicas de pacientes ingresados por COVID-19 en un Hospital de alta complejidad de la regi\u00f3n de La Araucan\u00eda-Chile",
+                "pub_year": "2021",
+                "citation": "Revista M\u00e9dica de Chile 149 (11), 1568-1576, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12532946240834059281",
+            "cites_id": [
+                "12532946240834059281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a collaborative class between three universities",
+                "pub_year": "2018",
+                "citation": "International Conference on Automation/XXIII Congress of the Chilean \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16417308438648286648",
+            "cites_id": [
+                "16417308438648286648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of continuous-time linear parameter varying systems with noisy scheduling variable using local regression",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical Evaluation of Surface Roughness in Wood Parts Processed by Robotic Sanding",
+                "pub_year": "2023",
+                "citation": "Proceedings of the XV Ibero-American Congress of Mechanical Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robotized workstation for intelligent sanding processes of wooden workpieces",
+                "pub_year": "2023",
+                "citation": "DYNA 98 (July), 362-368, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n \u00f3ptica de la rugosidad superficial en piezas de madera procesadas mediante lijado robotizado",
+                "pub_year": "2022",
+                "citation": "XV Congreso Iberoamericano de Ingenier\u00eda Mec\u00e1nica, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification r\u00e9cursive de systemes continusa parametres variables dans le temps",
+                "pub_year": "2017",
+                "citation": "Universit\u00e9 de Lorraine, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o de un sistema de control para el movimiento lateral-direccional de un avi\u00f3n no tripulado.",
+                "pub_year": "2005",
+                "citation": "Universidad de Concepci\u00f3n., 2005"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DISE\u00d1O DE UN AUTOPILOTO PARA UN AVI\u00d3N NO TRIPULADO",
+                "pub_year": "2004",
+                "citation": "UNIVERSIDAD DE CONCEPCI\u00d3N, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de una estaci\u00f3n de trabajo para investigar el proceso de lijado robotizado",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lmMiNGgAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 2
+    }
+}

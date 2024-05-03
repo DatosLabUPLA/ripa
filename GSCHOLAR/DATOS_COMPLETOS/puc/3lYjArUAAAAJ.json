@@ -1,0 +1,109 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3lYjArUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yesenia Helem Salinas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3lYjArUAAAAJ&citpid=1",
+    "affiliation": "PhD Student - Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Machine Learning",
+        "Astronomical data Analysis"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Jqsc0xsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karim Pichara",
+            "affiliation": "Co-founder & CTO at NotCo. Associate Professor Computer Science, School of Engineering, UC Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jGAelSwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael Brahm",
+            "affiliation": "Associate Professor, Faculty of Engineering and Sciences, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p4TbBLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladimir Araujo",
+            "affiliation": "Postdoctoral Researcher - KU Leuven"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals",
+                "pub_year": "2023",
+                "citation": "Monthly Notices of the Royal Astronomical Society 522 (3), 3201-3216, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3lYjArUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9130899371076973850",
+            "cites_id": [
+                "9130899371076973850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchical Transformers for Group-Aware Sequential Recommendation: Application in MOBA Games",
+                "pub_year": "2022",
+                "citation": "Adjunct Proceedings of the 30th ACM Conference on User Modeling, Adaptation \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3lYjArUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1716502977264298966",
+            "cites_id": [
+                "1716502977264298966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short-Period Variables in TESS Full-Frame Image Light Curves Identified via Convolutional Neural Networks",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.12369, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3lYjArUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

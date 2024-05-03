@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "te1de2MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Antonio Ossa Guerra",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=te1de2MAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Explainable AI",
+        "Recommender Systems",
+        "Machine Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VisRec: A Hands-on Tutorial on Deep Learning for Visual Recommender Systems",
+                "pub_year": "2021",
+                "citation": "26th International Conference on Intelligent User Interfaces-Companion, 5-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "te1de2MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5047593047068164189",
+            "cites_id": [
+                "5047593047068164189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of a framework to build explanaible recommendation systems using visual concepts",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "te1de2MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

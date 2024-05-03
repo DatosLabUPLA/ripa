@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eupUJlUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Jordan",
+    "affiliation": "Assistant Professor, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Economic Development",
+        "Environmental Economics",
+        "Political Economy"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "http://www.felipejordanc.com/",
+    "citedby": 4,
+    "citedby5y": 3,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using satellite images and deep learning to measure health and living standards in india",
+                "pub_year": "2023",
+                "citation": "Social Indicators Research 167 (1), 475-505, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eupUJlUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5655969161684921819",
+            "cites_id": [
+                "5655969161684921819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Audit threats and year-end spending by government agencies: experimental evidence from Chile",
+                "pub_year": "2023",
+                "citation": "Journal of Public Procurement 23 (1), 100-124, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "eupUJlUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6401733537854255304",
+            "cites_id": [
+                "6401733537854255304"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

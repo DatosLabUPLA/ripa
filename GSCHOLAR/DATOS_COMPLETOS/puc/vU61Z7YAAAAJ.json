@@ -1,0 +1,114 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "vU61Z7YAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Benjamin Glasner Vivanco",
+    "affiliation": "Pontificia Universidad Catolica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "microbiologia",
+        "ecologia",
+        "oceanografia",
+        "limnologia"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 29,
+    "citedby5y": 22,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 3,
+        "2019": 7,
+        "2020": 5,
+        "2021": 2,
+        "2022": 2,
+        "2023": 5,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genomic-Based Restriction Enzyme Selection for Specific Detection of Piscirickettsia salmonis by 16S rDNA PCR-RFLP",
+                "pub_year": "2016",
+                "citation": "Frontiers in Microbiology 7, 643, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "vU61Z7YAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1824481335733596264",
+            "cites_id": [
+                "1824481335733596264"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupling of biotic and abiotic patterns in a coastal area affected by chronic metal micronutrients disturbances",
+                "pub_year": "2021",
+                "citation": "Marine Pollution Bulletin 166, 111608, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "vU61Z7YAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13723391643737510658",
+            "cites_id": [
+                "13723391643737510658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced nitrogen and carbon removal in natural seawater by electrochemical enrichment in a bioelectrochemical reactor",
+                "pub_year": "2022",
+                "citation": "Journal of Environmental Management 323, 116294, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "vU61Z7YAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Picoeukaryote community ecology and functional response to trace metals disturbances in coastal environments",
+                "pub_year": "2020",
+                "citation": "PQDT-Global, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "vU61Z7YAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "M\u00e9todo basado en pcr-rflp para identificar y determinar pureza de Piscirickettsia salmonis",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "vU61Z7YAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

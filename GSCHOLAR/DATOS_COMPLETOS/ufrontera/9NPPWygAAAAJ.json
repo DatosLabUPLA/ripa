@@ -1,0 +1,65 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "9NPPWygAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Lagos Obando",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9NPPWygAAAAJ&citpid=6",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "data",
+        "big data",
+        "data lake"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process Formalization Proposal for Data Ingestion in a Data Lake",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9NPPWygAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16926360373632783140",
+            "cites_id": [
+                "16926360373632783140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reference architecture for data ingestion in Data Lake",
+                "pub_year": "2023",
+                "citation": "2023 18th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "9NPPWygAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

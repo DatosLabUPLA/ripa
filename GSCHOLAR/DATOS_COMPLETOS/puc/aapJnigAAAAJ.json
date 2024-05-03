@@ -1,0 +1,110 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "aapJnigAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "VALENTINA SEGOVIA",
+    "affiliation": "PhD Student, Pontifical Catholic University of Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Thermal Energy Storage",
+        "Solar Thermal",
+        "Concentrated Solar Power",
+        "Solar Heat for Industrial Processes."
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 75,
+    "citedby5y": 75,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 5,
+        "2022": 31,
+        "2023": 24,
+        "2024": 15
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review on modeling approaches for packed-bed thermal storage systems",
+                "pub_year": "2021",
+                "citation": "Renewable and Sustainable Energy Reviews 143, 110902, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aapJnigAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611303319346398590",
+            "cites_id": [
+                "12611303319346398590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the use of copper slags as thermal energy storage material for packed-bed systems",
+                "pub_year": "2021",
+                "citation": "Energy 227, 120370, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aapJnigAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17522465388724939395",
+            "cites_id": [
+                "17522465388724939395"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ESTUDIO EXPERIMENTAL DE LECHO EMPACADO DE piedras A ALTA TEMPERATURA UTILIZANDO ESCORIA DE COBRE COMO MATERIAL DE ALMACENAMIENTO",
+                "pub_year": "2022",
+                "citation": "Revista Brasileira de Energia Solar 13 (2), 165-173, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aapJnigAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3-D CFD analysis of thermal stratification in an air thermocline tank analysis using copper slags as filler material",
+                "pub_year": "2020",
+                "citation": "International Solar Energy Society, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aapJnigAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of Copper Slag for thermal energy storage",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aapJnigAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

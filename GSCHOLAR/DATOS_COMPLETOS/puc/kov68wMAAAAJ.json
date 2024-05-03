@@ -1,0 +1,719 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kov68wMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro I. Maass",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kov68wMAAAAJ&citpid=14",
+    "affiliation": "Assistant Professor - Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Systems and Control Theory",
+        "Networked Control Systems",
+        "Hybrid Systems"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://sites.google.com/site/amaassm",
+    "citedby": 197,
+    "citedby5y": 165,
+    "hindex": 8,
+    "hindex5y": 8,
+    "i10index": 6,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 1,
+        "2016": 3,
+        "2017": 17,
+        "2018": 9,
+        "2019": 41,
+        "2020": 17,
+        "2021": 28,
+        "2022": 30,
+        "2023": 35,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uw9SaUkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dragan Nesic",
+            "affiliation": "Professor, Department of Electrical and Electronic Engineering, University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1i1ScxEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco J Vargas",
+            "affiliation": "Universidad Tecnica Federico Santa Maria, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7ezGVfYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Romain Postoyan",
+            "affiliation": "CNRS, CRAN UMR 7039, Universit\u00e9 de Lorraine"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4QeIFBUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Iman Shames",
+            "affiliation": "Australian National University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "diB1WocAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Chris Manzie",
+            "affiliation": "Professor in Electrical and Electronic Engineering, University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MrFi22oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andres Peters",
+            "affiliation": "Faculty of Engineering and Sciences, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "I42FdXUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vineeth S Varma",
+            "affiliation": "CRAN-Univ. of Lorraine (former: LSS-Supelec, SUTD)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "e-tRuxIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jonathan Manton",
+            "affiliation": "Future Generation Professor, University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ns9laTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Robert Chin",
+            "affiliation": "The University of Melbourne & University of Birmingham"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bKWlH0sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Anthony Gord\u00f3n Almeida, PhD",
+            "affiliation": "Federico Santa Mar\u00eda Technical University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AnjqGroAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samson Lasaulce",
+            "affiliation": "CNRS Director of Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M_hGdkoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maurice Heemels",
+            "affiliation": "Full Professor Eindhoven University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "29I1fWAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "wei wang",
+            "affiliation": "The University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Roz26cwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Saeed Ahmadizadeh",
+            "affiliation": "No Affiliation"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3nEUKWwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Weixuan Wang",
+            "affiliation": "PhD candidate, The University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7D5G7MEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ying Tan",
+            "affiliation": "Professor, University of Melbourne"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal control over multiple erasure channels using a data dropout compensation scheme",
+                "pub_year": "2016",
+                "citation": "Automatica 68, 155-161, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2576167853108420002",
+            "cites_id": [
+                "2576167853108420002"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "String stability for predecessor following platooning over lossy communication channels",
+                "pub_year": "2018",
+                "citation": "International Symposium on Mathematical Theory of Networks and Systems, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7921588802381494706",
+            "cites_id": [
+                "7921588802381494706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance limits in the control of single-input linear time-invariant plants over fading channels",
+                "pub_year": "2014",
+                "citation": "IET Control Theory & Applications, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:8k81kl-MbHgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6695072910138893648",
+            "cites_id": [
+                "6695072910138893648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emulation-based stabilisation of networked control systems over WirelessHART",
+                "pub_year": "2017",
+                "citation": "56th IEEE Conference on Decision and Control, CDC 2017, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14447472085821479499",
+            "cites_id": [
+                "14447472085821479499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking and regret bounds for online zeroth-order Euclidean and Riemannian optimization",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Optimization 32 (2), 445-469, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13929923932798410594,16718507281516879207",
+            "cites_id": [
+                "13929923932798410594",
+                "16718507281516879207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lp stability of networked control systems implemented on WirelessHART",
+                "pub_year": "2019",
+                "citation": "Automatica 109, 108514, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9235058366403032074",
+            "cites_id": [
+                "9235058366403032074"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Platoon stability conditions under inter-vehicle additive noisy communication channels",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 3150-3155, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:-f6ydRqryjwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3249255732742468981",
+            "cites_id": [
+                "3249255732742468981"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of non-linear networked control systems closed over a lossy WirelessHART network",
+                "pub_year": "2019",
+                "citation": "IEEE Control Systems Letters 3 (4), 996-1001, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:aqlVkmm33-oC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14463298206738749444",
+            "cites_id": [
+                "14463298206738749444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observer design for non-linear networked control systems with persistently exciting protocols",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Automatic Control, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:dhFuZR0502QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17130039204919667295",
+            "cites_id": [
+                "17130039204919667295"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active learning for linear parameter-varying system identification",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 989-994, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=780675214375935124",
+            "cites_id": [
+                "780675214375935124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal estimation in feedback control loops with packet dropouts compensation strategies",
+                "pub_year": "2017",
+                "citation": "2017 25th Mediterranean Conference on Control and Automation (MED), 993-998, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15060140083445278258",
+            "cites_id": [
+                "15060140083445278258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid model of networked control systems implemented on WirelessHART networks under source routing configuration",
+                "pub_year": "2016",
+                "citation": "2016 Australian Control Conference (AuCC), 60-65, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16162719892488804706",
+            "cites_id": [
+                "16162719892488804706"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of remote controllers for LTI plants over erasure channels",
+                "pub_year": "2014",
+                "citation": "IFAC Proceedings Volumes 47 (3), 10882-10887, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14736569875323814557",
+            "cites_id": [
+                "14736569875323814557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of a class of controllers and data-dropout compensators for LTI plants controlled over erasure channels",
+                "pub_year": "2013",
+                "citation": "52nd IEEE Conference on Decision and Control, 6741-6746, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:5nxA0vEk-isC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7689908999650081699",
+            "cites_id": [
+                "7689908999650081699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic stabilisation and power control for nonlinear feedback loops communicating over lossy wireless networks",
+                "pub_year": "2020",
+                "citation": "2020 59th IEEE Conference on Decision and Control (CDC), 1866-1871, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:IWHjjKOFINEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7105770249505421545",
+            "cites_id": [
+                "7105770249505421545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tuning of model predictive engine controllers over transient drive cycles",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 14022-14027, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7739713837515831140",
+            "cites_id": [
+                "7739713837515831140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance limitations in the control of LTI plants over fading channels",
+                "pub_year": "2013",
+                "citation": "2013 9th Asian Control Conference (ASCC), 1-6, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18171518580784377441",
+            "cites_id": [
+                "18171518580784377441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "State estimation of non-linear systems over random access wireless networks*",
+                "pub_year": "2021",
+                "citation": "2021 60th IEEE Conference on Decision and Control (CDC), 6940-6945, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6170784912147872118",
+            "cites_id": [
+                "6170784912147872118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control with erasure channels: Performance characterization using an equivalent SNR constrained problem",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 6410-6415, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2351582406344945203",
+            "cites_id": [
+                "2351582406344945203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plant and buffer state estimation for networked predictive control over multiple erasure channels",
+                "pub_year": "2023",
+                "citation": "ISA transactions 137, 358-368, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9171937391308708496",
+            "cites_id": [
+                "9171937391308708496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zeroth-Order Optimization on Subsets of Symmetric Matrices With Application to MPC Tuning",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Control Systems Technology 30 (4), 1654-1667, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=52381924531863664",
+            "cites_id": [
+                "52381924531863664"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An alternative setup to study stabilization of networked control systems over correlated fading channels",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 3066-3071, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2642862899474720666",
+            "cites_id": [
+                "2642862899474720666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observer design for networked control systems implemented over WirelessHART",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Conference on Decision and Control (CDC), 2836-2841, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10878685803618506276",
+            "cites_id": [
+                "10878685803618506276"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On stochastic string stability with applications to platooning over additive noise channels",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.05718, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:isC4tDSrTZIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9715829252595720872",
+            "cites_id": [
+                "9715829252595720872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On state estimation for nonlinear systems under random access wireless protocols",
+                "pub_year": "2023",
+                "citation": "Mathematics of Control, Signals, and Systems 35 (1), 187-213, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11556954554428299506",
+            "cites_id": [
+                "11556954554428299506"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event-triggered control through the eyes of a hybrid small-gain theorem",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Automatic Control 68 (10), 5906-5921, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7273571354190282984",
+            "cites_id": [
+                "7273571354190282984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feedback control over lossy channels: Optimal estimation considering data-loss compensation strategies",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 56th Annual Conference on Decision and Control (CDC), 5366-5371, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7438218222195678677",
+            "cites_id": [
+                "7438218222195678677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Lp string stability analysis in predecessor-following platoons under packet losses",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2403.11043, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability of nonlinear systems with two time scales over a single communication channel",
+                "pub_year": "2023",
+                "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 6463-6468, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An algorithm for the selection of linearisation points in non-linear systems: a diesel air-path case study",
+                "pub_year": "2023",
+                "citation": "International Journal of Control 96 (12), 3195-3209, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-processor implementation for networked control systems",
+                "pub_year": "2023",
+                "citation": "IEEE Control Systems Letters, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transmit power policies for stochastic stabilisation of multi-link wireless networked control systems",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.05471, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equivalence between feedback systems with correlated multiplicative noisy channels and with additive noisy channels",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling and analysis of networked control systems implemented over WirelessHART",
+                "pub_year": "2019",
+                "citation": "The University of Melbourne, Ph.D. thesis, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance Limits in the Control of single-input LTI Plants over Fading Channels",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning Controllers From Data via Approximate Nonlinearity Cancellation....... C. De Persis, M. Rotulo, and P. Tesi 6082",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kov68wMAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 12,
+        "not_available": 1
+    }
+}

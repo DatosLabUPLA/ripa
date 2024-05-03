@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "b0hXOeAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "JOSE MIGUEL GONZALEZ DEL VALLE",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=b0hXOeAAAAAJ&citpid=3",
+    "affiliation": "Licenciado en Ciencias de la ingenieria Major Biom\u00e9dica, PUC, Estudiante Medicina, PUC",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Biomec\u00e1nica",
+        "Biomechanics",
+        "Imagenes Biomedicas",
+        "Biomedical Imaging",
+        "Simulacion por elementos finitos"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QrbzbSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bernardo J Krause",
+            "affiliation": "Professor, Instituto de Ciencias de la Salud, Universidad de O'Higgins, Rancagua, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8fVIl10AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Garcia Herrera",
+            "affiliation": "Profesor Titular, Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9yJKwosAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Germ\u00e1n A Arenas",
+            "affiliation": "Universidad de O'Higgins"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MRI-based surrogate imaging markers of aggressiveness in prostate cancer: development of a machine learning model based on radiomic features",
+                "pub_year": "2023",
+                "citation": "Diagnostics 13 (17), 2779, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "b0hXOeAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450785750941518523",
+            "cites_id": [
+                "7450785750941518523"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of fetal growth restriction on the biomechanical and structural properties in human umbilical and chorionic arteries",
+                "pub_year": "2019",
+                "citation": "Placenta 83, e29, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "b0hXOeAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Esquemas de vol\u00famenes finitos aplicado a la estimaci\u00f3n de par\u00e1metros en elastograf\u00eda por resonancia magn\u00e9tica y 4D-ow",
+                "citation": "Universidad Cat\u00f3lica de Chile, 0"
+            },
+            "filled": false,
+            "author_pub_id": "b0hXOeAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

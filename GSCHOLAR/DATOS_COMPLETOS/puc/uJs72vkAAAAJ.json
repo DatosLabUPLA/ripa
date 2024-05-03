@@ -1,0 +1,101 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uJs72vkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gonzalo Arias Neira",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uJs72vkAAAAJ&citpid=3",
+    "affiliation": "PhD student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Partial Differential Equations",
+        "Control Theory",
+        "Lyapunov functionals"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://sites.google.com/sansano.usm.cl/5nzalo/home?pli=1&authuser=1",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stabilization of a microbeam model with distributed disturbance",
+                "pub_year": "2023",
+                "citation": "Systems & Control Letters 173, 105466, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uJs72vkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16600756967791286658",
+            "cites_id": [
+                "16600756967791286658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency domain approach for the stability analysis of a fast hyperbolic PDE coupled with a slow ODE",
+                "pub_year": "2023",
+                "citation": "2023 62nd IEEE Conference on Decision and Control (CDC), 1949-1954, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uJs72vkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14457382460402804621",
+            "cites_id": [
+                "14457382460402804621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability analysis of a linear system coupling wave and heat equations with different time scales",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2306.01852, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uJs72vkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9023642900562972071",
+            "cites_id": [
+                "9023642900562972071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boundary stabilization of a class of coupled reaction-diffusion system with one control",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uJs72vkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

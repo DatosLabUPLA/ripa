@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4wojxC0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camila L\u00f3pez Eccher",
+    "affiliation": "Centro de Biotecnolog\u00eda de Sistemas (CSB) - Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Ciclo de vida",
+        "Econom\u00eda circular",
+        "Impactos ambientales"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 3,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of the secondary steel circular economy model on resource use and the environmental impact of steel production in Chile",
+                "pub_year": "2020",
+                "citation": "IOP Conference Series: Earth and Environmental Science 503 (1), 012024, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4wojxC0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9511771660774088495",
+            "cites_id": [
+                "9511771660774088495"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Life cycle assessment of households in Santiago, Chile: Environmental hotspots and policy analysis",
+                "pub_year": "2021",
+                "citation": "Sustainability 13 (5), 2525, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4wojxC0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16305729910928435925",
+            "cites_id": [
+                "16305729910928435925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Life Cycle Assessment of Food Consumption in Different Cities: Analysis of Socioeconomic Level and Environmental Hotspots",
+                "pub_year": "2024",
+                "citation": "Cleaner Environmental Systems, 100190, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4wojxC0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

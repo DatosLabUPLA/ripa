@@ -1,0 +1,321 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4IaLNTMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Tito Arevalo-Ramirez",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Field robotics",
+        "Remote Sensing",
+        "ROS",
+        "Forestry",
+        "LOAM"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 88,
+    "citedby5y": 81,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 2,
+        "2018": 4,
+        "2019": 2,
+        "2020": 9,
+        "2021": 16,
+        "2022": 14,
+        "2023": 27,
+        "2024": 13
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Point cloud-based estimation of effective payload volume for earthmoving loaders",
+                "pub_year": "2020",
+                "citation": "Automation in Construction 117, 103207, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=469674528729884250",
+            "cites_id": [
+                "469674528729884250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost potentiostat: Criteria and considerations for its design and construction",
+                "pub_year": "2016",
+                "citation": "2016 IEEE ANDESCON, 1-4, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16511872806747806443",
+            "cites_id": [
+                "16511872806747806443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foliar moisture content from the spectral signature for wildfire risk assessments in Valpara\u00edso-Chile",
+                "pub_year": "2019",
+                "citation": "Sensors 19 (24), 5475, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12064724576344315893",
+            "cites_id": [
+                "12064724576344315893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Moisture content estimation of Pinus radiata and Eucalyptus globulus from reconstructed leaf reflectance in the SWIR region",
+                "pub_year": "2020",
+                "citation": "Biosystems engineering 193, 187-205, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3208284184791848560",
+            "cites_id": [
+                "3208284184791848560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of multispectral vegetation features for digital terrain modeling in forested regions",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Geoscience and Remote Sensing 60, 1-9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13739079468735646470",
+            "cites_id": [
+                "13739079468735646470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single bands leaf reflectance prediction based on fuel moisture content for forestry applications",
+                "pub_year": "2021",
+                "citation": "Biosystems Engineering 202, 79-95, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18147933332512947525",
+            "cites_id": [
+                "18147933332512947525"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping of potential fuel regions using uncrewed aerial vehicles for wildfire prevention",
+                "pub_year": "2023",
+                "citation": "Forests 14 (8), 1601, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15698728144423906260",
+            "cites_id": [
+                "15698728144423906260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UAV Mapping with Semantic and Traversability Metrics for Forest Fire Mitigation",
+                "pub_year": "2022",
+                "citation": "ICRA 2022 Workshop in Innovation in Forestry Robotics: Research and Industry \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616840595783563329",
+            "cites_id": [
+                "14616840595783563329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditional random field features and structure assessment for digital terrain modeling",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 37146-37155, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10530192969110889440",
+            "cites_id": [
+                "10530192969110889440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting the Elevation of Canopy Occluded Ground Points in Dense Forest Regions",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Geoscience and Remote Sensing 60, 1-10, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6088592534712614419",
+            "cites_id": [
+                "6088592534712614419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de un potenciostato y de un nuevo software para el control y visualizaci\u00f3n de se\u00f1ales el\u00e9ctricas generadas en experimentos electroqu\u00edmicos",
+                "pub_year": "2016",
+                "citation": "Quito, 2016., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4690167882684021839",
+            "cites_id": [
+                "4690167882684021839"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Potential of Vegetation Indices for Urban Tree Segmentation in Street View Images",
+                "pub_year": "2023",
+                "citation": "Authorea Preprints, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12971602140806679075",
+            "cites_id": [
+                "12971602140806679075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Challenges for computer vision as a tool for screening urban trees through street-view images",
+                "pub_year": "2024",
+                "citation": "Urban Forestry & Urban Greening, 128316, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of Convolutional Neural Networks for Asset Detection in Dynamic Automation Construction Environments",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cluster Analysis for Agriculture",
+                "pub_year": "2023",
+                "citation": "Springer, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measure of chemical oxygen demand by an inexpensive electrochemical instrument",
+                "pub_year": "2017",
+                "citation": "2017 IEEE XXIV International Conference on Electronics, Electrical \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Baez, Oscar 185 Baltierra, Sergio 405 Barrera, Felipe 719 Barria, Pedro 471 Barrientos, Ricardo J. 106, 203",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dekka, Apparao del Solar, Jos\u00e9 Di Sciascio, Fernando Diago-Mosquera, Melissa",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low cost potentiostat: Criteria and considerations for its design and construction",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IaLNTMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

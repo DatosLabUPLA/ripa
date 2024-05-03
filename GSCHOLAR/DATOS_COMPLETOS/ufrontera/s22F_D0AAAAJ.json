@@ -1,0 +1,100 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "s22F_D0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudio Navarro",
+    "affiliation": "Universidad de la Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Software Engineering",
+        "Agent-oriented Software Engineering",
+        "Cyber-physical systems",
+        "Model Driven Development",
+        "Semantic Web"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 2,
+        "2022": 4,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Agent-oriented engineering for cyber-physical systems",
+                "pub_year": "2019",
+                "citation": "International Conference on Information Technology & Systems, 93-102, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "s22F_D0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16006311687899989063",
+            "cites_id": [
+                "16006311687899989063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A real approach on web systems packaging and delivery",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "s22F_D0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8209753734022251619",
+            "cites_id": [
+                "8209753734022251619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model-driven approach for cyber-physical systems: a method engineering perspective",
+                "pub_year": "2022",
+                "citation": "Proceedings of the XVII-th International Conference on Software Engineering \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "s22F_D0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cloud-Oriented Packaging and Delivery",
+                "pub_year": "2019",
+                "citation": "International Conference on Information Technology & Systems, 242-251, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "s22F_D0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

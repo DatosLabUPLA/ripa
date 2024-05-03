@@ -1,0 +1,164 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "aH0CevMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gabriel Sep\u00falveda",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "machine Learning",
+        "recommender systems",
+        "robotics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 164,
+    "citedby5y": 157,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 4,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 4,
+        "2019": 14,
+        "2020": 31,
+        "2021": 45,
+        "2022": 32,
+        "2023": 29,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOVVRk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Soto",
+            "affiliation": "Professor Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hqNhUCYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Carlos Niebles",
+            "affiliation": "Research Director (Salesforce) & Adjunct Professor (Stanford University)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3MYIosoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicente Dominguez",
+            "affiliation": "Pontifica Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A behavioral approach to visual navigation with graph localization networks",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1903.00445, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13356420651480306998",
+            "cites_id": [
+                "13356420651480306998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A deep learning based behavioral approach to indoor autonomous navigation",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Robotics and Automation (ICRA), 4646-4653, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4904568263229141576",
+            "cites_id": [
+                "4904568263229141576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pyRecLab: A Software Library for Quick Prototyping of Recommender Systems",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1706.06291, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4859917233788170996",
+            "cites_id": [
+                "4859917233788170996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Empirical Analysis of Rumor Detection on Microblogs with Recurrent Neural Networks",
+                "pub_year": "2019",
+                "citation": "International Conference on Human-Computer Interaction, 293-310, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=467319976224041139",
+            "cites_id": [
+                "467319976224041139"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Behavioral Approach to Visual Navigation with Graph Localization Networks Download PDF",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pyRecLab: framework para desarrollo y ense\u00f1anza de sistemas de recomendaci\u00f3n pyRecLab: a framework for development and teaching of recommender systems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aH0CevMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

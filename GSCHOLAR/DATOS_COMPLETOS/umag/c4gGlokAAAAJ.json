@@ -1,0 +1,103 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "c4gGlokAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Torres-Almonacid",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c4gGlokAAAAJ&citpid=3",
+    "affiliation": "Masters Student, Universidad de Magallanes",
+    "organization": 14351944662178497517,
+    "interests": [
+        "Immunology",
+        "Hematology",
+        "Data Science",
+        "Machine Learning"
+    ],
+    "email_domain": "@umag.cl",
+    "citedby": 13,
+    "citedby5y": 13,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 6,
+        "2022": 2,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combination of digital signal processing and assembled predictive models facilitates the rational design of proteins",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2010.03516, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "c4gGlokAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8456478547001439894",
+            "cites_id": [
+                "8456478547001439894"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized property-based encoders and digital signal processing facilitate predictive tasks in protein engineering",
+                "pub_year": "2022",
+                "citation": "Frontiers in Molecular Biosciences 9, 898627, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "c4gGlokAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18128162922084423366",
+            "cites_id": [
+                "18128162922084423366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pattern recognition on antigen-antibody interactions from protein microarrays based on data mining and bioinformatics analysis",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "c4gGlokAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9290140993830848925",
+            "cites_id": [
+                "9290140993830848925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unbiased NGS Approach for IGHV Mutational Status, Clonal Space and Immune Repertoire Assessment in Chronic Lymphocytic Leukemia",
+                "pub_year": "2022",
+                "citation": "Blood 140 (Supplement 1), 6979-6980, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "c4gGlokAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

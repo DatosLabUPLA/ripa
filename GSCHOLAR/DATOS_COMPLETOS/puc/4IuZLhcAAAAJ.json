@@ -1,0 +1,825 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4IuZLhcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sebastian Reyes",
+    "affiliation": "Pontificia Universidad Catolica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Physics",
+        "Condensed Matter",
+        "Statistical Physics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 285,
+    "citedby5y": 156,
+    "hindex": 10,
+    "hindex5y": 6,
+    "i10index": 11,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2008": 4,
+        "2009": 3,
+        "2010": 7,
+        "2011": 7,
+        "2012": 7,
+        "2013": 9,
+        "2014": 14,
+        "2015": 12,
+        "2016": 13,
+        "2017": 23,
+        "2018": 27,
+        "2019": 38,
+        "2020": 24,
+        "2021": 32,
+        "2022": 24,
+        "2023": 33,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q-A96cUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "alexei tsvelik",
+            "affiliation": "Brookhaven National Laboratory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OdHAFG0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sascha Wallentowitz",
+            "affiliation": "Facultad de F\u00edsica, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FZFMHPgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dmitri Kharzeev",
+            "affiliation": "Stony Brook University and BNL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BxYLIekAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro \u00c1lvarez D\u00edaz",
+            "affiliation": "Profesor Cirugia Ortopedica y Traumatogogia. UIC Barcelona"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microscopic modeling of the effect of phonons on the optical properties of solid-state emitters",
+                "pub_year": "2016",
+                "citation": "Physical Review B 94 (13), 134305, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10899950801910938032",
+            "cites_id": [
+                "10899950801910938032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantum resonance catastrophe for conductance through a periodically driven barrier",
+                "pub_year": "2016",
+                "citation": "Physical Review B 93 (18), 180301, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11530790453184127069",
+            "cites_id": [
+                "11530790453184127069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transport through an AC-driven impurity: Fano interference and bound states in the continuum",
+                "pub_year": "2017",
+                "citation": "New Journal of Physics 19 (4), 043029, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5839016284173480305",
+            "cites_id": [
+                "5839016284173480305"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perfect spin filter by periodic drive of a ferromagnetic quantum barrier",
+                "pub_year": "2017",
+                "citation": "Physical Review Letters 119 (26), 267701, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12504965624151325893",
+            "cites_id": [
+                "12504965624151325893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Landau\u2013Zener\u2013St\u00fcckelberg interferometry in-symmetric optical waveguides",
+                "pub_year": "2012",
+                "citation": "Journal of Physics A: Mathematical and Theoretical 45 (44), 444027, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6126829787361649419",
+            "cites_id": [
+                "6126829787361649419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Est\u00e1ndares de prueba y moral Hazard",
+                "pub_year": "2015",
+                "citation": "Nuevo derecho 11 (16), 15-35, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16341577077519456919",
+            "cites_id": [
+                "16341577077519456919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current and entanglement in a three-site Bose-Hubbard ring",
+                "pub_year": "2012",
+                "citation": "Physical Review A 86 (3), 033629, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12181874939328265713",
+            "cites_id": [
+                "12181874939328265713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current and entanglement in a three-site Bose-Hubbard ring",
+                "pub_year": "2012",
+                "citation": "Physical Review A 86 (3), 033629, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12181874939328265713",
+            "cites_id": [
+                "12181874939328265713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite-temperature correlation function for the one-dimensional quantum Ising model: The virial expansion",
+                "pub_year": "2006",
+                "citation": "Physical Review B 73 (22), 220405, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7527604842109255671",
+            "cites_id": [
+                "7527604842109255671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potts model on recursive lattices: some new exact results",
+                "pub_year": "2012",
+                "citation": "The European Physical Journal B 85, 1-13, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5868804442107244063",
+            "cites_id": [
+                "5868804442107244063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lattice defects and boundaries in conducting carbon nanotubes",
+                "pub_year": "2009",
+                "citation": "Physical Review B 80 (7), 075115, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3348603483326861785",
+            "cites_id": [
+                "3348603483326861785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-adiabatic transitions in a non-symmetric optical lattice",
+                "pub_year": "2011",
+                "citation": "Journal of Physics B: Atomic, Molecular and Optical Physics 44 (20), 205403, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16737240208960662312",
+            "cites_id": [
+                "16737240208960662312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical model of non-Markovian decoherence in donor-based charge quantum bits",
+                "pub_year": "2010",
+                "citation": "Journal of Physics B: Atomic, Molecular and Optical Physics 44 (1), 015504, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3094844434355457239",
+            "cites_id": [
+                "3094844434355457239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emergence of a metastable pointer-state basis in non-Markovian quantum dynamics",
+                "pub_year": "2014",
+                "citation": "Physical Review A 90 (6), 062103, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:Zph67rFs4hoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10348424717833749756",
+            "cites_id": [
+                "10348424717833749756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harnessing gauge fields for maximally entangled state generation",
+                "pub_year": "2014",
+                "citation": "Europhysics Letters 108 (2), 20010, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13294607133232894701",
+            "cites_id": [
+                "13294607133232894701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasianalytical treatment of the spin Seebeck effect on the  molecule",
+                "pub_year": "2016",
+                "citation": "Physical Review B 94 (14), 144433, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:IWHjjKOFINEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5732911030331822206",
+            "cites_id": [
+                "5732911030331822206"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of a static inhomogeneous magnetic field acting on a laser-produced carbon plasma plume",
+                "pub_year": "2017",
+                "citation": "AIP Advances 7 (8), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:r0BpntZqJG4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16668726224338404454",
+            "cites_id": [
+                "16668726224338404454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crossed spin-1/2 Heisenberg chains as a quantum impurity problem",
+                "pub_year": "2005",
+                "citation": "Physical review letters 95 (18), 186404, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14667772722215608502",
+            "cites_id": [
+                "14667772722215608502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pair correlations as a signature of entanglement: A bosonic mixture in gauge field ring lattices",
+                "pub_year": "2016",
+                "citation": "Europhysics Letters 115 (3), 36004, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9435620126239680719",
+            "cites_id": [
+                "9435620126239680719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weil's Galois Descent Theorem from a computational point of view",
+                "pub_year": "2012",
+                "citation": "arXiv preprint arXiv:1203.6294, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:HDshCWvjkbEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17011166516494783998",
+            "cites_id": [
+                "17011166516494783998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Persistent currents in Bose\u2013Bose mixtures after an interspecies interaction quench",
+                "pub_year": "2021",
+                "citation": "New Journal of Physics 23 (6), 063025, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:BqipwSGYUEgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15785298464561185151",
+            "cites_id": [
+                "15785298464561185151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harnessing currents of particles for spectroscopy in small-ring lattices with binary mixtures",
+                "pub_year": "2020",
+                "citation": "Europhysics Letters 131 (3), 36001, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2752681069885176956",
+            "cites_id": [
+                "2752681069885176956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-Markovian decoherence in donor-based charge quantum bits",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5578342936682808299",
+            "cites_id": [
+                "5578342936682808299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonon-induced entanglement dynamics of two donor-based charge quantum bits",
+                "pub_year": "2011",
+                "citation": "Journal of Physics B: Atomic, Molecular and Optical Physics 45 (1), 015503, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4729658269351761819",
+            "cites_id": [
+                "4729658269351761819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spin density wave formation in graphene facilitated by the in-plane magnetic field",
+                "pub_year": "2006",
+                "citation": "arXiv preprint cond-mat/0611251, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4235464800358796459",
+            "cites_id": [
+                "4235464800358796459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the importance of native mycorrhizal fungi to improve tree establishment after wildfires",
+                "pub_year": "2023",
+                "citation": "Journal of Fungi 9 (4), 421, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8455033465488783956",
+            "cites_id": [
+                "8455033465488783956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A quantum resonance catastrophe for transport through an AC driven impurity",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1509.00035, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12391858076083739853",
+            "cites_id": [
+                "12391858076083739853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conductivity of the self-similar Lorentz channel",
+                "pub_year": "2009",
+                "citation": "International Journal of Bifurcation and Chaos 19 (08), 2687-2694, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4617443284695353223",
+            "cites_id": [
+                "4617443284695353223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High temperature limit of the order parameter correlation functions in the quantum Ising model",
+                "pub_year": "2006",
+                "citation": "Nuclear Physics B 744 (3), 330-339, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15482421721468565820",
+            "cites_id": [
+                "15482421721468565820"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flower size constrains reproductive potential in three Andean monkeyflower species",
+                "pub_year": "2024",
+                "citation": "Plant Species Biology 39 (1), 26-38, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The invader shrub Chrysanthemoides monilifera (boneseed) negatively impacts native plant communities in a Mediterranean zone in Central Chile",
+                "pub_year": "2023",
+                "citation": "Brazilian Journal of Botany 46 (3), 695-703, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Perfect spin filter by periodic drive of a ferromagnetic quantum barrier",
+                "pub_year": "2018",
+                "citation": "APS March Meeting Abstracts 2018, P21. 013, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time and space correlated investigations of confinement effects due to static axial magnetic fields acting on laser produced carbon plasmas",
+                "pub_year": "2016",
+                "citation": "APS Division of Plasma Physics Meeting Abstracts 2016, GP10. 153, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A quantum resonance catastrophe for a periodically driven impurity",
+                "pub_year": "2016",
+                "citation": "APS March Meeting Abstracts 2016, F50. 003, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantum transport in linear chains under periodic perturbations",
+                "pub_year": "2015",
+                "citation": "APS March Meeting Abstracts 2015, F15. 012, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximally entangled states in a Bose-Hubbard trimer",
+                "pub_year": "2014",
+                "citation": "APS March Meeting Abstracts 2014, S34. 011, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harnessing synthetic gauge fields for maximally entangled state generation",
+                "pub_year": "2014",
+                "citation": "arXiv preprint arXiv:1401.5521, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current and entanglement in a Bose-Hubbard lattice",
+                "pub_year": "2012",
+                "citation": "arXiv preprint arXiv:1206.0310, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exact results for the Potts model partition function in lattice strips of arbitrary length",
+                "pub_year": "2010",
+                "citation": "APS March Meeting Abstracts 2010, Y13. 015, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of low energy excitations of carbon nanotubes with DMRG",
+                "pub_year": "2010",
+                "citation": "APS March Meeting Abstracts 2010, B20. 006, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phonon-induced decoherence in donor-based charge qubits",
+                "pub_year": "2010",
+                "citation": "APS March Meeting Abstracts 2010, Z33. 009, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New exact results for the Potts model on recursive lattices",
+                "pub_year": "2009",
+                "citation": "arXiv preprint arXiv:0912.4705, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DMRG approach to impurities and interactions in carbon nanotubes",
+                "pub_year": "2009",
+                "citation": "APS March Meeting Abstracts, D36. 008, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource utilization and cost estimation of adverse events of non-small cell lung cancer treatment in Mexican patients. Results of a Delphi Panel",
+                "pub_year": "2008",
+                "citation": "VALUE IN HEALTH 11 (3), A67-A68, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective Low Energy Lattice Models for Conducting Carbon Nanotubes",
+                "pub_year": "2008",
+                "citation": "APS March Meeting Abstracts, S30. 006, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlations in carbon nanotubes: A DMRG approach",
+                "pub_year": "2008",
+                "citation": "APS March Meeting Abstracts, Q30. 001, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PCN45 RESOURCE UTILIZATION AND COST ESTIMATION OF ADVERSE EVENTS OF NON-SMALL CELL LUNG CANCER TREATMENT IN MEXICAN PATIENTS. RESULTS OF A DELPHI PANEL",
+                "pub_year": "2008",
+                "citation": "Value in Health 3 (11), A67-A68, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spin density wave formation in graphene facilitated by the in-plane magnetic field",
+                "pub_year": "2007",
+                "citation": "APS March Meeting Abstracts, H28. 008, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlations in low-dimensional systems",
+                "pub_year": "2007",
+                "citation": "State University of New York at Stony Brook, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relationship between ESR spectra and dose in electron-irradiated borosilicate glasses",
+                "pub_year": "1967",
+                "citation": "Revista Mexicana de F\u00edsica 16 (1), 31-38, 1967"
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low energy description of defects and boundaries for conducting carbon nanotubes Session (A)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Carbon nanotubes: Models, correlations and the local density of states",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4IuZLhcAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 1
+    }
+}

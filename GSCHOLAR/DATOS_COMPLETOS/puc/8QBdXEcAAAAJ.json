@@ -1,0 +1,83 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8QBdXEcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Retamal Farf\u00e1n",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8QBdXEcAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Biotecnolog\u00eda"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dimer dissociation is a key energetic event in the fold-switch pathway of KaiB",
+                "pub_year": "2022",
+                "citation": "Biophysical Journal 121 (6), 943-955, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8QBdXEcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7670971753062576075",
+            "cites_id": [
+                "7670971753062576075"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the structural acrobatics of fold-switching proteins using simplified structure-based models",
+                "pub_year": "2023",
+                "citation": "Biophysical Reviews 15 (4), 787-799, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8QBdXEcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6270114251751179178",
+            "cites_id": [
+                "6270114251751179178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alteraci\u00f3n del per\u00edodo circadiano del reloj proteico KaiABC mediante dise\u00f1o racional del estado de transici\u00f3n de replegamiento de la prote\u00edna metam\u00f3rfica KaiB",
+                "pub_year": "2023",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile. Escuela de Ingenier\u00eda, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8QBdXEcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

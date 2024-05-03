@@ -1,0 +1,1784 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "to6eO5wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rubi E. Rodriguez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=to6eO5wAAAAJ&citpid=1",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Complex geometry",
+        "algebraic geometry",
+        "complex analysis"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "homepage": "https://geometryrc.ufro.cl/",
+    "citedby": 580,
+    "citedby5y": 254,
+    "hindex": 13,
+    "hindex5y": 10,
+    "i10index": 17,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "1986": 7,
+        "1987": 1,
+        "1988": 2,
+        "1989": 0,
+        "1990": 0,
+        "1991": 3,
+        "1992": 1,
+        "1993": 0,
+        "1994": 0,
+        "1995": 2,
+        "1996": 3,
+        "1997": 4,
+        "1998": 3,
+        "1999": 5,
+        "2000": 7,
+        "2001": 5,
+        "2002": 7,
+        "2003": 9,
+        "2004": 14,
+        "2005": 15,
+        "2006": 18,
+        "2007": 9,
+        "2008": 4,
+        "2009": 16,
+        "2010": 17,
+        "2011": 7,
+        "2012": 14,
+        "2013": 21,
+        "2014": 14,
+        "2015": 24,
+        "2016": 35,
+        "2017": 24,
+        "2018": 21,
+        "2019": 44,
+        "2020": 35,
+        "2021": 47,
+        "2022": 53,
+        "2023": 47,
+        "2024": 28
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TBkGLTUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ANGEL CAROCCA B.",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dIkby20AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Irwin Kra",
+            "affiliation": "SUNY at Stony Brook"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZT9v16oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anita M. Rojas",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ukCEV7gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruben A. Hidalgo",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mDXsV_YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n Reyes-Carocca",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZWAKtaEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Francisco Behn Von Schmieden",
+            "affiliation": "Departamento de Matem\u00e1tica, Facultad de Ciencias, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9xtNZlAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Jos\u00e9 Plaza Mart\u00edn",
+            "affiliation": "Catedr\u00e1tico de Geometr\u00eda y Topolog\u00eda (Professor), Universidad de Salamanca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uoPpzQ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ESTEBAN G\u00d3MEZ GONZ\u00c1LEZ",
+            "affiliation": "Universidad de Salamanca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hITE93wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Milagros Izquierdo",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TSOG9eAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sorin Popescu",
+            "affiliation": "Stony Brook University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5ixXSpYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ursula Hamenst\u00e4dt",
+            "affiliation": "Professor of Mathematics, University of Bonn"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0W3aOvAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Esteves",
+            "affiliation": "IMPA"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jacobians with group actions and rational idempotents",
+                "pub_year": "2006",
+                "citation": "Journal of Algebra 306 (2), 322-343, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15825589024604409729",
+            "cites_id": [
+                "15825589024604409729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized humbert curves",
+                "pub_year": "2008",
+                "citation": "Israel Journal of Mathematics 164 (1), 165-192, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3710334674834298019",
+            "cites_id": [
+                "3710334674834298019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The period matrix of Bring\u2019s curve",
+                "pub_year": "1992",
+                "citation": "Pacific Journal of Mathematics 154 (1), 179-200, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15055780156938456549",
+            "cites_id": [
+                "15055780156938456549"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fermat\u2019s quartic curve, Klein\u2019s curve and the tetrahedron",
+                "pub_year": "1997",
+                "citation": "Contemporary Mathematics 201, 43-62, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2786603608213741369",
+            "cites_id": [
+                "2786603608213741369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Riemann surfaces and abelian varieties with an automorphism of prime order",
+                "pub_year": "1993",
+                "citation": "Duke Mathematical Journal 69 (1), 199-217, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8209102197181858082",
+            "cites_id": [
+                "8209102197181858082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dihedral groups acting on Jacobians",
+                "pub_year": "2002",
+                "citation": "Contemporary Mathematics 311, 41-78, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14709519682765612897",
+            "cites_id": [
+                "14709519682765612897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jacobians and representations of S3",
+                "pub_year": "1998",
+                "citation": "Aportaciones Mat. Inv 13, 117-140, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:hMod-77fHWUC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5321557837349111931",
+            "cites_id": [
+                "5321557837349111931"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex analysis: in the spirit of Lipman Bers",
+                "pub_year": "2013",
+                "citation": "Springer, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:r0BpntZqJG4C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=49899239194915503",
+            "cites_id": [
+                "49899239194915503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adapted hyperbolic polygons and symplectic representations for group actions on Riemann surfaces",
+                "pub_year": "2013",
+                "citation": "Journal of Pure and Applied Algebra 217 (3), 409-426, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3608453305354419255",
+            "cites_id": [
+                "3608453305354419255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex analysis: in the spirit of Lipman Bers",
+                "pub_year": "2007",
+                "citation": "Springer Science & Business Media, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=61464231580686258",
+            "cites_id": [
+                "61464231580686258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prym varieties and fourfold covers",
+                "pub_year": "2003",
+                "citation": "arXiv preprint math/0303155, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16780213536269785212",
+            "cites_id": [
+                "16780213536269785212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Families of irreducible principally polarized abelian varieties isomorphic to a product of elliptic curves",
+                "pub_year": "2000",
+                "citation": "Proceedings of the American Mathematical Society 128 (3), 629-636, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9854282749454399266",
+            "cites_id": [
+                "9854282749454399266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A generalisation of Kani-Rosen decomposition theorem for Jacobian varieties",
+                "pub_year": "2019",
+                "citation": "Annali della Scuola Normale Superiore di Pisa. Classe di scienze 19 (2), 705-722, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18257202532281683583",
+            "cites_id": [
+                "18257202532281683583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Jacobians with group action and coverings",
+                "pub_year": "2020",
+                "citation": "Mathematische Zeitschrift 294 (1-2), 209-227, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14820521737166826065",
+            "cites_id": [
+                "14820521737166826065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uniformization of surfaces of genus two with automorphisms",
+                "pub_year": "1988",
+                "citation": "Mathematische Annalen 282 (1), 51-67, 1988"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10294769572821198763",
+            "cites_id": [
+                "10294769572821198763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abelian varieties and group actions",
+                "pub_year": "2014",
+                "citation": "Riemann and Klein Surfaces, Automorphisms, Symmetries and Moduli Spaces \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15384078469803293784",
+            "cites_id": [
+                "15384078469803293784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jacobians with complex multiplication",
+                "pub_year": "2011",
+                "citation": "Transactions of the American Mathematical Society 363 (12), 6159-6175, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:roLk4NBRz8UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15228316194250097086",
+            "cites_id": [
+                "15228316194250097086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prym-Tyurin varieties via Hecke algebras",
+                "pub_year": "2009",
+                "citation": "Journal f\u00fcr die reine und angewandte Mathematik 2009 (634), 209-234, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4779406635480534181",
+            "cites_id": [
+                "4779406635480534181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A pencil in with three points at the boundary",
+                "pub_year": "1992",
+                "citation": "Geometriae Dedicata 42 (3), 255-265, 1992"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:WF5omc3nYNoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6992865961965283903",
+            "cites_id": [
+                "6992865961965283903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On schottky-type groups with applications to riemann surfaces with nodes II",
+                "pub_year": "1983",
+                "citation": "Complex Variables and Elliptic Equations 1 (2-3), 293-310, 1983"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14698501423378849768",
+            "cites_id": [
+                "14698501423378849768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weyl groups and abelian varieties",
+                "pub_year": "2006",
+                "citation": "Journal of Group Theory 9 (2), 265-282, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15831623430140141493",
+            "cites_id": [
+                "15831623430140141493"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prym varieties and fourfold covers II: The dihedral case",
+                "pub_year": "2006",
+                "citation": "Contemporary Mathematics 397, 177, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:0EnyYjriUFMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9122437305778203874",
+            "cites_id": [
+                "9122437305778203874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On schottky-type groups with applications to riemann surfaces with nodes I",
+                "pub_year": "1983",
+                "citation": "Complex Variables and Elliptic Equations 1 (2-3), 279-291, 1983"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5924252582277987962",
+            "cites_id": [
+                "5924252582277987962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polarizations on abelian subvarieties of principally polarized abelian varieties with dihedral group actions",
+                "pub_year": "2014",
+                "citation": "Mathematische Zeitschrift 276 (1), 397-420, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:aqlVkmm33-oC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5514453813014691784",
+            "cites_id": [
+                "5514453813014691784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposition of Jacobians by Prym Varieties",
+                "pub_year": "2022",
+                "citation": "Springer Nature, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13386323799296570567",
+            "cites_id": [
+                "13386323799296570567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Etale double covers of cyclic p-gonal covers",
+                "pub_year": "2019",
+                "citation": "Journal of Algebra 538, 110-126, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13985617378806949201",
+            "cites_id": [
+                "13985617378806949201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hecke algebras acting on Abelian varieties",
+                "pub_year": "2018",
+                "citation": "Journal of Pure and Applied Algebra 222 (9), 2626-2647, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6671384968474013267",
+            "cites_id": [
+                "6671384968474013267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A remark on the decomposition of the Jacobian variety of Fermat curves of prime degree",
+                "pub_year": "2015",
+                "citation": "Archiv der Mathematik 105 (4), 333-341, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:GnPB-g6toBAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8661015951298723123",
+            "cites_id": [
+                "8661015951298723123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex analysis, volume 245 of Graduate Texts in Mathematics",
+                "pub_year": "2013",
+                "citation": "Springer, New York,, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4305890905266488074",
+            "cites_id": [
+                "4305890905266488074"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On principally polarized abelian varieties and Riemann surfaces associated to prisms and pyramids",
+                "pub_year": "1997",
+                "citation": "Contemporary Mathematics 211, 269-284, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15510378354533892166",
+            "cites_id": [
+                "15510378354533892166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On automorphisms of compact Riemann surfaces of genus four",
+                "citation": "Complex Geometry Seminar 2, 67-96, 0"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:SP6oXDckpogC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8267857264664465679",
+            "cites_id": [
+                "8267857264664465679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposable Jacobians",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1906.07747, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:a0OBvERweLwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11502928598237727785",
+            "cites_id": [
+                "11502928598237727785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lipman Bers, a Life in Mathematics",
+                "pub_year": "2015",
+                "citation": "American Mathematical Society, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4534507898838159984",
+            "cites_id": [
+                "4534507898838159984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prym\u2013Tyurin varieties using self-products of groups",
+                "pub_year": "2009",
+                "citation": "Journal of Algebra 322 (4), 1251-1272, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17151948452585178267",
+            "cites_id": [
+                "17151948452585178267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Products of Jacobians as Prym-Tyurin varieties",
+                "pub_year": "2009",
+                "citation": "Geometriae Dedicata 139 (1), 219-231, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9704312087235297503",
+            "cites_id": [
+                "9704312087235297503"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Geometry of Riemann Surfaces and Abelian Varieties: III Iberoamerican Congress on Geometry in Honor of Professor Sevin Recillas-Pishmish's 60th Birthday, June 8-12, 2004 \u2026",
+                "pub_year": "2006",
+                "citation": "American Mathematical Soc., 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:TQgYirikUcIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034391297235565675",
+            "cites_id": [
+                "9034391297235565675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Geometry of Riemann Surfaces and Abelian Varieties: III Iberoamerican Congress on Geometry in Honor of Professor Sevin Recillas-Pishmish's 60th Birthday, June 8-12, 2004 \u2026",
+                "pub_year": "2006",
+                "citation": "American Mathematical Soc., 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:IWHjjKOFINEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9034391297235565675",
+            "cites_id": [
+                "9034391297235565675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "q-\u00e9tale covers of cyclic p-gonal covers",
+                "pub_year": "2021",
+                "citation": "Journal of Algebra 573, 393-409, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:D03iK_w7-QYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2346105510299157387",
+            "cites_id": [
+                "2346105510299157387"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cohomolog\u00eda de Eichler de grupos de tipo Schottky",
+                "pub_year": "2018",
+                "citation": "Contribuciones Cient\u00edficas y Tecnol\u00f3gicas, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9729319626073093497,10205872449026362823",
+            "cites_id": [
+                "9729319626073093497",
+                "10205872449026362823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symmetric group actions on Jacobian varieties",
+                "pub_year": "2014",
+                "citation": "Contemp. Math 629, 43-57, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:maZDTaKrznsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16778124817010504354",
+            "cites_id": [
+                "16778124817010504354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introducci\u00f3n a las variedades abelianas y grupos Kleinianos",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8337155054189041439",
+            "cites_id": [
+                "8337155054189041439"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On automorphisms of curves and linear series",
+                "pub_year": "1989",
+                "citation": "Topics in Algebraic Geometry, Guanajuato, 101-105, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:Se3iqnhoufwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1227912340036146381",
+            "cites_id": [
+                "1227912340036146381"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equations for abelian subvarieties",
+                "pub_year": "2020",
+                "citation": "Journal of Algebra, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4087288550808113797",
+            "cites_id": [
+                "4087288550808113797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abelian varieties with finite abelian group action",
+                "pub_year": "2019",
+                "citation": "Archiv der Mathematik 112 (6), 615-622, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15625290493998868096",
+            "cites_id": [
+                "15625290493998868096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decomposing abelian varieties into simple factors: algorithms and applications",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.14555, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Abelian varieties and Riemann surfaces with generalized quaternion group action",
+                "pub_year": "2023",
+                "citation": "Journal of Pure and Applied Algebra 227 (11), 107398, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Monodromy Group of pq-Covers",
+                "pub_year": "2022",
+                "citation": "Transformation Groups, 1-18, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminaries and Basic Results",
+                "pub_year": "2022",
+                "citation": "Decomposition of Jacobians by Prym Varieties, 7-38, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some Series of Group Actions",
+                "pub_year": "2022",
+                "citation": "Decomposition of Jacobians by Prym Varieties, 173-220, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covers of Degree 4",
+                "pub_year": "2022",
+                "citation": "Decomposition of Jacobians by Prym Varieties, 95-172, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covers of Degree 2 and 3",
+                "pub_year": "2022",
+                "citation": "Decomposition of Jacobians by Prym Varieties, 79-94, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Some Special Groups and Complete Decomposability",
+                "pub_year": "2022",
+                "citation": "Decomposition of Jacobians by Prym Varieties, 221-246, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geometry at the Frontier: Symmetries and Moduli Spaces of Algebraic Varieties",
+                "pub_year": "2021",
+                "citation": "American Mathematical Soc., 2021"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the connectedness of the singular locus of the moduli space of principally polarized abelian varieties",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1708.06830, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Weil-Petersson geometry of a family of Riemann Surfaces",
+                "pub_year": "2015",
+                "citation": "Lipman Bers, a Life in Mathematics 93, 139, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Riemann and Klein Surfaces, Automorphisms, Symmetries and Moduli Spaces",
+                "pub_year": "2014",
+                "citation": "American Mathematical Society, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Riemann and Klein surfaces, automorphisms, symmetries and moduli spaces: conference in honor of Emilio Bujalance, Riemann and Klein surfaces, symmetries and moduli spaces, June \u2026",
+                "pub_year": "2014",
+                "citation": "Conference on Riemann and Klein Surfaces, Symmetries, and Moduli Spaces: a \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symplectic representations for finite group actions on Riemann surfaces",
+                "pub_year": "2013",
+                "citation": "Proceedings of Applications of Computer Algebra ACA 2013. M\u00e1laga, 207, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orbifolds with signature (0; k, kn\u2212 1, kn, kn)",
+                "pub_year": "2013",
+                "citation": "Pacific Journal of Mathematics 263 (1), 53-85, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In the Tradition of Ahlfors-Bers, VI",
+                "pub_year": "2013",
+                "citation": "American Mathematical Society, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adapted hyperbolic polygons and symplectic representations for group actions on Riemann surfaces",
+                "pub_year": "2013",
+                "citation": "Elsevier, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adapted hyperbolic polygons and symplectic representations for group actions on Riemann surfaces",
+                "pub_year": "2013",
+                "citation": "ELSEVIER SCIENCE BV, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ORBIFOLDS WITH SIGNATURE (0; k, kn-1, kn, kn)",
+                "pub_year": "2013",
+                "citation": "PACIFIC JOURNAL MATHEMATICS, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex Analysis. In the spirit of Lipman Bers",
+                "pub_year": "2013",
+                "citation": "Springer 245, xviii+306, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conformal Equivalence and Hyperbolic Geometry",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 199-228, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequences and Series of Holomorphic Functions",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 171-197, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harmonic Functions",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 229-265, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Cauchy Theory: A Fundamental Theorem",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 81-117, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power Series",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 39-80, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Fundamental Theorem in Complex Function Theory",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 1-14, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cauchy Theory: Local Behavior and Singularities of Holomorphic Functions",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 139-169, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zeros of Holomorphic Functions",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 267-295, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations",
+                "pub_year": "2013",
+                "citation": "Complex Analysis, 15-38, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Cauchy Theory: Key Consequences",
+                "pub_year": "2013",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 119-137, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JACOBIANS WITH COMPLEX MULTIPLICATION",
+                "pub_year": "2011",
+                "citation": "AMERICAN MATHEMATICAL SOCIETY, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prym and Prym-Tyurin varieties: a group-theoretical construction",
+                "pub_year": "2010",
+                "citation": "In the Tradition of Ahlfors-Bers, V: The Triennial Ahlfors-Bers Colloquium \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizations of Jacobians of curves with automorphisms",
+                "pub_year": "2010",
+                "citation": "Transactions of the American Mathematical Society 362 (10), 5373-5394, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRODUCTS OF JACOBIANS AS PRYM-TYURIN VARIETIES",
+                "pub_year": "2009",
+                "citation": "SPRINGER, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRYM-TYURIN VARIETIES USING SELF-PRODUCTS OF GROUPS",
+                "pub_year": "2009",
+                "citation": "ACADEMIC PRESS, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRYM-TYURIN VARIETIES VIA HECKE ALGEBRAS",
+                "pub_year": "2009",
+                "citation": "WALTER DE GRUYTER & CO, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GENERALIZED HUMBERT CURVES",
+                "pub_year": "2008",
+                "citation": "HEBREW UNIV MAGNES PRESS, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harmonic Functions",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 173-190, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sequences and Series of Holomorphic Functions",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 123-146, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cauchy Theory: Local Behavior and Singularities of Holomorphic Functions",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 101-121, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Cauchy Theory\u2013Key Consequences",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 83-99, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zeros of Holomorphic Functions",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 191-211, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations",
+                "pub_year": "2007",
+                "citation": "Complex Analysis, 7-21, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Cauchy Theory\u2013A Fundamental Theorem",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 59-82, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power Series",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 23-57, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Fundamental Theorem in Complex Function Theory",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 1-5, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conformal Equivalence",
+                "pub_year": "2007",
+                "citation": "Complex Analysis: In the Spirit of Lipman Bers, 147-172, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contemporary Mathematics Volume 397, 2006",
+                "pub_year": "2006",
+                "citation": "The Geometry of Riemann Surfaces and Abelian Varieties: III Iberoamerican \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:KxtntwgDAa4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WEYL GROUPS AND ABELIAN VARIETIES",
+                "pub_year": "2006",
+                "citation": "DE GRUYTER, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adin, Ron M., 208",
+                "pub_year": "2006",
+                "citation": "Journal of Algebra 306, 712, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Geometry of Riemann Surfaces and Abelian Varieties",
+                "pub_year": "2006",
+                "citation": "American Mathematical Society, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Geometry of Riemann Surfaces and Abelian Varieties-III Iberoamerican Congress on Geometry in Honor of Professor Sevin Recillas-Pishmish's 60th Birthday. June 8-12, 2004 \u2026",
+                "pub_year": "2006",
+                "citation": "Contemporary Mathematics 397, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A solution of the Schottky-Type problem for curves with automorphisms",
+                "pub_year": "2005",
+                "citation": "arXiv preprint math/0506194, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real Schottky Uniformizations and Jacobians of May Surfaces",
+                "pub_year": "2004",
+                "citation": "Revista Matem\u00e1tica Iberoamericana 20 (3), 627-646, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contemporary Mathematics",
+                "pub_year": "2004",
+                "citation": "Salamanca, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REAL SCHOTTKY UNIFORMIZATIONS AND JACOBIANS OF MAY SURFACES",
+                "pub_year": "2004",
+                "citation": "CONSEJO SUPEROR DE INVESTIGACIONES CIENTIFICASREAL SOCIEDAD MATEMATICA ESPA\u00d1OLA, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contemporary Mathematics Volume 311, 2002",
+                "pub_year": "2002",
+                "citation": "Complex Manifolds and Hyperbolic Geometry: II Iberoamerican Congress on \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex geometry of groups, 1999",
+                "pub_year": "2000",
+                "citation": "Contemporary Mathematics 259, 240-240, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex Geometry of Groups: January 5-11, 1998, Olmu\u00e9, Chile:[proceedings of the I Iberoamerican Congress on Geometry]",
+                "pub_year": "1999",
+                "citation": "American Mathematical Society, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex geometry of groups, 1999",
+                "pub_year": "1999",
+                "citation": "Contemporary Mathematics 244, 240-240, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex geometry of groups",
+                "pub_year": "1999",
+                "citation": "American Mathematical Society, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex Geometry of Groups:\" Cruz Del Sur\" I Iberoamerican Congress on Geometry, January 5-11, 1998, Olmu\u00e9, Chile",
+                "pub_year": "1999",
+                "citation": "American Mathematical Society, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex geometry in Chile: Panorama and perspectives",
+                "pub_year": "1999",
+                "citation": "Contemporary Mathematics 240, 1-6, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Taller de Variedades Abelianas Y Funciones Theta: Memorias: Morelia, Mich., M\u00e9xico, 1996",
+                "pub_year": "1998",
+                "citation": "Sociedad Matem\u00e1tica Mexicana, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contemporary Mathematics Volume 211, 1997",
+                "pub_year": "1997",
+                "citation": "Lipa's Legacy: Proceedings of the Bers Colloquium, October 19-20, 1995 \u2026, 1997"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:UxriW0iASnsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COMPLEX GEOMETRY SEMINARS (VOL III)",
+                "pub_year": "1995",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Riemann Surfaces, Abelian Varieties and Automorphisms",
+                "pub_year": "1994",
+                "citation": "Mat. Contemp 7, 25-34, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uniformizaci\u00f3n de curvas algebraicas de g\u00e9nero dos con automorfismos",
+                "pub_year": "1991",
+                "citation": "CUBO, A Mathematical Journal, 132\u2013160-132\u2013160, 1991"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Espacios de tipo Schottky y su incrustaci\u00f3n en\u20b5 \u1d3a",
+                "pub_year": "1982",
+                "citation": "Contribuciones Cient\u00edficas y Tecnol\u00f3gicas, 1982"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The geometry of Riemann surfaces and Abelian varieties: III Iberoamerican Congress on Geometry in honor of Professor Sev\u00edn Recillas-Pishmish's 60th birthday, June 8-12, 2004 \u2026",
+                "citation": "(No Title), 0"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:dshw04ExmUIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A SIMPLE NOTE ON THE GALOIS CLOSURE",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Angel Carocca, V\u00edctor Gonz\u00e1lez-Aguilera",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lipman Bers",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A SOLUTION OF THE SCHOTTKY-TYPE PROBLEM FOR CURVES WITH AUTOMORPHISMS",
+                "citation": "arXiv preprint math/0506194, 0"
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SESI\u00d3N DE GEOMETR\u00cdA: LXXXII SOMACHI, 2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "UNA NOTA SOBRE VARIEDADES DE PRYM-TJURIN",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "to6eO5wAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

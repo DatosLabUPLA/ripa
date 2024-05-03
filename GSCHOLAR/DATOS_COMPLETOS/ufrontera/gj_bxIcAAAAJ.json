@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "gj_bxIcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alonso Bobadilla Montoya",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "software engineering",
+        "software product lines",
+        "configuration models"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving Errors Detected in Feature Modeling Languages: A Proposal",
+                "pub_year": "2021",
+                "citation": "International Conference on Information Technology & Systems, 375-385, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "gj_bxIcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10218162058478014719",
+            "cites_id": [
+                "10218162058478014719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vari: Ation-De modelos de caracter\u00edsticas a modelos de configuraci\u00f3n",
+                "pub_year": "2020",
+                "citation": "Revista Ib\u00e9rica de Sistemas e Tecnologias de Informa\u00e7\u00e3o, 245-258, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "gj_bxIcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10724765510046547564",
+            "cites_id": [
+                "10724765510046547564"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un punto de vista de evaluaci\u00f3n de la calidad para las herramientas de modelado de caracter\u00edsticas",
+                "pub_year": "2020",
+                "citation": "Revista Ib\u00e9rica de Sistemas e Tecnologias de Informa\u00e7\u00e3o, 123-138, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "gj_bxIcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4919111615922914357",
+            "cites_id": [
+                "4919111615922914357"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

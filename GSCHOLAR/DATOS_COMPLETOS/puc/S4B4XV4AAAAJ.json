@@ -1,0 +1,185 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "S4B4XV4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis Alberto Croquevielle",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=S4B4XV4AAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@uc.cl",
+    "citedby": 62,
+    "citedby5y": 61,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 6,
+        "2021": 16,
+        "2022": 11,
+        "2023": 24,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Cerc8UYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rajesh Jayaram",
+            "affiliation": "Google Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YHR0wkkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Arenas",
+            "affiliation": "Professor of Computer Science, Pontificia Universidad Cat\u00f3lica de Chile and IMFD Chile."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wkDO2HIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Riveros",
+            "affiliation": "Associate Professor, Computer Science Department, PUC Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b-PqSK0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel della Maggiora",
+            "affiliation": "Helmholtz Zentrum Dresden Rossendorf"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient logspace classes for enumeration, counting, and uniform generation",
+                "pub_year": "2019",
+                "citation": "Proceedings of the 38th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14706457624629431068",
+            "cites_id": [
+                "14706457624629431068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When is approximate counting for conjunctive queries tractable?",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=527022749133400838",
+            "cites_id": [
+                "527022749133400838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "# NFA Admits an FPRAS: Efficient Enumeration, Counting, and Uniform Generation for Logspace Classes",
+                "pub_year": "2021",
+                "citation": "Journal of the ACM (JACM) 68 (6), 1-40, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13299157581888727086",
+            "cites_id": [
+                "13299157581888727086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Counting the answers to a query",
+                "pub_year": "2022",
+                "citation": "ACM SIGMOD Record 51 (3), 6-17, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17676312030417539452",
+            "cites_id": [
+                "17676312030417539452"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SWIX: A Memory-efficient Sliding Window Learned Index",
+                "pub_year": "2024",
+                "citation": "Proceedings of the ACM on Management of Data 2 (1), 1-26, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditional Variational Diffusion Models",
+                "pub_year": "2023",
+                "citation": "The Twelfth International Conference on Learning Representations, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A polynomial-time approximation algorithm for counting words accepted by an NFA",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 53rd Annual ACM SIGACT Symposium on Theory of Computing, 4-4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An FPRAS and Polynomial-Time Uniform Sampler for Tree Automata.",
+                "pub_year": "2020",
+                "citation": "CoRR, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "S4B4XV4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

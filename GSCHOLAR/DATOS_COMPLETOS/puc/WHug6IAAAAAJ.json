@@ -1,0 +1,1569 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WHug6IAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Reutter",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WHug6IAAAAAJ&citpid=2",
+    "affiliation": "Professor, Computer Science at Pontificia Universidad Cat\u00f3lica de Chile & IMFD Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@ing.puc.cl",
+    "homepage": "http://web.ing.puc.cl/~jreutter/index.html",
+    "citedby": 3060,
+    "citedby5y": 2165,
+    "hindex": 26,
+    "hindex5y": 20,
+    "i10index": 40,
+    "i10index5y": 27,
+    "cites_per_year": {
+        "2010": 20,
+        "2011": 29,
+        "2012": 35,
+        "2013": 92,
+        "2014": 77,
+        "2015": 99,
+        "2016": 138,
+        "2017": 152,
+        "2018": 217,
+        "2019": 203,
+        "2020": 290,
+        "2021": 444,
+        "2022": 480,
+        "2023": 558,
+        "2024": 186
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nP1aNQkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Domagoj Vrgoc",
+            "affiliation": "PUC Chile and IMFD Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9OH3PokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Barcel\u00f3",
+            "affiliation": "Institute for Mathematical and Computational Engineering, PUC Chile & IMFD Chile & CENIA Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YHR0wkkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Arenas",
+            "affiliation": "Professor of Computer Science, Pontificia Universidad Cat\u00f3lica de Chile and IMFD Chile."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y2gdVmIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Egor V. Kostylev",
+            "affiliation": "Associate Professor, University of Oslo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "a6lUuiwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge P\u00e9rez",
+            "affiliation": "Cero.ai"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4q-MIB0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leonid Libkin",
+            "affiliation": "Professor of Computer Science, University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Jh3QCRYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rada Chirkova",
+            "affiliation": "Professor of Computer Science, North Carolina State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "USK6NowAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e1s Salamon",
+            "affiliation": "University of St Andrews"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jYJYcfkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Am\u00e9lie Gheerbrant",
+            "affiliation": "Lecturer, LIAFA (University Paris Diderot \u2013 Paris 7 & CNRS)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of JSON schema",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 25th international conference on World Wide Web, 263-273, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 564,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1634616836586390176",
+            "cites_id": [
+                "1634616836586390176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of modern query languages for graph databases",
+                "pub_year": "2017",
+                "citation": "ACM Computing Surveys (CSUR) 50 (5), 1-40, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 484,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16698935509372365158",
+            "cites_id": [
+                "16698935509372365158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The logical expressiveness of graph neural networks",
+                "pub_year": "2020",
+                "citation": "8th International Conference on Learning Representations (ICLR 2020), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 232,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10724081317338364619",
+            "cites_id": [
+                "10724081317338364619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying regular graph patterns",
+                "pub_year": "2014",
+                "citation": "Journal of the ACM (JACM) 61 (1), 1-54, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 145,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14262920294918372228,13210089404746509946",
+            "cites_id": [
+                "14262920294918372228",
+                "13210089404746509946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JSON: data model, query languages and schema specification",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI symposium on principles of \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:TQgYirikUcIC",
+            "num_citations": 142,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10713023844188498877",
+            "cites_id": [
+                "10713023844188498877"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL with property paths",
+                "pub_year": "2015",
+                "citation": "The Semantic Web-ISWC 2015: 14th International Semantic Web Conference \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 99,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13267471292863446418",
+            "cites_id": [
+                "13267471292863446418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regular queries on graph databases",
+                "pub_year": "2017",
+                "citation": "Theory of computing Systems 61, 31-83, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 95,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2357275425247659872",
+            "cites_id": [
+                "2357275425247659872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantics and validation of recursive SHACL",
+                "pub_year": "2018",
+                "citation": "The Semantic Web\u2013ISWC 2018: 17th International Semantic Web Conference \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13449280360774002370",
+            "cites_id": [
+                "13449280360774002370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "JSON: Data model and query languages",
+                "pub_year": "2020",
+                "citation": "Information Systems 89, 101478, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 84,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7133044121890062634",
+            "cites_id": [
+                "7133044121890062634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trial for RDF: adapting graph query languages for RDF data",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGAI symposium on Principles of \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 82,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15600095576531014599,6612164132895313261",
+            "cites_id": [
+                "15600095576531014599",
+                "6612164132895313261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relative Expressiveness of Nested Regular Expressions.",
+                "pub_year": "2012",
+                "citation": "AMW 12, 180-195, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=781942182268000200",
+            "cites_id": [
+                "781942182268000200"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data exchange beyond complete data",
+                "pub_year": "2013",
+                "citation": "Journal of the ACM (JACM) 60 (4), 1-59, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17596462879171417844",
+            "cites_id": [
+                "17596462879171417844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expressiveness and approximation properties of graph neural networks",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2204.04661, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1241457886049608228",
+            "cites_id": [
+                "1241457886049608228"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graph neural networks with local graph parameters",
+                "pub_year": "2021",
+                "citation": "Advances in Neural Information Processing Systems 34, 25280-25293, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:NhqRSupF_l8C",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7214863840500472005",
+            "cites_id": [
+                "7214863840500472005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CONSTRUCT queries in SPARQL",
+                "pub_year": "2015",
+                "citation": "18th International Conference on Database Theory (ICDT 2015), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12800267636037778175",
+            "cites_id": [
+                "12800267636037778175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of schema mapping management",
+                "pub_year": "2010",
+                "citation": "Proceedings of the twenty-ninth ACM SIGMOD-SIGACT-SIGART symposium on \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964626566476170758",
+            "cites_id": [
+                "17964626566476170758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursion in SPARQL",
+                "pub_year": "2015",
+                "citation": "The Semantic Web-ISWC 2015: 14th International Semantic Web Conference \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 47,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8526067673389519759",
+            "cites_id": [
+                "8526067673389519759"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schema mappings and data exchange for graph databases",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 16th International Conference on Database Theory, 189-200, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17395099953827502263",
+            "cites_id": [
+                "17395099953827502263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Validating Shacl Constraints over a Sparql Endpoint",
+                "pub_year": "2019",
+                "citation": "The Semantic Web\u2013ISWC 2019: 18th International Semantic Web Conference \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:70eg2SAEIzsC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3532571009902548446",
+            "cites_id": [
+                "3532571009902548446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Query languages for data exchange: Beyond unions of conjunctive queries",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 12th International Conference on Database Theory, 73-83, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6334917367944867913",
+            "cites_id": [
+                "6334917367944867913"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complexity of answering counting aggregate queries over DL-Lite",
+                "pub_year": "2015",
+                "citation": "Journal of Web Semantics 33, 94-111, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14526276826904717123,464584590766123193",
+            "cites_id": [
+                "14526276826904717123",
+                "464584590766123193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composition and inversion of schema mappings",
+                "pub_year": "2010",
+                "citation": "ACM SIGMOD Record 38 (3), 17-28, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7195376871297570498",
+            "cites_id": [
+                "7195376871297570498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Worst-case optimal graph joins in almost no space",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 2021 International Conference on Management of Data, 102-114, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7040092923561389082",
+            "cites_id": [
+                "7040092923561389082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverting schema mappings: Bridging the gap between theory and practice",
+                "pub_year": "2009",
+                "citation": "35th International Conference on Very Large Data Bases (VLDB), 2009"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8769813938866611840",
+            "cites_id": [
+                "8769813938866611840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stable model semantics for recursive SHACL",
+                "pub_year": "2020",
+                "citation": "Proceedings of The Web Conference 2020, 1570-1580, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14238454201058326347",
+            "cites_id": [
+                "14238454201058326347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal joins using compact data structures",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1908.01812, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:35N4QoGY0k4C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16360816508141086149",
+            "cites_id": [
+                "16360816508141086149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Containment of data graph queries",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 17th International Conference on Database Theory (ICDT), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15478432123733336814",
+            "cites_id": [
+                "15478432123733336814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The language of plain SO-tgds: Composition, inversion and structural properties",
+                "pub_year": "2013",
+                "citation": "Journal of Computer and System Sciences 79 (6), 763-784, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17841122868318509594",
+            "cites_id": [
+                "17841122868318509594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameterized regular expressions and their languages",
+                "pub_year": "2013",
+                "citation": "Theoretical Computer Science 474, 21-45, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6468942362505761256",
+            "cites_id": [
+                "6468942362505761256"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tractable XML data exchange via relations",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 20th ACM international conference on information and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1457237171746785924",
+            "cites_id": [
+                "1457237171746785924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating navigational RDF queries over the web",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 28th ACM Conference on Hypertext and Social Media, 165-174, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15068804856544936481",
+            "cites_id": [
+                "15068804856544936481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "XPath for DL ontologies",
+                "pub_year": "2015",
+                "citation": "Proceedings of the AAAI Conference on Artificial Intelligence 29 (1), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16591153659043459852,113472122409984596",
+            "cites_id": [
+                "16591153659043459852",
+                "113472122409984596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Containment of nested regular expressions",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1304.2637, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7420660602168281189",
+            "cites_id": [
+                "7420660602168281189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graph patterns: structure, query answering and applications in schema mappings and formal language theory",
+                "pub_year": "2013",
+                "citation": "The University of Edinburgh, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10925595494991338134",
+            "cites_id": [
+                "10925595494991338134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graph Query Languages.",
+                "pub_year": "2019",
+                "citation": "Encyclopedia of big data technologies, 883-890, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:KxtntwgDAa4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16959494856960121066",
+            "cites_id": [
+                "16959494856960121066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SHACL2SPARQL: Validating a SPARQL Endpoint against Recursive SHACL Constraints.",
+                "pub_year": "2019",
+                "citation": "ISWC (Satellites), 165-168, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8018113533147151462",
+            "cites_id": [
+                "8018113533147151462"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The expressive power of graph neural networks as a query language",
+                "pub_year": "2020",
+                "citation": "ACM SIGMOD Record 49 (2), 6-17, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:f2IySw72cVMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813222654303637227",
+            "cites_id": [
+                "13813222654303637227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Containment of queries for graphs with data",
+                "pub_year": "2018",
+                "citation": "Journal of Computer and System Sciences 92, 65-91, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8503849024766365658",
+            "cites_id": [
+                "8503849024766365658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static analysis of navigational XPath over graph databases",
+                "pub_year": "2016",
+                "citation": "Information Processing Letters 116 (7), 467-474, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15175228112545212888",
+            "cites_id": [
+                "15175228112545212888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nested constructs vs. sub-selects in SPARQL",
+                "pub_year": "2016",
+                "citation": "CEUR Workshop Proceedings, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13425049584484906502",
+            "cites_id": [
+                "13425049584484906502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal joins using compressed quadtrees",
+                "pub_year": "2022",
+                "citation": "ACM Transactions on Database Systems (TODS) 47 (2), 1-53, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:P5F9QuxV20EC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12541765977601243154",
+            "cites_id": [
+                "12541765977601243154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying apis with SPARQL: language and worst-case optimal algorithms",
+                "pub_year": "2018",
+                "citation": "The Semantic Web: 15th International Conference, ESWC 2018, Heraklion, Crete \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:maZDTaKrznsC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5463434299948954127",
+            "cites_id": [
+                "5463434299948954127"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of annotation semirings over containment of conjunctive queries",
+                "pub_year": "2014",
+                "citation": "ACM Transactions on Database Systems (TODS) 39 (1), 1-39, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12790019661038750727",
+            "cites_id": [
+                "12790019661038750727"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Tractable Notion of Stratification for SHACL.",
+                "pub_year": "2018",
+                "citation": "ISWC (P&D/Industry/BlueSky), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1844477399176832176",
+            "cites_id": [
+                "1844477399176832176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Query language-based inverses of schema mappings: semantics, computation, and closure properties",
+                "pub_year": "2012",
+                "citation": "The VLDB journal 21 (6), 823-842, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=303065682939499565",
+            "cites_id": [
+                "303065682939499565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In-database graph analytics with recursive SPARQL",
+                "pub_year": "2020",
+                "citation": "International Semantic Web Conference, 511-528, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:D03iK_w7-QYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6835982041326799750",
+            "cites_id": [
+                "6835982041326799750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incorporating API Data into SPARQL Query Answers.",
+                "pub_year": "2016",
+                "citation": "ISWC (Posters & Demos), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12660381951883415443",
+            "cites_id": [
+                "12660381951883415443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data exchange in the relational and RDF worlds",
+                "pub_year": "2011",
+                "citation": "Invited talk at the Int\u2019l Workshop on Semantic Web Information Management (SWIM), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9896796155149239903",
+            "cites_id": [
+                "9896796155149239903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Formalism for Graph Databases and its Model of Computation.",
+                "pub_year": "2011",
+                "citation": "AMW, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17098930678648245985",
+            "cites_id": [
+                "17098930678648245985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cryptocurrency mining games with economic discount and decreasing rewards",
+                "pub_year": "2020",
+                "citation": "37th International Symposium on Theoretical Aspects of Computer Science \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11339661804807240671",
+            "cites_id": [
+                "11339661804807240671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expressiveness of CONSTRUCT Queries in SPARQL",
+                "pub_year": "2015",
+                "citation": "Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:RGFaLdJalmkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13337967143292938673",
+            "cites_id": [
+                "13337967143292938673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Datalog as a query language for data exchange systems",
+                "pub_year": "2011",
+                "citation": "Datalog Reloaded: First International Workshop, Datalog 2010, Oxford, UK \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498719832070601524",
+            "cites_id": [
+                "12498719832070601524"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursion in SPARQL",
+                "pub_year": "2021",
+                "citation": "Semantic Web 12 (5), 711-740, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11443060740910317994",
+            "cites_id": [
+                "11443060740910317994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Data Readiness Problem for Relational Databases.",
+                "pub_year": "2018",
+                "citation": "AMW, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6623607129618282445",
+            "cites_id": [
+                "6623607129618282445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of annotation semirings over query containment",
+                "pub_year": "2012",
+                "citation": "Proceedings of the 31st ACM SIGMOD-SIGACT-SIGAI symposium on Principles of \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11621942181437926346",
+            "cites_id": [
+                "11621942181437926346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying apis with SPARQL",
+                "pub_year": "2022",
+                "citation": "Information Systems 105, 101650, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8170252460782583029",
+            "cites_id": [
+                "8170252460782583029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is it Possible to Verify if a Transaction is Spendable?",
+                "pub_year": "2021",
+                "citation": "Frontiers in Blockchain 4, 770503, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12238099597553888147",
+            "cites_id": [
+                "12238099597553888147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursive SPARQL for Graph Analytics",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2004.01816, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5542342770031244867",
+            "cites_id": [
+                "5542342770031244867"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Navigational and rule-based languages for graph databases",
+                "pub_year": "2017",
+                "citation": "Reasoning Web: Logical Foundation of Knowledge Graph Construction and Query \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1842641690477354072",
+            "cites_id": [
+                "1842641690477354072"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Property Paths over Linked Data: can it be done and how to start?",
+                "pub_year": "2016",
+                "citation": "COLD@ ISWC 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:qUcmZB5y_30C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14606797283580657795",
+            "cites_id": [
+                "14606797283580657795"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Satisfiability of json schema and instance validation",
+                "pub_year": "2015",
+                "citation": "Alberto Mendelzon International Workshop on Foundations of Data Management (AMW), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9692643146031143212",
+            "cites_id": [
+                "9692643146031143212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Incomplete XML Documents with Integrity Constraints.",
+                "pub_year": "2010",
+                "citation": "AMW, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=311929834140929082",
+            "cites_id": [
+                "311929834140929082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neuro-symbolic framework for answering conjunctive queries",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.04598, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10134172531386791085",
+            "cites_id": [
+                "10134172531386791085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Size Bounds and Algorithms for Conjunctive Regular Path Queries",
+                "pub_year": "2023",
+                "citation": "26th International Conference on Database Theory (ICDT 2023), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5376576184700195764",
+            "cites_id": [
+                "5376576184700195764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Graph neural networks with local graph parameters",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 35th Conference on Neural Information Processing Systems \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14531500500526110232",
+            "cites_id": [
+                "14531500500526110232"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Current Challenges in Graph Databases (Invited Talk).",
+                "pub_year": "2020",
+                "citation": "ICDT, 3:1-3:1, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17216826982077922154",
+            "cites_id": [
+                "17216826982077922154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Robust Semantics for SHACL: Preliminary Discussion.",
+                "pub_year": "2018",
+                "citation": "AMW, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9712360081751542469",
+            "cites_id": [
+                "9712360081751542469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing achievability of queries and constraints",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1712.03438, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:k_IJM867U9cC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6805716265626118461",
+            "cites_id": [
+                "6805716265626118461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DataSlicer: Task-Based Data Selection for Visual Data Exploration",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1703.09218, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15363946800820136575",
+            "cites_id": [
+                "15363946800820136575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Worst-Case-Optimal Similarity Joins on Graph Databases",
+                "pub_year": "2024",
+                "citation": "Proceedings of the ACM on Management of Data 2 (1), 1-26, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:p2g8aNsByqUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Ring: Worst-case Optimal Joins in Graph Databases using (Almost) No Extra Space",
+                "pub_year": "2024",
+                "citation": "ACM Transactions on Database Systems 49 (2), 1-45, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: A Multi-modal, Multi-model Graph Database",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:WbkHhVStYXYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Communication Cost of Joins over Federated Data",
+                "pub_year": "2024",
+                "citation": "27th International Conference on Database Theory (ICDT 2024), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:XiSMed-E-HIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensuring Data Readiness for Quality Requirements with Help from Procedure Reuse",
+                "pub_year": "2021",
+                "citation": "Journal of Data and Information Quality (JDIQ) 13 (3), 1-15, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rapid Sequence Matching for Visualization Recommender Systems.",
+                "pub_year": "2019",
+                "citation": "Graphics Interface, 5:1-5:8, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Schemas for Graphs and Other Forms of Semi-Structured Data.",
+                "pub_year": "2019",
+                "citation": "AMW, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complexity of some fragments of description logics",
+                "pub_year": "2019",
+                "citation": "Logic Colloquium 2019, 232, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Excalibur Key-Generation Protocols For DAG Hierarchic Decryption",
+                "pub_year": "2019",
+                "citation": "Information Security and Cryptology\u2013ICISC 2018: 21st International \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantics and Validation of Recursive SHACL [Extended Version]",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semantics and Validation of Recursive SHACL [Technical Report]",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Framework for Assessing Achievability of Data-Quality Constraints",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1703.09141, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Foundations of Modern Graph Query Languages1",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1610.06264, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DataSlicer: Enabling Data Selection for Visual Data Exploration",
+                "pub_year": "2015",
+                "citation": "North Carolina State University. Dept. of Computer Science, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Querying Regular Graph Patterns",
+                "pub_year": "2014",
+                "citation": "ACM, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static analysis and query answering for incomplete data trees with constraints",
+                "pub_year": "2013",
+                "citation": "In Search of Elegance in the Theory and Practice of Computation: Essays \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Chilean Database Group",
+                "pub_year": "2013",
+                "citation": "Journal of Information and Data Management 4 (2), 68-68, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data Exchange Beyond Complete Data",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameterized regular expressions and their languages",
+                "pub_year": "2013",
+                "citation": "Elsevier, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MillenniumDB: A multi-modal, multi-model graph database engine",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LICS 2015 External Reviewers",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DataSlicer: Enabling Data Selection For Visual Data Exploration",
+                "citation": "a) A 11 (7.2), 1, 0"
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing Property Paths over Linked Data Using AI Search",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Annotation Semirings over Query Containment",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program committee chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incorporating API data into SPARQL query answers",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Program Committee Chairs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPARQL with Property Paths (version with appendix)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recursion in SPARQL\u2013online appendix",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "WHug6IAAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 12,
+        "not_available": 1
+    }
+}

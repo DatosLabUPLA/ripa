@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8aHgZHgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Franco Menares",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Operations Research",
+        "Combinatorial Optimization Problems",
+        "Mathematical Programming",
+        "Metaheuristics"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ke-tzn4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elizabeth Montero",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bi-objective time-dependent vehicle routing problem with delivery failure probabilities",
+                "pub_year": "2023",
+                "citation": "Computers & Industrial Engineering 185, 109601, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8aHgZHgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6994831397551357292",
+            "cites_id": [
+                "6994831397551357292"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de casos de COVID-19 y modelo de localizaci\u00f3n asignaci\u00f3n de bases y ambulancias considerando factores de vulnerabilidad",
+                "pub_year": "2021",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 29 (3), 564-582, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8aHgZHgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18152274726590770937",
+            "cites_id": [
+                "18152274726590770937"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

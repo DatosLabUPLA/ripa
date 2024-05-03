@@ -1,0 +1,646 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "UCuRxY8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "tomas moyano",
+    "affiliation": "Universidad Catolica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "bioinformatics",
+        "systems biology",
+        "genomics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1151,
+    "citedby5y": 804,
+    "hindex": 16,
+    "hindex5y": 16,
+    "i10index": 17,
+    "i10index5y": 16,
+    "cites_per_year": {
+        "2013": 4,
+        "2014": 37,
+        "2015": 71,
+        "2016": 56,
+        "2017": 91,
+        "2018": 86,
+        "2019": 76,
+        "2020": 147,
+        "2021": 172,
+        "2022": 145,
+        "2023": 172,
+        "2024": 72
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6QeJ7fMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Antonio Gutierrez",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6GIjTaYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Elena A. Vidal",
+            "affiliation": "Associate professor, Center for Genomics and Bioinformatics, Universidad Mayor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KFif0e8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Orlando Contreras-L\u00f3pez",
+            "affiliation": "KTH / SciLifeLab"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IO-KGyIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eleodoro Riveras",
+            "affiliation": "PhD, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OJxcVHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Miguel Alvarez Herrera",
+            "affiliation": "Universidad Andr\u00e9s Bello"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UVuQeJIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gloria Coruzzi",
+            "affiliation": "New York Univeristy"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8vjzfWwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gab Krouk \u5149\u5e0c",
+            "affiliation": "CNRS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wn2TDMEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manpreet S Katari",
+            "affiliation": "Clinical Associate Professor of Biology, New York University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "56Sv2_gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Milos Tanurdzic",
+            "affiliation": "The University of Queensland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LFGXiHAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Betti (ORCID 0000-0002-7334-...",
+            "affiliation": "Departamento de Bioqu\u00edmica Vegetal y Biolog\u00eda Molecular, Universidad de Sevilla"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dOGAMmwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paulo Canessa",
+            "affiliation": "Associate Professor at Centro de Biotecnologia Vegetal, Universidad Andres Bello"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systems approaches map regulatory networks downstream of the auxin receptor AFB3 in the nitrate response of Arabidopsis thaliana roots",
+                "pub_year": "2013",
+                "citation": "Proceedings of the National Academy of Sciences 110 (31), 12840-12845, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 205,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10413151141975848225",
+            "cites_id": [
+                "10413151141975848225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Systems analysis of transcriptome data provides new hypotheses about Arabidopsis root response to nitrate treatments",
+                "pub_year": "2014",
+                "citation": "Frontiers in plant science 5, 22, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 136,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13925077514953006250",
+            "cites_id": [
+                "13925077514953006250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Loop assembly: a simple and open system for recursive fabrication of DNA circuits",
+                "pub_year": "2019",
+                "citation": "New Phytologist 222 (1), 628-640, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 117,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9505495953235246696",
+            "cites_id": [
+                "9505495953235246696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nitrogen control of developmental phase transitions in Arabidopsis thaliana",
+                "pub_year": "2014",
+                "citation": "Journal of experimental botany 65 (19), 5611-5618, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 112,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5764625282736881083",
+            "cites_id": [
+                "5764625282736881083"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated RNA-seq and sRNA-seq analysis identifies novel nitrate-responsive genes in Arabidopsis thaliana roots",
+                "pub_year": "2013",
+                "citation": "BMC genomics 14 (1), 1-15, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 108,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16195692711442436775",
+            "cites_id": [
+                "16195692711442436775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcriptional networks in the nitrate response of Arabidopsis thaliana",
+                "pub_year": "2015",
+                "citation": "Current Opinion in Plant Biology 27, 125-132, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16249194616551406732",
+            "cites_id": [
+                "16249194616551406732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Step-by-step construction of gene co-expression networks from high-throughput arabidopsis RNA sequencing data",
+                "pub_year": "2018",
+                "citation": "Root Development, 275-301, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17985762003645824978",
+            "cites_id": [
+                "17985762003645824978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcriptome analysis reveals regulatory networks underlying differential susceptibility to Botrytis cinerea in response to nitrogen availability in Solanum lycopersicum",
+                "pub_year": "2015",
+                "citation": "Frontiers in Plant Science 6, 911, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8566194155235283863",
+            "cites_id": [
+                "8566194155235283863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plant ecological genomics at the limits of life in the Atacama Desert",
+                "pub_year": "2021",
+                "citation": "Proceedings of the National Academy of Sciences 118 (46), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15681039889659859753",
+            "cites_id": [
+                "15681039889659859753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TGA class II transcription factors are essential to restrict oxidative stress in response to UV-B stress in Arabidopsis",
+                "pub_year": "2021",
+                "citation": "Journal of experimental botany 72 (5), 1891-1905, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1883033543561308432",
+            "cites_id": [
+                "1883033543561308432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local changes in chromatin accessibility and transcriptional networks underlying the nitrate response in Arabidopsis roots",
+                "pub_year": "2019",
+                "citation": "Molecular plant 12 (12), 1545-1560, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11700486014304784885",
+            "cites_id": [
+                "11700486014304784885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MicroRNA profiling and bioinformatics target analysis in dorsal hippocampus of chronically stressed rats: relevance to depression pathophysiology",
+                "pub_year": "2018",
+                "citation": "Frontiers in molecular neuroscience 11, 251, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17510022832588261560",
+            "cites_id": [
+                "17510022832588261560"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of transcriptomics and co-expression networks to analyze the interconnections between nitrogen assimilation and photorespiratory metabolism",
+                "pub_year": "2016",
+                "citation": "Journal of experimental botany 67 (10), 3095-3108, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=615326244242712416",
+            "cites_id": [
+                "615326244242712416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Whole genome sequence, variant discovery and annotation in Mapuche-Huilliche native South Americans",
+                "pub_year": "2019",
+                "citation": "Scientific reports 9 (1), 1-11, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7232797519322017158",
+            "cites_id": [
+                "7232797519322017158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatiotemporal analysis identifies ABF2 and ABF3 as key hubs of endodermal response to nitrate",
+                "pub_year": "2022",
+                "citation": "Proceedings of the National Academy of Sciences 119 (4), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14779521283016089445",
+            "cites_id": [
+                "14779521283016089445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-wide analysis in response to nitrogen and carbon identifies regulators for root AtNRT2 transporters",
+                "pub_year": "2021",
+                "citation": "Plant Physiology 186 (1), 696-714, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10841849944162102914",
+            "cites_id": [
+                "10841849944162102914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constructing simple biological networks for understanding complex high-throughput data in plants",
+                "pub_year": "2015",
+                "citation": "Plant Functional Genomics, 503-526, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14281147372422381318",
+            "cites_id": [
+                "14281147372422381318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "c-Abl regulates a synaptic plasticity-related transcriptional program involved in memory and learning",
+                "pub_year": "2021",
+                "citation": "Progress in Neurobiology 205, 102122, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4608155239732035204",
+            "cites_id": [
+                "4608155239732035204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcriptomic profiles reveal differences in zinc metabolism, inflammation, and tight junction proteins in duodenum from cholesterol gallstone subjects",
+                "pub_year": "2020",
+                "citation": "Scientific reports 10 (1), 1-10, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1429083902316312314",
+            "cites_id": [
+                "1429083902316312314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcription factor TGA2 is essential for UV-B stress tolerance controlling oxidative stress in Arabidopsis",
+                "pub_year": "2020",
+                "citation": "bioRxiv, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17750059716382994225",
+            "cites_id": [
+                "17750059716382994225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contreras-Lo pez O, Guti\u00e9 rrez RA: Systems approaches map regulatory networks downstream of the auxin receptor AFB3 in the nitrate response of Arabidopsis thaliana roots",
+                "pub_year": "2013",
+                "citation": "Proc Natl Acad Sci USA 110, 12840-12845, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11404511883124467996",
+            "cites_id": [
+                "11404511883124467996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differences in berry primary and secondary metabolisms identified by transcriptomic and metabolic profiling of two table grape color somatic variants",
+                "pub_year": "2019",
+                "citation": "bioRxiv, 861120, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6937301130929341578",
+            "cites_id": [
+                "6937301130929341578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-wide analysis in response to N and C identifies new regulators for root AtNRT2 transporters",
+                "pub_year": "2019",
+                "citation": "BioRxiv, 822197, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7303118760490738111",
+            "cites_id": [
+                "7303118760490738111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genomic Footprinting Analyses from DNase-seq Data to Construct Gene Regulatory Networks",
+                "pub_year": "2021",
+                "citation": "Modeling Transcriptional Regulation, 25-46, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=425540320460925266",
+            "cites_id": [
+                "425540320460925266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Whole genome sequence of Mapuche-Huilliche Native Americans",
+                "pub_year": "2018",
+                "citation": "bioRxiv, 252619, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17488978677957606893",
+            "cites_id": [
+                "17488978677957606893"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic changes in mRNA nucleocytoplasmic localization in the nitrate response of Arabidopsis roots",
+                "pub_year": "2022",
+                "citation": "bioRxiv, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OUP accepted manuscript",
+                "pub_year": "2021",
+                "citation": "Plant Physiology, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transcriptomic profiles reveal differences in zinc metabolism, inflammation, and tight junction proteins in duodenum from cholesterol gallstone subjects",
+                "pub_year": "2020",
+                "citation": "Scientific Reports (Nature Publisher Group) 10 (1), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regulation of NRT2s transporter by the NRT1. 1 dependent signaling pathway in response to high NO3",
+                "pub_year": "2019",
+                "citation": "4th International symposium on the Nitrogen Nutrition of Plants, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Whole Genome Sequence, Variant Discovery and Annotation in Mapuche-Huilliche Native South Americans",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Role of Zinc, Inflammation and Duodenal Mucosal Integrity in Cholesterol Gallstone Diseases",
+                "pub_year": "2018",
+                "citation": "The American Journal of Gastroenterology 113, S666-S666, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Role of Zinc, Inflammation and Duodenal Mucosal Integrity in Cholesterol Gallstone Diseases: 1166",
+                "pub_year": "2018",
+                "citation": "Official journal of the American College of Gastroenterology| ACG 113, S666, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MicroRNA Profiling and Bioinformatics Target Analysis in Dorsal Hippocampus of Chronically Stressed Rats: Relevance to Depression Pathophysiology",
+                "pub_year": "2018",
+                "citation": "FRONTIERS MEDIA SA, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Use of transcriptomics and co-expression networks to analyze the interconnections between nitrogen assimilation and photorespiratory metabolism",
+                "pub_year": "2016",
+                "citation": "Journal of Experimental Botany, 67 (10), 3095-3108., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "UCuRxY8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 15,
+        "not_available": 2
+    }
+}

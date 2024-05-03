@@ -1,0 +1,619 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uH6s_YEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jos\u00e9 Lemus-Romani",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uH6s_YEAAAAJ&citpid=5",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Artificial Intelligence",
+        "Metaheuristic",
+        "Machine Learning",
+        "Building Information Modelling."
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 230,
+    "citedby5y": 230,
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 11,
+    "i10index5y": 11,
+    "cites_per_year": {
+        "2020": 17,
+        "2021": 95,
+        "2022": 53,
+        "2023": 47,
+        "2024": 18
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iC1zxr4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Soto",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7bd7YZoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gino Astorga",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gQwp7I0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Becerra-Rozas",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FEr2bK8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Cisternas-Caneo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BEWa12QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego F. Tapia Ruiz",
+            "affiliation": "Pontifical Catholic University of Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UR6tfqAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Antonio Garcia",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso , Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Xj3N6m0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Agust\u00edn Salas",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_aISrUIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Luis Moura",
+            "affiliation": "Profesor de Ingenieria de Transportes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ueGHukgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Borja Alonso",
+            "affiliation": "Universidad de Cantabria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DhbSIIkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s Carrasco-Astudillo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ON5lUZkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Broderick Crawford",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Q-learnheuristics: Towards data-driven balanced metaheuristics",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (16), 1839, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3764281392741808416",
+            "cites_id": [
+                "3764281392741808416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A q-learning hyperheuristic binarization framework to balance exploration and exploitation",
+                "pub_year": "2020",
+                "citation": "International Conference on Applied Informatics, 14-28, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12400202437912370283",
+            "cites_id": [
+                "12400202437912370283"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedding Q-Learning in the selection of metaheuristic operators: The enhanced binary grey wolf optimizer case",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402446395321744166",
+            "cites_id": [
+                "9402446395321744166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A data-driven dynamic discretization framework to solve combinatorial problems using continuous metaheuristics",
+                "pub_year": "2020",
+                "citation": "International Conference on Innovations in Bio-Inspired Computing and \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15210048885712416879",
+            "cites_id": [
+                "15210048885712416879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel learning-based binarization scheme selector for swarm algorithms solving combinatorial problems",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (22), 2887, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1910019590165085334",
+            "cites_id": [
+                "1910019590165085334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigating the efficiency of swarm algorithms for bridge strengthening by conversion to tied-arch: A numerical case study on San Luis bridge",
+                "pub_year": "2021",
+                "citation": "Iranian Journal of Science and Technology, Transactions of Civil Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16280191985378839455",
+            "cites_id": [
+                "16280191985378839455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A binary machine learning cuckoo search algorithm improved by a local search operator for the set-union knapsack problem",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (20), 2611, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13206670869925568919",
+            "cites_id": [
+                "13206670869925568919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuous metaheuristics for binary optimization problems: An updated systematic literature review",
+                "pub_year": "2022",
+                "citation": "Mathematics 11 (1), 129, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14795691274456660177",
+            "cites_id": [
+                "14795691274456660177"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ambidextrous socio-cultural algorithms",
+                "pub_year": "2020",
+                "citation": "Computational Science and Its Applications\u2013ICCSA 2020: 20th International \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3444614783520859793",
+            "cites_id": [
+                "3444614783520859793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the 0/1 knapsack problem using a galactic swarm optimization with data-driven binarization approaches",
+                "pub_year": "2020",
+                "citation": "Computational Science and Its Applications\u2013ICCSA 2020: 20th International \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881667108193543258",
+            "cites_id": [
+                "16881667108193543258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bridges reinforcement through conversion of tied-arch using crow search algorithm",
+                "pub_year": "2019",
+                "citation": "Computational Science and Its Applications\u2013ICCSA 2019: 19th International \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2240125743914109436",
+            "cites_id": [
+                "2240125743914109436"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Galactic swarm optimization applied to reinforcement of bridges by conversion in cable-stayed arch",
+                "pub_year": "2019",
+                "citation": "Computational Science and Its Applications\u2013ICCSA 2019: 19th International \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12869481068789553110",
+            "cites_id": [
+                "12869481068789553110"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparison of Learnheuristics using different Reward Functions to solve the Set Covering Problem",
+                "pub_year": "2021",
+                "citation": "International Conference on Optimization and Learning, 74-85, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8625489874585167475",
+            "cites_id": [
+                "8625489874585167475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An adaptive intelligent water drops algorithm for set covering problem",
+                "pub_year": "2019",
+                "citation": "2019 19th International Conference on Computational Science and Its \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1633595828405937049",
+            "cites_id": [
+                "1633595828405937049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of bridges reinforcements with tied-arch using moth search algorithm",
+                "pub_year": "2019",
+                "citation": "From Bioinspired Systems and Biomedical Applications to Machine Learning \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4016471057727325487",
+            "cites_id": [
+                "4016471057727325487"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Swarm-Inspired Computing to Solve Binary Optimization Problems: A Backward Q-Learning Binarization Scheme Selector",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (24), 4776, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:4DMP91E08xMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3126461323647694899",
+            "cites_id": [
+                "3126461323647694899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement learning based whale optimizer",
+                "pub_year": "2021",
+                "citation": "International Conference on Computational Science and Its Applications, 205-219, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4068736419082497909",
+            "cites_id": [
+                "4068736419082497909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Limited stop services design considering variable dwell time and operating capacity constraints",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 30359-30373, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18370406069692328595",
+            "cites_id": [
+                "18370406069692328595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A teaching-learning-based optimization algorithm for the weighted set-covering problem",
+                "pub_year": "2020",
+                "citation": "Tehni\u010dki vjesnik 27 (5), 1678-1684, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16042769666324701751",
+            "cites_id": [
+                "16042769666324701751"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Balancing exploration-exploitation in the set covering problem resolution with a self-adaptive intelligent water drops algorithm",
+                "pub_year": "2020",
+                "citation": "Advances in Science, Technolog y and Engineering Systems 6 (1), 134-45, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4532068814575967242",
+            "cites_id": [
+                "4532068814575967242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-configuring intelligent water drops algorithm for software project scheduling problem",
+                "pub_year": "2019",
+                "citation": "Information Technology and Systems: Proceedings of ICITS 2019, 274-283, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7337125953230904445",
+            "cites_id": [
+                "7337125953230904445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of bridges reinforcement by conversion to tied arch using an animal migration algorithm",
+                "pub_year": "2019",
+                "citation": "Advances and Trends in Artificial Intelligence. From Theory to Practice \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3706299853231054007,7373491855203842600",
+            "cites_id": [
+                "3706299853231054007",
+                "7373491855203842600"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Binarization of Metaheuristics: Is the Transfer Function Really Important?",
+                "pub_year": "2023",
+                "citation": "Biomimetics 8 (5), 400, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17062691519295197811",
+            "cites_id": [
+                "17062691519295197811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing retaining walls through reinforcement learning approaches and metaheuristic techniques",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (9), 2104, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9919919764445201597",
+            "cites_id": [
+                "9919919764445201597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bridges strengthening by conversion to tied-arch using monarch butterfly optimization",
+                "pub_year": "2020",
+                "citation": "Fourth International Congress on Information and Communication Technology \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15497451413392601720",
+            "cites_id": [
+                "15497451413392601720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bridge strengthening by conversion to tied-arch using dragonfly algorithm",
+                "pub_year": "2019",
+                "citation": "2019 14th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18290303539046271625,15525215233752847191",
+            "cites_id": [
+                "18290303539046271625",
+                "15525215233752847191"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Learnheuristic: Binary SARSA-Sine Cosine Algorithm (BS-SCA)",
+                "pub_year": "2021",
+                "citation": "International Conference on Metaheuristics and Nature Inspired Computing \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9056517482399667584",
+            "cites_id": [
+                "9056517482399667584"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An autonomous galactic swarm optimization algorithm supported by hidden markov model",
+                "pub_year": "2020",
+                "citation": "International Conference on Soft Computing and Pattern Recognition, 354-363, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8430617465337346059",
+            "cites_id": [
+                "8430617465337346059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intelligent decision-making for binary coverage: Unveiling the potential of the multi-armed bandit selector",
+                "pub_year": "2024",
+                "citation": "Expert Systems with Applications, 124112, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous Parameter Balance in Population-Based Approaches: A Self-Adaptive Learning-Based Strategy",
+                "pub_year": "2024",
+                "citation": "Biomimetics 9 (2), 82, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving combinatorial problems with continuous swarm intelligence algorithms using machine learning techniques to select binarization schemes",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "uH6s_YEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Zopjft4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alvaro Abarca",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "GIS"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technology support for collaborative preparation of emergency plans",
+                "pub_year": "2019",
+                "citation": "Sensors 19 (22), 5040, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Zopjft4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17789349457443023655",
+            "cites_id": [
+                "17789349457443023655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Technology Support for Collaborative Preparation of Emergency Plans",
+                "pub_year": "2019",
+                "citation": "MDPI AG, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Zopjft4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

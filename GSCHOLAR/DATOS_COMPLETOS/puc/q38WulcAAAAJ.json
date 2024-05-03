@@ -1,0 +1,618 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "q38WulcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pedro A. Saa",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q38WulcAAAAJ&citpid=3",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Metabolic modelling",
+        "Systems biotechnology",
+        "Optimization",
+        "Monte Carlo methods"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://sysbioengineeringlab.ing.puc.cl/",
+    "citedby": 772,
+    "citedby5y": 602,
+    "hindex": 15,
+    "hindex5y": 15,
+    "i10index": 19,
+    "i10index5y": 17,
+    "cites_per_year": {
+        "2012": 5,
+        "2013": 4,
+        "2014": 9,
+        "2015": 20,
+        "2016": 29,
+        "2017": 39,
+        "2018": 61,
+        "2019": 76,
+        "2020": 81,
+        "2021": 117,
+        "2022": 143,
+        "2023": 109,
+        "2024": 74
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wYOsz9kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lars Keld Nielsen",
+            "affiliation": "Professor of Biological Engineering, University of Queensland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AnwmHRkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Agosin",
+            "affiliation": "Pontificia Universidad Catolica de CHile "
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ElRuVE0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lake-Ee Quek",
+            "affiliation": "Postdoctoral Fellow"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eM6hx-EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Cristiana Gomes de Oliveira Dal'M...",
+            "affiliation": "Bioengineering, School of Chemical Engineering, The University of Queensland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-I0-uyMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Laurie",
+            "affiliation": "Professor of Enology, Universidad de Talca, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulation, construction and analysis of kinetic models of metabolism: A review of modelling frameworks",
+                "pub_year": "2017",
+                "citation": "Biotechnology Advances, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 136,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16756489884908156681",
+            "cites_id": [
+                "16756489884908156681"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-tissue genome-scale metabolic modeling framework for the analysis of whole plant systems",
+                "pub_year": "2015",
+                "citation": "Frontiers in plant science 6, 111599, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 110,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10373497939272460811",
+            "cites_id": [
+                "10373497939272460811"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construction of feasible and accurate kinetic models of metabolism: A Bayesian approach",
+                "pub_year": "2016",
+                "citation": "Scientific Reports 6, 29635, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8393440126939439314",
+            "cites_id": [
+                "8393440126939439314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ll-ACHRB: a scalable algorithm for sampling the feasible solution space of metabolic networks",
+                "pub_year": "2016",
+                "citation": "Bioinformatics 32 (15), 2330-2337, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17481949840213690613",
+            "cites_id": [
+                "17481949840213690613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A General Framework for Thermodynamically Consistent Parameterization and Efficient Sampling of Enzymatic Reactions",
+                "pub_year": "2015",
+                "citation": "PLOS Computational Biology 11 (4), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10643800502732432734",
+            "cites_id": [
+                "10643800502732432734"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective dissolved oxygen control strategy for high-cell-density cultures",
+                "pub_year": "2014",
+                "citation": "IEEE Latin America Transactions 12 (3), 389-394, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12131410173761809790",
+            "cites_id": [
+                "12131410173761809790"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling oxygen dissolution and biological uptake during pulse oxygen additions in oenological fermentations",
+                "pub_year": "2012",
+                "citation": "Bioprocess and biosystems engineering 35, 1167-1178, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12025988963701596449",
+            "cites_id": [
+                "12025988963701596449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Build Your Bioprocess on a Solid Strain\u2014\u03b2-Carotene Production in Recombinant Saccharomyces cerevisiae",
+                "pub_year": "2019",
+                "citation": "Frontiers in bioengineering and biotechnology 7, 171, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043804450820513612",
+            "cites_id": [
+                "6043804450820513612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling Approaches for Probing Cross-Feeding Interactions in the Human Gut Microbiome",
+                "pub_year": "2021",
+                "citation": "Computational and Structural Biotechnology Journal 20, 79-89, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3016659966713144727",
+            "cites_id": [
+                "3016659966713144727"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Engineering Saccharomyces cerevisiae for the Overproduction of \u03b2-Ionone and Its Precursor \u03b2-Carotene",
+                "pub_year": "2020",
+                "citation": "Frontiers in Bioengineering and Biotechnology 8, 578793, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14812956387387085202",
+            "cites_id": [
+                "14812956387387085202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oxygen incorporation and dissolution during industrial-scale red wine fermentations",
+                "pub_year": "2014",
+                "citation": "Food and bioprocess technology 7, 2627-2636, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7122454054504586240",
+            "cites_id": [
+                "7122454054504586240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast-SNP: a fast matrix pre-processing algorithm for efficient loopless flux optimization of metabolic models",
+                "pub_year": "2016",
+                "citation": "Bioinformatics 32 (24), 3807-3814, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17024436701122378892",
+            "cites_id": [
+                "17024436701122378892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inferring composition and function of the human gut microbiome in time and space: A review of genome-scale metabolic modelling tools",
+                "pub_year": "2020",
+                "citation": "Computational and Structural Biotechnology Journal 18, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:_kc_bZDykSQC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6609854777338867353",
+            "cites_id": [
+                "6609854777338867353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contextualized genome-scale model unveils high-order metabolic effects of the specific growth rate and oxygenation level in recombinant Pichia pastoris",
+                "pub_year": "2019",
+                "citation": "Metabolic Engineering Communications, e00103, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9697280899277619207",
+            "cites_id": [
+                "9697280899277619207"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved calibration of a solid substrate fermentation model",
+                "pub_year": "2011",
+                "citation": "Electronic Journal of Biotechnology 14 (5), 7-7, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:qjMakFHDy7sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1309271755376468492",
+            "cites_id": [
+                "1309271755376468492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust hybrid observer for monitoring high-cell density cultures exhibiting overflow metabolism",
+                "pub_year": "2021",
+                "citation": "Journal of Process Control 104, 112-125, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3342838044771061400",
+            "cites_id": [
+                "3342838044771061400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metabolic Modeling and Bidirectional Culturing of Two Gut Microbes Reveal Cross-Feeding Interactions and Protective Effects on Intestinal Cells",
+                "pub_year": "2022",
+                "citation": "mSystems, e00646-22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8349941103884547230",
+            "cites_id": [
+                "8349941103884547230"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expanding metabolic capabilities using novel pathway designs: computational tools and case studies",
+                "pub_year": "2019",
+                "citation": "Biotechnology Journal, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:5nxA0vEk-isC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9215320627545104562",
+            "cites_id": [
+                "9215320627545104562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of carbon dioxide injection on oxygen dissolution rate during oxygen additions in a bubble column",
+                "pub_year": "2013",
+                "citation": "Chemical engineering journal 232, 157-166, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7169473184222911910",
+            "cites_id": [
+                "7169473184222911910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From reconstruction to C4 metabolic engineering: a case study for overproduction of polyhydroxybutyrate in bioenergy grasses",
+                "pub_year": "2018",
+                "citation": "Plant Science, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17053888024722275347",
+            "cites_id": [
+                "17053888024722275347"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust control of fed-batch high-cell density cultures: a simulation-based assessment",
+                "pub_year": "2021",
+                "citation": "Computers & Chemical Engineering 155, 107545, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:aqlVkmm33-oC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6406958323014027689",
+            "cites_id": [
+                "6406958323014027689"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A probabilistic framework for the exploration of enzymatic capabilities based on feasible kinetics and control analysis",
+                "pub_year": "2015",
+                "citation": "Biochimica et Biophysica Acta (BBA)-General Subjects 1860 (3), 576-587, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15241433304927964313",
+            "cites_id": [
+                "15241433304927964313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GRASP: A computational platform for building kinetic models of cellular metabolism",
+                "pub_year": "2022",
+                "citation": "Bioinformatics Advances, vbac066, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9267363901497144668",
+            "cites_id": [
+                "9267363901497144668"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microbial interactions and the homeostasis of the gut microbiome: the role of Bifidobacterium",
+                "pub_year": "2023",
+                "citation": "Microbiome Research Reports 2 (3), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:qUcmZB5y_30C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11472413713325233223",
+            "cites_id": [
+                "11472413713325233223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genomic integration of unclonable gene expression cassettes in Saccharomyces cerevisiae using rapid cloning\u2010free workflows",
+                "pub_year": "2020",
+                "citation": "MicrobiologyOpen, e978, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3803782337057291049",
+            "cites_id": [
+                "3803782337057291049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The topology of genome-scale metabolic reconstructions unravels independent modules and high network flexibility",
+                "pub_year": "2022",
+                "citation": "PLOS Computational Biology 18 (6), e1010203, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13737403988611435580",
+            "cites_id": [
+                "13737403988611435580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved screening of COVID-19 cases through a Bayesian network symptoms model and psychophysical olfactory test",
+                "pub_year": "2021",
+                "citation": "medRxiv, 2021.01. 18.21249821, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8455154163186330193",
+            "cites_id": [
+                "8455154163186330193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LooplessFluxSampler: an efficient toolbox for sampling the loopless flux solution space of metabolic models",
+                "pub_year": "2024",
+                "citation": "BMC bioinformatics 25 (1), 3, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11911692590103987649",
+            "cites_id": [
+                "11911692590103987649"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metabolic Modeling of Wine Fermentation at Genome Scale",
+                "pub_year": "2022",
+                "citation": "Computational Systems Biology in Medicine and Biotechnology: Methods and \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5672424735806120908",
+            "cites_id": [
+                "5672424735806120908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reliable calibration and validation of phenomenological and hybrid models of high-cell-density fed-batch cultures subject to metabolic overflow",
+                "pub_year": "2024",
+                "citation": "Computers & Chemical Engineering, 108706, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metabolic modeling of Halomonas campaniensis improves polyhydroxybutyrate production under nitrogen limitation",
+                "pub_year": "2024",
+                "citation": "Applied Microbiology and Biotechnology 310 (108), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genome-scale metabolic modeling of the human milk oligosaccharide utilization by Bifidobacterium longum subsp. infantis",
+                "pub_year": "2024",
+                "citation": "mSystems, e00715-23, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rational Metabolic Pathway Prediction and Design: Computational Tools and Their Applications for Yeast Systems and Synthetic Biology",
+                "pub_year": "2022",
+                "citation": "Synthetic Biology of Yeasts, 3-25, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Screening of COVID-19 cases through a Bayesian network symptoms model and psychophysical olfactory test",
+                "pub_year": "2021",
+                "citation": "iScience, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q38WulcAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

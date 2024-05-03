@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "u1Ga564AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Beneventti",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [],
+    "email_domain": "@unab.cl",
+    "citedby": 27,
+    "citedby5y": 27,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 7,
+        "2022": 5,
+        "2023": 12,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-product maximin hazmat routing-location problem with multiple origin-destination pairs",
+                "pub_year": "2019",
+                "citation": "Journal of Cleaner Production 240, 118193, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "u1Ga564AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17754270395068078258",
+            "cites_id": [
+                "17754270395068078258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Casualty Stabilization\u2013Transportation Problem in a Large-Scale Disaster",
+                "pub_year": "2022",
+                "citation": "Sustainability 14 (2), 621, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "u1Ga564AAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3209515528652894116",
+            "cites_id": [
+                "3209515528652894116"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "l-lWw1EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mar\u00eda-Jos\u00e9 Castilla",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=l-lWw1EAAAAJ&citpid=5",
+    "affiliation": "Mg. en Ciencias de la Ingenier\u00eda, Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "electr\u00f3nica",
+        "procesamiento de se\u00f1ales",
+        "inteligencia artificial"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 1,
+        "2022": 0,
+        "2023": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lCma-igAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "CESAR SAN MARTIN SALAS",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4jQsVIwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Millaray Curilem Sald\u00edas",
+            "affiliation": "Professor of Electrical Engineering, Universidad de La Frontera. Temuco.Chile."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5eZSlJwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivo Janos Fustos-Toribio",
+            "affiliation": "Departamento en Ingenieria de Obras Civiles, Universidad de la Frontera"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmo de identificaci\u00f3n de fases P y S de eventos sismo-volc\u00e1nicos",
+                "pub_year": "2020",
+                "citation": "Universidad de La Frontera, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "l-lWw1EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6855943857798362155,5418516498116219470",
+            "cites_id": [
+                "6855943857798362155",
+                "5418516498116219470"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pole Placement applied to drive a Truck and Trailer in backward. A didactic view",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "l-lWw1EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15994453057327340882",
+            "cites_id": [
+                "15994453057327340882"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "P and S wave detection for the Nevados de Chillan Volcanic Complex (Chile), based on spectro-temporal features",
+                "pub_year": "2023",
+                "citation": "Journal of Volcanology and Geothermal Research 435, 107756, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "l-lWw1EAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15404601462990482801",
+            "cites_id": [
+                "15404601462990482801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LSTM network for the detection of P and S waves in seismic signals from the Nevados de Chill\u00e1n volcano (Chile)",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 1-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "l-lWw1EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6106010252767379747",
+            "cites_id": [
+                "6106010252767379747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimaci\u00f3n de Distancia en Eventos Sismo-Tect\u00f3nicos utilizando una Estaci\u00f3n",
+                "pub_year": "2023",
+                "citation": "Universidad de La Frontera, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "l-lWw1EAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

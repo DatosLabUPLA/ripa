@@ -1,0 +1,91 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_VV7RLwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Santiago Armstrong",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_VV7RLwAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Algorithms",
+        "Combinatorics",
+        "Optimization"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 1,
+        "2023": 4,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Rt9fMGEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Guzman",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimal algorithm for strict circular seriation",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Mathematics of Data Science 3 (4), 1223-1250, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_VV7RLwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13694375782630247739",
+            "cites_id": [
+                "13694375782630247739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimal algorithm for strict circular seriation",
+                "pub_year": "2021",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_VV7RLwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Optimal Algorithm for Strict Circular Seriation",
+                "pub_year": "2021",
+                "citation": "PQDT-Global, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_VV7RLwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

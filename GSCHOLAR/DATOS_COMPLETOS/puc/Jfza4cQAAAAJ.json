@@ -1,0 +1,2186 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Jfza4cQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Jara",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Jfza4cQAAAAJ&citpid=3",
+    "affiliation": "Departament of Statistics, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Bayesian nonparametrics",
+        "Hierarchical Modelling",
+        "Statistical Computing"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "http://www.mat.uc.cl/~ajara",
+    "citedby": 3834,
+    "citedby5y": 2144,
+    "hindex": 26,
+    "hindex5y": 18,
+    "i10index": 41,
+    "i10index5y": 28,
+    "cites_per_year": {
+        "2004": 11,
+        "2005": 13,
+        "2006": 22,
+        "2007": 25,
+        "2008": 59,
+        "2009": 58,
+        "2010": 96,
+        "2011": 129,
+        "2012": 145,
+        "2013": 165,
+        "2014": 163,
+        "2015": 225,
+        "2016": 145,
+        "2017": 221,
+        "2018": 160,
+        "2019": 168,
+        "2020": 163,
+        "2021": 358,
+        "2022": 743,
+        "2023": 550,
+        "2024": 150
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iJ0qZckAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Peter Mueller",
+            "affiliation": "Professor Statistics, University of Texas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sTtUkYQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Catterina Ferreccio",
+            "affiliation": "Department of Public Health/School of Medicine/Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NE5vMTMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel de Carvalho",
+            "affiliation": "School of Mathematics, University of Edinburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "saVSIikAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ximena Aguilera MD MPH Public Heal...",
+            "affiliation": "Centro de Epidemiolog\u00eda y Pol\u00edticas de Salud. Fac. de Medicina Universidad del Desarrollo Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BpDohDAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Marshall",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Os_RpQIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Verdugo",
+            "affiliation": "Assistant Professor of Human Genetics, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J1JD3sAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Haiming Zhou",
+            "affiliation": "Daiichi Sankyo, Inc."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5MAMmEEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ronald Christensen",
+            "affiliation": "Professor of Statistics, University of New Mexico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SkS4J98AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis E. Nieto-Barajas",
+            "affiliation": "Full Time Professor of Statistics, ITAM"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of an Inactivated SARS-CoV-2 Vaccine in Chile",
+                "pub_year": "2021",
+                "citation": "New England Journal of Medicine, 1-11, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:GFxP56DSvIMC",
+            "num_citations": 918,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8751913854100421789,2113770344351464968",
+            "cites_id": [
+                "8751913854100421789",
+                "2113770344351464968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric data analysis",
+                "pub_year": "2015",
+                "citation": "Springer, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:J-pR_7NvFogC",
+            "num_citations": 287,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3901202158891364474",
+            "cites_id": [
+                "3901202158891364474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPpackage: Bayesian semi-and nonparametric modeling in R",
+                "pub_year": "2011",
+                "citation": "Journal of statistical software 40 (5), 1, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 272,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13051279422140644409",
+            "cites_id": [
+                "13051279422140644409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Population-based prevalence and age distribution of human papillomavirus among women in Santiago, Chile",
+                "pub_year": "2004",
+                "citation": "Cancer Epidemiology Biomarkers & Prevention 13 (12), 2271-2276, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 200,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16390750341867024643",
+            "cites_id": [
+                "16390750341867024643"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gastric Cancer is Related to Early Helicobacter pylori Infection in a High-Prevalence Country",
+                "pub_year": "2007",
+                "citation": "Cancer Epidemiology Biomarkers & Prevention 16 (4), 662-667, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 161,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8473934577177594845",
+            "cites_id": [
+                "8473934577177594845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of homologous and heterologous booster doses for an inactivated SARS-CoV-2 vaccine: a large-scale prospective cohort study",
+                "pub_year": "2022",
+                "citation": "The Lancet Global Health 10 (6), e798-e806, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:fbc8zXXH2BUC",
+            "num_citations": 160,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3193198842639834858",
+            "cites_id": [
+                "3193198842639834858"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear mixed models with skew-elliptical distributions: A Bayesian approach",
+                "pub_year": "2008",
+                "citation": "Computational statistics & data analysis 52 (11), 5033-5045, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 145,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13993937607042907801",
+            "cites_id": [
+                "13993937607042907801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Long-term blinded placebo-controlled study of SNT-MC17/idebenone in the dystrophin deficient              mdx              mouse: cardiac protection and improved \u2026",
+                "pub_year": "2009",
+                "citation": "European heart journal 30 (1), 116-124, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 116,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2442453256742206834",
+            "cites_id": [
+                "2442453256742206834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the support of MacEachern\u2019s dependent Dirichlet processes and extensions",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 100,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2747519893947585896",
+            "cites_id": [
+                "2747519893947585896"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parental smoking behavior and caries experience in preschool children",
+                "pub_year": "2008",
+                "citation": "Community dentistry and oral epidemiology 36 (3), 249-257, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 96,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11212514215428349586",
+            "cites_id": [
+                "11212514215428349586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of CoronaVac in children 3\u20135 years of age during the SARS-CoV-2 Omicron outbreak in Chile",
+                "pub_year": "2022",
+                "citation": "Nature Medicine 28 (7), 1377-1380, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Bg7qf7VwUHIC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6774842795524010249,9679551628635444850",
+            "cites_id": [
+                "6774842795524010249",
+                "9679551628635444850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The dependent Dirichlet process and related models",
+                "pub_year": "2022",
+                "citation": "Statistical Science 37 (1), 24-41, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:r_AWSJRzSzQC",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4069395417083578150",
+            "cites_id": [
+                "4069395417083578150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applied Bayesian non-and semi-parametric inference using DPpackage",
+                "pub_year": "2007",
+                "citation": "SpherWave: An R Package for Analyzing Scattered Spherical Data by Spherical \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 90,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4737923414050617254",
+            "cites_id": [
+                "4737923414050617254"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A class of mixtures of dependent tail-free processes",
+                "pub_year": "2011",
+                "citation": "Biometrika 98 (3), 553-566, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17899275221595948380",
+            "cites_id": [
+                "17899275221595948380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian semiparametric inference for multivariate doubly-interval-censored data",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8981758352191141667",
+            "cites_id": [
+                "8981758352191141667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric ROC regression modeling",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9721999109333193434",
+            "cites_id": [
+                "9721999109333193434"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Caries patterns in primary dentition in 3-, 5-and 7-year-old children: spatial correlation and preventive consequences",
+                "pub_year": "2006",
+                "citation": "Caries research 41 (1), 16-25, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3399469505379989063",
+            "cites_id": [
+                "3399469505379989063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robustifying generalized linear mixed models using a new class of mixtures of multivariate Polya trees",
+                "pub_year": "2009",
+                "citation": "Journal of Computational and Graphical Statistics 18 (4), 838-860, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=101872138448011699",
+            "cites_id": [
+                "101872138448011699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oral hygiene and gingival health in Flemish pre-school children",
+                "pub_year": "2011",
+                "citation": "Community dental health 28 (1), 75, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8794686149627891082",
+            "cites_id": [
+                "8794686149627891082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Bayesian nonparametric generalization of IRT-type models",
+                "pub_year": "2011",
+                "citation": "Psychometrika 76 (3), 385-409, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9773464396448687509",
+            "cites_id": [
+                "9773464396448687509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Dirichlet process mixture model for the analysis of correlated binary responses",
+                "pub_year": "2007",
+                "citation": "Computational Statistics & Data Analysis 51 (11), 5402-5415, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14742938032557469396",
+            "cites_id": [
+                "14742938032557469396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully nonparametric regression for bounded data using dependent Bernstein polynomials",
+                "pub_year": "2017",
+                "citation": "Journal of the American Statistical Association 112 (518), 806-825, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3191563513985168659",
+            "cites_id": [
+                "3191563513985168659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Genetic parameters and trends in the Chilean multibreed dairy cattle population",
+                "pub_year": "2004",
+                "citation": "Journal of dairy science 87 (5), 1506-1518, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18139654999081973265",
+            "cites_id": [
+                "18139654999081973265"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parametric nonparametric statistics: An introduction to mixtures of finite Polya trees",
+                "pub_year": "2008",
+                "citation": "The American Statistician 62 (4), 296-306, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13425360609996206360",
+            "cites_id": [
+                "13425360609996206360"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling county level breast cancer survival data using a covariate-adjusted frailty proportional hazards model",
+                "pub_year": "2015",
+                "citation": "The annals of applied statistics 9 (1), 43, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:f2IySw72cVMC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1710844925862153026",
+            "cites_id": [
+                "1710844925862153026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surviving fully Bayesian nonparametric regression models",
+                "pub_year": "2013",
+                "citation": "Bayesian theory and applications, 593-615, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7038926536150162281",
+            "cites_id": [
+                "7038926536150162281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian density estimation for compositional data using random Bernstein polynomials",
+                "pub_year": "2015",
+                "citation": "Journal of Statistical Planning and Inference 166, 116-125, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18301740894731211677",
+            "cites_id": [
+                "18301740894731211677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A time series model for responses on the unit interval",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8458236605258115249",
+            "cites_id": [
+                "8458236605258115249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correcting for misclassification for a monotone disease process with an application in dental research",
+                "pub_year": "2010",
+                "citation": "Statistics in medicine 29 (30), 3103-3117, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3945476206949219178",
+            "cites_id": [
+                "3945476206949219178"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian semiparametric temporally-stratified proportional hazards model with spatial frailties",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10246083177395240029",
+            "cites_id": [
+                "10246083177395240029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of an inactivated SARS-CoV-2 vaccine in children and adolescents: a large-scale observational study",
+                "pub_year": "2023",
+                "citation": "The Lancet Regional Health\u2013Americas 21, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:gVv57TyPmFsC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2863047327414190122",
+            "cites_id": [
+                "2863047327414190122"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Polya tree sampler: Toward efficient and automatic independent Metropolis\u2013Hastings proposals",
+                "pub_year": "2011",
+                "citation": "Journal of Computational and Graphical Statistics 20 (1), 41-62, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7816948862187692900",
+            "cites_id": [
+                "7816948862187692900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CINRG pilot trial of oxatomide in steroid-naive Duchenne muscular dystrophy",
+                "pub_year": "2007",
+                "citation": "European Journal of Paediatric Neurology 11 (6), 337-340, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7788115154606599567",
+            "cites_id": [
+                "7788115154606599567"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditional independence of multivariate binary data with an application in caries research",
+                "pub_year": "2007",
+                "citation": "Computational statistics & data analysis 51 (6), 3223-3234, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17183784133796732491",
+            "cites_id": [
+                "17183784133796732491"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of segregation variance for birth weight in beef cattle",
+                "pub_year": "2002",
+                "citation": "Livestock Production Science 76 (1-2), 27-35, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5812769964790927282",
+            "cites_id": [
+                "5812769964790927282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling of multivariate monotone disease processes in the presence of misclassification",
+                "pub_year": "2012",
+                "citation": "Journal of the American Statistical Association 107 (499), 976-989, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:HDshCWvjkbEC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7790061258518533453",
+            "cites_id": [
+                "7790061258518533453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible AFT model for misclassified clustered interval\u2010censored data",
+                "pub_year": "2016",
+                "citation": "Biometrics 72 (2), 473-483, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14179788136194787046",
+            "cites_id": [
+                "14179788136194787046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct and maternal genetic effects for birth, weaning and 14-month weights of Corriedale breed in Magallanes",
+                "pub_year": "1998",
+                "citation": "Proceedings of the 6th World Congress on Genetics Applied to Livestock \u2026, 1998"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11831206268791557530",
+            "cites_id": [
+                "11831206268791557530"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing the emergence times of permanent teeth: an example of modeling the covariance matrix with interval-censored data",
+                "pub_year": "2006",
+                "citation": "Statistical Modelling 6 (4), 337-351, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8654479372005586977",
+            "cites_id": [
+                "8654479372005586977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calidad de las espirometr\u00edas en un estudio epidemiol\u00f3gico de terreno: Factores determinantes de la necesidad de repetir el examen en el estudio Platino-Chile",
+                "pub_year": "2005",
+                "citation": "Revista chilena de enfermedades respiratorias 21 (3), 155-163, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4247848785209521657",
+            "cites_id": [
+                "4247848785209521657"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection response of US Holstein AI bulls for milk production in Chile and Argentina",
+                "pub_year": "2004",
+                "citation": "Livestock Production Science 88 (1-2), 9-16, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7693128930480455335",
+            "cites_id": [
+                "7693128930480455335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BM-BC: a Bayesian method of base calling for Solexa sequence data",
+                "pub_year": "2012",
+                "citation": "BMC bioinformatics 13, 1-9, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16359605268788374678",
+            "cites_id": [
+                "16359605268788374678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection index construction for the Corriedale breed in Magallanes-Chile",
+                "pub_year": "1995",
+                "citation": "Proc 6th World Congress on Genetics Applied to Livestock Production \u2026, 1995"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15700595129474524908",
+            "cites_id": [
+                "15700595129474524908"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Marginal Bayesian semiparametric modeling of mismeasured multivariate interval-censored data",
+                "pub_year": "2019",
+                "citation": "Journal of the American Statistical Association 114 (525), 129-145, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:GtLg2Ama23sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17860898243495293617",
+            "cites_id": [
+                "17860898243495293617"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theory and computations for the Dirichlet process and related models: An overview",
+                "pub_year": "2017",
+                "citation": "International Journal of Approximate Reasoning 81, 128-146, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:dQ2og3OwTAUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7095191576369305998",
+            "cites_id": [
+                "7095191576369305998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric approaches for ROC curve inference",
+                "pub_year": "2015",
+                "citation": "Nonparametric Bayesian Inference in Biostatistics, 327-344, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:olpn-zPbct0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16353947945175501356",
+            "cites_id": [
+                "16353947945175501356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian semiparametric partially PH model for clustered time\u2010to\u2010event data",
+                "pub_year": "2018",
+                "citation": "Scandinavian Journal of Statistics 45 (4), 1016-1035, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4fGpz3EwCPoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11090817067638968794",
+            "cites_id": [
+                "11090817067638968794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully nonparametric regression for bounded data using dependent Bernstein polynomials",
+                "pub_year": "2012",
+                "citation": "Technical report, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:yMeIxYmEMEAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18165950618268474897",
+            "cites_id": [
+                "18165950618268474897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully nonparametric regression for bounded data using bernstein polynomials",
+                "pub_year": "2012",
+                "citation": "Technical report, Department of Statistics, Pontificia Universidad Cat\u00f3lica \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:bz8QjSJIRt4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13876413765254557067",
+            "cites_id": [
+                "13876413765254557067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian Semiparametric Temporally\u2013Stratified Proportional Hazards Model with Spatial Frailties",
+                "pub_year": "2011",
+                "citation": "Bayesian analysis (Online) 6 (4), 1, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:lvd772isFD0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12256513651945489583",
+            "cites_id": [
+                "12256513651945489583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the analysis of Bayesian semiparametric IRT-type models",
+                "pub_year": "2011",
+                "citation": "Psychometrika. Forthcoming, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7078114196199249963",
+            "cites_id": [
+                "7078114196199249963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robustifying generalized linear mixed models using mixtures of multivariate Polya trees",
+                "pub_year": "2007",
+                "citation": "Submitted, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10263425263320942743",
+            "cites_id": [
+                "10263425263320942743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Respuesta a la selecci\u00f3n por producci\u00f3n l\u00e1ctea de toros IA Holstein de Estados Unidos en una poblaci\u00f3n de vacas Holstein en Chile",
+                "pub_year": "2002",
+                "citation": "XXVII Reuni\u00f3n Anual Sociedad Chilena de Producci\u00f3n Animal. Chill\u00e1n 2 (3 \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:UHK10RUVsp4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14716580787704569563",
+            "cites_id": [
+                "14716580787704569563"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una aproximaci\u00f3n bayesiana para la estimaci\u00f3n de varianza en un modelo aditivo heteroced\u00e1stico. II",
+                "pub_year": "2001",
+                "citation": "Un estudio de simulaci\u00f3n. Mem. XVII Reuni\u00f3n ALPA,, La Habana, Cuba. G 43 \u2026, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1634364220391559594",
+            "cites_id": [
+                "1634364220391559594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High burden of intestinal colonization with antimicrobial-resistant bacteria in Chile: an antibiotic resistance in communities and hospitals (ARCH) study",
+                "pub_year": "2023",
+                "citation": "Clinical Infectious Diseases 77 (Supplement_1), S75-S81, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:wMgC3FpKEyYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7349931607131694881",
+            "cites_id": [
+                "7349931607131694881"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The role of body mass index at diagnosis of colorectal cancer on Black\u2013White disparities in survival: a density regression mediation approach",
+                "pub_year": "2022",
+                "citation": "Biostatistics 23 (2), 449-466, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:yqoGN6RLRZoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6975080953856590219",
+            "cites_id": [
+                "6975080953856590219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "COVID-19 vaccine effectiveness assessment in Chile",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:PVgj2kMGcgYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9688862447785506640",
+            "cites_id": [
+                "9688862447785506640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regression",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 51-75, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11257244339306348187",
+            "cites_id": [
+                "11257244339306348187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TO 3 SNT-MC17/idebenone in Duchenne muscular dystrophy: long-term blinded controlled preclinical study in the mdx mouse followed by a 12 month double-blind randomized \u2026",
+                "pub_year": "2008",
+                "citation": "Neuromuscular disorders 18 (9), 832, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12505578577303724313",
+            "cites_id": [
+                "12505578577303724313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Variables associated with longitudinally registered plaque accumulation in a cohort of Flemish schoolchildren.",
+                "pub_year": "2007",
+                "citation": "Quintessence International 38 (7), 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6505620243383945938",
+            "cites_id": [
+                "6505620243383945938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interacci\u00f3n gen\u00e9tico ambiental para caracter\u0131\u0301sticas de producci\u00f3n y puntaje de c\u00e9lulas som\u00e1ticas en vacas lecheras",
+                "pub_year": "2000",
+                "citation": "XVI Reuni\u00f3n de producci\u00f3n Animal y III Congreso Uruguayo de Producci\u00f3n Animal, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1457059930320580776",
+            "cites_id": [
+                "1457059930320580776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Package \u2018DPpackage\u2019",
+                "pub_year": "2018",
+                "citation": "JI, W., ZHENG, W., LI, B., CAO, C. and MAO, W.(2016). Influence of body mass \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:5awf1xo2G04C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2088496969489474952",
+            "cites_id": [
+                "2088496969489474952"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Survival Analysis",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 101-123, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684680750790546549",
+            "cites_id": [
+                "3684680750790546549"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of the second COVID-19 booster against Omicron: a large-scale cohort study in Chile",
+                "pub_year": "2023",
+                "citation": "Nature Communications 14 (1), 6836, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:CaZNVDsoPx4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10742834668820385510",
+            "cites_id": [
+                "10742834668820385510"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness and duration of a second COVID-19 vaccine booster",
+                "pub_year": "2022",
+                "citation": "medRxiv, 2022.10. 03.22280660, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:2tRrZ1ZAMYUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2765342050743826322",
+            "cites_id": [
+                "2765342050743826322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tool for Estimating the Probability of Having COVID-19 With 1 or More Negative RT-PCR Results",
+                "pub_year": "2021",
+                "citation": "Open Forum Infectious Diseases 8 (8), ofab382, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:P7Ujq4OLJYoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7976517186160793445",
+            "cites_id": [
+                "7976517186160793445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the small sample behavior of Dirichlet process mixture models for data supported on compact intervals",
+                "pub_year": "2021",
+                "citation": "Communications in Statistics-Simulation and Computation 50 (3), 786-810, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:a9-T7VOCCH8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4545283287419437860",
+            "cites_id": [
+                "4545283287419437860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Posterior convergence rate of a class of Dirichlet process mixture model for compositional data",
+                "pub_year": "2017",
+                "citation": "Statistics & Probability Letters 120, 45-51, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2008652517830332911",
+            "cites_id": [
+                "2008652517830332911"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully nonparametric regression modelling of misclassified censored time-to-event data",
+                "pub_year": "2015",
+                "citation": "Nonparametric Bayesian Inference in Biostatistics, 247-267, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:t6usbXjVLHcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8843610585249411192",
+            "cites_id": [
+                "8843610585249411192"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clustering and feature allocation",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 145-174, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:1qzjygNMrQYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11361477788290162275",
+            "cites_id": [
+                "11361477788290162275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection response of US Holstein sires for milk production in Chile and Argentina.",
+                "pub_year": "2002",
+                "citation": "Proceedings of the 7th World Congress on Genetics Applied to Livestock \u2026, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15387297162157243179",
+            "cites_id": [
+                "15387297162157243179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "(Co) variance components for first lactation milk yield at three production and variability levels in Argentinean dairy cows.",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12738275292127308425",
+            "cites_id": [
+                "12738275292127308425"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neutralizing antibodies induced by homologous and heterologous boosters in CoronaVac vaccines in Chile",
+                "pub_year": "2023",
+                "citation": "Clinical Microbiology and Infection 29 (4), 541. e1-541. e7, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:sJsF-0ZLhtgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13466817033451707556",
+            "cites_id": [
+                "13466817033451707556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dependent Bayesian nonparametric modeling of compositional data using random Bernstein polynomials",
+                "pub_year": "2022",
+                "citation": "Electronic Journal of Statistics 16 (1), 2346-2405, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ZzlSgRqYykMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14303060744322855860",
+            "cites_id": [
+                "14303060744322855860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Short Tutorial on Bayesian Nonparametrics",
+                "pub_year": "2017",
+                "citation": "Journal of Statistical Research, 48-50, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:oNZyr7d5Mn4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15560155064961002464",
+            "cites_id": [
+                "15560155064961002464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplement to \u201cModelling county level breast cancer survival data using a covariate-adjusted frailty proportional hazards model\u201d",
+                "pub_year": "2015",
+                "citation": "DOI, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17282550963253427698",
+            "cites_id": [
+                "17282550963253427698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Bayesian Approach",
+                "pub_year": "2009",
+                "citation": "Statistical and Methodological Aspects of Oral Health Research, 315-338, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1050128444742076666",
+            "cites_id": [
+                "1050128444742076666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Analysis of Bayesian Semiparametric IRT-type Models",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3411648513087744201",
+            "cites_id": [
+                "3411648513087744201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selection response for milk production of United States Holstein bulls in the provinces of B\u00edo-B\u00edo and Malleco, Chile.",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14669288215711145306",
+            "cites_id": [
+                "14669288215711145306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Respuesta a la selecci\u00f3n para producci\u00f3n l\u00e1ctea de toros Holstein de Estados Unidos en las provincias de B\u00edo-B\u00edo y Malleco, Chile",
+                "pub_year": "2005",
+                "citation": "Archivos de medicina veterinaria 37 (1), 15-22, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15849857245602103925",
+            "cites_id": [
+                "15849857245602103925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relaciones entre el recuento de c\u00e9lulas som\u00e1ticas, producci\u00f3n y componentes l\u00e1cteos en vacas lecheras de la X regi\u00f3n (Chile) utilizando un modelo del d\u00eda del control",
+                "pub_year": "2000",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:buQ7SEKw-1sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18147659510431284154",
+            "cites_id": [
+                "18147659510431284154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying outbreaks in sewer networks: An adaptive sampling scheme under network\u2019s uncertainty",
+                "pub_year": "2024",
+                "citation": "Proceedings of the National Academy of Sciences 121 (14), e2316616121, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ubry08Y2EpUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High Burden of Intestinal Colonization With Antimicrobial-Resistant Bacteria in Chile: An Antibiotic Resistance in Communities and Hospitals (ARCH) Study",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:U4n9YNQMCAIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid-Uniform Copulas and Rectangle Exchanges: Bayesian Model and Inference for a Rich Class of Copula Functions",
+                "pub_year": "2023",
+                "citation": "Bayesian Analysis 1 (1), 1-28, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Aul-kAQHnToC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Package \u2018extremis\u2019",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:LhH-TYMQEocC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of CoronaVac Among Children 3 to 5 During the Omicron SARS-CoV-2 Outbreak",
+                "pub_year": "2022",
+                "citation": "Nature Medicine, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:6yz0xqPARnAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Dependent Dirichlet Processes for General Polish Spaces",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2205.05635, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:BJbdYPG6LGMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness and duration of a second COVID-19 vaccine booster (preprint)",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:1lhNe0rCu4AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effectiveness of CoronaVac in children 3 to 5 years during the omicron SARS-CoV-2 outbreak (preprint)",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:vDZJ-YLwNdEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tool for estimating the probability of having COVID-19 with one or more negative RT-PCR results (preprint)",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:otzGkya1bYkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Role of Body Mass Index at Diagnosis on Black-White Disparities in Colorectal Cancer Survival: A Density Regression Mediation Approach",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1812.02829, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:LO7wyVUgiFcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: Marginal Bayesian Semiparametric Modeling of Mismeasured Multivariate Interval-Censored Data",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:8d8msizDQcsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: Fully nonparametric regression for bounded data using dependent Bernstein polynomials",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Density Estimation: DP Models",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 7-31, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hierarchical Models",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 125-143, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Categorical Data",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 77-100, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Other Inference Problems and Conclusion",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 175-178, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Density Estimation: Models Beyond the DP",
+                "pub_year": "2015",
+                "citation": "Bayesian Nonparametric Data Analysis, 33-50, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regression modelling of misclassified correlated interval-censored data",
+                "pub_year": "2014",
+                "citation": "29th International Workshop on Statistical Modelling, 173, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:QD3KBmkZPeQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric approaches for the analysis of compositional data based on Bernstein polynomials",
+                "pub_year": "2014",
+                "citation": "29th International Workshop on Statistical Modelling, 15, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:jL-93Qbq4QoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INFORMES T\u00c9CNICOS MIDE UC/TECHNICAL REPORTS MIDE UC",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contributed Discussion on Article by Finegold and Drton Comment",
+                "pub_year": "2014",
+                "citation": "BAYESIAN ANALYSIS 9 (3), 570-571, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric ROC regression modeling",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:Ehil0879vHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Essential Oils Mixtures as Inhibitors of Listeria monocytogenes, a Food-Borne Bacterium",
+                "pub_year": "2012",
+                "citation": "International Symposium on Medicinal Plants and Natural Products 1030, 55-59, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:AHdEip9mkN0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian nonparametric ROC regression modeling",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: Modelling of Multivariate Monotone Disease Processes in the Presence of Misclassification",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Package \u2018cslogistic\u2019",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian Analysis",
+                "pub_year": "2012",
+                "citation": "Bayesian Analysis 7 (2), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:LgRImbQfgY4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian Analysis",
+                "pub_year": "2012",
+                "citation": "Bayesian Analysis 7 (1), 2012"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ERNESTO SAN MART\u00cdN",
+                "pub_year": "2011",
+                "citation": "PSYCHOMETRIKA 76 (3), 385-409, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:48xauSegjOkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: Bayesian Semi-and Nonparametric Modeling in R",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: A class of mixtures of dependent tail-free processes",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:tH6gc1N1XXoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Polya Tree Sampler: Towards Efficient and Automatic Independent Metropolis Proposals",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Class of Dependent Tailfree Processes",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TO 3 SNT-MC17/idebenone in Duchenne muscular dystrophy: long-term blinded controlled preclinical study in the mdx mouse followed by a 12 month double-blind randomized \u2026",
+                "pub_year": "2008",
+                "citation": "Neuromuscular Disorders 18 (9), 832-832, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A long-term blinded controlled efficacy study of SNT-MC17/ldebenone in the dystrophin-deficient MDX mouse",
+                "pub_year": "2007",
+                "citation": "NEUROLOGY 68 (12), A2-A2, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Factors associated with the level of oral hygiene and gingival health in Flemish pre-school children",
+                "pub_year": "2006",
+                "citation": "Paper presented at the Conference of the European Federation of \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of genotype by environmental interaction and heterogeneity of variances in yield traits of dairy cattle.",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:lgwcVrK6X84C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian methods in animal genetic improvement.",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ALROH1vI_8AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "16 BONE MINERALIZATION IN PATIENTS WITH TURNER SYNDROME.",
+                "pub_year": "1994",
+                "citation": "Pediatric Research 36 (5), 680-680, 1994"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:43bX7VzcjpAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applying statistics to livestock research",
+                "pub_year": "1988",
+                "citation": "Publicaci\u00f3n Miscel\u00e1nea A1/HN (IICA), 1988"
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:NJ774b8OgUMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preprint not peer reviewed",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4xDN1ZYqzskC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplement A to:\u201cBayesian Semiparametric Inference for Multivariate Doubly-Interval-Censored Data\u201d MCMC schemes for posterior computation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4X0JR2_MtJMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric ordinal linear mixed model using a MMPT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:_OXeSy2IsFwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a dependent semiparametric Rasch Poisson model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:nZcligLrVowC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric generalized linear mixed model using a MMPT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:OP4eGU-M3BUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric linear mixed model using a MMPT",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:F9fV5C73w3QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric Rasch model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:HtS1dXgVpQUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric Bernoulli regression model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4vMrXwiscB8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPpackage: Bayesian Non\u2013and Semi\u2013parametric Modeling in R",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:HtEfBTGE9r8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web-based supporting information for \u201cA Bayesian semiparametric partially PH model for clustered time-to-event data\u201d",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:9pM33mqn1YgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian nonparametric approach to the analysis of clustered time-to-event data",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a Linear Dependent Dirichlet Process Mixture Model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THE ANNALS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a Finite Polya Tree Bernoulli regression model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a Finite Polya Tree Rasch Poisson model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a Finite Polya Tree Rasch model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a Linear Dependent Dirichlet Process Mixture of Survival Models",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplementary Material for: Bayesian nonparametric ROC regression modeling",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multivariate Modelling of a Monotone Disease Process in the Presence of Misclassification",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una Clase de Procesos Bernstein Dependientes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de Datos Correlacionados",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian analysis for a semiparametric generalized additive model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una Comparaci\u00f3n de Algoritmos Tipo Metropolis Adaptativos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supplemental Materials for: Bayesian Semiparametric Inference for Multivariate Doubly-Interval-Censored Data",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symposium on mixture modeling with special interest to applications in educational measurement and bioinformatics",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Jfza4cQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 17,
+        "not_available": 0
+    }
+}

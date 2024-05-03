@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "xJx-XhEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Bryan Casanelli",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=xJx-XhEAAAAJ&citpid=2",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Medical Physics"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 2,
+        "2023": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle size effect on fluorescence emission for Au-infused soft tissues",
+                "pub_year": "2020",
+                "citation": "Radiation Physics and Chemistry 167, 108302, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "xJx-XhEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12368410500763925631",
+            "cites_id": [
+                "12368410500763925631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OXIRIS project: Development of a new XRF device for the simultaneous detection and treatment of cancer",
+                "pub_year": "2022",
+                "citation": "X\u2010Ray Spectrometry 51 (3), 251-261, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "xJx-XhEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8712278015787204692",
+            "cites_id": [
+                "8712278015787204692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Secondary targeting EDXRF system optimized for detection of gold, silver and gadolinium nanoparticles",
+                "pub_year": "2018",
+                "citation": "Journal of Physics: Conference Series 1043 (1), 012059, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "xJx-XhEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2903776143952864928",
+            "cites_id": [
+                "2903776143952864928"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

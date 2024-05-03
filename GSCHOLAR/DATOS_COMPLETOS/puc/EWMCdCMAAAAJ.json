@@ -1,0 +1,86 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "EWMCdCMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Dietrich Daroch",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Search Algorithms",
+        "Semantic Web"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 20,
+    "citedby5y": 19,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 3,
+        "2020": 2,
+        "2021": 4,
+        "2022": 6,
+        "2023": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating navigational RDF queries over the web",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 28th ACM Conference on Hypertext and Social Media, 165-174, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "EWMCdCMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15068804856544936481",
+            "cites_id": [
+                "15068804856544936481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Property Paths over Linked Data: can it be done and how to start?",
+                "pub_year": "2016",
+                "citation": "COLD@ ISWC 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "EWMCdCMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14606797283580657795",
+            "cites_id": [
+                "14606797283580657795"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing Property Paths over Linked Data Using AI Search",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "EWMCdCMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

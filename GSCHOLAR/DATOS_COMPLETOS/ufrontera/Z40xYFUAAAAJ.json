@@ -1,0 +1,128 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Z40xYFUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fabi\u00e1n Iglesias",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z40xYFUAAAAJ&citpid=4",
+    "affiliation": "Department of Mechanical Engineering, Universidad de La Frontera.",
+    "organization": 13908003347799972066,
+    "interests": [
+        "automation",
+        "robotics",
+        "computer vision",
+        "artificial intelligence"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "homepage": "https://fabianiglesias.github.io/",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lmMiNGgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arturo Padilla Bernedo",
+            "affiliation": "Universidad de La Frontera, Department of Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1Naq_nUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "EDUARDO IGNACIO DIEZ CIFUENTES",
+            "affiliation": "Department of Mechanical Engineering, Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iuZ_hUcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alfredo Aguilera",
+            "affiliation": "Professor, Universidad Austral de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of computer vision techniques to estimate surface roughness on wood-based sanded workpieces",
+                "pub_year": "2024",
+                "citation": "Measurement 224, 113917, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Z40xYFUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8827703595498337993",
+            "cites_id": [
+                "8827703595498337993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical Evaluation of Surface Roughness in Wood Parts Processed by Robotic Sanding",
+                "pub_year": "2023",
+                "citation": "Proceedings of the XV Ibero-American Congress of Mechanical Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z40xYFUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influencia de los par\u00e1metros de operaci\u00f3n en la calidad superficial de piezas de madera procesadas por lijado robotizado",
+                "pub_year": "2023",
+                "citation": "Universidad de La Frontera, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Z40xYFUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluaci\u00f3n \u00f3ptica de la rugosidad superficial en piezas de madera procesadas mediante lijado robotizado",
+                "pub_year": "2022",
+                "citation": "XV Congreso Iberoamericano de Ingenier\u00eda Mec\u00e1nica, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Z40xYFUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelado de la rugosidad en el proceso de lijado robotizado",
+                "pub_year": "2021",
+                "citation": "Universidad de La Frontera, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Z40xYFUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

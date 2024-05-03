@@ -1,0 +1,135 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "FOOMGvIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicolas Garrido Abate",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FOOMGvIAAAAJ&citpid=3",
+    "affiliation": "Departamento de Ciencias de la Vida, Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Host-pathogen interaction",
+        "Biosecurity",
+        "Biodefense"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 13,
+    "citedby5y": 7,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 4,
+        "2018": 1,
+        "2019": 2,
+        "2020": 2,
+        "2021": 1,
+        "2022": 0,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pnVP9X8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nibaldo C. Inestrosa",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oaqR2GoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bernardo Arriaza",
+            "affiliation": "Universidad de Tarapac\u00e1"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent Advances in Neuroinflammation Therapeutics: PPARs/LXR as Neuroinflammatory Modulators",
+                "pub_year": "2016",
+                "citation": "Current pharmaceutical design 22 (10), 1312-1323, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "FOOMGvIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15979090304059390257",
+            "cites_id": [
+                "15979090304059390257"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manual basico del uso de autoclave",
+                "pub_year": "2015",
+                "citation": "Arica, Chile: Universidad de Tarapaca, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "FOOMGvIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11753951637578958174",
+            "cites_id": [
+                "11753951637578958174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio citomorfologico de la maduracion de gonadas de hembras de Seriola lalandi en un Sistema Acuicola de Recirculacion (SAR)",
+                "pub_year": "2016",
+                "citation": "IDESIA 34 (6), 79-83, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "FOOMGvIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9598413930287859604",
+            "cites_id": [
+                "9598413930287859604"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Descripci\u00f3n morfol\u00f3gica e histol\u00f3gica del tejido hep\u00e1tico de Gambusia holbrooki (Pisce: Poeciliidae) que habita en la Provincia de Arica-Chile",
+                "pub_year": "2020",
+                "citation": "International Journal of Morphology 38 (3), 645-649, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "FOOMGvIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio de enterobacterias y del nematodo Enterobius vermicularis en las superficies de los libros presentes en la biblioteca central de la Universidad de Tarapac\u00e1",
+                "pub_year": "2013",
+                "citation": "Universidad de Tarapac\u00e1, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "FOOMGvIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

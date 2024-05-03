@@ -1,0 +1,846 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "d4OtD6sAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Gacitua Bustos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=d4OtD6sAAAAJ&citpid=2",
+    "affiliation": "Professor on Software Engineering, Universidad de la Frontera, Temuco, Chile",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Semantic Web",
+        "Natural Language Processing",
+        "Ontology Learning",
+        "Software Engineering"
+    ],
+    "email_domain": "@ufrontera.cl",
+    "citedby": 672,
+    "citedby5y": 235,
+    "hindex": 11,
+    "hindex5y": 8,
+    "i10index": 13,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2007": 4,
+        "2008": 7,
+        "2009": 15,
+        "2010": 20,
+        "2011": 25,
+        "2012": 38,
+        "2013": 57,
+        "2014": 53,
+        "2015": 46,
+        "2016": 54,
+        "2017": 58,
+        "2018": 41,
+        "2019": 50,
+        "2020": 39,
+        "2021": 49,
+        "2022": 50,
+        "2023": 37,
+        "2024": 10
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uaLkZrYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pete Sawyer",
+            "affiliation": "Aston University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ycuiwg8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mark Rouncefield",
+            "affiliation": "Lancaster University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4nMaoMEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vincenzo Gervasi",
+            "affiliation": "University of Pisa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aUQ8O9gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bashar Nuseibeh",
+            "affiliation": "The Open University (UK) & Lero (Ireland)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F88czLMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul Piwek",
+            "affiliation": "The Open University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DACFB-kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Professor Paul Rayson",
+            "affiliation": "School of Computing and Communications, Lancaster University, UK"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ci1ifBoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr Mercedes Arg\u00fcello Casteleiro",
+            "affiliation": "University of Manchester (UK)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qSTTL6MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Scott Piao",
+            "affiliation": "School of Computing and Communications, Lancaster University, UK"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "32ekRVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Astudillo",
+            "affiliation": "UTFSM (on sabbatical) & UNAB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "35pvAjIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ra\u00fal Mazo",
+            "affiliation": "Professor of Software-Intensive Systems, ENSTA Bretagne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AQSZlxEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Des",
+            "affiliation": "Facultativo especialista en oftalmolog\u00eda en el Hospital do Saln\u00e9s (Vilagarc\u00eda de Arousa, Pontevedra)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "igMJAZwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jon Whittle",
+            "affiliation": "CSIRO's Data61"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mfk3VKEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Cares",
+            "affiliation": "Professor at University of La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TGfRNZkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Emilio Labra Gayo",
+            "affiliation": "University of Oviedo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "l699h0EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mar\u00eda Jes\u00fas (Chus) Fern\u00e1ndez Prieto",
+            "affiliation": "Senior Lecturer, Salford University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The case for dumb requirements engineering tools",
+                "pub_year": "2012",
+                "citation": "Requirements Engineering: Foundation for Software Quality: 18th \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 114,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14869453476877411776",
+            "cites_id": [
+                "14869453476877411776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible framework to experiment with ontology learning techniques",
+                "pub_year": "2007",
+                "citation": "International Conference on Innovative Techniques and Applications of \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 86,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4000964086181549279",
+            "cites_id": [
+                "4000964086181549279"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unpacking tacit knowledge for requirements engineering",
+                "pub_year": "2013",
+                "citation": "Managing requirements knowledge, 23-47, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11391861459609125770",
+            "cites_id": [
+                "11391861459609125770"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology and model alignment as a means for requirements validation",
+                "pub_year": "2010",
+                "citation": "2010 IEEE Fourth International Conference on Semantic Computing, 46-51, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:qjMakFHDy7sC",
+            "num_citations": 61,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12021844661639341267",
+            "cites_id": [
+                "12021844661639341267"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Making tacit requirements explicit",
+                "pub_year": "2009",
+                "citation": "2009 Second International Workshop on Managing Requirements Knowledge, 40-44, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10706847030267228138",
+            "cites_id": [
+                "10706847030267228138"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the effectiveness of abstraction identification in requirements engineering",
+                "pub_year": "2010",
+                "citation": "2010 18th IEEE international requirements engineering conference, 5-14, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11841888439405054582",
+            "cites_id": [
+                "11841888439405054582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "M\u00e9todos de desarrollo de software: El desaf\u00edo pendiente de la estandarizaci\u00f3n. Software Development Methodologies: A Duel Pending for Standardization",
+                "pub_year": "2003",
+                "citation": "Theoria 12 (1), 23-42, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10360542473041857020",
+            "cites_id": [
+                "10360542473041857020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relevance-based abstraction identification: technique and evaluation",
+                "pub_year": "2011",
+                "citation": "Requirements Engineering 16, 251-265, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=250356710661866826",
+            "cites_id": [
+                "250356710661866826"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Concept mapping as a means of requirements tracing",
+                "pub_year": "2010",
+                "citation": "2010 Third International Workshop on Managing Requirements Knowledge, 22-31, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18035733064374764939",
+            "cites_id": [
+                "18035733064374764939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensemble methods for ontology learning-an empirical experiment to evaluate combinations of concept acquisition techniques",
+                "pub_year": "2008",
+                "citation": "Seventh IEEE/ACIS International Conference on Computer and Information \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1458987776941437172",
+            "cites_id": [
+                "1458987776941437172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A collaborative workflow for building ontologies: A case study in the biomedical field",
+                "pub_year": "2009",
+                "citation": "2009 Third International Conference on Research Challenges in Information \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16121955030776136691",
+            "cites_id": [
+                "16121955030776136691"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent models for collaborative e-government processes: A survey",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 19602-19618, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:dhFuZR0502QC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6862634545345089891",
+            "cites_id": [
+                "6862634545345089891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating tools for automatic concept extraction: A case study from the musicology domain",
+                "pub_year": "2010",
+                "citation": "Digital Futures 10, 1-3, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12231886163338097154",
+            "cites_id": [
+                "12231886163338097154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using Semantic Web technologies in the development of data warehouses: A systematic mapping",
+                "pub_year": "2018",
+                "citation": "Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery 9 (3 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:4TOpqqG69KYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13162476391492336262",
+            "cites_id": [
+                "13162476391492336262"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Profiling and tracing stakeholder needs",
+                "pub_year": "2008",
+                "citation": "Innovations for Requirement Analysis. From Stakeholders\u2019 Needs to Formal \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14592059887843046309",
+            "cites_id": [
+                "14592059887843046309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ontology acquisition process: A framework for experimenting with different nlp techniques",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:WF5omc3nYNoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10935578497647534856",
+            "cites_id": [
+                "10935578497647534856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FM-CF: A framework for classifying feature model building approaches",
+                "pub_year": "2019",
+                "citation": "Journal of Systems and Software 154, 1-21, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15060662333991103149",
+            "cites_id": [
+                "15060662333991103149"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forming software architects in early stages: From craft to engineering",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9781695519839908889",
+            "cites_id": [
+                "9781695519839908889"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying potential suppliers for competitive bidding using Latent Semantic Analysis",
+                "pub_year": "2016",
+                "citation": "2016 XLII Latin American Computing Conference (CLEI), 1-12, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:5nxA0vEk-isC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7881536428009018684",
+            "cites_id": [
+                "7881536428009018684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesamiento de Lenguaje Natural en Ingenier\u00eda de Requisitos: Contribuciones Potenciales y Desaf\u00edos de Investigaci\u00f3n",
+                "pub_year": "2015",
+                "citation": "18th Conferencia Iberoamericana en Software Engineering  (CIbSE 2015), 2015"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:Se3iqnhoufwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3384516975095741628",
+            "cites_id": [
+                "3384516975095741628"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de requisitos: Un enfoque basado en taxonom\u00eda verbal. Identification of requirements: A focus based on a verb taxonomy.",
+                "pub_year": "2001",
+                "citation": "Theoria 10 (1), 67-79, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9082448794288433328",
+            "cites_id": [
+                "9082448794288433328"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A citizen science approach using information systems to provide qualitative information on historic natural disasters to risk communicators and the general public",
+                "pub_year": "2018",
+                "citation": "Tagungsband UIS 2018 2197, 197-208, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2468217497510313026",
+            "cites_id": [
+                "2468217497510313026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First International Workshop on Agile Requirements Engineering: Workshop Report",
+                "pub_year": "2011",
+                "citation": "The fist international workshop on Agile Requirements Engineering, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3997414427645650639",
+            "cites_id": [
+                "3997414427645650639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Skeletons and Semantic Web Descriptions to Integrate Parallel Programming into Ontology Learning Frameworks",
+                "pub_year": "2009",
+                "citation": "2009 11th International Conference on Computer Modelling and Simulation, 640-645, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1880897165022311741",
+            "cites_id": [
+                "1880897165022311741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollando de habilidades blandas en etapas tempranas en la formaci\u00f3n de Ingenieros de Software",
+                "pub_year": "2020",
+                "citation": "Revista Ib\u00e9rica de Sistemas e Tecnologias de Informa\u00e7\u00e3o, 423-436, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4006278360741761843",
+            "cites_id": [
+                "4006278360741761843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A flexible and systematic teaching framework to develop cognitive skills through programming courses",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16461403894337718621",
+            "cites_id": [
+                "16461403894337718621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating the impact of training software engineers using the R&G methodology",
+                "citation": "JIISIC 2018 - Jornadas Iberoamericanas de Ingenieria de Software e \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17693195803970010595",
+            "cites_id": [
+                "17693195803970010595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CITADINE: A platform to provide the experiences of survivors of natural disasters as open educational resources for risk communication",
+                "pub_year": "2022",
+                "citation": "Advances and New Trends in Environmental Informatics: A Bogeyman or Saviour \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645790298517343622",
+            "cites_id": [
+                "17645790298517343622"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Methodological approach for monitoring the achievement of Learning Outcomes",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10865729134051884398",
+            "cites_id": [
+                "10865729134051884398"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A technological proposal for vehicle detection in the context of Smart Cities",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 1st Sustainable Cities Latin America Conference (SCLA), 1-5, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8943029040491551857",
+            "cites_id": [
+                "8943029040491551857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conceptual distinctions for traceability of history of law",
+                "pub_year": "2016",
+                "citation": "2016 11th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16356077539154220438",
+            "cites_id": [
+                "16356077539154220438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistemas Autom\u00e1ticos de Calificaci\u00f3n de Tareas de Programaci\u00f3n: Revisi\u00f3n y Cr\u00edtica",
+                "pub_year": "2023",
+                "citation": "Revista Ib\u00e9rica de Sistemas e Tecnologias de Informa\u00e7\u00e3o, 58-72, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Capturing and labelling the experiences of survivors of disasters triggered by natural hazards",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Information and Communication Technologies \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Citizen Science Approach Using Information Systems to Provide Qualitative Information on Historic Natural Disasters to Risk Communicators and the General Public.",
+                "pub_year": "2018",
+                "citation": "CEUR Workshop Proceedings, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construcci\u00f3n de Modelos de Caracter\u00edsticas: Un Marco para Comparar y Clasificar Propuestas.",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building feature models: a framework for comparing and classifying proposals",
+                "pub_year": "2016",
+                "citation": "2016 XLII Latin American Computing Conference (CLEI), Valparai\u0301so, Chile, 1-12, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OntoLancs: An evaluation framework for ontology learning by ensemble methods",
+                "pub_year": "2008",
+                "citation": "Lancaster University, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Requirements Engineering Reference Model",
+                "pub_year": "2005",
+                "citation": "3rd International Workshop on Comparative Evaluation (CERE'05), ., 2005"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis y desarrollo de software de apoyo al administrador inform\u00e1tico",
+                "pub_year": "1989",
+                "citation": "Universidad de Concepci\u00f3n, 1989"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond Code: Cultivating Collaborative Software Development Through Methodologies in Academic Projects",
+                "citation": "Available at SSRN 4809470, 0"
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formando Arquitectos de Software en Etapas Tempranas: desde la artesan\u00eda hacia la ingenier\u00eda",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesamiento de Lenguaje Natural en Ingenier\u00eda de Requisitos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "These proceedings contain the papers presented at the 36th International Conference of the Chilean Computer Science Society (SCCC 2017). The conference was held in Arica, Chile \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distinciones Conceptuales para la Trazabilidad de la Historia de la Ley",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Representing User Definable Rules for Decision Making in the Single Location Surveillance Point",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2010 18th IEEE International Requirements Engineering Conference",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "d4OtD6sAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 1
+    }
+}

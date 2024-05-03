@@ -1,0 +1,66 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "IA0kv4wAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos M Toledo C.",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IA0kv4wAAAAJ&citpid=2",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Computer science"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Similarity (range and kNN) queries processing on an Intel Xeon Phi coprocessor",
+                "pub_year": "2016",
+                "citation": "Cluster Computing 19 (1), 57-71, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "IA0kv4wAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8703212178693118589",
+            "cites_id": [
+                "8703212178693118589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "B\u00fasqueda exhaustiva utilizando el coprocesador Intel Xeon Phi",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "IA0kv4wAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

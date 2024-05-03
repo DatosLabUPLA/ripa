@@ -1,0 +1,835 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RX00rSkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "M\u00e1ximo Frangopulos Rivera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RX00rSkAAAAJ&citpid=1",
+    "affiliation": "CIGA - Universidad de Magallanes, CHIC y BASE",
+    "organization": 14351944662178497517,
+    "interests": [
+        "Oceanograf\u00eda Biol\u00f3gica",
+        "Floraciones de Algas Nocivas",
+        "Mareas Rojas",
+        "Conservaci\u00f3n"
+    ],
+    "email_domain": "@umag.cl",
+    "homepage": "http://www.umag.cl/",
+    "citedby": 1190,
+    "citedby5y": 423,
+    "hindex": 16,
+    "hindex5y": 12,
+    "i10index": 19,
+    "i10index5y": 15,
+    "cites_per_year": {
+        "2002": 22,
+        "2003": 26,
+        "2004": 12,
+        "2005": 44,
+        "2006": 53,
+        "2007": 31,
+        "2008": 27,
+        "2009": 41,
+        "2010": 33,
+        "2011": 59,
+        "2012": 58,
+        "2013": 55,
+        "2014": 63,
+        "2015": 68,
+        "2016": 59,
+        "2017": 38,
+        "2018": 70,
+        "2019": 67,
+        "2020": 85,
+        "2021": 93,
+        "2022": 76,
+        "2023": 77,
+        "2024": 25
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mG9R-S8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "C\u00e1stor Guisande Gonz\u00e1lez",
+            "affiliation": "Professor of Ecology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6AuztxcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Torres",
+            "affiliation": "Centro de Investigaci\u00f3n en Ecosistemas de la Patagonia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9LRHHegAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Isabel Riveiro Alarc\u00f3n",
+            "affiliation": "Senior Researcher Instituto Espa\u00f1ol de Oceanografia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0WjXfNMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Brian Reid",
+            "affiliation": "Centro CIEP"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y2RA_vMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Humberto Gonz\u00e1lez Estay",
+            "affiliation": "Universidad Austral de Chile, Instituto de Ciencias Marinas y Limnol\u00f3gicas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eebbT4gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alba Ruth Vergara Casta\u00f1o",
+            "affiliation": "Universidad del Atl\u00e1ntico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2lZZB4oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Arnoldo Valle-Levinson",
+            "affiliation": "University of Florida"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LIT7dY0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Evangelos Spyrakos",
+            "affiliation": "University of Stirling"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z_OCeBYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Giovanni Daneri",
+            "affiliation": "Director Ejecutivo, Centro de Investigaci\u00f3n en Ecosistemas de la Patagonia CIEP"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "T2-L50AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos M. Duarte",
+            "affiliation": "King Abdullah University of Science and Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UQWbjmoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aldo Barreiro Felpeto",
+            "affiliation": "Postdoctoral Researcher, CIIMAR, University of Porto"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kNhzzGIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J. L. Iriarte",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZS87GDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Catharina Alves-de-Souza",
+            "affiliation": "Research Professor, University of North Carolina Wilmington"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Air\u2010sea CO2 fluxes along the coast of Chile: From CO2 outgassing in central northern upwelling waters to CO2 uptake in southern Patagonian fjords",
+                "pub_year": "2011",
+                "citation": "Journal of Geophysical Research: Oceans 116 (C9), 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:0EnyYjriUFMC",
+            "num_citations": 138,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9097679697230007900",
+            "cites_id": [
+                "9097679697230007900"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ecological advantages of toxin production by the dinoflagellate Alexandrium minutum under phosphorus limitation",
+                "pub_year": "2002",
+                "citation": "Marine Ecology Progress Series 225, 169-176, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 138,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7651273750291225442",
+            "cites_id": [
+                "7651273750291225442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Short-term and long-term effects of the toxic dinoflagellate Alexandrium minutum on the copepod Acartia clausi",
+                "pub_year": "2000",
+                "citation": "Marine Ecology Progress Series 203, 161-169, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 126,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11007223137655173000",
+            "cites_id": [
+                "11007223137655173000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toxin production and competitive abilities under phosphorus limitation of Alexandrium species",
+                "pub_year": "2004",
+                "citation": "Harmful Algae 3 (2), 131-139, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 113,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10400227120170888344",
+            "cites_id": [
+                "10400227120170888344"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zooplankton as a potential vector of diarrhetic shellfish poisoning toxins through the food web",
+                "pub_year": "2000",
+                "citation": "Marine Ecology Progress Series 201, 155-163, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 84,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17455649745492491323",
+            "cites_id": [
+                "17455649745492491323"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fate of paralytic shellfish poisoning toxins ingested by the copepod Acartia clausi",
+                "pub_year": "2002",
+                "citation": "Marine Ecology Progress Series 240, 105-115, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 71,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9514740887850652383",
+            "cites_id": [
+                "9514740887850652383"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intraregional variation among Alexandrium catenella (Dinophyceae) strains from southern Chile: Morphological, toxicological and genetic diversity",
+                "pub_year": "2012",
+                "citation": "Harmful Algae 15, 8-18, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9129452017074539304",
+            "cites_id": [
+                "9129452017074539304"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Silicic acid enrichment of subantarctic surface water from continental inputs along the Patagonian archipelago interior sea (41\u201356 S)",
+                "pub_year": "2014",
+                "citation": "Progress in Oceanography 129, 50-61, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1868573685029582154",
+            "cites_id": [
+                "1868573685029582154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The invasion of the freshwater diatom Didymosphenia geminata in Patagonia: prospects, strategies, and implications for biosecurity of invasive microorganisms in \u2026",
+                "pub_year": "2012",
+                "citation": "Conservation Letters 5 (6), 432-440, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3919653894643566513",
+            "cites_id": [
+                "3919653894643566513"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Patrones locales recurrentes del fitoplancton en fiordos y canales australes (43\u00ba-56\u00ba S) en primavera y verano",
+                "pub_year": "2005",
+                "citation": "Ciencia y Tecnolog\u00eda del Mar 28 (2), 63-83, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4886214634281550217",
+            "cites_id": [
+                "4886214634281550217"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nitrate to silicate ratio variability and the composition of micro-phytoplankton blooms in the inner-fjord of Seno Ballena (Strait of Magellan, 54 S)",
+                "pub_year": "2011",
+                "citation": "Continental Shelf Research 31 (3-4), 244-253, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:UebtZRa9Y70C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15930038742935506215",
+            "cites_id": [
+                "15930038742935506215"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrography and frontogenesis in a glacial fjord off the Strait of Magellan",
+                "pub_year": "2006",
+                "citation": "Ocean Dynamics 56, 217-227, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9272014739680160116",
+            "cites_id": [
+                "9272014739680160116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ingestion and clearance rates of the red Noctiluca scintillans fed on the toxic dinoflagellate Alexandrium minutum (Halim)",
+                "pub_year": "2011",
+                "citation": "Harmful Algae 10 (3), 304-309, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=996688908229132554",
+            "cites_id": [
+                "996688908229132554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feeding strategies of the copepod Acartia clausi on single and mixed diets of toxic and non-toxic strains of the dinoflagellate Alexandrium minutum",
+                "pub_year": "2006",
+                "citation": "Marine Ecology Progress Series 316, 115-125, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7139607913970049001",
+            "cites_id": [
+                "7139607913970049001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of copepod faecal pellets to the fate of the DSP toxins produced by Dinophysis spp.",
+                "pub_year": "2002",
+                "citation": "Harmful Algae 1 (4), 333-341, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6305111016096231509",
+            "cites_id": [
+                "6305111016096231509"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parque Marino Cabo de Hornos-Diego Ram\u00edrez",
+                "pub_year": "2017",
+                "citation": "Ediciones Universidad de Magallanes, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3192234530253878938",
+            "cites_id": [
+                "3192234530253878938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Winter distribution of toxic, potentially toxic phytoplankton, and shellfish toxins in fjords and channels of the Ays\u00e9n region, Chile",
+                "pub_year": "2018",
+                "citation": "Latin american journal of aquatic research 46 (1), 120-139, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2516126707028057331",
+            "cites_id": [
+                "2516126707028057331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Freshwater runoff effects on the production of biogenic silicate and chlorophyll-a in western Patagonia archipelago (50\u201351 S)",
+                "pub_year": "2020",
+                "citation": "Estuarine, Coastal and Shelf Science 241, 106597, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:-f6ydRqryjwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382566181619007085",
+            "cites_id": [
+                "9382566181619007085"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Depth-dependent overtides from internal tide reflection in a glacial fjord",
+                "pub_year": "2007",
+                "citation": "Estuaries and coasts 30, 127-136, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7091888566689757979",
+            "cites_id": [
+                "7091888566689757979"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distribuci\u00f3n espacial de Alexandrium catenella y de toxinas paralizantes en el plancton y mariscos entre el Golfo de Penas y Canal Trinidad (Primavera 2008)",
+                "pub_year": "2011",
+                "citation": "Ciencia y Tecnolog\u00eda del Mar 34 (1-2), 19-30, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13224498745945972833",
+            "cites_id": [
+                "13224498745945972833"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Watch out for ASP in the Chilean Subantarctic region",
+                "pub_year": "2017",
+                "citation": "Marine and Fresh-Water Harmful Algae. Proceedings of the 17th International \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4803049827789957355",
+            "cites_id": [
+                "4803049827789957355"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Moving towards global satellite based products for monitoring of inland and coastal waters. Regional examples from Europe and South America",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Latin American GRSS & ISPRS Remote Sensing Conference (LAGIRS \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3915040214685135026",
+            "cites_id": [
+                "3915040214685135026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron and silicic acid addition effects on early spring macronutrient drawdown and biogenic silica production of Patagonia estuarine waters",
+                "pub_year": "2023",
+                "citation": "Progress in Oceanography 214, 102982, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7213331877611523155",
+            "cites_id": [
+                "7213331877611523155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harmful Algal bloom species associated with massive Atlantic salmon mortalities while transported through the Gulf of Penas, southern Chile",
+                "pub_year": "2018",
+                "citation": "Harmful Algae, 154-157, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:HDshCWvjkbEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=322100593417456992",
+            "cites_id": [
+                "322100593417456992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efecto de diferentes proporciones de nitr\u00f3geno/f\u00f3sforo en el crecimiento y toxicidad de Alexandrium catenella (Dinoflagellata)",
+                "pub_year": "2012",
+                "citation": "Anales del Instituto de la Patagonia 40 (2), 113-123, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8116990680132550645",
+            "cites_id": [
+                "8116990680132550645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distribution of dinoflagellate cyst assemblages in surface sediments of Magellan fjords and channels (Patagonia, Chile) with a focus on harmful species: An overview on \u2026",
+                "pub_year": "2023",
+                "citation": "Progress in Oceanography 213, 103000, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11036648296941452676",
+            "cites_id": [
+                "11036648296941452676"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manual de medidas bioseguridad aplicadas a la contenci\u00f3n y detecci\u00f3n de la microalga invasora Dydymosphenia geminata en los cuerpos de agua de la regi\u00f3n de Magallanes y \u2026",
+                "pub_year": "2016",
+                "citation": "Subsecretar\u00eda de Pesca y Acuicultura, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:r0BpntZqJG4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3905384659670881315",
+            "cites_id": [
+                "3905384659670881315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling paralytic shellfish toxins (PSTs) transfer and accumulation in populations of two planktonic grazers",
+                "pub_year": "2013",
+                "citation": "Harmful algae 26, 60-70, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4110405232624227478",
+            "cites_id": [
+                "4110405232624227478"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relationship between viable cell transport of the diatom Didymosphenia geminata and other invasive species in Tierra del Fuego Island, Chile",
+                "pub_year": "2017",
+                "citation": "MARINE AND FRESH-WATER HARMFUL ALGAE, 66, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:dhFuZR0502QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10742805671076601435",
+            "cites_id": [
+                "10742805671076601435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is there a relationship between growth and toxicity in Alexandrium catenella (Dinoflagellata)?",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5453453033997812163",
+            "cites_id": [
+                "5453453033997812163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of different nitrogen/phosphorus nutrient ratios on growth and toxin content of Alexandrium catenella (Dinoflagellata).",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=821117430007975777",
+            "cites_id": [
+                "821117430007975777"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial distribution of Alexandrium catenella and paralytic toxins in the plankton and shellfishs between Penas Gulf and Trinidad Channel (Spring 2008).",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9533048602196875418",
+            "cites_id": [
+                "9533048602196875418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatty acid composition of different morphological structures in the sub-Antarctic kelps Macrocystis pyrifera (L.) C. Agardh and Lessonia flavicans Bory of the \u2026",
+                "pub_year": "2023",
+                "citation": "Journal of Applied Phycology, 1-14, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Harmful algal blooms in Patagonian fjords and channels systems: Recent advances, gaps, and priorities in a changing ocean",
+                "pub_year": "2023",
+                "citation": "Progress in Oceanography, 103087, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fatty acid composition of different structures in Macrocystis pyrifera (L.) C. Agardh from the sub-Antarctic Magellan Ecoregion: nutritional and biomedical potential",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of Remote Sensing for the Study of Spatial Dynamics of Estuarine Neuston from Southern Chile",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Latin American GRSS & ISPRS Remote Sensing Conference (LAGIRS \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transferencia cient\u00edfico-tecnol\u00f3gica para la capacitaci\u00f3n del sector turismo en la regi\u00f3n de Magallanes y Ant\u00e1rtica Chilena. Etapa II",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00bf Existe relaci\u00f3n entre el crecimiento y la toxicidad en Alexandrium Catenella (Dinoflagellata)?",
+                "pub_year": "2012",
+                "citation": "Anales del Instituto de la Patagonia 40 (2), 155-158, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PARALYTIC TOXINS IN THE PLANKTON AND SHELLFISHS BETWEEN PENAS GULF AND TRINIDAD CHANNEL (SPRING 2008)",
+                "pub_year": "2011",
+                "citation": "Ciencia y Tecnolog\u00eda del Mar 34 (1-2), 19-30, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Informe final INNOVA Chile. Desarrollo de tecnolog\u00edas para la detecci\u00f3n de toxinas marinas (mareas rojas) detoxificaci\u00f3n de mariscos contaminados por estos compuestos.",
+                "pub_year": "2006",
+                "citation": "Instituto de Fomento Pesquero, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acute LD50 of a Gyrodinium corsicum natural population for Sparus aurata and Dicentrarchus labrax M. Fern\u00e1ndez-Tejedor, MA. Soubrier-Pedreno and MD Furones \u2026",
+                "pub_year": "2004",
+                "citation": "Harmful Algae 3, 485-492, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaci\u00f3n de las t\u00e9cnicas inmunol\u00f3gicas en la detecci\u00f3n de especies de fitoplancton t\u00f3xico en las aguas de las r\u00edas bajas gallegas",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Immunological methods for the detection of toxic phytoplankton in the Galician coast",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of immunological techniques for the detection of toxic phytoplankton in the Galician R\u00edas Bajas",
+                "pub_year": "2002",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reproductive Success of the Copepod Acartia clausi During a Bloom of Dinophysis spp.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "RX00rSkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

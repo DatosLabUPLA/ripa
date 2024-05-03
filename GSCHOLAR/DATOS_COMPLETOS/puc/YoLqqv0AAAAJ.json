@@ -1,0 +1,104 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YoLqqv0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel Saavedra",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YoLqqv0AAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Machine Learning",
+        "Computer Vision",
+        "Data education",
+        "psychometric"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 122,
+    "citedby5y": 121,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 23,
+        "2022": 34,
+        "2023": 44,
+        "2024": 17
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "X-ray baggage inspection with computer vision: A survey",
+                "pub_year": "2020",
+                "citation": "Ieee Access 8, 145620-145633, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YoLqqv0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1284155357249106907",
+            "cites_id": [
+                "1284155357249106907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of threat objects in baggage inspection with X-ray images using deep learning",
+                "pub_year": "2021",
+                "citation": "Neural Computing and Applications 33, 7803-7819, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YoLqqv0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6289482930707037324",
+            "cites_id": [
+                "6289482930707037324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Target detection by target simulation in X-ray testing",
+                "pub_year": "2022",
+                "citation": "Journal of Nondestructive Evaluation 41 (1), 21, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YoLqqv0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6911886791542968540",
+            "cites_id": [
+                "6911886791542968540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "X-Ray Baggage Inspection With Computer Vision: A Survey",
+                "pub_year": "2020",
+                "citation": "IEEE, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YoLqqv0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

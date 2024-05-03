@@ -1,0 +1,87 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "o1FLL2MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Manquehual",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o1FLL2MAAAAJ&citpid=6",
+    "affiliation": "Universidad de La Frontera",
+    "organization": 13908003347799972066,
+    "interests": [
+        "Hydrological modeling",
+        "climate change",
+        "geoengineering",
+        "statistical downscaling"
+    ],
+    "email_domain": "@ufromail.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 4,
+        "2023": 3,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating multiple WRF configurations and forcing over the Northern Patagonian Icecap (NPI) and Baker River Basin",
+                "pub_year": "2020",
+                "citation": "Atmosphere 11 (8), 815, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "o1FLL2MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16214306332839760890",
+            "cites_id": [
+                "16214306332839760890"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Climate change refugia for glaciers in Patagonia",
+                "pub_year": "2021",
+                "citation": "Anthropocene 33, 100277, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "o1FLL2MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5983227209978515161",
+            "cites_id": [
+                "5983227209978515161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Composici\u00f3n y variaci\u00f3n estacional de la avifauna presente en el Parque Ecol\u00f3gico y Cultural Rucamanque, Regi\u00f3n de la Araucan\u00eda, Chile",
+                "pub_year": "2024",
+                "citation": "Bolet\u00edn Museo Nacional de Historia Natural 73 (1), 45-54, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "o1FLL2MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

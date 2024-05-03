@@ -1,0 +1,93 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "CgYBGyoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Leonardo Andr\u00e9s Jofr\u00e9 Flor",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CgYBGyoAAAAJ&citpid=4",
+    "affiliation": "PhD student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Bayesian Nonparametric Models"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 2,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bmUGuigAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rams\u00e9s H Mena",
+            "affiliation": "IIMAS-UNAM"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a Dirichlet process mixture representation of phase-type distributions",
+                "pub_year": "2022",
+                "citation": "Bayesian Analysis 17 (3), 765-790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CgYBGyoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5260440139604706311",
+            "cites_id": [
+                "5260440139604706311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Factors associated to the duration of COVID-19 lockdowns in Chile",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (1), 9516, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CgYBGyoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7909321689862889511",
+            "cites_id": [
+                "7909321689862889511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Factors associated to the duration of COVID-19 lockdowns in chile. Scientific Reports",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "CgYBGyoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
