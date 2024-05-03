@@ -1,0 +1,173 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_YY10qsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Edgardo Riquelme",
+    "affiliation": "Universidad del B\u00edo B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "cryptography",
+        "algorithmic number theory"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 11,
+    "citedby5y": 3,
+    "hindex": 3,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2016": 6,
+        "2017": 0,
+        "2018": 2,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "96oPQhYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amalia Pizarro-Madariaga",
+            "affiliation": "Universidad de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "a3bmRrwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jes\u00fas-Javier Chi-Dom\u00ednguez",
+            "affiliation": "Technology Innovation Institute (TII), Abu Dhabi, UAE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S-JpQxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Th\u00e9riault",
+            "affiliation": "Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z5x8QqgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jordi Pujol\u00e0s",
+            "affiliation": "Universitat de Lleida"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisection for genus 2 curves in odd characteristic",
+                "pub_year": "2016",
+                "citation": "Applicable Algebra in Engineering, Communication and Computing 27 (5), 373-397, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13231062747872925992",
+            "cites_id": [
+                "13231062747872925992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trisection for non-supersingular genus 2 curves in characteristic 2",
+                "pub_year": "2016",
+                "citation": "International Journal of Computer Mathematics 93 (8), 1254-1264, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6663273383179546369",
+            "cites_id": [
+                "6663273383179546369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing Quotient Groups of Smooth Order with Applications to Isogenies over Higher-Dimensional Abelian Varieties.",
+                "pub_year": "2023",
+                "citation": "IACR Cryptol. ePrint Arch. 2023, 508, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16179950509536698707",
+            "cites_id": [
+                "16179950509536698707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing Isogenies of Power-Smooth Degrees Between PPAVs",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computing Isogenies of Power-Smooth Degrees Between PPAVs",
+                "pub_year": "2023",
+                "citation": "Cryptology ePrint Archive, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symbolic Trisection Polynomials for Genus 2 Curves in Odd Characteristic",
+                "pub_year": "2018",
+                "citation": "SIAM Journal on Discrete Mathematics 32 (4), 2421-2440, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALGORITHMS FOR l-SECTIONS ON GENUS TWO CURVES OVER FINITE FIELDS AND APPLICATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_YY10qsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

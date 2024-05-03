@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WVOjlx8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Basoalto",
+    "affiliation": "Universidad del B\u00edo B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Sistemas de control",
+        "Rob\u00f3tica"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model and Control Analysis for a Point Absorber Wave Energy Converter in Lebu, Chile",
+                "pub_year": "2023",
+                "citation": "International Workshop IFToMM for Sustainable Development Goals, 19-26, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WVOjlx8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15906614904933622502",
+            "cites_id": [
+                "15906614904933622502"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Evaluation of Model-Based Predictive Control Applied to a Point Absorber",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "WVOjlx8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parametric Data-Based Model for a Wave Energy Converter",
+                "citation": "Available at SSRN 4466380, 0"
+            },
+            "filled": false,
+            "author_pub_id": "WVOjlx8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

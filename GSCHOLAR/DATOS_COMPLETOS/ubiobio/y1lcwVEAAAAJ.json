@@ -1,0 +1,1239 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "y1lcwVEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ricardo Oyarz\u00faa",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=y1lcwVEAAAAJ&citpid=1",
+    "affiliation": "Universidad del Bio-Bio",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Numerical Analysis",
+        "Finite element methods",
+        "mixed methods",
+        "Discontinuous Galerkin methods"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "http://ciencias.ubiobio.cl/royarzua",
+    "citedby": 1716,
+    "citedby5y": 1192,
+    "hindex": 24,
+    "hindex5y": 21,
+    "i10index": 41,
+    "i10index5y": 40,
+    "cites_per_year": {
+        "2010": 11,
+        "2011": 15,
+        "2012": 12,
+        "2013": 29,
+        "2014": 50,
+        "2015": 43,
+        "2016": 79,
+        "2017": 102,
+        "2018": 134,
+        "2019": 144,
+        "2020": 245,
+        "2021": 179,
+        "2022": 282,
+        "2023": 207,
+        "2024": 128
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7FNfdxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel N. Gatica",
+            "affiliation": "Professor and Researcher, CI\u00b2MA and Departamento de Ingenieria Matematica, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X2d-6CEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Ruiz Baier",
+            "affiliation": "School of Mathematics, Monash University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8dHREY4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco-Javier Sayas",
+            "affiliation": "Professor of Mathematics, University of Delaware"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "saHywIcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Giordano Tierra",
+            "affiliation": "Assistant Professor, University of North Texas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eYRpOb8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Salim Meddahi",
+            "affiliation": "Professor, Universidad de Oviedo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming mixed finite-element method for the coupling of fluid flow with porous media flow",
+                "pub_year": "2009",
+                "citation": "IMA Journal of Numerical Analysis 29 (1), 86-108, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 149,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2169795577929407414",
+            "cites_id": [
+                "2169795577929407414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of fully-mixed finite element methods for the Stokes-Darcy coupled problem",
+                "pub_year": "2011",
+                "citation": "Mathematics of Computation 80 (276), 1911-1948, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 126,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13991770062401345088",
+            "cites_id": [
+                "13991770062401345088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Locking-free finite element methods for poroelasticity",
+                "pub_year": "2016",
+                "citation": "SIAM Journal on Numerical Analysis 54 (5), 2951-2973, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:0EnyYjriUFMC",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13563335933816497984",
+            "cites_id": [
+                "13563335933816497984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A residual-based a posteriori error estimator for a fully-mixed formulation of the Stokes\u2013Darcy coupled problem",
+                "pub_year": "2011",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 200 (21-22), 1877-1891, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 89,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11223206408932805599",
+            "cites_id": [
+                "11223206408932805599"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented mixed\u2010primal formulation for the stationary B oussinesq problem",
+                "pub_year": "2016",
+                "citation": "Numerical Methods for Partial Differential Equations 32 (2), 445-478, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 79,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4061933848908755679",
+            "cites_id": [
+                "4061933848908755679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An exactly divergence-free finite element method for a generalized Boussinesq problem",
+                "pub_year": "2014",
+                "citation": "IMA journal of numerical analysis 34 (3), 1104-1135, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 77,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=965590401030363038",
+            "cites_id": [
+                "965590401030363038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New fully-mixed finite element methods for the Stokes\u2013Darcy coupling",
+                "pub_year": "2015",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 295, 362-395, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16303371221418746837",
+            "cites_id": [
+                "16303371221418746837"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence of a family of Galerkin discretizations for the Stokes\u2013Darcy coupled problem",
+                "pub_year": "2011",
+                "citation": "Numerical Methods for Partial Differential Equations 27 (3), 721-748, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15332643991100602923",
+            "cites_id": [
+                "15332643991100602923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of a mixed scheme for the Brinkman problem",
+                "pub_year": "2016",
+                "citation": "Numerische Mathematik 133 (4), 781-817, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7599464611301863816",
+            "cites_id": [
+                "7599464611301863816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Augmented Mixed Finite Element Method for the Navier--Stokes Equations with Variable Viscosity",
+                "pub_year": "2016",
+                "citation": "SIAM Journal on Numerical Analysis 54 (2), 1069-1092, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642712347075196404",
+            "cites_id": [
+                "9642712347075196404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented mixed-FEM for the Navier-Stokes problem",
+                "pub_year": "2016",
+                "citation": "Mathematics of Computation, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9246754570014111717",
+            "cites_id": [
+                "9246754570014111717"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented fully-mixed finite element method for the stationary Boussinesq problem",
+                "pub_year": "2017",
+                "citation": "Calcolo 54, 167-205, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16588605622163771651",
+            "cites_id": [
+                "16588605622163771651"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a dual-mixed problem in non-standard Banach spaces",
+                "pub_year": "2018",
+                "citation": "Verlag der \u00d6sterreichischen Akademie der Wissenschaften, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3073212129601071035",
+            "cites_id": [
+                "3073212129601071035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a momentum conservative mixed\u2010FEM for the stationary Navier\u2013Stokes problem",
+                "pub_year": "2021",
+                "citation": "Numerical Methods for Partial Differential Equations 37 (5), 2895-2923, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4322062387484749447",
+            "cites_id": [
+                "4322062387484749447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conservative discontinuous finite volume and mixed schemes for a new four-field formulation in poroelasticity",
+                "pub_year": "2020",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 54 (1), 273-299, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225533589504299231",
+            "cites_id": [
+                "7225533589504299231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A twofold saddle point approach for the coupling of fluid flow with nonlinear porous media flow",
+                "pub_year": "2012",
+                "citation": "IMA Journal of Numerical Analysis 32 (3), 845-887, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14599369958051862483",
+            "cites_id": [
+                "14599369958051862483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a conforming finite element method for the Boussinesq problem with temperature-dependent parameters",
+                "pub_year": "2017",
+                "citation": "Journal of Computational and Applied Mathematics 323, 71-94, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8970828580518118472",
+            "cites_id": [
+                "8970828580518118472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fully-mixed finite element method for the Navier\u2013Stokes/Darcy coupled problem with nonlinear viscosity",
+                "pub_year": "2017",
+                "citation": "Journal of Numerical Mathematics 25 (2), 55-88, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1456643565271024956",
+            "cites_id": [
+                "1456643565271024956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming mixed finite element method for the Navier\u2013Stokes/Darcy coupled problem",
+                "pub_year": "2017",
+                "citation": "Numerische Mathematik 135 (2), 571-606, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17704628436233605752",
+            "cites_id": [
+                "17704628436233605752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented fully-mixed approach for the coupling of quasi-Newtonian fluids and porous media",
+                "pub_year": "2014",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 270, 76-112, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471473931197205941",
+            "cites_id": [
+                "8471473931197205941"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Banach spaces-based analysis of a fully-mixed finite element method for the steady-state model of fluidized beds",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 84, 244-276, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14600914945718230051",
+            "cites_id": [
+                "14600914945718230051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new mixed-FEM for steady-state natural convection models allowing conservation of momentum and thermal energy",
+                "pub_year": "2020",
+                "citation": "Calcolo 57 (4), 36, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:k_IJM867U9cC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18151851740234229324",
+            "cites_id": [
+                "18151851740234229324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed\u2013primal finite element method for the Boussinesq problem with temperature-dependent viscosity",
+                "pub_year": "2018",
+                "citation": "Calcolo 55, 1-42, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12884219508867442891",
+            "cites_id": [
+                "12884219508867442891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new mixed finite element method for the n-dimensional Boussinesq problem with temperature-dependent viscosity",
+                "pub_year": "2020",
+                "citation": "Networks and Heterogeneous Media 15 (2), 215-245, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16179987870966753835",
+            "cites_id": [
+                "16179987870966753835"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented stress\u2010based mixed finite element method for the steady state Navier\u2010Stokes equations with nonlinear viscosity",
+                "pub_year": "2017",
+                "citation": "Numerical Methods for Partial Differential Equations 33 (5), 1692-1725, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:dhFuZR0502QC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18049723333475466696",
+            "cites_id": [
+                "18049723333475466696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed point strategies for mixed variational formulations of the stationary Boussinesq problem",
+                "pub_year": "2016",
+                "citation": "Comptes Rendus Mathematique 354 (1), 57-62, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9952585592498760899",
+            "cites_id": [
+                "9952585592498760899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order mixed-FEM for diffusion problems on curved domains",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 79 (1), 49-78, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17303279708100485930",
+            "cites_id": [
+                "17303279708100485930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a fully-mixed formulation for the Navier\u2013Stokes/Darcy coupled problem with nonlinear viscosity",
+                "pub_year": "2017",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 315, 943-971, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:hC7cP41nSMkC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9865863556152746063",
+            "cites_id": [
+                "9865863556152746063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming mixed finite element method for the Navier\u2013Stokes/Darcy\u2013Forchheimer coupled problem",
+                "pub_year": "2020",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 54 (5), 1689-1723, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:TFP_iSt0sucC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17107149674906072658",
+            "cites_id": [
+                "17107149674906072658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of an augmented mixed method for the Navier\u2013Stokes problem with mixed boundary conditions",
+                "pub_year": "2018",
+                "citation": "IMA Journal of Numerical Analysis 38 (3), 1452-1484, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:qUcmZB5y_30C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1803949289639775800",
+            "cites_id": [
+                "1803949289639775800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of a pseudostress-based mixed formulation of the Stokes problem with varying density",
+                "pub_year": "2016",
+                "citation": "IMA Journal of Numerical Analysis 36 (2), 947-983, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15013003192245485058",
+            "cites_id": [
+                "15013003192245485058"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fully-mixed formulation for the steady double-diffusive convection system based upon Brinkman\u2013Forchheimer equations",
+                "pub_year": "2020",
+                "citation": "Journal of Scientific Computing 85 (2), 44, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6697060325764888998",
+            "cites_id": [
+                "6697060325764888998"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented fully-mixed formulation for the stationary Boussinesq model",
+                "pub_year": "2019",
+                "citation": "Computers & Mathematics with Applications 77 (3), 693-714, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:-f6ydRqryjwC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10951165431831461861",
+            "cites_id": [
+                "10951165431831461861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed Kirchhoff stress\u2013displacement\u2013pressure formulations for incompressible hyperelasticity",
+                "pub_year": "2021",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 374, 113562, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7274390609227312859",
+            "cites_id": [
+                "7274390609227312859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a mixed-primal finite element method for the Boussinesq problem with temperature-dependent viscosity",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 78, 887-917, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:TQgYirikUcIC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9854963805498919492",
+            "cites_id": [
+                "9854963805498919492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented mixed-primal formulation for the stationary Boussinesq model",
+                "pub_year": "2017",
+                "citation": "Calcolo 54, 1055-1095, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:mB3voiENLucC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14338623882040862053",
+            "cites_id": [
+                "14338623882040862053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A three-field Banach spaces-based mixed formulation for the unsteady Brinkman\u2013Forchheimer equations",
+                "pub_year": "2022",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 394, 114895, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:isC4tDSrTZIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17566355900553457089",
+            "cites_id": [
+                "17566355900553457089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of an augmented mixed-FEM for the Navier\u2013Stokes\u2013Brinkman problem",
+                "pub_year": "2018",
+                "citation": "Computers & Mathematics with Applications 75 (7), 2420-2444, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:HDshCWvjkbEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5450134254775797985",
+            "cites_id": [
+                "5450134254775797985"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A divergence-conforming DG-mixed finite element method for the stationary Boussinesq problem",
+                "pub_year": "2020",
+                "citation": "Journal of Scientific Computing 85 (1), 14, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:r0BpntZqJG4C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7838739087745215326",
+            "cites_id": [
+                "7838739087745215326"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analyses of a high order unfitted mixed-FEM for Stokes flow",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 360, 112780, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8733912147483128565",
+            "cites_id": [
+                "8733912147483128565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori error analysis of a fully-mixed finite element method for a two-dimensional fluid-solid interaction problem\u2217",
+                "pub_year": "2013",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 47 (2), 471-506, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5113367618017831424",
+            "cites_id": [
+                "5113367618017831424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented fully-mixed formulation for the coupling of the Stokes and heat equations",
+                "pub_year": "2018",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 52 (5), 1947-1980, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9271639738146643648",
+            "cites_id": [
+                "9271639738146643648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a conservative mixed-FEM for the stationary Navier\u2013Stokes problem",
+                "pub_year": "2018",
+                "citation": "Preprint 25, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:rO6llkc54NcC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18050120288111009354",
+            "cites_id": [
+                "18050120288111009354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of an augmented fully mixed formulation for the nonisothermal Oldroyd\u2013Stokes problem",
+                "pub_year": "2019",
+                "citation": "Numerical Methods for Partial Differential Equations 35 (1), 295-324, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12693248631938065898",
+            "cites_id": [
+                "12693248631938065898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a new mixed FEM for stationary incompressible magneto-hydrodynamics",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 127, 65-79, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:hMod-77fHWUC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14220193671422207786",
+            "cites_id": [
+                "14220193671422207786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Residual-based a posteriori error analysis for the coupling of the Navier\u2013Stokes and Darcy\u2013Forchheimer equations",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55 (2), 659-687, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1869267094110342793",
+            "cites_id": [
+                "1869267094110342793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A five-field augmented fully-mixed finite element method for the Navier\u2013Stokes/Darcy coupled problem",
+                "pub_year": "2020",
+                "citation": "Computers & Mathematics with Applications 80 (8), 1944-1963, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:blknAaTinKkC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2945516712847434974",
+            "cites_id": [
+                "2945516712847434974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a momentum conservative Banach spaces based mixed-FEM for the Navier\u2013Stokes problem",
+                "pub_year": "2022",
+                "citation": "Applied Numerical Mathematics 176, 134-158, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:BqipwSGYUEgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13733189795228828158",
+            "cites_id": [
+                "13733189795228828158"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a mixed finite element method for the coupled Brinkman\u2013Forchheimer and double-diffusion equations",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 93 (2), 50, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879780158995199748",
+            "cites_id": [
+                "16879780158995199748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A discontinuous Galerkin method for the stationary Boussinesq system",
+                "pub_year": "2022",
+                "citation": "Computational Methods in Applied Mathematics 22 (4), 797-820, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:maZDTaKrznsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=129205776142677986",
+            "cites_id": [
+                "129205776142677986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of a conforming and locking-free four-field formulation for the stationary Biot\u2019s model",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55, S475-S506, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:GnPB-g6toBAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817884605003482032",
+            "cites_id": [
+                "13817884605003482032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a momentum and thermal energy conservative mixed FEM for the Boussinesq equations",
+                "pub_year": "2022",
+                "citation": "Calcolo 59 (4), 45, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1916401034505736389",
+            "cites_id": [
+                "1916401034505736389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis for a vorticity-based mixed formulation of the generalized Stokes equations",
+                "pub_year": "2014",
+                "citation": "Preprint 20, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4101648881690087909",
+            "cites_id": [
+                "4101648881690087909"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an unfitted mixed finite element method for a class of quasi-Newtonian Stokes flow",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 114, 225-243, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5967706981524425846",
+            "cites_id": [
+                "5967706981524425846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of a conforming and locking-free four-field formulation in poroelasticity",
+                "pub_year": "2019",
+                "citation": "CI2MA, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:M05iB0D1s5AC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15111148536873738527",
+            "cites_id": [
+                "15111148536873738527"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an augmented fully-mixed formulation for the non-isothermal Oldroyd\u2013Stokes problem",
+                "pub_year": "2017",
+                "citation": "Preprint 21, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=778694986930408086",
+            "cites_id": [
+                "778694986930408086"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming finite element method for a nonisothermal fluid-membrane interaction",
+                "pub_year": "2023",
+                "citation": "Preprint 14, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis of an augmented mixed-FEM for the Navier\u2013Stokes\u2013Brinkman problem",
+                "pub_year": "2018",
+                "citation": "Elsevier, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of an augmented mixed method for the Navier-Stokes problem with mixed boundary conditions",
+                "pub_year": "2017",
+                "citation": "IMA Journal of Numerical Analysis 38 (3), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New fully-mixed finite element methods for the Stokes-Darcy coupling",
+                "pub_year": "2015",
+                "citation": "Elsevier, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed finite element method for the coupling of fluid flow with porous media flow",
+                "pub_year": "2007",
+                "citation": "XX Congreso de ecuaciones diferenciales y aplicaciones y X Congreso de \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Mixed Finite Element Method for a Reverse Osmosis Model",
+                "citation": "BOOK OF, 170, 0"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Banach space-based analysis of a fully mixed formulation for the Navier\u2013Stokes/Darcy equations",
+                "citation": "BOOK OF, 173, 0"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A MIXED FINITE ELEMENT METHOD FOR A REVERSE OSMOSIS MODEL",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Banach spaces-based fully mixed FEMs for the Boussinesq problem with temperature-dependent parameters",
+                "citation": "BOOK OF, 175, 0"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A conforming and mass conservative pseudostress-based mixed finite element method for Stokes",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed finite element method for the coupling of fluid flow with porous media flow",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:ldfaerwXgEUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented stress-based mixed finite element method for the Navier-Stokes equations with variable viscosity",
+                "citation": "Stabilization of convective terms by a Darcy-Brinkman-Forchheimer porous \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A PRIORI AND A POSTERIORI ERROR ANALYSES OF A HIGH ORDER MIXED-FEM FOR STOKES FLOWS ON CURVED DOMAINS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Please visit the journal\u2019s Website at www. imajna. oxfordjournals. org",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SANTIAGO NUMERICO III",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MAFELAP 2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "y1lcwVEAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 10,
+        "not_available": 0
+    }
+}

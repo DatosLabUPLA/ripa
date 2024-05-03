@@ -1,0 +1,1781 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "q4atNYgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Marco Mora Cofre",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=q4atNYgAAAAJ&citpid=6",
+    "affiliation": "Laboratory of Technological Research in Pattern Recognition (LITRP), Universidad Cat\u00f3lica del Maule",
+    "organization": 12968600147058256171,
+    "interests": [
+        "Image Processing",
+        "Pattern Recognition",
+        "Biometrics"
+    ],
+    "email_domain": "@ucm.cl",
+    "homepage": "http://www.litrp.cl/",
+    "citedby": 1152,
+    "citedby5y": 931,
+    "hindex": 18,
+    "hindex5y": 16,
+    "i10index": 26,
+    "i10index5y": 21,
+    "cites_per_year": {
+        "2007": 4,
+        "2008": 10,
+        "2009": 2,
+        "2010": 3,
+        "2011": 4,
+        "2012": 5,
+        "2013": 12,
+        "2014": 19,
+        "2015": 25,
+        "2016": 29,
+        "2017": 39,
+        "2018": 55,
+        "2019": 79,
+        "2020": 95,
+        "2021": 169,
+        "2022": 223,
+        "2023": 270,
+        "2024": 93
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PSXV3aIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo J. Barrientos",
+            "affiliation": "Universidad Cat\u00f3lica del Maule, Talca, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7vmPu5UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruber Hern\u00e1ndez-Garc\u00eda",
+            "affiliation": "Professor & Researcher, Universidad Cat\u00f3lica del Maule"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JHVfbC8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matilde Santos Pe\u00f1as",
+            "affiliation": "Full Professor of Computer Science and Physics, Complutense University of Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gvVZsegAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcos Carrasco-Benavides",
+            "affiliation": "Associate Professor, Department of Agricultural Sciences, Universidad Cat\u00f3lica del Maule - Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RbAIRGEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paulo Gonzalez Gutierrez",
+            "affiliation": "FEN Universidad de Talca, Chile, U930 INSERM - Universit\u00e9 Francois Rabelais Tours-France"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eq3gvikAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sigfredo Fuentes",
+            "affiliation": "Associate Professor The University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AvzWbwQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Clovis Tauber",
+            "affiliation": "Ma\u00eetre de Conf\u00e9rence HDR, Universit\u00e9 de Tours, INSERM"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8uNTqnAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando C\u00f3rdova-Lepe",
+            "affiliation": "Universidad Cat\u00f3lica del Maule (Director of DM2A-UCM)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IkWzq6IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Tirado Marabol\u00ed",
+            "affiliation": "Universidad Cat\u00f3lica del Maule, Talca, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i3-Q_zMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Antonio Naranjo-Torres",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i_Us6XMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ver\u00f3nica In\u00e9s Aubin",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "m56pR38AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "DAVID ZABALA-BLANCO",
+            "affiliation": ""
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A review of convolutional neural network applied to fruit image processing",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (10), 3443, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 293,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4378360064452640454",
+            "cites_id": [
+                "4378360064452640454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated computation of leaf area index from fruit trees using improved image processing algorithms applied to canopy cover digital photograpies",
+                "pub_year": "2016",
+                "citation": "Computers and Electronics in Agriculture 123, 195-202, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 67,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10115454157919190059",
+            "cites_id": [
+                "10115454157919190059"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method to construct fruit maturity color scales based on support machines for regression: Application to olives and grape seeds",
+                "pub_year": "2015",
+                "citation": "Journal of Food Engineering 162, 9-17, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:roLk4NBRz8UC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6515178621129359205",
+            "cites_id": [
+                "6515178621129359205"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New version of Davies-Bouldin index for clustering validation based on cylindrical distance",
+                "pub_year": "2013",
+                "citation": "2013 32nd International Conference of the Chilean Computer Science Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2554020319936365379",
+            "cites_id": [
+                "2554020319936365379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New internal index for clustering validation based on graphs",
+                "pub_year": "2017",
+                "citation": "Expert Systems with Applications 86, 334-349, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17217363457445622982",
+            "cites_id": [
+                "17217363457445622982"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-Newtonian gradient for contour detection in images with multiplicative noise",
+                "pub_year": "2012",
+                "citation": "Pattern recognition letters 33 (10), 1245-1256, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3157946025454489309",
+            "cites_id": [
+                "3157946025454489309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Off-line writer verification based on simple graphemes",
+                "pub_year": "2018",
+                "citation": "Pattern Recognition 79, 414-426, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:mB3voiENLucC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15201617693078958996",
+            "cites_id": [
+                "15201617693078958996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fingerprint classification through standard and weighted extreme learning machines",
+                "pub_year": "2020",
+                "citation": "applied sciences 10 (12), 4125, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10496630901019044341",
+            "cites_id": [
+                "10496630901019044341"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individuals identification based on palm vein matching under a parallel environment",
+                "pub_year": "2019",
+                "citation": "Applied Sciences 9 (14), 2805, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:k_IJM867U9cC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7481743491655297099",
+            "cites_id": [
+                "7481743491655297099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust level set for heart cavities detection in ultrasound images",
+                "pub_year": "2005",
+                "citation": "Computers in Cardiology, 2005, 235-238, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2934997704274034555",
+            "cites_id": [
+                "2934997704274034555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extreme learning machines to combat phase noise in RoF-OFDM schemes",
+                "pub_year": "2019",
+                "citation": "Electronics 8 (9), 921, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:maZDTaKrznsC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12882132411505617310",
+            "cites_id": [
+                "12882132411505617310"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method to estimate Grape Phenolic Maturity based on seed images",
+                "pub_year": "2014",
+                "citation": "Computers and Electronics in Agriculture 101, 76-83, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:ufrVoPGSRksC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675276916942970939",
+            "cites_id": [
+                "4675276916942970939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance assessment of thermal infrared cameras of different resolutions to estimate tree water status from two cherry cultivars: An alternative to midday stem water \u2026",
+                "pub_year": "2020",
+                "citation": "Sensors 20 (12), 3596, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1040390775447089418",
+            "cites_id": [
+                "1040390775447089418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relaxation of the radio-frequency linewidth for coherent-optical orthogonal frequency-division multiplexing schemes by employing the improved extreme learning machine",
+                "pub_year": "2020",
+                "citation": "Symmetry 12 (4), 632, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4794630939534182292",
+            "cites_id": [
+                "4794630939534182292"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated diagnosis of schizophrenia using EEG microstates and Deep Convolutional Neural Network",
+                "pub_year": "2022",
+                "citation": "Expert Systems with Applications 209, 118236, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:bnK-pcrLprsC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17110414767110856303",
+            "cites_id": [
+                "17110414767110856303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new descriptor for person identity verification based on handwritten strokes off-line analysis",
+                "pub_year": "2017",
+                "citation": "Expert Systems with Applications 89, 241-253, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:IWHjjKOFINEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18025344932654514673",
+            "cites_id": [
+                "18025344932654514673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grape maturity estimation based on seed images and neural networks",
+                "pub_year": "2014",
+                "citation": "Engineering Applications of Artificial Intelligence 35, 95-104, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15940568415109493829",
+            "cites_id": [
+                "15940568415109493829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of an automated digital method to estimate leaf area index (LAI) in cherry trees",
+                "pub_year": "2016",
+                "citation": "New zealand journal of crop and horticultural science 44 (4), 247-261, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10555235794734641789",
+            "cites_id": [
+                "10555235794734641789"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new approach for wet blue leather defect segmentation",
+                "pub_year": "2011",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3750088669885017005",
+            "cites_id": [
+                "3750088669885017005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological color images processing using distance-based and lexicographic order operators",
+                "pub_year": "2010",
+                "citation": "2010 XXIX International Conference of the Chilean Computer Science Society \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12073404028508583260",
+            "cites_id": [
+                "12073404028508583260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards the generation of synthetic images of palm vein patterns: A review",
+                "pub_year": "2023",
+                "citation": "Information Fusion 89, 66-90, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:olpn-zPbct0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11505896022013848141",
+            "cites_id": [
+                "11505896022013848141"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "License plate detection using neural networks",
+                "pub_year": "2009",
+                "citation": "International Work-Conference on Artificial Neural Networks, 1248-1255, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:WF5omc3nYNoC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4612939679969237815",
+            "cites_id": [
+                "4612939679969237815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust footprint detection using color images and neural networks",
+                "pub_year": "2005",
+                "citation": "Progress in Pattern Recognition, Image Analysis and Applications: 10th \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Zph67rFs4hoC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10410768434065316629",
+            "cites_id": [
+                "10410768434065316629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural networks ensemble for automatic DNA microarray spot classification",
+                "pub_year": "2019",
+                "citation": "Neural Computing and Applications 31, 2311-2327, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Se3iqnhoufwC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16123831407547618433",
+            "cites_id": [
+                "16123831407547618433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient exploitation of the Xeon Phi architecture for the Ant Colony Optimization (ACO) metaheuristic",
+                "pub_year": "2017",
+                "citation": "The Journal of Supercomputing 73, 5053-5070, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:8k81kl-MbHgC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7947740178044944987",
+            "cites_id": [
+                "7947740178044944987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A proposal of edge detection in images with multiplicative noise using the Ant Colony System algorithm",
+                "pub_year": "2022",
+                "citation": "Engineering Applications of Artificial Intelligence 110, 104715, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:5ugPr518TE4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18095957740722453122",
+            "cites_id": [
+                "18095957740722453122"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of the standard and regularized ELMs for gender and age classification based on palm vein images",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:D_sINldO8mEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2261276983678340561",
+            "cites_id": [
+                "2261276983678340561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An analysis of seed colour during ripening of cabernet sauvignon grapes",
+                "pub_year": "2017",
+                "citation": "South African Journal of Enology and Viticulture 38 (1), 38-45, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:dhFuZR0502QC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17176631791519185798",
+            "cites_id": [
+                "17176631791519185798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of clustering internal validation indexes with asymmetric clusters",
+                "pub_year": "2019",
+                "citation": "IEEE Latin America Transactions 17 (05), 807-814, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17573209462880639854",
+            "cites_id": [
+                "17573209462880639854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shadow detection in complex images using neural networks: application to wine grape seed segmentation",
+                "pub_year": "2013",
+                "citation": "Adaptive and Natural Computing Algorithms: 11th International Conference \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17891825626105084100",
+            "cites_id": [
+                "17891825626105084100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Review of multilayer extreme learning machine neural networks",
+                "pub_year": "2023",
+                "citation": "Artificial Intelligence Review 56 (11), 13691-13742, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:PELIpwtuRlgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4906337467314766324",
+            "cites_id": [
+                "4906337467314766324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comprehensive review of extreme learning machine on medical imaging",
+                "pub_year": "2023",
+                "citation": "Neurocomputing, 126618, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:eq2jaN3J8jMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17611587121134843157",
+            "cites_id": [
+                "17611587121134843157"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Burned Area Classification Based on Extreme Learning Machine and Sentinel-2 Images",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 12 (1), 9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9026192519772557424",
+            "cites_id": [
+                "9026192519772557424"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast finger vein recognition based on sparse matching algorithm under a multicore platform for real-time individuals identification",
+                "pub_year": "2019",
+                "citation": "Symmetry 11 (9), 1167, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4125509012921837532",
+            "cites_id": [
+                "4125509012921837532"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new approach for writer verification based on segments of handwritten graphemes",
+                "pub_year": "2022",
+                "citation": "Logic Journal of the IGPL 30 (6), 965-978, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15245163612259473917",
+            "cites_id": [
+                "15245163612259473917"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water status estimation of cherry trees using infrared thermal imagery coupled with supervised machine learning modeling",
+                "pub_year": "2022",
+                "citation": "Computers and Electronics in Agriculture 200, 107256, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:XiVPGOgt02cC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769333804598714914",
+            "cites_id": [
+                "6769333804598714914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilayer extreme learning machine as equalizer in ofdm-based radio-over-fiber systems",
+                "pub_year": "2021",
+                "citation": "IEEE Latin America Transactions 19 (10), 1790-1797, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:8AbLer7MMksC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7900654430369936593",
+            "cites_id": [
+                "7900654430369936593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generating style-based palm vein synthetic images for the creation of large-scale datasets",
+                "pub_year": "2021",
+                "citation": "IET Digital Library, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3882133013238926358",
+            "cites_id": [
+                "3882133013238926358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic generation of synthetic palm vein images: a nature-based approach",
+                "pub_year": "2021",
+                "citation": "IET Digital Library, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3241027790656308272",
+            "cites_id": [
+                "3241027790656308272"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The extreme learning machine algorithm for classifying fingerprints",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:vRqMK49ujn8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15354766658723626065",
+            "cites_id": [
+                "15354766658723626065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convolutional neural networks for off-line writer identification based on simple graphemes",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (22), 7999, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:a0OBvERweLwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11350156316667978993",
+            "cites_id": [
+                "11350156316667978993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A descriptor for handwritten strokes off-line analysis: A preliminary study",
+                "pub_year": "2013",
+                "citation": "2013 32nd International Conference of the Chilean Computer Science Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3103175907772083803",
+            "cites_id": [
+                "3103175907772083803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heart cavity detection in ultrasound images with SOM",
+                "pub_year": "2006",
+                "citation": "Mexican International Conference on Artificial Intelligence, 1211-1219, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1346836616194896782",
+            "cites_id": [
+                "1346836616194896782"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model based on clusters of similar color and NIR to estimate oil content of single olives",
+                "pub_year": "2021",
+                "citation": "Foods 10 (3), 609, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11240219807299930114",
+            "cites_id": [
+                "11240219807299930114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iris recognition based on displacement information using a sparse matching technique",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14621045601187734619",
+            "cites_id": [
+                "14621045601187734619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic diagnosis of the footprint pathologies based on neural networks",
+                "pub_year": "2007",
+                "citation": "Adaptive and Natural Computing Algorithms: 8th International Conference \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14007064618242484898",
+            "cites_id": [
+                "14007064618242484898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic diagnosis of foot plant pathologies: A neural networks approach",
+                "pub_year": "2007",
+                "citation": "Advances in Neural Networks\u2013ISNN 2007: 4th International Symposium on Neural \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12078714324317115978",
+            "cites_id": [
+                "12078714324317115978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of Parkinson\u2019s disease based on spectrograms of voice recordings and Extreme Learning Machine random weight neural networks",
+                "pub_year": "2023",
+                "citation": "Engineering Applications of Artificial Intelligence 125, 106700, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:9vf0nzSNQJEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16582287829300457707",
+            "cites_id": [
+                "16582287829300457707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Raspberries-LITRP database: RGB images database for the industrial applications of red raspberries\u2019 automatic quality estimation",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (22), 11586, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:HE397vMXCloC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142298058473169663",
+            "cites_id": [
+                "16142298058473169663"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Parkinson\u2019s disease patients based on spectrogram using local binary pattern descriptors",
+                "pub_year": "2022",
+                "citation": "Journal of Physics: Conference Series 2153 (1), 012014, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2835299928166955013",
+            "cites_id": [
+                "2835299928166955013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disease and Defect Detection System for Raspberries Based on Convolutional Neural Networks",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (24), 11868, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:1qzjygNMrQYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12481639208568909315",
+            "cites_id": [
+                "12481639208568909315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel methods for linear systems solution in extreme learning machines: an overview",
+                "pub_year": "2020",
+                "citation": "Journal of Physics: Conference Series 1702 (1), 012017, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:08ZZubdj9fEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18399787837957739210",
+            "cites_id": [
+                "18399787837957739210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspectos \u00e9ticos del uso de identificadores biom\u00e9tricos",
+                "pub_year": "2020",
+                "citation": "Acta bioethica 26 (1), 43-50, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11902270972864226720",
+            "cites_id": [
+                "11902270972864226720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic lane correction in DGGE images by using hybrid genetic algorithms",
+                "pub_year": "2014",
+                "citation": "Hybrid Artificial Intelligence Systems: 9th International Conference, HAIS \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7358143640390588824",
+            "cites_id": [
+                "7358143640390588824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Training of an extreme learning machine autoencoder based on an iterative shrinkage-thresholding optimization algorithm",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (18), 9021, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:t6usbXjVLHcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10480789268304563515",
+            "cites_id": [
+                "10480789268304563515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditioning of extreme learning machine for noisy data using heuristic optimization",
+                "pub_year": "2020",
+                "citation": "Journal of Physics: Conference Series 1514 (1), 012007, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16019157123893609755",
+            "cites_id": [
+                "16019157123893609755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Olive Ripening Phase Estimation based on Neural Networks",
+                "pub_year": "2017",
+                "citation": "IX Congreso Argentino de AgroInform\u00e1tica (CAI 2017)-JAIIO 46-43 CLEI \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:4DMP91E08xMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13139838345924403405",
+            "cites_id": [
+                "13139838345924403405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Canopy architecture assessment of cherry trees by cover photography based on variable light extinction coefficient modelled using artificial neural networks",
+                "pub_year": "2017",
+                "citation": "VIII International Cherry Symposium 1235, 183-188, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=217934495046738784",
+            "cites_id": [
+                "217934495046738784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new descriptor for people recognition by handwritten strokes analysis",
+                "pub_year": "2016",
+                "citation": "IET Digital Library, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17502062447871860946",
+            "cites_id": [
+                "17502062447871860946"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fruit Maturity Estimation based on Color Scales",
+                "pub_year": "2014",
+                "citation": "XX Congreso Argentino de Ciencias de la Computaci\u00f3n (Buenos Aires, 2014), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6954853119372683429",
+            "cites_id": [
+                "6954853119372683429"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Objective comparison of contour detection in noisy images",
+                "pub_year": "2011",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4766417540052382884",
+            "cites_id": [
+                "4766417540052382884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularized multilevel b-spline registration: Application to cardiac motion estimation",
+                "pub_year": "2010",
+                "citation": "2010 IEEE International Symposium on Biomedical Imaging: From Nano to Macro \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9975389246055536749",
+            "cites_id": [
+                "9975389246055536749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel training of a set of online sequential extreme learning machines",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Mojj43d5GZwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5128541871792100384",
+            "cites_id": [
+                "5128541871792100384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast tuning of extreme learning machine neural networks based with simple optimization algorithms",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2391729266564067698",
+            "cites_id": [
+                "2391729266564067698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Off-line writer verification based on small segments of handwritten text and convolutional neural networks",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:J-pR_7NvFogC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12270496806397165675",
+            "cites_id": [
+                "12270496806397165675"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n de Parkinson mediante espectrogramas en color y redes neuronales convolucionales",
+                "pub_year": "2021",
+                "citation": "II Simposio Argentino de Im\u00e1genes y Visi\u00f3n (SAIV 2021)-JAIIO 50 (Modalidad \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8554528489507498189",
+            "cites_id": [
+                "8554528489507498189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Edge detection in Images with multiplicative Noise by using Ant Colony System",
+                "pub_year": "2021",
+                "citation": "26. Interdisziplin\u00e4re Wissenschaftliche Konferenz Mittweida, 154-156, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:LPZeul_q3PIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1329931190146403987",
+            "cites_id": [
+                "1329931190146403987"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Off-line writer verification using segments of handwritten samples and SVM",
+                "pub_year": "2021",
+                "citation": "13th International Conference on Computational Intelligence in Security for \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:rO6llkc54NcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2514705122938578616",
+            "cites_id": [
+                "2514705122938578616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiplicative local binary patterns (MuLBP)",
+                "pub_year": "2019",
+                "citation": "10th International Conference on Pattern Recognition Systems (ICPRS-2019), 64-69, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:BqipwSGYUEgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10156660031933022375",
+            "cites_id": [
+                "10156660031933022375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory of the Neuropsychology and Cognitive Neurosciences Research Center of Universidad Cat\u00f3lica del Maule, Chile",
+                "pub_year": "2018",
+                "citation": "Cognitive Processing 19, 465-472, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13815983371952021293",
+            "cites_id": [
+                "13815983371952021293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new descriptor for writer identification based on B-Splines",
+                "pub_year": "2017",
+                "citation": "IET Digital Library, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3526391706905837541",
+            "cites_id": [
+                "3526391706905837541"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological skeleton traversal algorithm for person recognition based on handwritten stroke analysis",
+                "pub_year": "2014",
+                "citation": "IET Digital Library, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11381321174198102450",
+            "cites_id": [
+                "11381321174198102450"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Method to estimate Grape Phenolic Maturity based on Color Features",
+                "pub_year": "2014",
+                "citation": "XX Congreso Argentino de Ciencias de la Computaci\u00f3n (Buenos Aires, 2014), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4151427739126489447",
+            "cites_id": [
+                "4151427739126489447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Grape Maturity Based on Neural Networks",
+                "pub_year": "2013",
+                "citation": "International Conference of The Chilean Computer Science Society. Temuco, Chile, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10316328551631675485",
+            "cites_id": [
+                "10316328551631675485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heart Cavity Segmentation in Ultrasound Images Based on Supervised Neural Networks",
+                "pub_year": "2009",
+                "citation": "Computer Vision/Computer Graphics CollaborationTechniques: 4th International \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7176875846631441976",
+            "cites_id": [
+                "7176875846631441976"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Hierarchic Method for Footprint Segmentation Based on SOM",
+                "pub_year": "2008",
+                "citation": "Artificial Neural Networks-ICANN 2008: 18th International Conference, Prague \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12128932160545102080",
+            "cites_id": [
+                "12128932160545102080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A pattern recognition approach to diagnose foot plant pathologies: From segmentation to classification",
+                "pub_year": "2007",
+                "citation": "Artificial Intelligence in Medicine: 11th Conference on Artificial \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:aqlVkmm33-oC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12671754032686185422",
+            "cites_id": [
+                "12671754032686185422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerated Biometric Fingerprint Search on a Multi-GPU Environment",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Metagenomic Binning based on Unsupervised Extreme Learning Machine",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Parallel Computing Method for the Computation of the Moore\u2013Penrose Generalized Inverse for Shared-Memory Architectures",
+                "pub_year": "2023",
+                "citation": "IEEE Access 11, 134834-134845, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of the optimal number of neurons in extreme learning machine using simulated annealing and the golden section",
+                "pub_year": "2023",
+                "citation": "Journal of Physics: Conference Series 2515 (1), 012003, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel model of online sequential extreme learning machines for classification problems with large-scale databases",
+                "pub_year": "2023",
+                "citation": "XI Jornadas de Cloud Computing, Big Data & Emerging Topics (La Plata, 27 al \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using heaps on GPU",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new fast training algorithm for autoencoder neural networks based on extreme learning machine",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fingerprint classification with the extreme learning machine algorithm for multilayer perceptron",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fruit-scan: system to automatically detect raspberry quality using computer vision techniques",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Model Based on Clusters of Similar Color and NIR to Estimate Oil Content of Single Olives. Foods 2021, 10, 609",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Writer verification based on simple graphemes and extreme learning machine approaches",
+                "pub_year": "2020",
+                "citation": "Journal of Physics: Conference Series 1671 (1), 012004, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:yD5IFk8b50cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extreme learning machine adapted to noise based on optimization algorithms",
+                "pub_year": "2020",
+                "citation": "Journal of Physics: Conference Series 1514 (1), 012006, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:u_35RYKgDlwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Writer verification based on simple graphemes and extreme learning machine approaches",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspectos \u00e9ticos del uso de identificadores biom\u00e9tricos",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:sSrBHYA8nusC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resultados preliminares de la determinaci\u00f3n del Crop Water Stress Index (CWSI) en cerezos, usando una c\u00e1mara termogr\u00e1fica de bajo costo",
+                "pub_year": "2019",
+                "citation": "XI Congreso de AgroInform\u00e1tica (CAI)-JAIIO 48 (Salta, 2019), 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contour detection in images with speckle by using the bi-geometric structure",
+                "pub_year": "2019",
+                "citation": "Journal of Physics: Conference Series 1160 (1), 012010, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic parametrization of anisotropic diffusion filtering",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory of the Neuropsychology and Cognitive Neurosciences Research Center of Universidad Cat\u00f3lica del Maule, Chile",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-directional gradient with bi-geometric calculus to detect contours in images with multiplicative noise",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic PET image denoising",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determinaci\u00f3n de la Denominaci\u00f3n de Origen de vinos chilenos basado en M\u00e1quinas de Soporte Vectorial",
+                "pub_year": "2018",
+                "citation": "X Congreso de AgroInform\u00e1tica (CAI)-JAIIO 47 (CABA, 2018), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-directional Gradient with Bi-Geometric Calculus to Detect Contours in Images with Multiplicative Noise",
+                "pub_year": "2018",
+                "citation": "IET Digital Library, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic PET image denoising",
+                "pub_year": "2018",
+                "citation": "IET Digital Library, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Method to Construct Fruit Maturity Color Scales based on Support Vector Machines for Regression: Application to Olives and Grape Seeds",
+                "pub_year": "2017",
+                "citation": "IX Congreso Argentino de AgroInform\u00e1tica (CAI 2017)-JAIIO 46-CLEI 43 \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient exploitation of the Xeon Phi architecture for the Ant Colony Optimization (ACO) metaheuristic",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New internal index for clustering validation based on graphs",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new descriptor for person identity verification based on handwritten strokes off-line analysis",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un nuevo descriptor para la identificaci\u00f3n de personas mediante caracteres simples",
+                "pub_year": "2016",
+                "citation": "XXII Congreso Argentino de Ciencias de la Computaci\u00f3n (CACIC 2016)., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Colour change of seeds from veraison to harvest in Vitis vinifera'Carmenere'",
+                "pub_year": "2013",
+                "citation": "IX International Symposium on Grapevine Physiology and Biotechnology 1157, 21-26, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blog life: Cocktail Party Physics",
+                "pub_year": "2007",
+                "citation": "Physics World, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:LjlpjdlvIbIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilayer perceptron based level sets for robust ultrasound image segmentation",
+                "pub_year": "2007",
+                "citation": "Medical Imaging 2007: Ultrasonic Imaging and Signal Processing 6513, 412-419, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applications of AI-Based Image Processing Techninques-A Pattern Recognition Approach to Diagnose Foot Plant Pathologies: From Segmentation to Classification",
+                "pub_year": "2007",
+                "citation": "Lecture Notes in Computer Science 4594, 378-387, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un modelo de predicci on robusto al ruido",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q4atNYgAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,1765 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "aa-NCokAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jaime Addin Rohten",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=aa-NCokAAAAJ&citpid=2",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "System Control",
+        "Power Converters",
+        "Digital applications"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 573,
+    "citedby5y": 385,
+    "hindex": 13,
+    "hindex5y": 9,
+    "i10index": 20,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2013": 11,
+        "2014": 18,
+        "2015": 25,
+        "2016": 36,
+        "2017": 50,
+        "2018": 45,
+        "2019": 42,
+        "2020": 41,
+        "2021": 100,
+        "2022": 69,
+        "2023": 104,
+        "2024": 29
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YwQuZr0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Munoz",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "010wbxAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro E. Mel\u00edn C.",
+            "affiliation": "Department of Electrical and Electronic Engineering - University of B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ki2DjVkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos R. Baier",
+            "affiliation": "Departamento de Ingenier\u00eda El\u00e9ctrica, Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FOKLmaQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Esteban Rivera Abarca",
+            "affiliation": "Professor, University of Nottingham UK - Researcher, Universidad de Talca CHILE"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xMmVZ4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Johan Guzman",
+            "affiliation": "Profesor Asociado Departamento de Ingenier\u00eda El\u00e9ctrica Universidad del B\u00edo B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_ZXZKREAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Espinosa Neira",
+            "affiliation": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n - Depto. de Ing. El\u00e9ctrica - Profesor Asistente"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c9ql-BAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo A. Perez",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model predictive control for power converters in a distorted three-phase power supply",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Industrial Electronics 63 (9), 5838-5848, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:5nxA0vEk-isC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1573433226538555847",
+            "cites_id": [
+                "1573433226538555847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced predictive control for a wide time-variant frequency environment",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Industrial Electronics 63 (9), 5827-5837, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:8k81kl-MbHgC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2678445197504373785",
+            "cites_id": [
+                "2678445197504373785"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MPC algorithm with reduced computational burden and fixed switching spectrum for a multilevel inverter in a photovoltaic system",
+                "pub_year": "2020",
+                "citation": "IEEE access 8, 77405-77414, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17785546676578290032",
+            "cites_id": [
+                "17785546676578290032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of a large-scale photovoltaic plant using a multilevel converter topology and virtual synchronous generator control",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 23rd International Symposium on Industrial Electronics (ISIE \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=848872881739172175",
+            "cites_id": [
+                "848872881739172175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of current control techniques for a cascaded H-Bridge STATCOM",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Industrial Technology (ICIT), 3085-3090, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1117323250536381334",
+            "cites_id": [
+                "1117323250536381334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple self-tuning resonant control approach for power converters connected to micro-grids with distorted voltage conditions",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 216018-216028, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:k_IJM867U9cC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5246287185343293287",
+            "cites_id": [
+                "5246287185343293287"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote laboratories for control education: Experience to classic PID control course",
+                "pub_year": "2018",
+                "citation": "2018 IEEE international conference on automation/XXIII congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:-f6ydRqryjwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7111917416443309809",
+            "cites_id": [
+                "7111917416443309809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Static power converter synchronization and control under varying frequency conditions",
+                "pub_year": "2012",
+                "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15694798117015634148",
+            "cites_id": [
+                "15694798117015634148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Very low sampling frequency model predictive control for power converters in the medium and high-power range applications",
+                "pub_year": "2021",
+                "citation": "Energies 14 (1), 199, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1239170466945609639",
+            "cites_id": [
+                "1239170466945609639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and design of a multicell topology based on three-phase/single-phase current-source cells",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Power Electronics 31 (9), 6122-6133, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14585765124851048001",
+            "cites_id": [
+                "14585765124851048001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete nonlinear control based on a double dq transform of a multi-cell UPQC",
+                "pub_year": "2011",
+                "citation": "IECON 2011-37th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:qjMakFHDy7sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16791372253850650369",
+            "cites_id": [
+                "16791372253850650369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multivariable deadbeat control of power electronics converters with fast dynamic response and fixed switching frequency",
+                "pub_year": "2021",
+                "citation": "Energies 14 (2), 313, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4514199870395912014",
+            "cites_id": [
+                "4514199870395912014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid connected PV system with maximum power point estimation based on reference cells",
+                "pub_year": "2015",
+                "citation": "IECON 2015-41st Annual Conference of the IEEE Industrial Electronics Society \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:0EnyYjriUFMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5867918632991463089",
+            "cites_id": [
+                "5867918632991463089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Switching losses analysis of an asymmetric multilevel Shunt Active Power Filter",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10905546065369239853",
+            "cites_id": [
+                "10905546065369239853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control strategy for current source cascaded H-bridge inverters\u2014An approach considering single-phase DQ components",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Industrial Technology (ICIT), 3079-3084, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9669633246702824977",
+            "cites_id": [
+                "9669633246702824977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of exact linearization technique for modeling and control of dc/dc converters in rural PV microgrid application",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 56925-56936, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18082742333436848875",
+            "cites_id": [
+                "18082742333436848875"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite control set model predictive control with reduced switching frequency applied to multi-cell rectifiers",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Industrial Technology (ICIT), 2261-2267, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:roLk4NBRz8UC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9295626849687491060",
+            "cites_id": [
+                "9295626849687491060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficiency comparison between a 18 pulses diode rectifier and a multi-cell AFE rectifier operating with FCS\u2014MPC",
+                "pub_year": "2014",
+                "citation": "IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=324766501734059229",
+            "cites_id": [
+                "324766501734059229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new modulation technique for 15-level asymmetric inverter operating with minimum THD",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6575873612993955753",
+            "cites_id": [
+                "6575873612993955753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote laboratories for control education: Experience at the universidad del b\u00edo-b\u00edo",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Conference on Automatica (ICA-ACCA), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16028355684332405473",
+            "cites_id": [
+                "16028355684332405473"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Microgrid power sharing framework for software defined networking and cybersecurity analysis",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 111389-111405, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:D03iK_w7-QYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4103333510959639037",
+            "cites_id": [
+                "4103333510959639037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Review of control techniques in microinverters",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (19), 6486, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ldfaerwXgEUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1607928016844898672",
+            "cites_id": [
+                "1607928016844898672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel simplified implementation of finite-set model predictive control for power converters",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 96114-96124, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:70eg2SAEIzsC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5153185399741837872",
+            "cites_id": [
+                "5153185399741837872"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Grid connected PV system with new MPPT estimation method based on measuring cells",
+                "pub_year": "2019",
+                "citation": "IECON 2019-45th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16026995490717150432",
+            "cites_id": [
+                "16026995490717150432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved control scheme towards reduced DC link inductors in a Multi-Cell Topology based on Current Source Converters",
+                "pub_year": "2012",
+                "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8635796013230962422",
+            "cites_id": [
+                "8635796013230962422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selective harmonic elimination for a 27-level asymmetric multilevel converter",
+                "pub_year": "2017",
+                "citation": "2017 IEEE International Conference on Environment and Electrical Engineering \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:4DMP91E08xMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=418073325469874907",
+            "cites_id": [
+                "418073325469874907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymmetric multilevel STATCOM to compensate reactive power and current harmonics",
+                "pub_year": "2012",
+                "citation": "IECON 2012-38th Annual Conference on IEEE Industrial Electronics Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10085884660036472610",
+            "cites_id": [
+                "10085884660036472610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of reactive power compensation capabilities and LC filter design for a three-phase current-source STATCOM",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:mB3voiENLucC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13111321163626539791",
+            "cites_id": [
+                "13111321163626539791"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete synchronism methods for polluted single phase and unbalanced three-phase systems",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 23rd International Symposium on Industrial Electronics (ISIE \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13821960532631541331",
+            "cites_id": [
+                "13821960532631541331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilevel current-source converter based STATCOM using minimum DC current level",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Conference on Automatica (ICA-ACCA), 1-5, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15873701535265925320",
+            "cites_id": [
+                "15873701535265925320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel global maximum power point tracking method based on measurement cells",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 97481-97494, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17782261637186138231",
+            "cites_id": [
+                "17782261637186138231"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decentralised optimal controller design of variable frequency three-phase power electronic networks accounting for sub-system interactions",
+                "pub_year": "2020",
+                "citation": "IEEE Open Journal of Industry Applications 1, 270-282, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:maZDTaKrznsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18238682105195765771",
+            "cites_id": [
+                "18238682105195765771"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global maximum power point tracking scheme on a partially shaded photovoltaic array",
+                "pub_year": "2018",
+                "citation": "IECON 2018-44th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6040280207643865970",
+            "cites_id": [
+                "6040280207643865970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speed and Position Control Practices through the remote laboratory: SLD-UBB",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:TQgYirikUcIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15960424815249096512",
+            "cites_id": [
+                "15960424815249096512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PID control strategies comparison with Gain Schedule and States Feedback in a Buck-Boost Converter",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:qUcmZB5y_30C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4260254660212462492",
+            "cites_id": [
+                "4260254660212462492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control for power converters injecting the maximum power from PV arrays",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Conference on Automatica (ICA-ACCA), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722201964120271583",
+            "cites_id": [
+                "13722201964120271583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comprehensive control strategy for an asymmetric multilevel shunt active power filter",
+                "pub_year": "2013",
+                "citation": "2013 IEEE International Conference on Industrial Technology (ICIT), 432-437, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8791675283518319215",
+            "cites_id": [
+                "8791675283518319215"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and implementation of a parallel-connected fault current attenuator for power distribution systems",
+                "pub_year": "2021",
+                "citation": "IEEE Journal of Emerging and Selected Topics in Power Electronics 10 (1 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14085621292428286285",
+            "cites_id": [
+                "14085621292428286285"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study of cost function selection in model predictive control applications",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4904907847486791322",
+            "cites_id": [
+                "4904907847486791322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum power point tracking algorithms comparison for three-phase power converter",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5154476108239985458",
+            "cites_id": [
+                "5154476108239985458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An asymmetric modular multilevel converter of 27 levels",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:hC7cP41nSMkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4287674840124649756",
+            "cites_id": [
+                "4287674840124649756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilevel selective harmonic elimination for an asymmetric converter",
+                "pub_year": "2018",
+                "citation": "2018 International Symposium on Power Electronics, Electrical Drives \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:dhFuZR0502QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6519994243533229134",
+            "cites_id": [
+                "6519994243533229134"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between maximum power point tracking algorithms for dc/dc power converters",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13373560824206851714",
+            "cites_id": [
+                "13373560824206851714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A 27-level asymmetric multilevel converter for harmonic currents compensation",
+                "pub_year": "2017",
+                "citation": "2017 11th IEEE International Conference on Compatibility, Power Electronics \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8049889573308753807",
+            "cites_id": [
+                "8049889573308753807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded reconfiguration of panels to obtain the maximum power of a PV array",
+                "pub_year": "2016",
+                "citation": "2016 IEEE 16th International Conference on Environment and Electrical \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7711219636672838701",
+            "cites_id": [
+                "7711219636672838701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operating region and control for power converters connected to a variable frequency and amplitude voltage grid supply",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Conference on Industrial Technology (ICIT), 1094-1099, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6942836242938487150",
+            "cites_id": [
+                "6942836242938487150"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cascaded H-Bridge topologies comparison for multi-cell current-source inverters under different DC inductor size reduction methods",
+                "pub_year": "2014",
+                "citation": "IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9163783469159764501",
+            "cites_id": [
+                "9163783469159764501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control for static power converters working in wide frequency ranges",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6773342749925669373",
+            "cites_id": [
+                "6773342749925669373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comprehensive control strategy for a push\u2013pull microinverter connected to the grid",
+                "pub_year": "2023",
+                "citation": "Energies 16 (7), 3196, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:_xSYboBqXhAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3570881613545656621",
+            "cites_id": [
+                "3570881613545656621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A predictive shortest-horizon voltage control algorithm for non-minimum phase three-phase rectifiers",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 107598-107615, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:yD5IFk8b50cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8219108513252691258",
+            "cites_id": [
+                "8219108513252691258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability Analysis of Two Power Converters Control Algorithms Connected to Micro-Grids with Wide Frequency Variation",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (18), 7078, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17477097255138218079",
+            "cites_id": [
+                "17477097255138218079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid MPPT Control Applied to a Push-Pull based pseudo DC-link PV microinverter",
+                "pub_year": "2021",
+                "citation": "2021 23rd European Conference on Power Electronics and Applications (EPE'21 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:M05iB0D1s5AC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7053152492693707991",
+            "cites_id": [
+                "7053152492693707991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast MPC algorithm for a grid tied photovoltaic system based on a multilevel inverter",
+                "pub_year": "2019",
+                "citation": "IECON 2019-45th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18338325905776862758",
+            "cites_id": [
+                "18338325905776862758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation study of photovoltaic generation in an educational institution",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8628228389898846920",
+            "cites_id": [
+                "8628228389898846920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual synchronous generation strategy for a single-phase grid-connected qZSI",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Telecommunications Energy Conference (INTELEC), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14606389380041497324",
+            "cites_id": [
+                "14606389380041497324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "7-level asymmetric multilevel current source inverter with predictive control",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Southern Power Electronics Conference (SPEC), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3891109495899648108",
+            "cites_id": [
+                "3891109495899648108"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multivariable control for a three-phase rectifier based on deadbeat algorithm",
+                "pub_year": "2016",
+                "citation": "IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15591463051189503995",
+            "cites_id": [
+                "15591463051189503995"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control and model predictive control applied to a multi-cell AFE rectifier",
+                "pub_year": "2015",
+                "citation": "2015 IEEE Energy Conversion Congress and Exposition (ECCE), 210-216, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5941170121661552306",
+            "cites_id": [
+                "5941170121661552306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resonant control for multi-cell cascaded H-Bridge topologies based on current source inverters",
+                "pub_year": "2014",
+                "citation": "IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7322421077587248662",
+            "cites_id": [
+                "7322421077587248662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resonant control for H-Bridge topologies based on single-phase current-source inverters",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 23rd International Symposium on Industrial Electronics (ISIE \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17484952801864785547",
+            "cites_id": [
+                "17484952801864785547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FCS\u2013MPC with Nonlinear Control Applied to a Multicell AFE Rectifier",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (11), 4100, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:u_35RYKgDlwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749737264625398293",
+            "cites_id": [
+                "13749737264625398293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive Torque and Flux Control of an Induction Machine Fed by a Voltage Source Inverter",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15973531173335011789",
+            "cites_id": [
+                "15973531173335011789"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operating Region for AFE Configuration under Variable Frequency Grid",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12696188828358392708",
+            "cites_id": [
+                "12696188828358392708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast-model predictive control for a grid-tie photovoltaic system",
+                "pub_year": "2020",
+                "citation": "IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:isC4tDSrTZIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10655685428234525032",
+            "cites_id": [
+                "10655685428234525032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study and Implementation of a Selective Detection of Harmonics using a PLL-Based Algorithm",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:IWHjjKOFINEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3780350534885671536",
+            "cites_id": [
+                "3780350534885671536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FCS-MPC with reduced switching frequency applied to a multi-cell AFE rectifier with improved transient behavior",
+                "pub_year": "2016",
+                "citation": "IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15299273208756532020",
+            "cites_id": [
+                "15299273208756532020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resonant control for power converters connected to weak and micro grid systems with variant frequency",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Energy Conversion Congress and Exposition (ECCE), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12583887388449380020",
+            "cites_id": [
+                "12583887388449380020"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Validation of Damping Adjustment Method with Generator Parameter Study for Wave Energy Conversion",
+                "pub_year": "2023",
+                "citation": "Energies 16 (14), 5298, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5864783028051306181",
+            "cites_id": [
+                "5864783028051306181"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power Converter Resonant Control for an Unbalanced and Non-Constant Frequency Supply",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (10), 4884, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:abG-DnoFyZgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16664154090608984428",
+            "cites_id": [
+                "16664154090608984428"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Single Phase Hybrid Multiport Microinverter for Photovoltaic Energy Controlled by Exact Linearization",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=813001496598058827",
+            "cites_id": [
+                "813001496598058827"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MPC-based Traction Control for Electric Vehicles",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:f2IySw72cVMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2462921292108136081",
+            "cites_id": [
+                "2462921292108136081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of Behavior Profiles for Non-Residential Customers Considering the Variable of Electrical Energy Consumption: Case Study\u2014SAESA Group SA Company",
+                "pub_year": "2022",
+                "citation": "Energies 15 (18), 6634, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7575497197859083203",
+            "cites_id": [
+                "7575497197859083203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of solar energy in Chile and the world",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16156774922040825927",
+            "cites_id": [
+                "16156774922040825927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Soft-deadbeat control for multivariable three phase VSC under variable grid voltage",
+                "pub_year": "2021",
+                "citation": "IECON 2021\u201347th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4802007295385720707",
+            "cites_id": [
+                "4802007295385720707"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Control Set\u2014Model Predictive Control with Non-Spread Spectrum and Reduced Switching Frequency Applied to Multi-Cell Rectifiers",
+                "pub_year": "2021",
+                "citation": "Energies 14 (19), 6045, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755868795979503977",
+            "cites_id": [
+                "3755868795979503977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear Quadratic Control design for a Buck-Boost Power Converter supplied by a Solar array",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16715860070910413405",
+            "cites_id": [
+                "16715860070910413405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive Review of Torque and Vectoring Control for Electrical Powertrains",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14429567141166425372",
+            "cites_id": [
+                "14429567141166425372"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control review for a three-phase converter",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2742502274328670980",
+            "cites_id": [
+                "2742502274328670980"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Very Low Sampling Frequency Model Predictive Control for Power Converters in the Medium and High-Power Range Applications. Energies 2021, 14, 199",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neu-tral with regard to jurisdictional clai-ms in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=392403680098466674",
+            "cites_id": [
+                "392403680098466674"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter Identification and Adaptive PI Control using SLD-UBB",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620788176453978788",
+            "cites_id": [
+                "3620788176453978788"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving efficiency in the shoot-through state of a single-phase z-source inverter",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Southern Power Electronics Conference (SPEC), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1084479114904803498",
+            "cites_id": [
+                "1084479114904803498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "STATCOM Basado en Convertidor Fuente de Corriente Multinivel Utilizando M\u00ednima Corriente DC",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Conference on Automatica, ICA-ACCA 2016, 7778447, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13284522649247657984",
+            "cites_id": [
+                "13284522649247657984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Resonant Control for wide frequency range operation of power converters",
+                "pub_year": "2016",
+                "citation": "IECON 2016-42nd Annual Conference of the IEEE Industrial Electronics Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18409862566108735729",
+            "cites_id": [
+                "18409862566108735729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended-horizon finite-control-set predictive control of a multilevel inverter for grid-tie photovoltaic",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Energy Conversion Congress and Exposition (ECCE), 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9210998668034673520",
+            "cites_id": [
+                "9210998668034673520"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of an asymmetric multilevel shunt active power filter",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 24th International Symposium on Industrial Electronics (ISIE \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5726453189307817464",
+            "cites_id": [
+                "5726453189307817464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Implementation of an Optimal Control Strategy for a Multilevel NPC Inverter for Photovoltaic Applications",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A honeycomb-like predictive controller with a reduced computational burden for three-level NPC converters",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Power Electronics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:CHSYGLWDkRkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended Operating Region Algorithm for PV Array Connected to Microgrids for Wide Frequency and Amplitude Variations",
+                "pub_year": "2023",
+                "citation": "Energies 16 (7), 3157, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Power Point Tracking for a Wind Energy Generation System",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:bFI3QPDXJZMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FCS\u2013MPC with nonlinear control applied to a multicell AFE rectifier",
+                "pub_year": "2022",
+                "citation": "Sensors, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:a0OBvERweLwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of a Linear-Quadratic Regulator for a Three-Phase Power Converter",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:rO6llkc54NcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Economic study of a photovoltaic system for self-energy supply in a small vegetable\u2019s producer company",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:3s1wT3WcHBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low voltage distribution lines modelling considering high PV penetration",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Economic Evaluation of an EV Charger Station Powered by Photovoltaic Units",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PV Injection System with Third Harmonic Compensation based on H-Bridge Topologies",
+                "pub_year": "2021",
+                "citation": "IECON 2021\u201347th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MPPT Algorithm for Photovoltaic Arrays Under Partial Shading Conditions",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Photovoltaic Technical and Economical Study for Medium and Large Agroindustry",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wind Turbine Pitch Predictive Control for Smoothing Power Generation",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Power Management Control Strategy for a Photovoltaic Micro-Inverter with Embedded Hybrid Energy Storage System",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:GnPB-g6toBAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hydrogen technologies and PEM fuel cells: A sustainable alternative for Chile",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Automation/XXIV Congress of the \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:BqipwSGYUEgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multivariable Deadbeat Control of Power Electronics Converters with Fast Dynamic Response and Fixed Switching Frequency. Energies 2021, 14, 313",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neu-tral with regard to jurisdictional clai-ms in \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Simplified Proposal for PV Cells Parameter Identification",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Feedback Control in a Back-to-Back Topology under Distorted Grid Voltage",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solar Energy Injection for a Multilevel Power Converter9 Using Predictive Control Strategy",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Series Active Power Compensator Based on Single-Phase Current-Source Converters with Minimum DC Current Operation",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Energy Conversion Congress and Exposition (ECCE), 2588-2593, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multilevel Selective Harmonic Elimination for an Asymmetric Converter",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced predictive control strategy for low sampling frequency in a multilevel topology",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Southern Power Electronics Conference (SPEC), 1-6, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control no lineal de un UPQC de celdas monof\u00e1sicas",
+                "pub_year": "2011",
+                "citation": "Universidad de Concepci\u00f3n, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive Torque and Flux Control of an Induction Machine Fed by a Voltage Source Inverter",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulaci\u00f3n de algoritmos de posicionamiento basados en RSSI para redes inal\u00e1mbricas utilizando ns-3",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "aa-NCokAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 2
+    }
+}

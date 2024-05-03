@@ -1,0 +1,885 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pKl_d2YAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ernesto Rubio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pKl_d2YAAAAJ&citpid=3",
+    "affiliation": "Universidad del B\u00edo B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "mecatr\u00f3nica",
+        "rob\u00f3tica",
+        "modelado",
+        "control"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 273,
+    "citedby5y": 91,
+    "hindex": 10,
+    "hindex5y": 5,
+    "i10index": 10,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2006": 4,
+        "2007": 3,
+        "2008": 7,
+        "2009": 13,
+        "2010": 18,
+        "2011": 26,
+        "2012": 23,
+        "2013": 8,
+        "2014": 10,
+        "2015": 11,
+        "2016": 20,
+        "2017": 14,
+        "2018": 21,
+        "2019": 24,
+        "2020": 15,
+        "2021": 27,
+        "2022": 14,
+        "2023": 8,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zlK1v4EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Iv\u00e1n Santana Ching",
+            "affiliation": "Dpto. Control Autom\u00e1tico. Universidad Central Marta Abreu de Las Villas."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aa-NCokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime Addin Rohten",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lTPm4OMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Izaguirre Castellanos",
+            "affiliation": "Profesor Titular. Universidad Central Marta Abreu de Las Villas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tXG1nTQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roque Saltaren",
+            "affiliation": "Universidad Polit\u00e9cnica de Madrid, ETSI Industriales"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q8zcX4wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Duran-Faundez",
+            "affiliation": "Department of Electrical and Electronic Engineering, University of the B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jGLRTV0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Boris Luis Mart\u00ednez-Jim\u00e9nez",
+            "affiliation": "Acad\u00e9mico regular, Universidad Aut\u00f3noma de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1hUjXaYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "hichem sahli",
+            "affiliation": "Interuniversity MicroElectronics Center (IMEC) & Vrije Universiteit Brussel (VUB)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "O4pXJJ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jonathan M. Palma",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "010wbxAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro E. Mel\u00edn C.",
+            "affiliation": "Department of Electrical and Electronic Engineering - University of B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xMmVZ4sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Johan Guzman",
+            "affiliation": "Profesor Asociado Departamento de Ingenier\u00eda El\u00e9ctrica Universidad del B\u00edo B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "No02nHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael Puerto",
+            "affiliation": "Profesor Titular"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WtDfnrUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Reinoso Garcia",
+            "affiliation": "Profesor de Ingenier\u00eda de Sistemas y Autom\u00e1tica, Universidad Miguel Hern\u00e1ndez de Elche"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mU5qVWEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M. Fernandez Fernandez",
+            "affiliation": "Universidad de Talca"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual and remote laboratory for robot manipulator control study",
+                "pub_year": "2006",
+                "citation": "International Journal of Engineering Education 22 (4), 702, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18024669725851138910",
+            "cites_id": [
+                "18024669725851138910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Platform for distance development of complex automatic control strategies using Matlab",
+                "pub_year": "2005",
+                "citation": "International Journal of Engineering Education 21 (5), 790, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10793563562399310164",
+            "cites_id": [
+                "10793563562399310164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proxy-based sliding mode control on platform of 3 degree of freedom (3-DOF)",
+                "pub_year": "2013",
+                "citation": "Advanced Robotics 27 (10), 773-784, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:5nxA0vEk-isC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11719706355264633225",
+            "cites_id": [
+                "11719706355264633225"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelado, identificaci\u00f3n y control de actuadores lineales electroneum\u00e1ticos. aplicaci\u00f3n en plataforma de dos grados de libertad",
+                "pub_year": "2007",
+                "citation": "Revista Iberoamericana de Autom\u00e1tica e Inform\u00e1tica Industrial RIAI 4 (4), 58-69, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10006993802218266065",
+            "cites_id": [
+                "10006993802218266065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of decoupled model-based controller in a 2-dof pneumatic platform used in low-cost driving simulators",
+                "pub_year": "2009",
+                "citation": "2009 Electronics, Robotics and Automotive Mechanics Conference (CERMA), 338-343, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3366568268137029971",
+            "cites_id": [
+                "3366568268137029971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote laboratories for control education: Experience to classic PID control course",
+                "pub_year": "2018",
+                "citation": "2018 IEEE international conference on automation/XXIII congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7111917416443309809",
+            "cites_id": [
+                "7111917416443309809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control desacoplado de plataforma neum\u00e1tica de 3-GDL utilizada como simulador de Movimiento",
+                "pub_year": "2011",
+                "citation": "Revista Iberoamericana de Autom\u00e1tica e Inform\u00e1tica Industrial RIAI 8 (4 \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15239030159503110315",
+            "cites_id": [
+                "15239030159503110315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmo de tratamiento multimodal para adolescentes latinoamericanos con trastorno por d\u00e9ficit de atenci\u00f3n con hiperactividad (TDAH)",
+                "pub_year": "2009",
+                "citation": "Salud Mental 32 (S1), 31-44, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14109128149739572744",
+            "cites_id": [
+                "14109128149739572744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote laboratories for control education: Experience at the universidad del B\u00edo-B\u00edo",
+                "pub_year": "2016",
+                "citation": "IEEE International Conference on Automatica (ICA-ACCA), Curic\u00f3, Chile, 2016, 1-6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:aqlVkmm33-oC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16028355684332405473",
+            "cites_id": [
+                "16028355684332405473"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kinematic Task Space Control Scheme for 3 DOF Pneumatic Parallel Robot",
+                "pub_year": "2011",
+                "citation": "Intelligent Mechatronics, 67-84, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14860512892506408953",
+            "cites_id": [
+                "14860512892506408953"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Protocol for energy-efficiency in networked control systems based on WSN",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (8), 2590, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5026457741862792014",
+            "cites_id": [
+                "5026457741862792014"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n, identificaci\u00f3n y control de actuadores electro-neum\u00e1ticos para aplicaciones industriales",
+                "pub_year": "2009",
+                "citation": "PhD thesis, Universidad Central\" Marta Abreu\" de Las Villas, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10861770189143267266",
+            "cites_id": [
+                "10861770189143267266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A decoupled control for visual servoing of camera-in-hand robot with 2d movement",
+                "pub_year": "2008",
+                "citation": "2008 Electronics, Robotics and Automotive Mechanics Conference (CERMA'08 \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6751611497544810377",
+            "cites_id": [
+                "6751611497544810377"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plataforma para la realizaci\u00f3n de actividades pr\u00e1cticas a distancia en tiempo real. Potencialidades de utilizaci\u00f3n en la educaci\u00f3n superior",
+                "pub_year": "2006",
+                "citation": "UNIVERSIDAD 2006, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14699258968920355485",
+            "cites_id": [
+                "14699258968920355485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cartesian control of a 3-dof electro-pneumatic actuated motion platform with exteroceptive pose measurement",
+                "pub_year": "2011",
+                "citation": "International Journal of Advanced Robotic Systems 8 (4), 43, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:qjMakFHDy7sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12006778341617586109",
+            "cites_id": [
+                "12006778341617586109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Speed and Position Control Practices through the remote laboratory: SLD-UBB",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15960424815249096512",
+            "cites_id": [
+                "15960424815249096512"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PID control strategies comparison with Gain Schedule and States Feedback in a Buck-Boost Converter",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4260254660212462492",
+            "cites_id": [
+                "4260254660212462492"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmo de tratamiento multimodal para adolescentes latinoamericanos con trastorno por d\u00e9ficit de atenci\u00f3n con hiperactividad (TDAH)",
+                "pub_year": "2013",
+                "citation": "Instituto Nacional de Psiquiatr\u00eda Ram\u00f3n de la Fuente Mu\u00f1iz, Calz. M\u00e9xico \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:mB3voiENLucC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7470544320969539242",
+            "cites_id": [
+                "7470544320969539242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupled control of a 3-DOF pneumatic platform used as motion simulator",
+                "pub_year": "2011",
+                "citation": "Revista Iberoamericana de Autom\u00e1tica e Inform\u00e1tica Industrial 8 (4), 345-356, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15110932039309276716",
+            "cites_id": [
+                "15110932039309276716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of a quality system in teaching laboratories",
+                "pub_year": "2000",
+                "citation": "Quimica Analitica 19 (2), 103-109, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2952631308559581039",
+            "cites_id": [
+                "2952631308559581039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum power point tracking algorithms comparison for three-phase power converter",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:r0BpntZqJG4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5154476108239985458",
+            "cites_id": [
+                "5154476108239985458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estrategia de control para robots manipuladores con realimentaci\u00f3n visual y plataforma electro-neum\u00e1tica de 3gdl",
+                "pub_year": "2011",
+                "citation": "Ingenier\u00eda Mec\u00e1nica 14 (3), 245-257, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8965508658024745968",
+            "cites_id": [
+                "8965508658024745968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis cinem\u00e1tico y control articular aplicado a simulador de movimiento de estructura paralela",
+                "pub_year": "2011",
+                "citation": "Revista Ingenier\u00eda Electr\u00f3nica, Autom\u00e1tica y Comunicaciones ISSN: 1815-5928 \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11384769608905328024",
+            "cites_id": [
+                "11384769608905328024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n y control de un cilindro neum\u00e1tico con v\u00e1lvulas proporcionales",
+                "pub_year": "2001",
+                "citation": "XXII Jornadas de Autom\u00e1tica (Barcelona), 8, 2001"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:roLk4NBRz8UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5194515200488032682",
+            "cites_id": [
+                "5194515200488032682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated sprayer system for variable rate application of pesticides",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:IWHjjKOFINEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3340650238369333154",
+            "cites_id": [
+                "3340650238369333154"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control monocular 3D din\u00e1mico basado en imagen",
+                "pub_year": "2011",
+                "citation": "Revista Cient\u00edfica de Ingenier\u00eda Electr\u00f3nica, Autom\u00e1tica y Comunicaciones 32 \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13483552861180344935",
+            "cites_id": [
+                "13483552861180344935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heating up antarctic plants-preliminary results of a thermal actuator for antarctic bioindicators in a context of the climate change",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6844401529815015262",
+            "cites_id": [
+                "6844401529815015262"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary Studies on FPGA Implementation of a Real-Time Ultrasonic Air-Coupled Sonar",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:-f6ydRqryjwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6597354683625982155",
+            "cites_id": [
+                "6597354683625982155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de Laboratorios a Distancia (SLD): laboratorio para la ense\u00f1anza del control autom\u00e1tico a distancia",
+                "pub_year": "2004",
+                "citation": "Inform\u00e1tica na educa\u00e7\u00e3o: teoria & pr\u00e1tica 7 (1), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13046279381723402591",
+            "cites_id": [
+                "13046279381723402591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between three control strategy applied to an electro-pneumatic 3-DOF platform",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255981479744489045",
+            "cites_id": [
+                "8255981479744489045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of a collaborative class between three universities",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16417308438648286648",
+            "cites_id": [
+                "16417308438648286648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter Identification and Adaptive PI Control using SLD-UBB",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620788176453978788",
+            "cites_id": [
+                "3620788176453978788"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PD\u2013Fuzzy+ I control for a two degrees-of-freedom parallel robot",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3083179637099832986",
+            "cites_id": [
+                "3083179637099832986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wireless control of a coupled tanks system: A case study",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=407169537247017730",
+            "cites_id": [
+                "407169537247017730"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelaci\u00f3n, Identificaci\u00f3n y Control de Actuadores Lineales electro-neum\u00e1ticos para Aplicaciones Industriales",
+                "pub_year": "2007",
+                "citation": "Tesis Doctoral, Universidad Central \u201cMarta Abreu\u201d de Las Villas, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4034266219764359673",
+            "cites_id": [
+                "4034266219764359673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test Platform for Blueberry Inspection System, Based on UR3e Robot With camera in the End Effector",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of a reduced order model for greenhouse control based on CFD model results and experimental validation",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New Simplified Proposal for PV Cells Parameter Identification",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proxy-based sliding mode control on a pneumatic platform",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Feedback Control in a Back-to-Back Topology under Distorted Grid Voltage",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental Evaluation of a Wireless Control for a Coupled Tanks System",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking task space control for 3DOF pneumatic parallel robot.",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plataforma para la realizaci\u00f3n de actividades pr\u00e1cticas a distancia en tiempo real. Potencialidades de utilizaci\u00f3n en la educaci\u00f3n superior",
+                "pub_year": "2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Organized by",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TITULO: PLATAFORMA PARA LA EVALUACI\u00d3N REMOTA DE CONTROLADORES UTILIZANDO MATLAB",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plataforma para el Control de Sistemas F\u00edsicos Via Internet",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REALIZACI\u00d3N DE DIAGN\u00d3STICO A PARTIR DE LOS PAR\u00c1METROS DEL ARCO EL\u00c9CTRICO.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "POTENCIALIDADES DE UTILIZACI\u00d3N DE PLATAFORMA PARA LA REALIZACI\u00d3N DE ACTIVIDADES PR\u00c1CTICAS A DISTANCIA EN LA CARRERA DE INGENIER\u00cdA EN AUTOM\u00c1TICA. HERN\u00c1NDEZ SANTANA*, LUIS; SAHLI \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ROBUST CONTROL, SLIDING MODE CONTROL AND PROXY-BASED SLIDING MODE CONTROL APPLIED TO AN ELECTRO-PNEUMATIC THREE DEGREES OF FREEDOM PLATFORM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pKl_d2YAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

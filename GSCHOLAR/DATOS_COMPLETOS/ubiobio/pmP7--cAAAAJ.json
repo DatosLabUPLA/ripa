@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pmP7--cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Hern\u00e1ndez Sep\u00falveda",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Environmental Economics"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GGUaxpMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe V\u00e1squez Lav\u00edn",
+            "affiliation": "Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d2XywP8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M\u00f3nica Marcela Jaime Torres",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The economics impacts of long-run droughts: Challenges, gaps, and way forward",
+                "pub_year": "2023",
+                "citation": "Journal of Environmental Management 344, 118726, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pmP7--cAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6455723960095073812",
+            "cites_id": [
+                "6455723960095073812"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Risk perception and production risk in seaweed aquaculture",
+                "pub_year": "2024",
+                "citation": "Aquaculture Economics & Management, 1-29, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "pmP7--cAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nudges versus prices: Lessons and challenges from a water-savings program",
+                "pub_year": "2024",
+                "citation": "Energy Economics, 107546, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "pmP7--cAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Are price changes more effective than nudging to reduce water use?",
+                "pub_year": "2023",
+                "citation": "Available at SSRN 4354965, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pmP7--cAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

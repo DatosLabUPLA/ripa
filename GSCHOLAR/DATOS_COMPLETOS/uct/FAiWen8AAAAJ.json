@@ -1,0 +1,185 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "FAiWen8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Paulo Z\u00fa\u00f1iga",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FAiWen8AAAAJ&citpid=17",
+    "affiliation": "Universidad Cat\u00f3lica de Temuco",
+    "organization": 12740943834737827853,
+    "interests": [
+        "Numerical Analysis of Partial Differential Equations",
+        "Scientific Computing",
+        "Finite Element Method"
+    ],
+    "email_domain": "@uct.cl",
+    "homepage": "https://pzunigao.github.io/",
+    "citedby": 79,
+    "citedby5y": 73,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 3,
+        "2019": 5,
+        "2020": 13,
+        "2021": 7,
+        "2022": 26,
+        "2023": 13,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y1lcwVEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Oyarz\u00faa",
+            "affiliation": "Universidad del Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NX5yi50AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel Solano",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SbTcSpYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sander Rhebergen",
+            "affiliation": "Applied Mathematics, University of Waterloo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7FNfdxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel N. Gatica",
+            "affiliation": "Professor and Researcher, CI\u00b2MA and Departamento de Ingenieria Matematica, Universidad de Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "D6wcghgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Caucao",
+            "affiliation": "Assistant Professor, Departamento de Matem\u00e1tica y F\u00edsica Aplicadas, Universidad Cat\u00f3lica de la"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a conforming finite element method for the Boussinesq problem with temperature-dependent parameters",
+                "pub_year": "2017",
+                "citation": "Journal of Computational and Applied Mathematics 323, 71-94, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8970828580518118472",
+            "cites_id": [
+                "8970828580518118472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A high order mixed-FEM for diffusion problems on curved domains",
+                "pub_year": "2019",
+                "citation": "Journal of Scientific Computing 79 (1), 49-78, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17303279708100485930",
+            "cites_id": [
+                "17303279708100485930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analyses of a high order unfitted mixed-FEM for Stokes flow",
+                "pub_year": "2020",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 360, 112780, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8733912147483128565",
+            "cites_id": [
+                "8733912147483128565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error analysis of a mixed finite element method for the coupled Brinkman\u2013Forchheimer and double-diffusion equations",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 93 (2), 50, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879780158995199748",
+            "cites_id": [
+                "16879780158995199748"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis of a conforming and locking-free four-field formulation for the stationary Biot\u2019s model",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55, S475-S506, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13817884605003482032",
+            "cites_id": [
+                "13817884605003482032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an unfitted mixed finite element method for a class of quasi-Newtonian Stokes flow",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 114, 225-243, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "FAiWen8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5967706981524425846",
+            "cites_id": [
+                "5967706981524425846"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

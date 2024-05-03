@@ -1,0 +1,61 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SoIWUb0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fernando Dominguez Pacheco",
+    "affiliation": "Universidad del Bio Bio",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Ciencias de la computaci\u00f3n"
+    ],
+    "email_domain": "@egresados.ubiobio.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithm to Calculate the Hausdorff Distance on Sets of Points Represented by k2-Tree",
+                "pub_year": "2018",
+                "citation": "2018 XLIV Latin American Computer Conference (CLEI), 482-489, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "SoIWUb0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1053494210794896015",
+            "cites_id": [
+                "1053494210794896015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithm to calculate the Hausdorff Distance on sets of points represented by k 2-tree",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "SoIWUb0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

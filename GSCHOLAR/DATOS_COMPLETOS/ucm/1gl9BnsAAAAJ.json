@@ -1,0 +1,151 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1gl9BnsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Vergara Letelier",
+    "affiliation": "Research Assistant, Universidad Cat\u00f3lica del Maule, Chile",
+    "organization": 12968600147058256171,
+    "interests": [
+        "Artificial Intelligence",
+        "Pattern Recognition",
+        "Machine Learning",
+        "Data Mining"
+    ],
+    "email_domain": "@alu.ucm.cl",
+    "citedby": 40,
+    "citedby5y": 38,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 0,
+        "2019": 2,
+        "2020": 13,
+        "2021": 6,
+        "2022": 7,
+        "2023": 8,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q_N-ggQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Hernandez",
+            "affiliation": "Universidad Catolica del Maule"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fm0Ax7YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matias Valdenegro-Toro",
+            "affiliation": "Assistant Professor of Machine Learning, Bernoulli Institute, University of Groningen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multinomial Naive Bayes for real-time gender recognition",
+                "pub_year": "2016",
+                "citation": "2016 XXI Symposium on signal processing, images and artificial vision \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17315159451736292475",
+            "cites_id": [
+                "17315159451736292475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving predictive uncertainty estimation using dropout\u2013hamiltonian monte carlo",
+                "pub_year": "2020",
+                "citation": "Soft Computing 24 (6), 4307-4322, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17681144674490714119",
+            "cites_id": [
+                "17681144674490714119"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probability hypothesis density filter using determinantal point processes for multi object tracking",
+                "pub_year": "2019",
+                "citation": "Computer Vision and Image Understanding 183, 33-41, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13469115407809801052",
+            "cites_id": [
+                "13469115407809801052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi target tracking using determinantal point processes",
+                "pub_year": "2018",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17382851145781403335",
+            "cites_id": [
+                "17382851145781403335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive Uncertainty in Large Scale Classification using Dropout - Stochastic Gradient Hamiltonian Monte Carlo",
+                "pub_year": "2018",
+                "citation": "https://arxiv.org/pdf/1805.04756.pdf, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Incremental Learning for Large Scale Churn Prediction",
+                "pub_year": "2016",
+                "citation": "Preprints, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1gl9BnsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

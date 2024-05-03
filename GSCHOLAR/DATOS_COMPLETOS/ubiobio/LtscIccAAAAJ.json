@@ -1,0 +1,213 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "LtscIccAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alberth Silgado",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LtscIccAAAAJ&citpid=2",
+    "affiliation": "PhD Student, Universidad del B\u00edo-B\u00edo, Concepcion, Chile",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Numerical Analysis of PDEs",
+        "Virtual Element Discretizations"
+    ],
+    "email_domain": "@alumnos.ubiobio.cl",
+    "citedby": 56,
+    "citedby5y": 56,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 3,
+        "2022": 14,
+        "2023": 25,
+        "2024": 10
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z8ByKSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Mora",
+            "affiliation": "Universidad del B\u00edo-B\u00edo, Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BQR6UWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dibyendu Adak",
+            "affiliation": "Postdoctoral fellow, University of Bio Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-JHtQpIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sundararajan Natarajan",
+            "affiliation": "Department of Mechanical Engineering, Indian Institute of Technology-Madras"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aR8dZkAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lourenco Beirao Da Veiga",
+            "affiliation": "University of Milano-Bicocca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "snzK5oQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "CARLOS ALBERTO REALES MARTIN...",
+            "affiliation": "Professor of Departament of  Mathematics, University of Cordoba, Colombia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A C1 virtual element method for the stationary quasi-geostrophic equations of the ocean",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 116, 212-228, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16744126186385759176",
+            "cites_id": [
+                "16744126186385759176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual element discretization for the time dependent Navier-Stokes equations in stream-function formulation",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55 (5), 2535-2566, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16565695735214524662",
+            "cites_id": [
+                "16565695735214524662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A C^1-virtual element method of high order for the Brinkman equations in stream function formulation with pressure recovery",
+                "pub_year": "2022",
+                "citation": "IMA Journal of Numerical Analysis 42 (4), 3632-3674, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7055736338761272847",
+            "cites_id": [
+                "7055736338761272847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Morley-type virtual element approximation for a wind-driven ocean circulation model on polygonal meshes",
+                "pub_year": "2023",
+                "citation": "Journal of Computational and Applied Mathematics 425, 115026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017110038456811315",
+            "cites_id": [
+                "6017110038456811315"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fully-discrete virtual element method for the nonstationary Boussinesq equations in stream-function form",
+                "pub_year": "2023",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 408, 115947, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:ufrVoPGSRksC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12940215000402526523,15914796825822346095,1565988231876733566",
+            "cites_id": [
+                "12940215000402526523",
+                "15914796825822346095",
+                "1565988231876733566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Morley-type virtual element method for the Navier-Stokes equations in stream-function form on general meshes",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.02173, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14416498615772079405",
+            "cites_id": [
+                "14416498615772079405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Morley-type virtual element method for the Navier\u2013Stokes equations in stream-function form",
+                "pub_year": "2024",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 419, 116573, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4697963701065717269",
+            "cites_id": [
+                "4697963701065717269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual Element Methods for a Stream-Function Formulation of the Oseen Equations",
+                "pub_year": "2022",
+                "citation": "The Virtual Element Method and its Applications, 321-361, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "LtscIccAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3151659237476778259",
+            "cites_id": [
+                "3151659237476778259"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

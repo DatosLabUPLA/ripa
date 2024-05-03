@@ -1,0 +1,93 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "c5nLImUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Elisa Martinez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c5nLImUAAAAJ&citpid=1",
+    "affiliation": "Ph.D student, Universidad del B\u00edoB\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Sistemas Din\u00e1micos"
+    ],
+    "email_domain": "@alumnos.ubiobio.cl",
+    "homepage": "https://sites.google.com/view/elisa-martinez-robles",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c9fUg9YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Crespo",
+            "affiliation": "Associate Professor of Mathematics at the Universidad del B\u00edo B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LECXbOsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge L. Zapata Hern\u00e1ndez",
+            "affiliation": "Acad\u00e9mico de la Facultad de  Educaci\u00f3n, Universidad San Sebasti\u00e1n, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zero\u2010Hopf bifurcation in the generalized Hiemenz equation",
+                "pub_year": "2021",
+                "citation": "Mathematical Methods in the Applied Sciences 44 (11), 8565-8576, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "c5nLImUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131226147476091239",
+            "cites_id": [
+                "6131226147476091239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Melnikov Method for Perturbed Completely Integrable Systems",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.10986, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "c5nLImUAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modified quasispecies model: the analysis of a periodic therapy",
+                "pub_year": "2022",
+                "citation": "Journal of Mathematical Biology 84 (4), 29, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "c5nLImUAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

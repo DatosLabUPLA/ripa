@@ -1,0 +1,684 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wMuMvC8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Lepe",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wMuMvC8AAAAJ&citpid=2",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "numerical analysis",
+        "finite element method",
+        "dissipative acoustics",
+        "eigenvalue problems"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "http://ciencias.ubiobio.cl/flepe/",
+    "citedby": 166,
+    "citedby5y": 155,
+    "hindex": 7,
+    "hindex5y": 7,
+    "i10index": 5,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2015": 2,
+        "2016": 2,
+        "2017": 2,
+        "2018": 5,
+        "2019": 1,
+        "2020": 9,
+        "2021": 16,
+        "2022": 35,
+        "2023": 70,
+        "2024": 24
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_gFgHyoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Rivera",
+            "affiliation": "Profesor de Matem\u00e1tica, Universidad de Los Lagos, Osorno"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z8ByKSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Mora",
+            "affiliation": "Universidad del B\u00edo-B\u00edo, Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yxYU88oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jesus Vellojin",
+            "affiliation": "PhD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gBO3kUEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodolfo Rodr\u00edguez",
+            "affiliation": "Professor Emeritus at Departamento de Ingenier\u00eda Matem\u00e1tica, Universidad de Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "eYRpOb8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Salim Meddahi",
+            "affiliation": "Professor, Universidad de Oviedo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "T7VDAw4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enrique Otarola",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xa5FMvkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Iv\u00e1n Vel\u00e1squez",
+            "affiliation": "Docente Investigador, Universidad del Sin\u00fa E.B.Z."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QKQeGscAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erwin Hernandez",
+            "affiliation": "Departamento de Matem\u00e1tica, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BQR6UWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dibyendu Adak",
+            "affiliation": "Postdoctoral fellow, University of Bio Bio"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual element approximation for the pseudostress formulation of the Stokes eigenvalue problem",
+                "pub_year": "2021",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 379, 113753, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18198753518650678690",
+            "cites_id": [
+                "18198753518650678690"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symmetric and nonsymmetric discontinuous Galerkin methods for a pseudostress formulation of the Stokes spectral problem",
+                "pub_year": "2020",
+                "citation": "SIAM Journal on Scientific Computing 42 (2), A698-A722, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6240190222993036193",
+            "cites_id": [
+                "6240190222993036193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual element method for the Steklov eigenvalue problem allowing small edges",
+                "pub_year": "2021",
+                "citation": "Journal of Scientific Computing 88, 1-21, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6067725657235958658",
+            "cites_id": [
+                "6067725657235958658"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Locking-free finite element method for a bending moment formulation of Timoshenko beams",
+                "pub_year": "2014",
+                "citation": "Computers & Mathematics with Applications 68 (3), 118-131, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=849207232287276713",
+            "cites_id": [
+                "849207232287276713"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed discontinuous Galerkin approximation of the elasticity eigenproblem",
+                "pub_year": "2019",
+                "citation": "Numerische Mathematik 142 (3), 749-786, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7029904924918563250",
+            "cites_id": [
+                "7029904924918563250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed methods for the velocity-pressure-pseudostress formulation of the Stokes eigenvalue problem",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Scientific Computing 44 (3), A1358-A1380, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13147281791157095619",
+            "cites_id": [
+                "13147281791157095619"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori error analysis for a mixed VEM discretization of the spectral problem for the Laplacian operator",
+                "pub_year": "2021",
+                "citation": "Calcolo 58 (2), 20, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:WF5omc3nYNoC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4134748684036887930",
+            "cites_id": [
+                "4134748684036887930"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element analysis of a bending moment formulation for the vibration problem of a non-homogeneous Timoshenko beam",
+                "pub_year": "2016",
+                "citation": "Journal of Scientific Computing 66, 825-848, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15766572897580747025",
+            "cites_id": [
+                "15766572897580747025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Displacement\u2010pseudostress formulation for the linear elasticity spectral problem",
+                "pub_year": "2023",
+                "citation": "Numerical Methods for Partial Differential Equations 39 (3), 1996-2017, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9615380544988349653",
+            "cites_id": [
+                "9615380544988349653"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for FEM discretizations of the Navier\u2013Stokes equations with Dirac measures",
+                "pub_year": "2021",
+                "citation": "Journal of Scientific Computing 87, 1-23, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5319353801261373174",
+            "cites_id": [
+                "5319353801261373174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VEM discretization allowing small edges for the reaction\u2013convection\u2013diffusion equation: source and spectral problems",
+                "pub_year": "2023",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 57 (5), 3139-3164, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17205408417795357634",
+            "cites_id": [
+                "17205408417795357634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates in W1, p\u00d7 Lp spaces for the Stokes system with Dirac measures",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 94, 47-59, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13810244041497894779",
+            "cites_id": [
+                "13810244041497894779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual element method for the elasticity problem allowing small edges",
+                "pub_year": "2023",
+                "citation": "Calcolo 60 (2), 28, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=693152853482071115",
+            "cites_id": [
+                "693152853482071115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for a vorticity-based velocity\u2013stress formulation of the Stokes eigenvalue problem",
+                "pub_year": "2023",
+                "citation": "Journal of Computational and Applied Mathematics 420, 114798, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5423801405167664823",
+            "cites_id": [
+                "5423801405167664823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Optimal Control Problem for the Navier\u2013Stokes Equations with Point Sources",
+                "pub_year": "2023",
+                "citation": "Journal of Optimization Theory and Applications 196 (2), 590-616, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3270247008772829133,10776212058940881608",
+            "cites_id": [
+                "3270247008772829133",
+                "10776212058940881608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori virtual element method for the acoustic vibration problem",
+                "pub_year": "2023",
+                "citation": "Advances in Computational Mathematics 49 (1), 10, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9673135767179257243",
+            "cites_id": [
+                "9673135767179257243"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Displacement-pseudostress formulation for the linear elasticity spectral problem: a priori analysis",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.09828, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13101619665208380669",
+            "cites_id": [
+                "13101619665208380669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior penalty discontinuous Galerkin methods for the velocity-pressure formulation of the Stokes spectral problem",
+                "pub_year": "2023",
+                "citation": "Advances in Computational Mathematics 49 (4), 61, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2801622191892340201",
+            "cites_id": [
+                "2801622191892340201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acoustic vibration problem for dissipative fluids",
+                "pub_year": "2019",
+                "citation": "Mathematics of Computation 88 (315), 45-71, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9283354729771006971",
+            "cites_id": [
+                "9283354729771006971"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis Num\u00e9rico de Modelos de Vigas",
+                "pub_year": "2013",
+                "citation": "Tesis de Grado Universidad del Bio-Bio, Facultad de Ciencias, Chile, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6763102326307503991",
+            "cites_id": [
+                "6763102326307503991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discontinuous Galerkin methods for the acoustic vibration problem",
+                "pub_year": "2024",
+                "citation": "Journal of Computational and Applied Mathematics 441, 115700, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10902862098788522026",
+            "cites_id": [
+                "10902862098788522026"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual element method for the elasticity spectral problem allowing for small edges",
+                "pub_year": "2023",
+                "citation": "Journal of Scientific Computing 97 (3), 54, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9734149744534436",
+            "cites_id": [
+                "9734149744534436"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori analysis for a mixed FEM discretization of the linear elasticity spectral problem",
+                "pub_year": "2022",
+                "citation": "Journal of Scientific Computing 93 (1), 10, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020890456978037801",
+            "cites_id": [
+                "18020890456978037801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed parameter formulation with applications to linear viscoelasticity",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2011.10636, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1317389281241817275",
+            "cites_id": [
+                "1317389281241817275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element analysis of the Oseen eigenvalue problem",
+                "pub_year": "2024",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 425, 116959, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior penalty discontinuous Galerkin methods for the nearly incompressible elasticity eigenvalue problem with heterogeneous media",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.17711, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mixed parameter formulation with applications to linear viscoelastic slender structures",
+                "pub_year": "2024",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 58 (1), 157-189, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error analysis for a non-conforming virtual element discretization of the acoustic problem",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.13261, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element analysis of the nearly incompressible linear elasticity eigenvalue problem with variable coefficients",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.10715, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori analysis for a mixed formulation of the Stokes spectral problem",
+                "pub_year": "2023",
+                "citation": "Calcolo 60 (4), 52, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VEM allowing small edges for the acoustic problem",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.07955, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A priori and a posteriori error analysis for a VEM discretization of the convection-diffusion eigenvalue problem",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2309.16084, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VEM approximation for the Stokes eigenvalue problem: a priori and a posteriori error analysis",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.01961, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite element analysis for the Navier-Lam\\'e eigenvalue problem",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2209.11825, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of an abstract mixed formulation for viscoelastic problems",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.03417, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VEM allowing small edges for the reaction-convection-diffusion equation: source and eigenvalue problems",
+                "citation": "BOOK OF, 164, 0"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Workshop de Matem\u00e1tica Aplicada",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DG METHODS FOR SPECTRAL PROBLEMS",
+                "citation": "14th CI2MA FOCUS SEMINAR: Finite Element and Related Methods for PDEs in \u2026, 0"
+            },
+            "filled": false,
+            "author_pub_id": "wMuMvC8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

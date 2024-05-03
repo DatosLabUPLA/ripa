@@ -1,0 +1,926 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1g2VAeYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pedro G. Campos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1g2VAeYAAAAJ&citpid=2",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Recommender Systems",
+        "Software Engineering"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "http://dsi.face.ubiobio.cl/pcampos/",
+    "citedby": 913,
+    "citedby5y": 404,
+    "hindex": 11,
+    "hindex5y": 6,
+    "i10index": 11,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2007": 4,
+        "2008": 2,
+        "2009": 4,
+        "2010": 6,
+        "2011": 14,
+        "2012": 13,
+        "2013": 36,
+        "2014": 50,
+        "2015": 63,
+        "2016": 82,
+        "2017": 118,
+        "2018": 103,
+        "2019": 87,
+        "2020": 90,
+        "2021": 77,
+        "2022": 66,
+        "2023": 70,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "r-5FUH8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando D\u00edez",
+            "affiliation": "Senior Lecturer, Universidad Aut\u00f3noma de Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iCMJ360AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Iv\u00e1n Cantador",
+            "affiliation": "Associate Professor of Computer Science, Universidad Aut\u00f3noma de Madrid, Spain"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jekP1YYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Bellogin (ORCID: 0000-000...",
+            "affiliation": "Universidad Aut\u00f3noma de Madrid (ROR 01cby8j38)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qskMTlMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Fern\u00e1ndez-Tob\u00edas",
+            "affiliation": "Universidad Aut\u00f3noma de Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UlF-3osAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Antonio Pow-Sang Portillo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica del Per\u00fa (PUCP)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4kY9Gg4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Valdes-Gonzalez",
+            "affiliation": "Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4X5fWBoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "V\u00edctor Hugo Men\u00e9ndez Dom\u00ednguez",
+            "affiliation": "Universidad Aut\u00f3noma de Yucat\u00e1n, M\u00e9xico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cjvHvLIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Vidal Castro",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wbMaSPYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Salvador S\u00e1nchez-Alonso",
+            "affiliation": "Associate professor, University of Alcala"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z1WGV5EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Pierart",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NF4oLaoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elizabeth Eliana Grand\u00f3n Toledo",
+            "affiliation": "Universidad del Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YI1ZzkIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudia Zapata",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zaQzxsYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ruth Cobos",
+            "affiliation": "Universidad Autonoma de Madrid"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-aware recommender systems: a comprehensive survey and analysis of existing evaluation protocols",
+                "pub_year": "2014",
+                "citation": "User Modeling and User-Adapted Interaction 24, 67-119, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 528,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15684529706914537037",
+            "cites_id": [
+                "15684529706914537037"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple time-biased KNN-based recommendations",
+                "pub_year": "2010",
+                "citation": "Proceedings of the Workshop on Context-Aware Movie Recommendation, 20-23, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3613461109825108832",
+            "cites_id": [
+                "3613461109825108832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelo para Seguridad de la Informaci\u00f3n en TIC",
+                "pub_year": "2008",
+                "citation": "Concepci\u00f3n, Chile: Universidad del B\u00edo-B\u00edo, 234-253, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17753038528470550193",
+            "cites_id": [
+                "17753038528470550193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Context-aware movie recommendations: an empirical comparison of pre-filtering, post-filtering and contextual modeling approaches",
+                "pub_year": "2013",
+                "citation": "E-Commerce and Web Technologies: 14th International Conference, EC-Web 2013 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11594638761432634199",
+            "cites_id": [
+                "11594638761432634199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a more realistic evaluation: testing the ability to predict future tastes of matrix factorization-based recommenders",
+                "pub_year": "2011",
+                "citation": "Proceedings of the fifth ACM conference on Recommender systems, 309-312, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7635438651766124354",
+            "cites_id": [
+                "7635438651766124354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparaci\u00f3n de t\u00e9cnicas de calibraci\u00f3n de c\u00e1maras digitales",
+                "pub_year": "2005",
+                "citation": "Revista Facultad de Ingenier\u00eda-Universidad de Tarapac\u00e1 13 (1), 57-67, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=740265413009528042",
+            "cites_id": [
+                "740265413009528042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The jigsaw technique: experiences teaching analysis class diagrams",
+                "pub_year": "2009",
+                "citation": "2009 Mexican international conference on computer science, 289-293, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6394199329278847441",
+            "cites_id": [
+                "6394199329278847441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Movie recommendations based in explicit and implicit features extracted from the Filmtipset dataset",
+                "pub_year": "2010",
+                "citation": "Proceedings of the Workshop on Context-Aware Movie Recommendation, 45-52, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=447459128085926455",
+            "cites_id": [
+                "447459128085926455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal rating habits: A valuable tool for rating discrimination",
+                "pub_year": "2011",
+                "citation": "Proceedings of the 2nd challenge on context-aware movie recommendation, 29-35, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16917833213998768762,17776737302786525841",
+            "cites_id": [
+                "16917833213998768762",
+                "17776737302786525841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using data mining techniques for exploring learning object repositories",
+                "pub_year": "2011",
+                "citation": "The Electronic Library 29 (2), 162-180, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16164690197985872369",
+            "cites_id": [
+                "16164690197985872369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quality in learning objects: evaluating compliance with metadata standards",
+                "pub_year": "2010",
+                "citation": "Metadata and Semantic Research: 4th International Conference, MTSR 2010 \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8294171788609191234",
+            "cites_id": [
+                "8294171788609191234"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploiting time contexts in collaborative filtering: An item splitting approach",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 3rd Workshop on Context-awareness in Retrieval and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13769266140766701815",
+            "cites_id": [
+                "13769266140766701815"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time feature selection for identifying active household members",
+                "pub_year": "2012",
+                "citation": "Proceedings of the 21st ACM international conference on Information and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6895878879906949290",
+            "cites_id": [
+                "6895878879906949290"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal models in recommender systems: an exploratory study on different evaluation dimensions",
+                "pub_year": "2011",
+                "citation": "Universidad Aut\u00f3noma de Madrid Escuela Polit\u00e9cnica Superior, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:hSRAE-fF4OAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5492091425460533934",
+            "cites_id": [
+                "5492091425460533934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A contextual modeling approach for model-based recommender systems",
+                "pub_year": "2013",
+                "citation": "Advances in Artificial Intelligence: 15th Conference of the Spanish \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2636249739465075508",
+            "cites_id": [
+                "2636249739465075508"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizaci\u00f3n global por intervalos: aplicaci\u00f3n a problemas con par\u00e1metros inciertos",
+                "pub_year": "2006",
+                "citation": "Informaci\u00f3n tecnol\u00f3gica 17 (5), 67-74, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=743687547651271142",
+            "cites_id": [
+                "743687547651271142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing Machine Learning and Deep Learning-based approaches for SAG mill Energy consumption",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:T_ojBgVMvoEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4606603054054492132",
+            "cites_id": [
+                "4606603054054492132"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracting context data from user reviews for recommendation: A Linked Data approach",
+                "pub_year": "2017",
+                "citation": "1st Workshop on Recommendation in Complex Scenarios (ComplexRec 2017), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:qwy9JoKyICEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4711552817596984379",
+            "cites_id": [
+                "4711552817596984379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-aware evaluation of methods for identifying active household members in recommender systems",
+                "pub_year": "2013",
+                "citation": "Advances in Artificial Intelligence: 15th Conference of the Spanish \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13953194161903235284",
+            "cites_id": [
+                "13953194161903235284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A performance comparison of time-aware recommendation models",
+                "pub_year": "2012",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2644157184885692925",
+            "cites_id": [
+                "2644157184885692925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error reduction in long-term mine planning estimates using deep learning models",
+                "pub_year": "2023",
+                "citation": "Expert Systems with Applications 217, 119487, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:A8cqit5AE6sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11537071837681554582",
+            "cites_id": [
+                "11537071837681554582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OurRank: a software requirements prioritization method based on qualitative assessment and cost-benefit prediction",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 131772-131787, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:__bU50VfleQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14389580899366904142",
+            "cites_id": [
+                "14389580899366904142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement learning algorithms applied to reactive and resistive control of a wave energy converter",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:SAZ1SQo2q1kC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1291995208861841590",
+            "cites_id": [
+                "1291995208861841590"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Development Methodologies Recommender System Based on Knowledge from the Software Industry",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:eGYfIraVYiQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12198194260069960439",
+            "cites_id": [
+                "12198194260069960439"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Paralelizaci\u00f3n de Consultas del tipo time-interval en Base de Datos Espacio-Temporales",
+                "pub_year": "2008",
+                "citation": "JIISIC08. Guayaquil, Ecuador, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14136039891201438239",
+            "cites_id": [
+                "14136039891201438239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of digital camera calibration techniques",
+                "pub_year": "2004",
+                "citation": "Revista de la Facultad de Ingenier\u00eda-Universidad de Tarapac\u00e1 13 (1), 2004"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8758429017149928445",
+            "cites_id": [
+                "8758429017149928445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementaci\u00f3n de Propiedades de Usabilidad con Impacto en el Dise\u00f1o Mediante la Programaci\u00f3n Orientada a Aspectos",
+                "pub_year": "2010",
+                "citation": "Actas del XI Congreso Internacional de Interacci\u00f3n Persona-Ordenador, 369-378, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:zdjWy_NXXwUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=951836694407190474",
+            "cites_id": [
+                "951836694407190474"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aplicaci\u00f3n de T\u00e9cnicas de Aprendizaje Cooperativo en la Ense\u00f1anza del Desarrollo de Software.",
+                "pub_year": "2007",
+                "citation": "JIISIC, 481-483, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344829805388585578",
+            "cites_id": [
+                "14344829805388585578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Artificial Intelligence-based Irradiance and Power consumption prediction for PV installations",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:-6RzNnnwWf8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13065103209166213054",
+            "cites_id": [
+                "13065103209166213054"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extracting aspect opinions from reviews in Spanish for aspect-based recommendations",
+                "pub_year": "2021",
+                "citation": "2021 40th international conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:D_tqNUsBuKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16843369336805071146",
+            "cites_id": [
+                "16843369336805071146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A batching cloaking scheme for continuous location-based services",
+                "pub_year": "2020",
+                "citation": "Proceedings of the Collaborative Technologies and Data Science in Artificial \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:qE4H1tSSYIIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=318719121253985722",
+            "cites_id": [
+                "318719121253985722"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A tool for the assessment of energy-efficiency retrofit packages based on simulations, for single-family housing in Concepcion, Chile",
+                "pub_year": "2019",
+                "citation": "Energy Efficiency 12 (3), 619-636, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:X9ykpCP0fEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17259946070448543068",
+            "cites_id": [
+                "17259946070448543068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal design of housing attics with integrated solar collectors",
+                "pub_year": "2017",
+                "citation": "Journal of Green Building 12 (4), 1-20, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:v6i8RKmR8ToC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10326916162354977604",
+            "cites_id": [
+                "10326916162354977604"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Criterion Based on Fisher's Exact Test for Item Splitting in Context-Aware Recommender Systems",
+                "pub_year": "2014",
+                "citation": "2014 33rd International Conference of the Chilean Computer Science Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:UmS_249rOGwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3530090239059534629",
+            "cites_id": [
+                "3530090239059534629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Temporal models in recommender systems: an exploratory study on different evaluation dimensions",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3583059287484877353",
+            "cites_id": [
+                "3583059287484877353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Longest Path Subgraph: A Novel and Efficient Algorithm to Match RDF Graphs",
+                "pub_year": "2008",
+                "citation": "2008 Mexican International Conference on Computer Science, 232-237, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3093095017575548755",
+            "cites_id": [
+                "3093095017575548755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the ideal weekly training load for in-game performance in an elite Brazilian soccer team",
+                "pub_year": "2024",
+                "citation": "Frontiers in Physiology 15, 1341791, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:EsEWqaRxkBgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the ideal weekly training load for in-game performance in an elite Brazilian soccer team",
+                "pub_year": "2024",
+                "citation": "Frontiers in Physiology 15, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:-yGd096yOn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Fruit Images With Deep Learning: A Systematic Literature Review and Future Directions",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:unp9ATQDT5gC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "T\u00c9CNICAS DE IMPLEMENTA\u00c7\u00c3O DE SENSORES PARA OBTEN\u00c7\u00c3O DE DADOSREFERENTES AO ARREFECIMENTO DO MOTOR DE UM VE\u00cdCULO FORMULA SAE",
+                "pub_year": "2022",
+                "citation": "DESVENDANDO A ENGENHARIA: SUA ABRANG\u00caNCIA E MULTIDISCIPLINARIDADE-VOLUME 4 4 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:c1e4I3QdEKYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple approach for Aspect-based Recommendation using reviews written in Spanish",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:0aBXIfxlw9sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN\u00c1LISIS Y DIFUSI\u00d3N DE REACONDICIONAMIENTOS ENERG\u00c9TICOS RESIDENCIALES BASADOS EN SIMULACIONES",
+                "pub_year": "2015",
+                "citation": "Tecnologia e Ambiente 21, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:qe6vwMD2xtsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recommender systems and time context: Characterization of a robust evaluation protocol to increase reliability of measured improvements",
+                "pub_year": "2013",
+                "citation": "Universidad Aut\u00f3noma de Madrid, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time feature selection for identifying active household members",
+                "pub_year": "2012",
+                "citation": "ACM, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:ghEM2AJqZyQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards awareness services usage characterization: clustering sessions in a knowledge building environment",
+                "pub_year": "2010",
+                "citation": "International Conference on Knowledge Science, Engineering and Management \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simple time-biased KNN-based recommendations",
+                "pub_year": "2010",
+                "citation": "ACM, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:wE-fMHVdjMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Utilizaci\u00f3n de la programaci\u00f3n Orientada a Aspectos para Promover la Colaboraci\u00f3n Casual en Ambientes Web.",
+                "pub_year": "2009",
+                "citation": "EIG, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global Optimization by Interval Analysis: Application to Problems with Uncertain Parameters",
+                "pub_year": "2006",
+                "citation": "INFORMACION TECNOLOGICA 17 (5), 67, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de usuarios en Sistemas de Recomendaci\u00f3n mediante un modelo basado en Teor\u00eda de Juegos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La Temporalidad en los Sistemas de Recomendaci\u00f3n: Una revisi\u00f3n actualizada de propuestas te\u00f3ricas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de Recomendaci\u00f3n para apoyar la b\u00fasqueda de material educativo: un dise\u00f1o basado en componentes y patrones",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A State Estimation under Parameter Uncertainty Algorithm based on Interval Global Optimization",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1g2VAeYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

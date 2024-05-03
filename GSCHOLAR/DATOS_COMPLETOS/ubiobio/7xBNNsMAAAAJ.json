@@ -1,0 +1,92 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7xBNNsMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis Ortega-Ruiz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7xBNNsMAAAAJ&citpid=2",
+    "affiliation": "Departamento de Ciencias de la Computaci\u00f3n y Tecnolog\u00edas de Informaci\u00f3n Universidad del B\u00edo - B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Ingenier\u00eda de software",
+        "Procesos de negocio"
+    ],
+    "email_domain": "@alumnos.ubiobio.cl",
+    "citedby": 1,
+    "citedby5y": 0,
+    "hindex": 1,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7jAMWuYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alfonso Rodr\u00edguez R\u00edos (orcid: 0000-0...",
+            "affiliation": "Associate Professor of Computer Science and Information Technologies, University of Bio Bio, Chill\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yn7bEOwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ang\u00e9lica Caro",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the data quality terminology used by business people",
+                "pub_year": "2015",
+                "citation": "2015 34th International Conference of the Chilean Computer Science Society \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7xBNNsMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13683315986498672433",
+            "cites_id": [
+                "13683315986498672433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification Of Terminology Used By Business People To Express Data Quality",
+                "pub_year": "2019",
+                "citation": "IEEE Latin America Transactions 17 (03), 365-371, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7xBNNsMAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de herramientas para el modelado de procesos de negocios desde la perspectiva de su extensibilidad",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7xBNNsMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

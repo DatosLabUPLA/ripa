@@ -32,7 +32,7 @@ def get_autores_completados(dominio):
     return autores
 def get_autores(org_number):
     pg = ProxyGenerator()
-    success = pg.ScraperAPI('baddca5da19b48b8926123d9630c7e1d')
+    success = pg.ScraperAPI('a04593990d15c798a5477e1f7804a66b')
     scholarly.use_proxy(pg)
     authors_id = set()
     authors = scholarly.search_author_by_organization(org_number)

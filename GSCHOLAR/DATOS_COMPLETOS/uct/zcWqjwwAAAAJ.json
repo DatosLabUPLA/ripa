@@ -1,0 +1,75 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zcWqjwwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luciano Aroca",
+    "affiliation": "Antrop\u00f3logo, estudiante de doctorado en la Universidad Cat\u00f3lica de Temuco",
+    "organization": 12740943834737827853,
+    "interests": [
+        "Ciencia",
+        "tecnolog\u00eda y sociedad",
+        "descolonizaci\u00f3n del conocimiento",
+        "Epistemolog\u00edas del Sur"
+    ],
+    "email_domain": "@alu.uct.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apicultura de conservaci\u00f3n en la Sierra Nevada de Santa Marta: entramados, transformaciones y devenires inter-especie",
+                "pub_year": "2023",
+                "citation": "Universidad del Magdalena-Editorial Unimagdalena, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zcWqjwwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2814886519375594161",
+            "cites_id": [
+                "2814886519375594161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ABEJA COMO ACTOR: REDES M\u00c1S ALL\u00c1 DE UNA MODERNIDAD EN CRISIS",
+                "citation": "VI CONGRESO, 47, 0"
+            },
+            "filled": false,
+            "author_pub_id": "zcWqjwwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RECHAZO, XENOFOBIA, Y DEM\u00c1S FEN\u00d3MENOS DE LAS MIGRACIONES Y DESPLAZAMIENTOS TERRITORIALES DE LOS HABITANTES DE CALLE. EN EL CENTRO HIST\u00d3RICO DE LA CIUDAD DE SANTA MARTA \u2026",
+                "citation": "VI CONGRESO, 665, 0"
+            },
+            "filled": false,
+            "author_pub_id": "zcWqjwwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

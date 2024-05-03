@@ -1,0 +1,307 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_VU2AugAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Rey",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_VU2AugAAAAJ&citpid=3",
+    "affiliation": "Universidad del B\u00edo B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Operations Research",
+        "Metaheuristics"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 83,
+    "citedby5y": 62,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2016": 7,
+        "2017": 5,
+        "2018": 9,
+        "2019": 6,
+        "2020": 7,
+        "2021": 12,
+        "2022": 16,
+        "2023": 17,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_z5EDa4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Victor Parada",
+            "affiliation": "Departamento de Ingenier\u00eda Inform\u00e1tica, Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hIl4ixAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Contreras-Bolton",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2IPL4XIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paolo Toth",
+            "affiliation": "Universit\u00e0 di Bologna"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2kk8d_AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniele Vigo",
+            "affiliation": "Professor, University of Bologna"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sQZJ9BMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Cabrera-Vives",
+            "affiliation": "Department of Computer Science, University of Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "55RZxbQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Laura Galli",
+            "affiliation": "Associate Professor, Department of Computer Science, University of Pisa"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-operator genetic algorithm for the generalized minimum spanning tree problem",
+                "pub_year": "2016",
+                "citation": "Expert Systems with applications 50, 1-8, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:WF5omc3nYNoC",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12383236919608110965",
+            "cites_id": [
+                "12383236919608110965"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polynomial-size formulations and relaxations for the quadratic multiple knapsack problem",
+                "pub_year": "2021",
+                "citation": "European Journal of Operational Research 291 (3), 871-882, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:Se3iqnhoufwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14465964427651896787",
+            "cites_id": [
+                "14465964427651896787"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic design of specialized algorithms for the binary knapsack problem",
+                "pub_year": "2020",
+                "citation": "Expert Systems with Applications 141, 112908, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13400898533249755538",
+            "cites_id": [
+                "13400898533249755538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatically produced algorithms for the generalized minimum spanning tree problem",
+                "pub_year": "2016",
+                "citation": "Scientific Programming 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13651644820333087035",
+            "cites_id": [
+                "13651644820333087035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective metaheuristics for the latency location routing problem",
+                "pub_year": "2023",
+                "citation": "International Transactions in Operational Research 30 (6), 3801-3832, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6559421460724733825",
+            "cites_id": [
+                "6559421460724733825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian matheuristics for the quadratic multiple knapsack problem",
+                "pub_year": "2023",
+                "citation": "Discrete Applied Mathematics 335, 36-51, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16553833031917993216",
+            "cites_id": [
+                "16553833031917993216"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Methods Generated by Genetic Programming for the Guillotine-Cutting Problem",
+                "pub_year": "2018",
+                "citation": "Scientific Programming 2018 (6971827), 13, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:roLk4NBRz8UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2190558510350268336",
+            "cites_id": [
+                "2190558510350268336"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drone Optimization in Factory: Exploring the Minimal Level Vehicle Routing Problem for Efficient Material Distribution",
+                "pub_year": "2023",
+                "citation": "Drones 7 (7), 435, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16467153466472983385",
+            "cites_id": [
+                "16467153466472983385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Organization of Fruit Collection Transport in Conditions of Extreme Rurality: A Rural CVRP Case",
+                "pub_year": "2022",
+                "citation": "Workshop on Engineering Applications, 234-242, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=757278472297540449",
+            "cites_id": [
+                "757278472297540449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An iterated local search for the traveling salesman problem with pickup, delivery and handling costs",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18203533337744149289",
+            "cites_id": [
+                "18203533337744149289"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic generation of a hybrid algorithm for the maximum independent set problem using genetic programming",
+                "pub_year": "2023",
+                "citation": "Applied Soft Computing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7211648892830881720",
+            "cites_id": [
+                "7211648892830881720"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Open-Pit Pushback Optimization by a Parallel Genetic Algorithm",
+                "pub_year": "2024",
+                "citation": "Minerals 14 (5), 438, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Novel Two-Phase Approach to Forest Harvesting Optimization Using Cable Logging",
+                "pub_year": "2023",
+                "citation": "Forests 14 (11), 2133, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulations and Metaheuristics for combinatorial optimization problems",
+                "pub_year": "2022",
+                "citation": "alma, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "_VU2AugAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

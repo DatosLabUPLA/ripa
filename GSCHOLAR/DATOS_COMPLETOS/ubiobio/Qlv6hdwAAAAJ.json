@@ -1,0 +1,134 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Qlv6hdwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ariel P\u00e9rez",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Partial differential equation",
+        "control theory",
+        "inverse problems"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "https://sites.google.com/view/arielperezc?usp=sharing",
+    "citedby": 26,
+    "citedby5y": 26,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 7,
+        "2023": 11,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Carleman estimates and controllability for a semi-discrete fourth-order parabolic equation",
+                "pub_year": "2022",
+                "citation": "Journal de Math\u00e9matiques Pures et Appliqu\u00e9es 164, 93-130, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6073816778702733966",
+            "cites_id": [
+                "6073816778702733966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability estimate for the semi-discrete linearized Benjamin-Bona-Mahony equation",
+                "pub_year": "2021",
+                "citation": "ESAIM: Control, Optimisation and Calculus of Variations 27, 93, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14895758036820995124",
+            "cites_id": [
+                "14895758036820995124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Carleman estimates and application to controllability for a fully-discrete parabolic operator with dynamic boundary conditions",
+                "pub_year": "2023",
+                "citation": "Journal of Differential Equations 365, 832-881, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3941458421123149028",
+            "cites_id": [
+                "3941458421123149028"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Calder\u00f3n problem with partial data",
+                "pub_year": "2023",
+                "citation": "Inverse Problems 39 (3), 035001, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2241920429261808458",
+            "cites_id": [
+                "2241920429261808458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On discrete carleman estimates: applications to controllability, stability and inverse problems",
+                "pub_year": "2022",
+                "citation": "Universidad de Chile, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7562650381035842572",
+            "cites_id": [
+                "7562650381035842572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controllability for a non-local formulation of surface gravity waves",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.18468, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Qlv6hdwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

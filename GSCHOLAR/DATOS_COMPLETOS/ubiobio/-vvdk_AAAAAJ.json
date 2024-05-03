@@ -1,0 +1,294 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-vvdk_AAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Vald\u00e9s-Jim\u00e9nez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-vvdk_AAAAAJ&citpid=1",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "HPC",
+        "Bioinformatics"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 144,
+    "citedby5y": 142,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 1,
+        "2020": 8,
+        "2021": 31,
+        "2022": 37,
+        "2023": 48,
+        "2024": 17
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nfn6hvgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Nu\u00f1ez Vivanco",
+            "affiliation": "Profesor Asistente, Universidad de Ays\u00e9n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3uWBpdwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Reyes",
+            "affiliation": "Profesor de Farmacologia, Universidad Autonoma de Chile y Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iRc-CqIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Caballero",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jDckPaMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Luis Vel\u00e1zquez-Libera",
+            "affiliation": "Centro de Bioinform\u00e1tica y Simulaci\u00f3n Molecular (CBSM), Universidad de Talca, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KGfUQsYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Ramirez",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "A0nQ1PEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ingo Dreyer",
+            "affiliation": "Universidad de Talca, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CGH1KpQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Jimenez Gonzalez",
+            "affiliation": "Barcelona Supercomputing Center (BSC) / Universitat Polit\u00e8cnica de Catalunya"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yKHLJg8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Besoain",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "G4pdVO4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wendy Gonz\u00e1lez",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qydIhD8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Riadi",
+            "affiliation": "University of Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4ZyYL5AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Camilo Fuentes-Beals",
+            "affiliation": "PhD Student."
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LigRMSD: A web server for automatic structure matching and RMSD calculations among identical and similar compounds in protein-ligand docking",
+                "pub_year": "2020",
+                "citation": "Bioinformatics 36 (9), 2912-2914, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8217375764940824099",
+            "cites_id": [
+                "8217375764940824099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Psc-db: A structured and searchable 3d-database for plant secondary compounds",
+                "pub_year": "2021",
+                "citation": "Molecules 26 (4), 1124, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:qjMakFHDy7sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9027075108224681436",
+            "cites_id": [
+                "9027075108224681436"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geomfinder: A multi-feature identifier of similar three-dimensional protein patterns: A ligand-independent approach",
+                "pub_year": "2016",
+                "citation": "Journal of cheminformatics 8, 1-15, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8571886379910089163",
+            "cites_id": [
+                "8571886379910089163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D-PP: a tool for discovering conserved Three-Dimensional protein patterns",
+                "pub_year": "2019",
+                "citation": "International journal of molecular sciences 20 (13), 3174, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7884086493018446117",
+            "cites_id": [
+                "7884086493018446117"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new strategy for multitarget drug discovery/repositioning through the identification of similar 3D amino acid patterns among proteins structures: the case of tafluprost and \u2026",
+                "pub_year": "2022",
+                "citation": "Frontiers in pharmacology 13, 855792, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16181336931395205671",
+            "cites_id": [
+                "16181336931395205671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hidden Markov Modeling with HMMTeacher",
+                "pub_year": "2022",
+                "citation": "PLOS Computational Biology 18 (2), e1009703, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4853827072575351193",
+            "cites_id": [
+                "4853827072575351193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An information system for preventive alerting of frost episodes in the Central Region of Chile",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3548279997287452609",
+            "cites_id": [
+                "3548279997287452609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parallel algorithm for discovering and comparing three-dimensional proteins patterns",
+                "pub_year": "2024",
+                "citation": "IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A parallel approach to text data augmentation for sentiment analysis using the PoS Wise Synonym Substitution algorithm",
+                "pub_year": "2023",
+                "citation": "42nd IEEE International Conference of the Chilean Computer Science Society, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the discovery and clustering of three-dimensional protein patterns with OpenMP",
+                "pub_year": "2023",
+                "citation": "35th IEEE International Symposium on Computer Architecture and High \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D-PP: a tool for discovering conserved 3D protein patterns",
+                "pub_year": "2018",
+                "citation": "MDPI AG, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "-vvdk_AAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

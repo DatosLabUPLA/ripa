@@ -1,0 +1,989 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "GJ2j8fMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luis Miguel Villada Osorio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=GJ2j8fMAAAAJ&citpid=4",
+    "affiliation": "Department of Mathematic, University of B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "numerical analysis",
+        "finite volume methods",
+        "conservation laws",
+        "traffic flow models",
+        "polydisperse models"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "http://ciencias.ubiobio.cl/lmvillad/index.html",
+    "citedby": 464,
+    "citedby5y": 346,
+    "hindex": 14,
+    "hindex5y": 12,
+    "i10index": 16,
+    "i10index5y": 13,
+    "cites_per_year": {
+        "2012": 2,
+        "2013": 5,
+        "2014": 9,
+        "2015": 16,
+        "2016": 12,
+        "2017": 21,
+        "2018": 37,
+        "2019": 49,
+        "2020": 79,
+        "2021": 39,
+        "2022": 60,
+        "2023": 89,
+        "2024": 30
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "boIv-lAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raimund B\u00fcrger",
+            "affiliation": "Profesor Titular, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ijIHem4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "goatin paola",
+            "affiliation": "INRIA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "55vxvRgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christophe Chalons",
+            "affiliation": "Universit\u00e9 Versailles Saint-Quentin-en-Yvelines, Laboratoire de Math\u00e9matiques"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VGbJzAkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felisia Angela Chiarello",
+            "affiliation": "Research fellow, Universit\u00e0 degli Studi dell'Aquila"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vY03foMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebastiano Boscarino",
+            "affiliation": "Associate Professor of Numerical Analysis, Universit\u00e0 di Catania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OCjffucAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerardo Chowell",
+            "affiliation": "Professor of Epidemiology & Biostatistics - Georgia State University School of Public Health"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-pTfmT4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Giovanni Russo",
+            "affiliation": "Professor of Numerical Analysis, University of Catania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xEiqv_QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paulo Amorim",
+            "affiliation": "IM - UFRJ"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vokhg0YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Sep\u00falveda Cort\u00e9s",
+            "affiliation": "CI\u00b2MA & DIM, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZFTvgUoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Enrique Mej\u00eda Salazar",
+            "affiliation": "Profesor de Matem\u00e1ticas, Universidad Nacional de Colombia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pxao31oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hugo Armando Escorcia Pacheco",
+            "affiliation": "Universidad Tecnol\u00f3gica de Bol\u00edvar"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linearly implicit IMEX Runge--Kutta methods for a class of degenerate convection-diffusion problems",
+                "pub_year": "2015",
+                "citation": "SIAM Journal on Scientific Computing 37 (2), B305-B331, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:u_35RYKgDlwC",
+            "num_citations": 69,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5139389762558159835",
+            "cites_id": [
+                "5139389762558159835"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-order numerical schemes for one-dimensional nonlocal conservation laws",
+                "pub_year": "2018",
+                "citation": "SIAM Journal on Scientific Computing 40 (1), A288-A305, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:f2IySw72cVMC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10078735459340703124",
+            "cites_id": [
+                "10078735459340703124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REGULARIZED NONLINEAR SOLVERS FOR IMEX METHODS APPLIED TO DIFFUSIVELY CORRECTED MULTI-SPECIES KINEMATIC FLOW MODELS",
+                "pub_year": "2013",
+                "citation": "SIAM Journal on Scientific Computing 35 (3), B751\u2013B777, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17773987702178748042",
+            "cites_id": [
+                "17773987702178748042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian-antidiffusive remap schemes for non-local multi-class traffic flow models",
+                "pub_year": "2020",
+                "citation": "Computational and Applied Mathematics 39, 1-22, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:vRqMK49ujn8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9667061528802926571",
+            "cites_id": [
+                "9667061528802926571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of a spatio-temporal gender-structured model for hantavirus infection in rodents",
+                "pub_year": "2018",
+                "citation": "Math. Biosci. Eng 15 (1), 95-123, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:NhqRSupF_l8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13751165791549232043",
+            "cites_id": [
+                "13751165791549232043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On linearly implicit IMEX Runge-Kutta methods for degenerate convection-diffusion problems modeling polydisperse sedimentation",
+                "pub_year": "2016",
+                "citation": "Bulletin of the Brazilian Mathematical Society, New Series 47, 171-185, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:D03iK_w7-QYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12404256516213189066",
+            "cites_id": [
+                "12404256516213189066"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A reaction\u2013diffusion predator\u2013prey model with pursuit, evasion, and nonlocal sensing",
+                "pub_year": "2019",
+                "citation": "Mathematical Biosciences and Engineering 16 (5), 5114-5145, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:8AbLer7MMksC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6699590112002164515",
+            "cites_id": [
+                "6699590112002164515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A diffusively corrected multiclass Lighthill-Whitham-Richards traffic model with anticipation lengths and reaction times",
+                "pub_year": "2013",
+                "citation": "Advances in Applied Mathematics and Mechanics 5 (5), 728-758, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11618925080166301373",
+            "cites_id": [
+                "11618925080166301373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit-explicit methods for a convection-diffusion-reaction model of the propagation of forest fires",
+                "pub_year": "2020",
+                "citation": "Mathematics 8 (6), 1034, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:wbdj-CoPYUoC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1899386898234798767",
+            "cites_id": [
+                "1899386898234798767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-local pedestrian flow model accounting for anisotropic interactions and domain boundaries",
+                "pub_year": "2020",
+                "citation": "Mathematical biosciences and engineering 17 (5), 5883-5906, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:J-pR_7NvFogC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11322915252198786624",
+            "cites_id": [
+                "11322915252198786624"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of a spatio-temporal predator-prey model with infected prey",
+                "pub_year": "2019",
+                "citation": "Math. Biosci. Eng 16 (1), 438-473, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3159717950847627483",
+            "cites_id": [
+                "3159717950847627483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the spatial-temporal progression of the 2009 A/H1N1 influenza pandemic in Chile",
+                "pub_year": "2015",
+                "citation": "Mathematical Biosciences & Engineering 13 (1), 43-65, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2831716043809054340",
+            "cites_id": [
+                "2831716043809054340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antidiffusive and Random-Sampling Lagrangian-Remap Schemes for the Multiclass Lighthill--Whitham--Richards Traffic Model",
+                "pub_year": "2013",
+                "citation": "SIAM Journal on Scientific Computing 35 (6), B1341-B1368, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10327014849058301610",
+            "cites_id": [
+                "10327014849058301610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit-explicit methods for a class of nonlinear nonlocal gradient flow equations modelling collective behaviour",
+                "pub_year": "2019",
+                "citation": "Applied Numerical Mathematics 144, 234-252, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8779183538388094557",
+            "cites_id": [
+                "8779183538388094557"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antidiffusive L agrangian\u2010remap schemes for models of polydisperse sedimentation",
+                "pub_year": "2016",
+                "citation": "Numerical Methods for Partial Differential Equations 32 (4), 1109-1136, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:yD5IFk8b50cC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8110707888938505595",
+            "cites_id": [
+                "8110707888938505595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral WENO schemes with Adaptive Mesh Refinement for models of polydisperse sedimentation",
+                "pub_year": "2013",
+                "citation": "ZAMM\u2010Journal of Applied Mathematics and Mechanics/Zeitschrift f\u00fcr Angewandte \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8276142766883572226",
+            "cites_id": [
+                "8276142766883572226"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Hilliges-Weidlich-type scheme for a one-dimensional scalar conservation law with nonlocal flux.",
+                "pub_year": "2023",
+                "citation": "Networks & Heterogeneous Media 18 (2), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:Y5dfb0dijaUC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16462243397058983939",
+            "cites_id": [
+                "16462243397058983939"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-order Finite Volume WENO schemes for non-local multi-class traffic flow models",
+                "pub_year": "2018",
+                "citation": "Hyperbolic Problems: Theory, Numerics, Applications. Proceedings of the XVII \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:geHnlv5EZngC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4616960806870977182",
+            "cites_id": [
+                "4616960806870977182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlocal reaction traffic flow model with on-off ramps",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2109.04141, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:HE397vMXCloC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459326930039423041",
+            "cites_id": [
+                "9459326930039423041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit\u2013explicit schemes for nonlinear nonlocal equations with a gradient flow structure in one space dimension",
+                "pub_year": "2019",
+                "citation": "Numerical Methods for Partial Differential Equations 35 (3), 1008-1034, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:sSrBHYA8nusC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15099954697619789723",
+            "cites_id": [
+                "15099954697619789723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On existence of entropy solutions for 1D nonlocal conservation laws with space discontinuous flux",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2103.13362, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:olpn-zPbct0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1854981404084016338",
+            "cites_id": [
+                "1854981404084016338"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring a convection\u2013diffusion\u2013reaction model of the propagation of forest fires: computation of risk maps for heterogeneous environments",
+                "pub_year": "2020",
+                "citation": "Mathematics 8 (10), 1674, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:bnK-pcrLprsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3950183282167042986",
+            "cites_id": [
+                "3950183282167042986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uso de un software como propuesta metodol\u00f3gica para la ensenanza de ecuaciones diferenciales",
+                "pub_year": "2006",
+                "citation": "Lecturas matem\u00e1ticas 27 (3), 361-369, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14765087391813286116",
+            "cites_id": [
+                "14765087391813286116"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence of entropy weak solutions for 1D non-local traffic models with space-discontinuous flux",
+                "pub_year": "2023",
+                "citation": "Journal of Engineering Mathematics 141 (1), 9, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:JoZmwDi-zQgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=683513814979058915",
+            "cites_id": [
+                "683513814979058915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multiclass Lighthill-Whitham-Richards traffic model with a discontinuous velocity function",
+                "pub_year": "2021",
+                "citation": "Networks and Heterogeneous Media 16 (2), 187-219, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:XiVPGOgt02cC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3916852877671551901",
+            "cites_id": [
+                "3916852877671551901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Methods for Partial Differential Equations",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:kzcrU_BdoSEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=796851078073996453",
+            "cites_id": [
+                "796851078073996453"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global existence in a food chain model consisting of two competitive preys, one predator and chemotaxis",
+                "pub_year": "2023",
+                "citation": "Nonlinear Analysis: Real World Applications 69, 103703, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:WA5NYHcadZ8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3158081685146929409",
+            "cites_id": [
+                "3158081685146929409"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlocal macroscopic models of multi-population pedestrian flows for walking facilities optimization",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:SdhP9T11ey4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=281207041476824209",
+            "cites_id": [
+                "281207041476824209"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical analysis of a three-species chemotaxis model",
+                "pub_year": "2020",
+                "citation": "Computers & Mathematics with Applications 80 (1), 183-203, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3955813239961422746",
+            "cites_id": [
+                "3955813239961422746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical comparison of nonlocal macroscopic models of multi-population pedestrian flows with anisotropic kernel",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:eMMeJKvmdy0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5153617247872836755",
+            "cites_id": [
+                "5153617247872836755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence of Traveling Waves of a Diffusive Susceptible\u2013Infected\u2013Symptomatic\u2013Recovered Epidemic Model with Temporal Delay",
+                "pub_year": "2024",
+                "citation": "Mathematics 12 (5), 710, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:JQOojiI6XY0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-lane bidirectional nonlocal traffic model",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:W5xh706n7nkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Well-posedness and numerical analysis of an elapsed time model with strongly coupled neural networks",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.02068, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A cheap and easy-to-implement upwind scheme for second order traffic flow models",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:AXPGKjj_ei8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlocal reaction traffic flow model with on-off ramps",
+                "pub_year": "2022",
+                "citation": "M\u00e1laga, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:5awf1xo2G04C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-local pedestrian flow model accounting for anisotropic interactions and domain boundaries",
+                "pub_year": "2020",
+                "citation": "MATHEMATICAL BIOSCIENCES AND ENGINEERING 17 (5), 5883-5906, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:tzM49s52ZIMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-order finite-difference WENO schemes for models of crowd dynamics I",
+                "pub_year": "2019",
+                "citation": "XXII Simposio Internacional de M\u00e9todos Matem\u00e1ticos Aplicados a las Ciencias \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lagrangian-Antidiffusive Remap schemes for non-local multi-class tra\ufb00ic flow models",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-order numerical schemes for one-dimensional",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:uLbwQdceFCQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On second-order antidiffusive Lagrangian-remap schemes for multispecies kinematic flow models",
+                "pub_year": "2016",
+                "citation": "Bulletin of the Brazilian Mathematical Society, New Series 47, 187-200, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:a0OBvERweLwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implicit-explicit Runge-Kutta methods for polydisperse sedimentation models with compression",
+                "pub_year": "2015",
+                "citation": "Proceedings of the XXIV Congress on Differential Equations and Applications \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:PR6Y55bgFSsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADAPTIVE MESH REFINEMENT FOR SPECTRAL WENO SCHEMES FOR EFFICIENT SIMULATION OF POLYDISPERSE SEDIMENTATION PROCESSES",
+                "pub_year": "2012",
+                "citation": "Hyperbolic Problems: Theory, Numerics, Applications, 381, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spectral WENO schemes with Adaptive Mesh Refinement for models of polydisperse sedimentation",
+                "pub_year": "2011",
+                "citation": "Zeitschrift f\u00fcr Angewandte Mathematik und Mechanik, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:LPZeul_q3PIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIGH ORDER NUMERICAL SCHEMES FOR ONE-DIMENSIONAL NON-LOCAL CONSERVATION LAWS",
+                "pub_year": "2011",
+                "citation": "Universidad de Concepci\u00f3n, July 10, 2017 Auditorio Alamiro Robledo, Facultad \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:D_sINldO8mEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:ZfRJV9d4-WMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Order numerical schemes for nonlocal macroscopic models of multi-population pedestrian flows.",
+                "citation": "BOOK OF, 143, 0"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:hkOj_22Ku90C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Front tracking and parameter identification for a conservation law with a space-dependent coefficient modeling granular segregation",
+                "citation": "BOOK OF, 187, 0"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:1yQoGdGgb4wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steady states of a continuous model describing countercurrent decantation",
+                "citation": "BOOK OF, 185, 0"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:ZuybSZzF8UAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MATHEMATICAL AND NUMERICAL ANALYSIS OF CONSERVATION LAWS WITH CONTINUOUS AND DISCONTINUOUS NONLOCAL FLUXES.",
+                "citation": "BOOK OF, 139, 0"
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:VL0QpB8kHFEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A nonlocal macroscopic model of multi-population pedestrian flows with anisotropic kernel. Authors: Paola Goatin, Daniel",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical simulation of forest fires by IMEX methods",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:1qzjygNMrQYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:kRWSkSYxWN8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:q3oQSFYPqjQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:BrmTIyaxlBUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Centro de Investigaci\u00f3n en Ingenier\u0131a Matem\u00e1tica (CI 2 MA)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of some models for hantavirus infection in rodents with PDE involving non-local convection",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Patterns formation in a predator-prey system with quadratic mortality in habitat complexity",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AN IMEX-RK SCHEMES FOR NONLOCAL EQUATIONS WITH A GRADIENT FLOW STRUCTURE IN 1D",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A FINITE VOLUME SCHEME FOR A PARABOLIC-ELLIPTIC PROBLEM",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HIGH ORDER FINITE-VOLUME WENO SCHEMES FOR NON-LOCAL TRAFFIC FLOW MODELS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SOBRE LEYES DE CONSERVACION Y M\u00c9TODO DE VOLUMENES FINITOS.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Valpara\u00edso Num\u00e9rico IV",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "GJ2j8fMAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 15,
+        "not_available": 1
+    }
+}

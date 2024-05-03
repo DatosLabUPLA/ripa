@@ -1,0 +1,93 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "IK7dht8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "\u00cdtalo Torres Gonz\u00e1lez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IK7dht8AAAAJ&citpid=5",
+    "affiliation": "Universidad Cat\u00f3lica del Maule",
+    "organization": 12968600147058256171,
+    "interests": [
+        "Neural nets",
+        "Pattern Recognition"
+    ],
+    "email_domain": "@alu.ucm.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9mymlwgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Barr\u00eda Valdebenito",
+            "affiliation": "Ing. Civil Electr\u00f3nico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "q4atNYgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Mora Cofre",
+            "affiliation": "Laboratory of Technological Research in Pattern Recognition (LITRP), Universidad Cat\u00f3lica del Maule"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast tuning of extreme learning machine neural networks based with simple optimization algorithms",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IK7dht8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2391729266564067698",
+            "cites_id": [
+                "2391729266564067698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wine Quality Classification using Physicochemical Properties along with Extreme Learning Machines",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "IK7dht8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new fast training algorithm for autoencoder neural networks based on extreme learning machine",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "IK7dht8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

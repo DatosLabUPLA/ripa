@@ -1,0 +1,731 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QbGsLIYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Monica Caniupan",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QbGsLIYAAAAJ&citpid=4",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Databases",
+        "data analytics",
+        "data cleaning",
+        "compact data structures",
+        "logic programming"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "homepage": "https://dsi.face.ubiobio.cl/mcaniupan/",
+    "citedby": 311,
+    "citedby5y": 97,
+    "hindex": 10,
+    "hindex5y": 6,
+    "i10index": 10,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2006": 4,
+        "2007": 9,
+        "2008": 2,
+        "2009": 6,
+        "2010": 12,
+        "2011": 31,
+        "2012": 15,
+        "2013": 38,
+        "2014": 21,
+        "2015": 15,
+        "2016": 11,
+        "2017": 23,
+        "2018": 26,
+        "2019": 16,
+        "2020": 13,
+        "2021": 19,
+        "2022": 16,
+        "2023": 25,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TeBUgNcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leopoldo Bertossi",
+            "affiliation": "Prof. of Computer Science, Carleton University, Ottawa, Canada"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VQ8kZ6IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Loreto Bravo",
+            "affiliation": "Directora, Instituto Data Science, Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZY5jURMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gilberto Guti\u00e9rrez",
+            "affiliation": "Computer Science, Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wSkYQKsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M. Andrea Rodriguez",
+            "affiliation": "Computer Science, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SpM8IFkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Hurtado Larrain",
+            "affiliation": "CTO Microsytem"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NF4oLaoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elizabeth Eliana Grand\u00f3n Toledo",
+            "affiliation": "Universidad del Bio-Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RRPj8DYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Torres-Avil\u00e9s",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QT-7mosAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vaisman Alejandro Ariel",
+            "affiliation": "Instituto Tecnol\u00f3gico de Buenos Aires"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M4GYTUAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raul Arredondo Flores",
+            "affiliation": "Associate Professor, Universidad de Los Lagos"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q39Sx1MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tatiana Gutierrez-Bunster",
+            "affiliation": "Universidad del Bio Bio"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RpdN-7kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luis Cabrera-Crot",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "93yYHSMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Manuel Ramirez",
+            "affiliation": "Colorectal Surgeon, University Hospital, Zaragoza, Spain"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The consistency extractor system: Answer set programs for consistent query answering in databases",
+                "pub_year": "2010",
+                "citation": "Data & Knowledge Engineering 69 (6), 545-572, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11143960485607231565",
+            "cites_id": [
+                "11143960485607231565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Consistent Query Answering in Data Warehouses.",
+                "pub_year": "2009",
+                "citation": "AMW 450, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15608557747237254824",
+            "cites_id": [
+                "15608557747237254824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Repairing inconsistent dimensions in data warehouses",
+                "pub_year": "2012",
+                "citation": "Data & Knowledge Engineering 79, 17-39, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10145314729214957834",
+            "cites_id": [
+                "10145314729214957834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing repair programs for consistent query answering",
+                "pub_year": "2005",
+                "citation": "XXV International Conference of the Chilean Computer Science Society (SCCC \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13376018741515314575",
+            "cites_id": [
+                "13376018741515314575"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The consistency extractor system: Querying inconsistent databases using answer set programs",
+                "pub_year": "2007",
+                "citation": "International Conference on Scalable Uncertainty Management, 74-88, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11061969290913194945",
+            "cites_id": [
+                "11061969290913194945"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Consistent query answering under spatial semantic constraints",
+                "pub_year": "2013",
+                "citation": "Information Systems 38 (2), 244-263, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=439823412398717603",
+            "cites_id": [
+                "439823412398717603"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Consistent query answering under spatial semantic constraints",
+                "pub_year": "2013",
+                "citation": "Information Systems 38 (2), 244-263, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=439823412398717603",
+            "cites_id": [
+                "439823412398717603"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing and implementing repair programs for consistent query answering in databases",
+                "pub_year": "2007",
+                "citation": "Carleton University, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5131241147876756278",
+            "cites_id": [
+                "5131241147876756278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Repairing dimension hierarchies under inconsistent reclassification",
+                "pub_year": "2011",
+                "citation": "International Conference on Conceptual Modeling, 75-85, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13308230241613082996",
+            "cites_id": [
+                "13308230241613082996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Logic Programs for Repairing Inconsistent Dimensions in Data Warehouses.",
+                "pub_year": "2010",
+                "citation": "AMW 619, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4869652612106532025",
+            "cites_id": [
+                "4869652612106532025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An inconsistency tolerant approach to querying spatial databases",
+                "pub_year": "2008",
+                "citation": "Proceedings of the 16th ACM SIGSPATIAL international conference on Advances \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8480614063719364612",
+            "cites_id": [
+                "8480614063719364612"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative analysis of prediction techniques to determine student dropout: logistic regression vs decision trees",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:4TOpqqG69KYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4748422511818317662",
+            "cites_id": [
+                "4748422511818317662"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data type and data sources for agricultural big data and machine learning",
+                "pub_year": "2022",
+                "citation": "Sustainability 14 (23), 16131, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3275257339084689015",
+            "cites_id": [
+                "3275257339084689015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compact data structures to represent and query data warehouses into main memory",
+                "pub_year": "2018",
+                "citation": "IEEE Latin America Transactions 16 (9), 2328-2335, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14817931997346495708",
+            "cites_id": [
+                "14817931997346495708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient repair of dimension hierarchies under inconsistent reclassification",
+                "pub_year": "2015",
+                "citation": "Data & Knowledge Engineering 95, 1-22, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16984425580550118265",
+            "cites_id": [
+                "16984425580550118265"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis comparativo de t\u00e9cnicas de predicci\u00f3n para determinar la deserci\u00f3n estudiantil: Regresi\u00f3n log\u00edstica vs \u00e1rboles de decisi\u00f3n",
+                "pub_year": "2013",
+                "citation": "Arquitectura 2014, 2015, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12275106599160435291",
+            "cites_id": [
+                "12275106599160435291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K2-treaps to represent and query data warehouses into main memory",
+                "pub_year": "2017",
+                "citation": "2017 36th International Conference of the Chilean Computer Science Society \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14341545732016488210",
+            "cites_id": [
+                "14341545732016488210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient computation of the convex hull on sets of points stored in a k-tree compact data structure",
+                "pub_year": "2020",
+                "citation": "Knowledge and Information Systems 62 (10), 4091-4111, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:aqlVkmm33-oC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=698221102944910865",
+            "cites_id": [
+                "698221102944910865"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handling inconsistencies in data warehouses",
+                "pub_year": "2004",
+                "citation": "International Conference on Extending Database Technology, 166-176, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1155365287633808864",
+            "cites_id": [
+                "1155365287633808864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended dimensions for cleaning and querying inconsistent data warehouses",
+                "pub_year": "2013",
+                "citation": "Proceedings of the sixteenth international workshop on Data warehousing and \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1350922236579418923",
+            "cites_id": [
+                "1350922236579418923"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient computation of map algebra over raster data stored in the k2-acc compact data structure",
+                "pub_year": "2022",
+                "citation": "GeoInformatica 26 (1), 95-123, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11085349541318635714",
+            "cites_id": [
+                "11085349541318635714"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient computation of spatial queries over points stored in k2-tree compact data structures",
+                "pub_year": "2021",
+                "citation": "Theoretical Computer Science 892, 108-131, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4859815672503713561",
+            "cites_id": [
+                "4859815672503713561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extending the cmhd compact data structure to compute aggregations over data warehouses",
+                "pub_year": "2018",
+                "citation": "2018 37th International Conference of the Chilean Computer Science Society \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:_kc_bZDykSQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3932092762333073529",
+            "cites_id": [
+                "3932092762333073529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La arquitectura",
+                "pub_year": "2013",
+                "citation": "La catedral de Ourense, 80-85, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17173756469755867346",
+            "cites_id": [
+                "17173756469755867346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trajectory Patterns Based on Segment-Cutting Clustering.",
+                "pub_year": "2019",
+                "citation": "AMW, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18378768674224951586",
+            "cites_id": [
+                "18378768674224951586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data Warehouse Fixer: Fixing Inconsistencies in Data Warehouses",
+                "pub_year": "2011",
+                "citation": "2011 30th International Conference of the Chilean Computer Science Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8686707633714906633",
+            "cites_id": [
+                "8686707633714906633"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "cKd-tree: a Compact Kd-tree",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Facultad de Ciencias Empresariales Departamento de Sistemas de Informaci\u00f3n",
+                "pub_year": "2023",
+                "citation": "Universidad del B\u00edo-B\u00edo, Chile, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Map algebra algorithms over raster data stored in the k2-raster compact data structure",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CQA-WF: Consistent Query Answers to Conjunctive Queries using the Well-Founded Semantics",
+                "pub_year": "2011",
+                "citation": "2011 30th International Conference of the Chilean Computer Science Society \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of the perception of security at the concepci\u00f3n campus of Universidad del B\u00edo-B\u00edo",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos de Machine Learning para Generar una Base de Datos de Complejos Prote\u0131na-Prote\u0131na con Estructura Tridimensional desde Textos Biol\u00f3gicos",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos Polinomiales para Computar Respuestas Aproximadas a Consultas desde Data Warehouses Inconsistentes",
+                "citation": "Universidad de Concepci\u00f3n, Chile 2013, 0"
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient Algorithms for Repairing Inconsistent Dimensions in Data Warehouses",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Handling Inconsistencies in Data Warehouses with Extended Dimensions",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Answer Sets Programs for Querying Inconsistent Databases: The Consistency Extractor System",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing Repair Programs and their Evaluation for Consistent Query Answering",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing Repair Programs and their Evaluation for Consistent Query Answering in Databases",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CQA-WF: Respuestas Consistentes a Consultas Conjuntivas a trav\u00e9s de la Sem\u00e1ntica Well-Founded",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "XXV International Conference of the Chilean Computer Science Society\u2014SCCC 2005",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QbGsLIYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

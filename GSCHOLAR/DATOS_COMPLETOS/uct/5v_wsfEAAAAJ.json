@@ -1,0 +1,177 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "5v_wsfEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andr\u00e9s Contreras Tav\u00e1rez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5v_wsfEAAAAJ&citpid=2",
+    "affiliation": "Departamento de Ciencias Matem\u00e1ticas y F\u00edsicas Universidad Cat\u00f3lica de Temuco",
+    "organization": 12740943834737827853,
+    "interests": [
+        "Convex Analysis",
+        "Continuous Optimization",
+        "Variational Analysis",
+        "Optimization Algorithms"
+    ],
+    "email_domain": "@uct.cl",
+    "homepage": "https://matematicasyfisicas.uct.cl/academicos/",
+    "citedby": 112,
+    "citedby5y": 109,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 12,
+        "2021": 19,
+        "2022": 24,
+        "2023": 37,
+        "2024": 16
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mfBA5f8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Laurent Condat",
+            "affiliation": "Senior Research Scientist, King Abdullah University of Science and Technology (KAUST), Saudi Arabia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6irMIMYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Peypouquet",
+            "affiliation": "Professor of Optimization, University of Groningen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal splitting algorithms for convex optimization: A tour of recent advances, with new twists",
+                "pub_year": "2023",
+                "citation": "SIAM Review 65 (2), 375-435, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17534223070736464545",
+            "cites_id": [
+                "17534223070736464545"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal splitting algorithms: Relax them all",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1912.00137, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10422085499233845358",
+            "cites_id": [
+                "10422085499233845358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal Splitting Algorithms: Overrelax them all!",
+                "pub_year": "2019",
+                "citation": "arXiv, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:_kc_bZDykSQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15878342786363765993",
+            "cites_id": [
+                "15878342786363765993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic equivalence of evolution equations governed by cocoercive operators and their forward discretizations",
+                "pub_year": "2019",
+                "citation": "Journal of Optimization Theory and Applications 182, 30-48, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6986835855385123292",
+            "cites_id": [
+                "6986835855385123292"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forward-backward approximation of evolution equations in finite and infinite horizon",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1912.06225, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12870426694819500881",
+            "cites_id": [
+                "12870426694819500881"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential inclusions and optimization algorithms of forward-backward type",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic Equivalence of Evolution Equations Governed by Cocoercive Operators",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotic equivalence of evolution equations governed by monotone operators with some structure and their discretizations",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "5v_wsfEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

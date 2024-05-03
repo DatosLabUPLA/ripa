@@ -1,0 +1,257 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "8uzNMJ8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nitesh Verma",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8uzNMJ8AAAAJ&citpid=3",
+    "affiliation": "Postdoctoral fellow, Centro de Modelamiento Matem\u00e1tico & Universidad del Bio-Bio, Concepcion, Chile",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Computational mathematics",
+        "Numerical analysis",
+        "Scientific computing",
+        "Virtual element methods",
+        "Finite"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 64,
+    "citedby5y": 64,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 10,
+        "2022": 30,
+        "2023": 14,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X2d-6CEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Ruiz Baier",
+            "affiliation": "School of Mathematics, Monash University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z8ByKSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Mora",
+            "affiliation": "Universidad del B\u00edo-B\u00edo, Concepci\u00f3n, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kpIVt8UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bryan G\u00f3mez-Vargas",
+            "affiliation": "Universidad de Costa Rica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "boIv-lAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raimund B\u00fcrger",
+            "affiliation": "Profesor Titular, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hOg2xqgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rekha Khot",
+            "affiliation": "Post-doctoral research fellow, School of Mathematics, Monash University Clayton Campus"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_S1mc7kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Neela Nataraj",
+            "affiliation": "Department of Mathematics, IIT Bombay"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AqPbSBEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dr. Sarvesh Kumar",
+            "affiliation": "IIST"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual element methods for the three-field formulation of time-dependent linear poroelasticity",
+                "pub_year": "2021",
+                "citation": "Advances in Computational Mathematics 47 (1), 1-37, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14081661535131862594",
+            "cites_id": [
+                "14081661535131862594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability analysis for a new model of multi-species convection-diffusion-reaction in poroelastic tissue",
+                "pub_year": "2020",
+                "citation": "Applied Mathematical Modelling 84, 425-446, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18095486847458073547",
+            "cites_id": [
+                "18095486847458073547"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Well-posedness and discrete analysis for advection-diffusion-reaction in poroelastic media",
+                "pub_year": "2022",
+                "citation": "Applicable Analysis 101 (14), 4914-4941, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3868146995997927750",
+            "cites_id": [
+                "3868146995997927750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lowest order virtual element approximations for transient Stokes problem on polygonal meshes",
+                "pub_year": "2021",
+                "citation": "Calcolo 58, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3954641900702829155",
+            "cites_id": [
+                "3954641900702829155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual element approximations for non-stationary Navier\u2013Stokes equations on polygonal meshes",
+                "pub_year": "2022",
+                "citation": "J. Appl. Anal. Comput, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11628445331768992588",
+            "cites_id": [
+                "11628445331768992588"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual element approximations for two species model of the Advection-Diffusion-Reaction in poroelastic media",
+                "pub_year": "2022",
+                "citation": "Mathematical Modelling and Analysis 27 (4), 668\u2013690-668\u2013690, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1857689724461914057",
+            "cites_id": [
+                "1857689724461914057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical solution of the Biot/elasticity interface problem using virtual element methods",
+                "pub_year": "2024",
+                "citation": "Journal of Scientific Computing 98 (3), 53, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conforming VEM for general second-order elliptic problems with rough data on polygonal meshes and its application to a Poisson inverse source problem",
+                "pub_year": "2023",
+                "citation": "Arxiv, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conforming VEM for general second-order elliptic problems with rough data on polygonal meshes and its application to a Poisson inverse source problem",
+                "pub_year": "2023",
+                "citation": "Mathematical Models and Methods in Applied Sciences, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lowest Order Virtual Element Approximations for Unsteady Fluid Flow Problems",
+                "pub_year": "2022",
+                "citation": "Indian Institute of Space Science and Technology Thiruvananthapuram, India \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Virtual element approximations for the poroelasticity/elasticity interface problem on polygonal meshes",
+                "citation": "BOOK OF, 28, 0"
+            },
+            "filled": false,
+            "author_pub_id": "8uzNMJ8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 1
+    }
+}

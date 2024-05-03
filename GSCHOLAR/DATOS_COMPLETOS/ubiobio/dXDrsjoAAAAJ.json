@@ -1,0 +1,99 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "dXDrsjoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Eric Melillanca Torres",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dXDrsjoAAAAJ&citpid=2",
+    "affiliation": "Universidad del Bio-Bio",
+    "organization": 8365100606562762008,
+    "interests": [
+        "data science",
+        "innovation",
+        "machine learning",
+        "entrepreneurship",
+        "ventures"
+    ],
+    "email_domain": "@ubiobio.cl",
+    "citedby": 4,
+    "citedby5y": 0,
+    "hindex": 1,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2017": 3,
+        "2018": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hBkrg70AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Germ\u00e1n Poo-Caama\u00f1o",
+            "affiliation": "University of Victoria.  GNOME."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LQ5j80QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Forcael",
+            "affiliation": "Professor, Universidad San Sebasti\u00e1n, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizaci\u00f3n de portafolios accionarios a trav\u00e9s de un micro algoritmo gen\u00e9tico",
+                "pub_year": "2014",
+                "citation": "Industrial Data 10 (2), 012-020, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "dXDrsjoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3594889371411207876",
+            "cites_id": [
+                "3594889371411207876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of Key Factors in the Sustainable Growth of Small and Medium-Sized Enterprises Belonging to the First Nations",
+                "pub_year": "2023",
+                "citation": "Sustainability 15 (11), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dXDrsjoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PORTFOLIO OPTIMIZATION USING A MICRO GENETIC ALGORITHM",
+                "pub_year": "2007",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dXDrsjoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

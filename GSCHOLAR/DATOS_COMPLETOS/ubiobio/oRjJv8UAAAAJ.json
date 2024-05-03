@@ -1,0 +1,76 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oRjJv8UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo David Henriquez Gonzalez",
+    "affiliation": "Universidad del B\u00edo-B\u00edo",
+    "organization": 8365100606562762008,
+    "interests": [
+        "Eficiencia energ\u00e9tica",
+        "Automatizaci\u00f3n"
+    ],
+    "email_domain": "@egresados.ubiobio.cl",
+    "citedby": 9,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 2,
+        "2019": 3,
+        "2020": 0,
+        "2021": 1,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control for power converters injecting the maximum power from PV arrays",
+                "pub_year": "2016",
+                "citation": "IEEE Conference Publications, 1 - 6, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "oRjJv8UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722201964120271583",
+            "cites_id": [
+                "13722201964120271583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison between maximum power point tracking algorithms for dc/dc power converters",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "oRjJv8UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13373560824206851714",
+            "cites_id": [
+                "13373560824206851714"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
