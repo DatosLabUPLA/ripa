@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "eXKDpHYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gabriel Vera S\u00e1nchez",
+    "affiliation": "Estudiante de Doctorado, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Cronobiology",
+        "microbiology",
+        "fungal genomics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 3,
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Template Plasmids pCyaA\u2019-Kan and pCyaA\u2019-Cam for Generation of Unmarked Chromosomal cyaA\u2019 Translational Fusion to T3SS Effectors in Salmonella",
+                "pub_year": "2021",
+                "citation": "Microorganisms 9 (3), 475, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "eXKDpHYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17504545693955723314",
+            "cites_id": [
+                "17504545693955723314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coli Surface Antigen 26 Acts as an Adherence Determinant of Enterotoxigenic Escherichia coli and Is Cross-Recognized by Anti-CS20 Antibodies",
+                "pub_year": "2018",
+                "citation": "Frontiers in microbiology 9, 2463, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "eXKDpHYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12435494912033323738",
+            "cites_id": [
+                "12435494912033323738"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

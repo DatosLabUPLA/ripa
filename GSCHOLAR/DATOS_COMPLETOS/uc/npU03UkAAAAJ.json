@@ -1,0 +1,86 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "npU03UkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Herrera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=npU03UkAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Finite Element Methods",
+        "DPG methods",
+        "Minimum residual methods"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "homepage": "https://pcherrera.github.io/",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WZD9rDgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Norbert Heuer",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z7vx73QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thomas F\u00fchrer",
+            "affiliation": "Facultad de Matem\u00e1ticas Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DPG methods for a fourth-order div problem",
+                "pub_year": "2022",
+                "citation": "Computational Methods in Applied Mathematics 22 (3), 545-562, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "npU03UkAAAAJ:abG-DnoFyZgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13152594356046779063",
+            "cites_id": [
+                "13152594356046779063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for the quad-curl problem",
+                "pub_year": "2023",
+                "citation": "Computers & Mathematics with Applications 149, 221-238, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "npU03UkAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

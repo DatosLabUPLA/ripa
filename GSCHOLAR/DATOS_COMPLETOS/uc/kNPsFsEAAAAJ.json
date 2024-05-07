@@ -1,0 +1,96 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "kNPsFsEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilo Morales",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kNPsFsEAAAAJ&citpid=1",
+    "affiliation": "Part-Time Lecturer, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Geotechnical earthquake engineering"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 3,
+        "2023": 2,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XqqJ84gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Ledezma",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_KVZ8oMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kyle M Rollins",
+            "affiliation": "Professor of Civil & Construction Engineering, Brigham Young University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Seismic failure of an old pier during the 2014 Mw8.2, Pisagua, Chile earthquake",
+                "pub_year": "2020",
+                "citation": "Earthquake Spectra 36 (2), 880-903, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "kNPsFsEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11743122511583809984",
+            "cites_id": [
+                "11743122511583809984"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simplified Evaluation of the Seismic Failure of an Old Wharf during the 2014 Mw 8.2 Pisagua, Chile, Earthquake",
+                "pub_year": "2018",
+                "citation": "Geotechnical Earthquake Engineering and Soil Dynamics V: Liquefaction \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "kNPsFsEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Falla s\u00edsmica del muelle del puerto de Iquique: Estudio de campo y observaciones principales",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "kNPsFsEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DVIbwogAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alison Fernandez Blanco",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DVIbwogAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Software visualization",
+        "Software Performance",
+        "Testing",
+        "Software Evolution"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://balison.github.io/",
+    "citedby": 49,
+    "citedby5y": 49,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 7,
+        "2021": 6,
+        "2022": 14,
+        "2023": 13,
+        "2024": 7
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hXSNrdcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Pablo Sandoval Alcocer",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5pG4GQ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexandre Bergel",
+            "affiliation": "Professor of Computer Science, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7fHNqtoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "St\u00e9phane Ducasse",
+            "affiliation": "INRIA Research Director"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6aPA3icAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Infante",
+            "affiliation": "University of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deviation testing: A test case generation technique for GraphQL APIs",
+                "pub_year": "2018",
+                "citation": "11th International Workshop on Smalltalk Technologies (IWST), 1-9, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12403218272689092728",
+            "cites_id": [
+                "12403218272689092728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective Visualization of Object Allocation Sites",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Working Conference on Software Visualization (VISSOFT), 43-53, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938073227792303582",
+            "cites_id": [
+                "15938073227792303582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Software Visualizations to Analyze Memory Consumption: A Literature Review",
+                "pub_year": "2022",
+                "citation": "ACM Computing Surveys (CSUR) 55 (1), 1-34, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10379063862189577358",
+            "cites_id": [
+                "10379063862189577358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A domain-specific language to visualize software evolution",
+                "pub_year": "2018",
+                "citation": "Information and Software Technology 98, 118-130, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2526918895819965255",
+            "cites_id": [
+                "2526918895819965255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visualizing Memory Consumption with Vismep",
+                "pub_year": "2022",
+                "citation": "2022 Working Conference on Software Visualization (VISSOFT), 108-118, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:GnPB-g6toBAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3184738399482558666",
+            "cites_id": [
+                "3184738399482558666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DGT-AR: Visualizing Code Dependencies in AR",
+                "pub_year": "2023",
+                "citation": "2023 IEEE Working Conference on Software Visualization (VISSOFT), 95-99, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15582597533901938048",
+            "cites_id": [
+                "15582597533901938048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A manual categorization of new quality issues on automatically-generated tests",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Conference on Software Maintenance and Evolution \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:RGFaLdJalmkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3732738976625291044",
+            "cites_id": [
+                "3732738976625291044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asking and Answering Questions During Memory Profiling",
+                "pub_year": "2024",
+                "citation": "IEEE Transactions on Software Engineering, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An empirical study of Mobile Code Offloading in Unpredictable Environments",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SmallEvoTest: Genetically Created Unit Tests for Smalltalk",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical foundation for memory usage analysis through software visualizations",
+                "pub_year": "2023",
+                "citation": "Universidad de Chile, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing dynamic information with spy and roassal: an experience report",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 1st International Workshop on Software Analytics (SWAN), 31-34, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:NaGl4SEjCO4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2020 Program Committee",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DVIbwogAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

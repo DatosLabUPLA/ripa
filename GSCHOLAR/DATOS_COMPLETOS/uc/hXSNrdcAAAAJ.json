@@ -1,0 +1,888 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "hXSNrdcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pablo Sandoval Alcocer",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hXSNrdcAAAAJ&citpid=4",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Dynamic Analysis",
+        "Programing languages",
+        "Software engineering",
+        "Software Evolution",
+        "Empirical Software Engineering"
+    ],
+    "email_domain": "@ing.puc.cl",
+    "homepage": "https://jpsandoval.github.io/",
+    "citedby": 295,
+    "citedby5y": 233,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2013": 2,
+        "2014": 7,
+        "2015": 7,
+        "2016": 12,
+        "2017": 12,
+        "2018": 17,
+        "2019": 32,
+        "2020": 37,
+        "2021": 41,
+        "2022": 53,
+        "2023": 57,
+        "2024": 13
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5pG4GQ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexandre Bergel",
+            "affiliation": "Professor of Computer Science, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DVIbwogAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alison Fernandez Blanco",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7fHNqtoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "St\u00e9phane Ducasse",
+            "affiliation": "INRIA Research Director"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uVa--40AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcus Denker",
+            "affiliation": "Researcher, INRIA Lille"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "B-gARo8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabian Beck",
+            "affiliation": "Professor for Information Visualization, University of Bamberg, Germany"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0vFkqMIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Tulio Valente",
+            "affiliation": "Associate Professor of Computer Science, UFMG"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6aPA3icAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Infante",
+            "affiliation": "University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HOWCJPMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Elias Costa",
+            "affiliation": "Assistant Professor, Concordia University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vTiGNA8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tudor Girba",
+            "affiliation": "tudorgirba.com"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning from source code history to identify performance failures",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 7th ACM/SPEC on International Conference on Performance \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17922144455748799025",
+            "cites_id": [
+                "17922144455748799025"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance evolution blueprint: Understanding the impact of software evolution on performance",
+                "pub_year": "2013",
+                "citation": "2013 First IEEE Working Conference on Software Visualization (VISSOFT), 1-9, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18119139336891342250",
+            "cites_id": [
+                "18119139336891342250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking down performance variation against source code evolution",
+                "pub_year": "2015",
+                "citation": "ACM SIGPLAN Notices 51 (2), 129-139, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16789415532397338320",
+            "cites_id": [
+                "16789415532397338320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance evolution matrix: Visualizing performance variations along software versions",
+                "pub_year": "2019",
+                "citation": "2019 Working conference on software visualization (VISSOFT), 1-11, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:8k81kl-MbHgC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5918775551497403172",
+            "cites_id": [
+                "5918775551497403172"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deviation testing: A test case generation technique for graphql apis",
+                "pub_year": "2018",
+                "citation": "11th International Workshop on Smalltalk Technologies (IWST), 1-9, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:5nxA0vEk-isC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12403218272689092728",
+            "cites_id": [
+                "12403218272689092728"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing commit graphs with visual runtime clues",
+                "pub_year": "2019",
+                "citation": "2019 Working conference on software visualization (VISSOFT), 28-32, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1567293145925984352",
+            "cites_id": [
+                "1567293145925984352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective visualization of object allocation sites",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Working Conference on Software Visualization (VISSOFT), 43-53, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:0EnyYjriUFMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938073227792303582",
+            "cites_id": [
+                "15938073227792303582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the success rate of applying the extract method refactoring",
+                "pub_year": "2020",
+                "citation": "Science of Computer Programming 195, 102475, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:Zph67rFs4hoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4037299916526094651",
+            "cites_id": [
+                "4037299916526094651"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prioritizing versions for performance regression testing: the pharo case",
+                "pub_year": "2020",
+                "citation": "Science of Computer Programming 191, 102415, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9204919775660452623",
+            "cites_id": [
+                "9204919775660452623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Software visualizations to analyze memory consumption: A literature review",
+                "pub_year": "2022",
+                "citation": "ACM Computing Surveys (CSUR) 55 (1), 1-34, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:dhFuZR0502QC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10379063862189577358",
+            "cites_id": [
+                "10379063862189577358"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing resource consumption of expandable collections: The pharo case",
+                "pub_year": "2018",
+                "citation": "Science of Computer Programming 161, 34-56, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:UebtZRa9Y70C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4468038275537302953",
+            "cites_id": [
+                "4468038275537302953"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spike\u2013A code editor plugin highlighting fine-grained changes",
+                "pub_year": "2022",
+                "citation": "2022 Working Conference on Software Visualization (VISSOFT), 167-171, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:qUcmZB5y_30C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9847813316403217204",
+            "cites_id": [
+                "9847813316403217204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blockly Voice: un entorno de programaci\u00f3n guiado por voz",
+                "pub_year": "2019",
+                "citation": "Acta Nova 9 (1), 115-129, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760534935531111657",
+            "cites_id": [
+                "9760534935531111657"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Glyph-based software component identification",
+                "pub_year": "2016",
+                "citation": "2016 IEEE 24th International Conference on Program Comprehension (ICPC), 1-10, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3369506287413029457",
+            "cites_id": [
+                "3369506287413029457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Testevoviz: Visual introspection for genetically-based test coverage evolution",
+                "pub_year": "2020",
+                "citation": "2020 Working conference on software visualization (VISSOFT), 1-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:aqlVkmm33-oC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2920193581891155617",
+            "cites_id": [
+                "2920193581891155617"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking performance failures with rizel",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 2013 International Workshop on Principles of Software \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3363081556298670854",
+            "cites_id": [
+                "3363081556298670854"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking down software changes responsible for performance loss",
+                "pub_year": "2012",
+                "citation": "Proceedings of the International Workshop on Smalltalk Technologies, 1-7, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7270149335190810511",
+            "cites_id": [
+                "7270149335190810511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Introduction to Special Issue on Visualization Applied to Software Engineering",
+                "pub_year": "2023",
+                "citation": "Information and Software Technology 155, 107118, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18090356416734064804",
+            "cites_id": [
+                "18090356416734064804"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Visualizing memory consumption with vismep",
+                "pub_year": "2022",
+                "citation": "2022 Working Conference on Software Visualization (VISSOFT), 108-118, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:hC7cP41nSMkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3184738399482558666",
+            "cites_id": [
+                "3184738399482558666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How do developers use the Java Stream API?",
+                "pub_year": "2021",
+                "citation": "International Conference on Computational Science and Its Applications, 323-335, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11008486451777637610",
+            "cites_id": [
+                "11008486451777637610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DGT-AR: Visualizing Code Dependencies in AR",
+                "pub_year": "2023",
+                "citation": "2023 IEEE Working Conference on Software Visualization (VISSOFT), 95-99, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:r0BpntZqJG4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15582597533901938048",
+            "cites_id": [
+                "15582597533901938048"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transformation-based refactorings: a first analysis",
+                "pub_year": "2022",
+                "citation": "IWST 22-International Workshop of Smalltalk Technologies, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7706291965443856043",
+            "cites_id": [
+                "7706291965443856043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying equivalent objects to reduce memory consumption",
+                "pub_year": "2013",
+                "citation": "Proceedings of the 5th Edition of the International Workshop on Smalltalk \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4707928079239504776",
+            "cites_id": [
+                "4707928079239504776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A manual categorization of new quality issues on automatically-generated tests",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Conference on Software Maintenance and Evolution \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3732738976625291044",
+            "cites_id": [
+                "3732738976625291044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TestEvoViz: visualizing genetically-based test coverage evolution",
+                "pub_year": "2022",
+                "citation": "Empirical Software Engineering 27 (7), 184, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6050815283288071379",
+            "cites_id": [
+                "6050815283288071379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing textual source code comparison: Split or unified?",
+                "pub_year": "2020",
+                "citation": "Companion Proceedings of the 4th International Conference on Art, Science \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2173490455378703897",
+            "cites_id": [
+                "2173490455378703897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una t\u00e9cnica de muestreo para categorizar videos",
+                "pub_year": "2018",
+                "citation": "Acta Nova 8 (4), 631-650, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7891850979311106451",
+            "cites_id": [
+                "7891850979311106451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamically composing collection operations through collection promises",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 11th edition of the International Workshop on Smalltalk \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1323649865344532318",
+            "cites_id": [
+                "1323649865344532318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing Waste in Expandable Collections: The Pharo Case",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11166898376033409115",
+            "cites_id": [
+                "11166898376033409115"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Debugging performance failures",
+                "pub_year": "2012",
+                "citation": "Proceedings of the 6th Workshop on Dynamic Languages and Applications, 1-3, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3439581602631605063",
+            "cites_id": [
+                "3439581602631605063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an AI Knowledge Assistant for Context-aware Learning Experiences in Software Capstone Project Development",
+                "pub_year": "2024",
+                "citation": "IEEE Transactions on Learning Technologies, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Use of Statistical Machine Translation for Suggesting Variable Names for Decompiled Code: The Pharo Case",
+                "pub_year": "2024",
+                "citation": "Elsevier, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of statistical machine translation for suggesting variable names for decompiled code: The Pharo case",
+                "pub_year": "2024",
+                "citation": "Journal of Computer Languages, 101271, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asking and Answering Questions During Memory Profiling",
+                "pub_year": "2024",
+                "citation": "IEEE Transactions on Software Engineering, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the Impact of Generative AI for StandUp Report Recommendations in Software Capstone Project Development",
+                "pub_year": "2024",
+                "citation": "Proceedings of the 55th ACM Technical Symposium on Computer Science \u2026, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Eye-Tracking Study on the Use of Split/Unified Code Change Views for Bug Detection",
+                "pub_year": "2023",
+                "citation": "IEEE Access 11, 136195-136205, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Empirical Study of Mobile Code Offloading in Unpredictable Environments",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SmallEvoTest: Genetically Created Unit Tests for Smalltalk",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Testing in Pharo",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative study of the symmetric cryptography algorithms AES, 3DES and ChaCha20",
+                "pub_year": "2022",
+                "citation": "Acta Nova 10 (3), 283-302, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio comparativo de los algoritmos de criptograf\u00eda sim\u00e9trica AES, 3DES y ChaCha20",
+                "pub_year": "2022",
+                "citation": "Acta Nova 10 (3), 283-302, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quality Histories of Past Extract Method Refactorings",
+                "pub_year": "2021",
+                "citation": "International Conference on Computational Science and Its Applications, 336-352, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving contact information search on Facebook analyzing emotions",
+                "pub_year": "2019",
+                "citation": "Acta Nova 9 (2), 257-270, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mejorando la b\u00fasqueda de informaci\u00f3n de contacto en Facebook analizando emociones",
+                "pub_year": "2019",
+                "citation": "Acta Nova 9 (2), 257-270, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Blockly Voice: a voice-guided programming environment",
+                "pub_year": "2019",
+                "citation": "Acta Nova 9 (1), 115-129, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sampling technique to categorize videos",
+                "pub_year": "2018",
+                "citation": "Acta Nova 8 (4), 631-650, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamically Composing Collection Operations through Collection Promises",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Horizontal profiling: A sampling technique to identify performance regressions",
+                "pub_year": "2016",
+                "citation": "Universidad de Chile, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2020 Organizing Committee",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VISSOFT 2016 Committee\u2013Artifact Evaluation Track",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Hidden Face of Execution Sampling",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tools for understanding and assessing the quality of software",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hXSNrdcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

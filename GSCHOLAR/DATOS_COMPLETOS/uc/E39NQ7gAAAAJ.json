@@ -1,0 +1,92 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "E39NQ7gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pablo Meneses Casanova",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=E39NQ7gAAAAJ&citpid=2",
+    "affiliation": "PhD Candidate, Biomedical Imaging Center, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Magnetic resonance imaging",
+        "Quantitative MRI",
+        "Deep Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 5,
+        "2023": 3,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GOFOS, ground optical fog observation system for monitoring the vertical stratocumulus-fog cloud distribution in the coast of the Atacama Desert, Chile",
+                "pub_year": "2021",
+                "citation": "Journal of Hydrology 597, 126190, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "E39NQ7gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6266904414887978794",
+            "cites_id": [
+                "6266904414887978794"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Liver PDFF estimation using a multi-decoder water-fat separation neural network with a reduced number of echoes",
+                "pub_year": "2023",
+                "citation": "European Radiology 33 (9), 6557-6568, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "E39NQ7gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Transport driven Cycle-consistent Generative Adversarial Network (OT-CycleGAN) for an accurate MR water-fat separation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E39NQ7gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water/fat separation using multiple decoder U-Net architecture (MDWF-Net) for accurate R2* measurements",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "E39NQ7gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

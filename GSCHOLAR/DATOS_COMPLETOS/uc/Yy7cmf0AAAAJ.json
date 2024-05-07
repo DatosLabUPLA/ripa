@@ -1,0 +1,126 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Yy7cmf0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Cornejo Rivas",
+    "affiliation": "Professor, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Data science",
+        "Process Mining",
+        "Machine Learning",
+        "Optimization",
+        "Business Process"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://www.linkedin.com/in/felipe-cornejo-rivas01/",
+    "citedby": 37,
+    "citedby5y": 37,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 6,
+        "2022": 11,
+        "2023": 12,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9TbVGfsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcos Sepulveda",
+            "affiliation": "Computer Science Department, School of Engineering, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3Og-qpwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Munoz-Gama",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jDHvbi8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Rojas",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping the patient\u2019s journey in healthcare through process mining",
+                "pub_year": "2020",
+                "citation": "International journal of environmental research and public health 17 (18), 6586, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Yy7cmf0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318486560329844816",
+            "cites_id": [
+                "15318486560329844816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Case Ordering Problem in Surgical Procedural Training through Process Mining",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Yy7cmf0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6213159556692122973",
+            "cites_id": [
+                "6213159556692122973"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Defining Healthcare KPIs Using Process Mining and Patient Journey Maps",
+                "pub_year": "2023",
+                "citation": "2023 XLIX Latin American Computer Conference (CLEI), 1-10, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Yy7cmf0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicci\u00f3n de readmisiones hospitalarias infrecuentes usando machine learning: caso de estudio aplicado a partos en un hospital cl\u00ednico",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Yy7cmf0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

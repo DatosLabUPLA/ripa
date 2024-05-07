@@ -1,0 +1,108 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RknbgOkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Tom\u00e1s Vergara Browne",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RknbgOkAAAAJ&citpid=1",
+    "affiliation": "MSc. Student, PUC",
+    "organization": 7459009050823923954,
+    "interests": [
+        "NLP",
+        "Interpretability"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://tvergara.github.io/",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d0DmCg8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eugenio Herrera-Berg",
+            "affiliation": "Centro Nacional de Inteligencia Artificial"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0gXva0YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Buc Calderon",
+            "affiliation": "Centro Nacional de Inteligencia Artificial"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zdnBi6gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marc-Llu\u00eds Vives",
+            "affiliation": "Leiden University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sEzxpMcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Le\u00f3n-Villagr\u00e1",
+            "affiliation": "Brown University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOVVRk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Soto",
+            "affiliation": "Professor Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JQy5hPoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aizawa Akiko",
+            "affiliation": "National Institute of Informatics"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eigenpruning",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.03147, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "RknbgOkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large Language Models are biased to overestimate profoundness",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2310.14422, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "RknbgOkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

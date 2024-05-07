@@ -1,0 +1,143 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zdmWky4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ra\u00fal Ramos",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Transport Economics",
+        "Public Trasport",
+        "Demand Modelling",
+        "Fare evasion"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 59,
+    "citedby5y": 55,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 3,
+        "2019": 10,
+        "2020": 7,
+        "2021": 16,
+        "2022": 8,
+        "2023": 12,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8Z3UPA8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julian Arellana",
+            "affiliation": "Associate Professor, Dean College of Engineering, Universidad del Norte."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DlKlfqYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ivan Reinaldo Sarmiento Ordosgoitia",
+            "affiliation": "Universidad Nacional de Colombia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X5TwrswAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Victor Cantillo",
+            "affiliation": "Department of Civil and Environmental Engineering, Universidad del Norte"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IZvIWk8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hugo E. Silva",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From restricting the use of cars by license plate numbers to congestion charging: Analysis for Medellin, Colombia",
+                "pub_year": "2017",
+                "citation": "Transport Policy 60, 119-130, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zdmWky4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4324862745920119767",
+            "cites_id": [
+                "4324862745920119767"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cobros por congesti\u00f3n como alternativa al \u201cpico y placa\u201d en las ciudades Colombianas: Caso Medell\u00edn",
+                "pub_year": "2015",
+                "citation": "Universidad del Norte, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "zdmWky4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=98324980683420954",
+            "cites_id": [
+                "98324980683420954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fare evasion in public transport: How does it affect the optimal design and pricing?",
+                "pub_year": "2023",
+                "citation": "Transportation Research Part B: Methodological 176, 102803, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zdmWky4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1824753038778863173,11265136191390598991",
+            "cites_id": [
+                "1824753038778863173",
+                "11265136191390598991"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Public Transport Subsidies And the Shadow Cost of Public Funds",
+                "pub_year": "2022",
+                "citation": "Available at SSRN 4095922, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zdmWky4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4015131017140422584",
+            "cites_id": [
+                "4015131017140422584"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,291 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6q7ciKQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Hugo Carrillo Lincopi",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6q7ciKQAAAAJ&citpid=9",
+    "affiliation": "Institute for Mathematical and Computational Engineering, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Inverse Problems",
+        "PDE Modeling",
+        "Numerical Analysis",
+        "Applied Mathematics",
+        "Machine Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 81,
+    "citedby5y": 81,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2019": 3,
+        "2020": 5,
+        "2021": 7,
+        "2022": 24,
+        "2023": 34,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OKH0Ii4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Crist\u00f3bal Bertoglio",
+            "affiliation": "Bernoulli Institute - University of Groningen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ihVS4FAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Osses",
+            "affiliation": "PhD Applied Mathematics (U. de Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "N0t7k5YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ingolf Sack",
+            "affiliation": "Elastography, Charit\u00e9 Berlin"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7LGuyYMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alden Waters",
+            "affiliation": "University of Groningen"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Dual-VENC Unwrapping in Phase-Contrast MRI",
+                "pub_year": "2018",
+                "citation": "IEEE transactions on medical imaging 38 (5), 1263-1270, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4826980408883078320",
+            "cites_id": [
+                "4826980408883078320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing physics informed neural networks in ocean modelling and climate change applications",
+                "pub_year": "2021",
+                "citation": "AI: Modeling Oceans and Climate Change Workshop at ICLR 2021, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10104580611418417962",
+            "cites_id": [
+                "10104580611418417962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards Optimally Weighted Physics-Informed Neural Networks in Ocean Modelling",
+                "pub_year": "2021",
+                "citation": "https://hal.inria.fr/hal-03260357, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9110380529353531644",
+            "cites_id": [
+                "9110380529353531644"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of obstacles immersed in viscous fluids using Brinkman's law for steady Stokes and Navier-Stokes equations",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Applied Mathematics 82 (4), 1369-1386, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10656395932407887349",
+            "cites_id": [
+                "10656395932407887349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple motion encoding in Phase-Contrast MRI: A general theory and application to elastography imaging",
+                "pub_year": "2022",
+                "citation": "Medical image analysis 78, 102416, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15086300235105306080",
+            "cites_id": [
+                "15086300235105306080"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MOPINNs: an evolutionary multi-objective approach to physics-informed neural networks",
+                "pub_year": "2022",
+                "citation": "Proceedings of the Genetic and Evolutionary Computation Conference Companion \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5245343802229181964",
+            "cites_id": [
+                "5245343802229181964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Improved Unidirectional Dual Velocity\u2010Encoding MRI Methods",
+                "pub_year": "2022",
+                "citation": "Journal of Magnetic Resonance Imaging, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=72254967133915574",
+            "cites_id": [
+                "72254967133915574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recovery of a Lam\u00e9 parameter from displacement fields in nonlinear elasticity models",
+                "pub_year": "2021",
+                "citation": "Journal of Inverse and Ill-posed Problems, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=887477297417526079",
+            "cites_id": [
+                "887477297417526079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary multi-objective physics-informed neural networks: The MOPINNs approach",
+                "pub_year": "2023",
+                "citation": "AI Communications, 1-13, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximation of the non-linear water hammer problem by a Lax-Wendroff finite difference scheme",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2212.00112, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Architecture Discovery for Physics-Informed Neural Networks",
+                "pub_year": "2022",
+                "citation": "Ibero-American Conference on Artificial Intelligence, 77-88, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid Inverse Problems for Nonlinear Elasticity",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverse Problems in Elastography and Displacement-flow MRI",
+                "pub_year": "2020",
+                "citation": "Rijksuniversiteit Groningen, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inverse problems in elastography and displacement-flow MRI",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio del decaimiento T2 de im\u00e1genes de Resonancia Magn\u00e9tica y correcci\u00f3n del artefacto de vol\u00famenes parciales",
+                "pub_year": "2016",
+                "citation": "Universidad de Chile, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "6q7ciKQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

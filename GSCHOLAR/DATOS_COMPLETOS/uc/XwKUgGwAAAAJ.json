@@ -1,0 +1,89 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XwKUgGwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Rebolledo-Zelada",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XwKUgGwAAAAJ&citpid=1",
+    "affiliation": "B.S., Facultad de Ciencias Biol\u00f3gicas Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Immunology"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 48,
+    "citedby5y": 48,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 10,
+        "2022": 11,
+        "2023": 16,
+        "2024": 8
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tolerogenic dendritic cell transfer ameliorates systemic lupus erythematosus in mice",
+                "pub_year": "2019",
+                "citation": "Immunology 158 (4), 322-339, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "XwKUgGwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16996768649451130052",
+            "cites_id": [
+                "16996768649451130052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution of dysregulated DNA methylation to autoimmunity",
+                "pub_year": "2021",
+                "citation": "International Journal of Molecular Sciences 22 (21), 11892, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "XwKUgGwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3382217312679048550",
+            "cites_id": [
+                "3382217312679048550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution of two-dose vaccination toward the reduction of COVID-19 cases, ICU hospitalizations and deaths in Chile assessed through explanatory generalized additive models \u2026",
+                "pub_year": "2022",
+                "citation": "Frontiers in public health 10, 815036, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "XwKUgGwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=961594534091546704",
+            "cites_id": [
+                "961594534091546704"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

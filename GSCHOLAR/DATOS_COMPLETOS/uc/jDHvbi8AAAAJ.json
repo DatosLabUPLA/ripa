@@ -1,0 +1,927 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "jDHvbi8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Eric Rojas",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jDHvbi8AAAAJ&citpid=3",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Process Mining",
+        "Healthcare",
+        "Quality Assurance",
+        "Testing",
+        "Clinical Informatics"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "http://ericrojasco.com/",
+    "citedby": 1778,
+    "citedby5y": 1505,
+    "hindex": 17,
+    "hindex5y": 16,
+    "i10index": 25,
+    "i10index5y": 23,
+    "cites_per_year": {
+        "2016": 31,
+        "2017": 56,
+        "2018": 148,
+        "2019": 208,
+        "2020": 227,
+        "2021": 260,
+        "2022": 394,
+        "2023": 315,
+        "2024": 84
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9TbVGfsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcos Sepulveda",
+            "affiliation": "Computer Science Department, School of Engineering, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3Og-qpwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Munoz-Gama",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4P0zi4IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Capurro, MD, PhD",
+            "affiliation": "Associate Professor in Digital Health - Computing and Information Systems, University of Melbourne"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CUv9NZIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Fernandez Llatas",
+            "affiliation": "ITACA-SABIEN-PM4H Lab Universidad Politecnica de Valencia / CLINTEC - Karolinska Institutet"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0iWa5D4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicente Traver",
+            "affiliation": "ITACA - Universitat Polit\u00e9cnica de Val\u00e8ncia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hxJd8GgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Owen Ashby Johnson",
+            "affiliation": "Senior Fellow, University of Leeds"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Wx20q-EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angelina Prima Kurniati",
+            "affiliation": "Telkom University, School of Computing"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4EHCNVkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Martinez-Millana",
+            "affiliation": "PhD on Biomedical Engineering, Universitat Politecnica de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tV5AVyQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauro Vallati",
+            "affiliation": "Full Professor, University of Huddersfield"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jSFYNfQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Gatta",
+            "affiliation": "PhD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hZvxhjYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valeria Herskovic",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining in healthcare: A literature review",
+                "pub_year": "2016",
+                "citation": "Journal of biomedical informatics 61, 224-236, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:ufrVoPGSRksC",
+            "num_citations": 710,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4177608950632812302",
+            "cites_id": [
+                "4177608950632812302"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining for healthcare: Characteristics and challenges",
+                "pub_year": "2022",
+                "citation": "Journal of Biomedical Informatics 127, 103994, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:RHpTSmoSYBkC",
+            "num_citations": 177,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1584324157819709296",
+            "cites_id": [
+                "1584324157819709296"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discovering role interaction models in the Emergency Room using Process Mining",
+                "pub_year": "2018",
+                "citation": "Journal of biomedical informatics 78, 60-77, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:KlAtU1dfN6UC",
+            "num_citations": 102,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17807701033566274751",
+            "cites_id": [
+                "17807701033566274751"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Question-driven methodology for analyzing emergency room processes using process mining",
+                "pub_year": "2017",
+                "citation": "Applied Sciences 7 (3), 302, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:0EnyYjriUFMC",
+            "num_citations": 87,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12954446631439329831",
+            "cites_id": [
+                "12954446631439329831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward value-based healthcare through interactive process mining in emergency rooms: the stroke case",
+                "pub_year": "2019",
+                "citation": "International journal of environmental research and public health 16 (10), 1783, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 64,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3093659827473009023",
+            "cites_id": [
+                "3093659827473009023"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pMineR: An innovative R library for performing process mining in medicine",
+                "pub_year": "2017",
+                "citation": "Artificial Intelligence in Medicine: 16th Conference on Artificial \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:5nxA0vEk-isC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15859940365646538819",
+            "cites_id": [
+                "15859940365646538819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The assessment of data quality issues for process mining in healthcare using Medical Information Mart for Intensive Care III, a freely available e-health record database",
+                "pub_year": "2019",
+                "citation": "Health informatics journal 25 (4), 1878-1893, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 57,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8115000437553253884",
+            "cites_id": [
+                "8115000437553253884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Framework for Recommending Resource Allocation based on Process Mining",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14978999470643359458",
+            "cites_id": [
+                "14978999470643359458"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining in primary care: a literature review",
+                "pub_year": "2018",
+                "citation": "Studies in health technology and informatics 247, 376-380, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:Zph67rFs4hoC",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9193718347909182464",
+            "cites_id": [
+                "9193718347909182464"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The ClearPath Method for Care Pathway Process Mining and Simulation",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:ULOm3_A8WrAC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8408523395492912586",
+            "cites_id": [
+                "8408523395492912586"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of emergency room episodes through process mining",
+                "pub_year": "2019",
+                "citation": "International journal of environmental research and public health 16 (7), 1274, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10535698469176159638",
+            "cites_id": [
+                "10535698469176159638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapping the patient\u2019s journey in healthcare through process mining",
+                "pub_year": "2020",
+                "citation": "International journal of environmental research and public health 17 (18), 6586, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:ZeXyd9-uunAC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318486560329844816",
+            "cites_id": [
+                "15318486560329844816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generating and comparing knowledge graphs of medical processes using pMineR",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 9th Knowledge Capture Conference, 1-4, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15642863440644848505",
+            "cites_id": [
+                "15642863440644848505"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual behavior modeling with sensors using process mining",
+                "pub_year": "2019",
+                "citation": "Electronics 8 (7), 766, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:dhFuZR0502QC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8975129700273897038",
+            "cites_id": [
+                "8975129700273897038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing Medical Emergency Processes with Process Mining: The Stroke Case",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:_kc_bZDykSQC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=539292574569252281",
+            "cites_id": [
+                "539292574569252281"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deciphering event logs in SharePoint Server: A methodology based on process mining",
+                "pub_year": "2014",
+                "citation": "Computing Conference (CLEI), 2014 XL Latin American, 1-12, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5282945324133943306",
+            "cites_id": [
+                "5282945324133943306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clinical Processes and Its Data, What Can We Do with Them?",
+                "pub_year": "2015",
+                "citation": "HEALTHINF 2015, 642-647, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9370335611283343997",
+            "cites_id": [
+                "9370335611283343997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of drug use patterns using process mining and temporal abstraction digital phenotyping",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:4TOpqqG69KYC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5170224865946680169",
+            "cites_id": [
+                "5170224865946680169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PALIA-ER: Bringing Question-Driven Process Mining Closer to the Emergency Room",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7831801373689980501",
+            "cites_id": [
+                "7831801373689980501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gu\u00eda para gestionar procesos de negocio a trav\u00e9s de miner\u00eda de procesos",
+                "pub_year": "2016",
+                "citation": "InterSedes 17 (36), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:roLk4NBRz8UC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8118217789400742233",
+            "cites_id": [
+                "8118217789400742233"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining of disease trajectories: A literature review",
+                "pub_year": "2021",
+                "citation": "Studies in health technology and informatics 281, 457-461, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14678488437270392578",
+            "cites_id": [
+                "14678488437270392578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A framework for assurance of medication safety using machine learning",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2101.05620, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:-f6ydRqryjwC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4259552789296303244",
+            "cites_id": [
+                "4259552789296303244"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Are we ready for conformance checking in healthcare? Measuring adherence to clinical guidelines: A scoping systematic literature review",
+                "pub_year": "2022",
+                "citation": "Journal of Biomedical Informatics 130, 104076, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:j3f4tGmQtD8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2954685376520027469",
+            "cites_id": [
+                "2954685376520027469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of Emergency Room Episodes Duration through Process Mining",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:YOwf2qJgpHMC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17414511919475743844",
+            "cites_id": [
+                "17414511919475743844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The assessment of data quality issues for process mining in healthcare using MIMIC-III, a publicly available e-health record database",
+                "pub_year": "2017",
+                "citation": "Health Inform. J 25, 1878-1893, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:IWHjjKOFINEC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6970308857002841803",
+            "cites_id": [
+                "6970308857002841803"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process Mining in Primary Care: Avoiding Adverse Events Due to Hazardous Prescribing.",
+                "pub_year": "2019",
+                "citation": "MedInfo, 447-451, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:mVmsd5A6BfQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4401943049473244418",
+            "cites_id": [
+                "4401943049473244418"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using process mining in agile software development methodologies: a systematic mapping study",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:M3ejUd6NZC8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11772807408977856895",
+            "cites_id": [
+                "11772807408977856895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Business process analysis in advertising: An extension to a methodology based on process mining projects",
+                "pub_year": "2016",
+                "citation": "2016 35th International Conference of the Chilean Computer Science Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1823786061898947916",
+            "cites_id": [
+                "1823786061898947916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Association between serum sphingolipids and eudaimonic well-being in white US adults",
+                "pub_year": "2021",
+                "citation": "Scientific reports 11 (1), 13139, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:TQgYirikUcIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=265709365914519169",
+            "cites_id": [
+                "265709365914519169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interactive process mining in surgery with real time location systems: Interactive trace correction",
+                "pub_year": "2021",
+                "citation": "Interactive process mining in healthcare, 181-202, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:qUcmZB5y_30C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8863096829584399555",
+            "cites_id": [
+                "8863096829584399555"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ResRec: A Multi-criteria Tool for Resource Recommendation.",
+                "pub_year": "2016",
+                "citation": "BPM (Demos), 17-22, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12662631511843808384",
+            "cites_id": [
+                "12662631511843808384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Volvo Incident and Problem Management Behavior Analysis.",
+                "pub_year": "2013",
+                "citation": "BPIC@ BPM, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2916632399020784962",
+            "cites_id": [
+                "2916632399020784962"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apps y Medicina: una visi\u00f3n global y la situaci\u00f3n chilena",
+                "pub_year": "2022",
+                "citation": "Revista m\u00e9dica de Chile 150 (2), 206-215, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:r0BpntZqJG4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=207107104960576762",
+            "cites_id": [
+                "207107104960576762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calculating emergency room metrics through process mining",
+                "pub_year": "2016",
+                "citation": "Proc. IEEE Eng. Med. Biol. Soc.(EMBC), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11731750023013018580",
+            "cites_id": [
+                "11731750023013018580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rabobank: Incident and change process analysis",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10050851182685888629",
+            "cites_id": [
+                "10050851182685888629"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process mining to explore variations in endometrial cancer pathways from GP referral to first treatment",
+                "pub_year": "2021",
+                "citation": "IOS Press 281, 769-773, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:R3hNpaxXUhUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10426716456661448561",
+            "cites_id": [
+                "10426716456661448561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eficacia en el control de la anticoagulaci\u00f3n de los diferentes f\u00e1rmacos antagonistas de la vitamina K disponibles en Chile",
+                "pub_year": "2020",
+                "citation": "Revista m\u00e9dica de Chile 148 (9), 1254-1260, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:mB3voiENLucC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6679825832746193286",
+            "cites_id": [
+                "6679825832746193286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analyzing medical emergency processes with process mining: the stroke case",
+                "pub_year": "2019",
+                "citation": "Business Process Management Workshops: BPM 2018 International Workshops \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6001216912998360174",
+            "cites_id": [
+                "6001216912998360174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance analysis of markov chains-based models in process mining: a case study",
+                "pub_year": "2017",
+                "citation": "Proc. Int. Workshop KR4HC-ProHealth-RichMedSem, 89-96, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7762919134745154422",
+            "cites_id": [
+                "7762919134745154422"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A guide to manage business processes through process mining",
+                "pub_year": "2016",
+                "citation": "InterSedes 17 (36), 1-28, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7119959437233345124",
+            "cites_id": [
+                "7119959437233345124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BPIC 2013: Volvo Incident and Problem Management Behavior Analysis",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6881464064052466667",
+            "cites_id": [
+                "6881464064052466667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization of Telemedicine Patients to Discover Patient Journeys Using Process Mining",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Defining Healthcare KPIs Using Process Mining and Patient Journey Maps",
+                "pub_year": "2023",
+                "citation": "2023 XLIX Latin American Computer Conference (CLEI), 1-10, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:TFP_iSt0sucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel Optimisation Method for Discovering Complex Healthcare Process Models",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biochemical diagnostic test for attention-deficit/hyperactivity disorder (adhd)",
+                "pub_year": "2022",
+                "citation": "US Patent App. 17/420,520, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An appraisal of healthcare mobile applications",
+                "pub_year": "2022",
+                "citation": "Revista Medica de Chile 150 (2), 206-215, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anticoagulant efficacy of different pharmacological presentations of vitamin K antagonists",
+                "pub_year": "2020",
+                "citation": "Revista Medica de Chile 148 (9), 1254-1260, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Test diagn\u00f3stico bioqu\u00edmico para trastorno por d\u00e9ficit atencional e hiperactividad (tdah).",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CENS: Innovando la evaluaci\u00f3n de la calidad en Sistemas de Informaci\u00f3n en Salud",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GU\u00cdA PARA GESTIONAR PROCESOS DE NEGOCIO A TRAV\u00c9S DE MINER\u00cdA DE PROCESOS A GUIDE TO MANAGE BUSINESS PROCESSES THROUGH PROCESS MINING",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gu\u00eda para gestionar procesos de negocio a trav\u00e9s de miner\u00eda de procesos. InterSedes [online]. 2016, vol. 17, n. 36",
+                "pub_year": "2016",
+                "citation": "ISSN, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Designing a Blended Software Testing Course For Embedded C Software Engineers",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "jDHvbi8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

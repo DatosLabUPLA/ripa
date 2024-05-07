@@ -1,0 +1,148 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-wi5c_QAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Salas Cornejo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-wi5c_QAAAAJ&citpid=6",
+    "affiliation": "Computer Sciences Phd Student, The University of Edinburgh - Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Centrality measures",
+        "networks",
+        "Machine learning",
+        "Artificial Intelligence",
+        "Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 4,
+        "2022": 3,
+        "2023": 3,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wkDO2HIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Riveros",
+            "affiliation": "Associate Professor, Computer Science Department, PUC Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1mk4ZnUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oskar Skibski",
+            "affiliation": "University of Warsaw"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A family of centrality measures for graph data based on subgraphs",
+                "pub_year": "2020",
+                "citation": "23rd international conference on database theory (ICDT 2020), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9373948174746167685",
+            "cites_id": [
+                "9373948174746167685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A family of centrality measures for graph data based on subgraphs",
+                "pub_year": "2024",
+                "citation": "ACM Transactions on Database Systems, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absolute Expressiveness of Subgraph-Based Centrality Measures",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2206.06137, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Absolute Expressiveness of Subgraph Motif Centrality Measures.",
+                "pub_year": "2022",
+                "citation": "CoRR, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How do centrality measures choose the root of trees?",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2112.13736, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How to choose the root: centrality measures over tree structures.",
+                "pub_year": "2021",
+                "citation": "CoRR, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic game theory-IIC3810",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-wi5c_QAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

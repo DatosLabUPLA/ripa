@@ -1,0 +1,60 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7pTMbl0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo Saffie",
+    "affiliation": "Adjunct Instructor Professor, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Web Services"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 30,
+    "citedby5y": 20,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 6,
+        "2017": 2,
+        "2018": 0,
+        "2019": 5,
+        "2020": 4,
+        "2021": 5,
+        "2022": 3,
+        "2023": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REST web service description for graph-based service discovery",
+                "pub_year": "2015",
+                "citation": "Engineering the Web in the Big Data Era: 15th International Conference, ICWE \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7pTMbl0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2291788496076370095",
+            "cites_id": [
+                "2291788496076370095"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

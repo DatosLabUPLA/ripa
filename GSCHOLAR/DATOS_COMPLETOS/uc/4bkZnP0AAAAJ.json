@@ -1,0 +1,283 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4bkZnP0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andr\u00e9s Felipe Villa Ojeda",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4bkZnP0AAAAJ&citpid=1",
+    "affiliation": "Postdoctoral Researcher at KAUST University. Doctorate, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Deep learning",
+        "Few-shot Learning",
+        "Continual Learning",
+        "Video Understanding",
+        "Recommender Systems"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://andresvillaojedacv.netlify.app/",
+    "citedby": 82,
+    "citedby5y": 81,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 2,
+        "2022": 13,
+        "2023": 44,
+        "2024": 21
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOVVRk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Soto",
+            "affiliation": "Professor Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rVsGTeEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bernard Ghanem",
+            "affiliation": "Professor, King Abdullah University of Science and Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wHJ_cBIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Carlos Leon Alcazar",
+            "affiliation": "KAUST"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C3277_wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabian Caba Heilbron",
+            "affiliation": "Research Assistant, King Abdullah University of Science and Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GVzdGe8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kumail Alhamoud",
+            "affiliation": "PhD Student, MIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p4TbBLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladimir Araujo",
+            "affiliation": "Postdoctoral Researcher - KU Leuven"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PxayLNwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Victor Escorcia",
+            "affiliation": "Samsung AI Center - Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZKnSBs4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Hurtado",
+            "affiliation": "Phd PUC Chile, Innovation Research Associate CAMaCS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "caAyffEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Motasem Alfarra",
+            "affiliation": "PhD Candidate at KAUST"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NFjEa5gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisca Cattan",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vbvimu4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan-Manuel P\u00e9rez-R\u00faa",
+            "affiliation": "Facebook"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hqNhUCYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Carlos Niebles",
+            "affiliation": "Research Director (Salesforce) & Adjunct Professor (Stanford University)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pivot: Prompting for video continual learning",
+                "pub_year": "2023",
+                "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:WF5omc3nYNoC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9609709657181138679",
+            "cites_id": [
+                "9609709657181138679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "vclimb: A novel video class incremental learning benchmark",
+                "pub_year": "2022",
+                "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3979767569081162672",
+            "cites_id": [
+                "3979767569081162672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interpretable contextual team-aware item recommendation: application in multiplayer online battle arena games",
+                "pub_year": "2020",
+                "citation": "Proceedings of the 14th ACM Conference on Recommender Systems, 503-508, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11305714012389473320",
+            "cites_id": [
+                "11305714012389473320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmenting BERT-style models with predictive coding to improve discourse-level representations",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2109.04602, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=212323737827129052",
+            "cites_id": [
+                "212323737827129052"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Behind the magic, merlim: Multi-modal evaluation benchmark for large image-language models",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.02219, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13937783285821511932",
+            "cites_id": [
+                "13937783285821511932"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TNT: text-conditioned network with transductive inference for few-shot video classification",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2106.11173, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716753789816507718",
+            "cites_id": [
+                "13716753789816507718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Text-conditioned video action recognition under few shot and continual learning scenarios",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational Tool to Simulate and Visualize the Blood Flow in the Femoral Artery",
+                "pub_year": "2018",
+                "citation": "Journal of Electronic Science and Technology - JEST 2018, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Herramienta para visualizar flujo sangu\u00edneo en una arteria",
+                "pub_year": "2016",
+                "citation": "Barranquilla, Universidad del Norte, 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "4bkZnP0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

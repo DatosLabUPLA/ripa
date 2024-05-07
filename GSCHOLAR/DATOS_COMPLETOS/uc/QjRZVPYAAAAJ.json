@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QjRZVPYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Danko Aldunate",
+    "affiliation": "Ph.D candidate at Pontificia Universidad Catolica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZDaX238AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hanne Van Den Bosch",
+            "affiliation": "Universidad de Chile & CMM, Universidad de Chile - UMI CNRS 2807"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qMB1V_wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julien Ricaud",
+            "affiliation": "\u00c9cole polytechnique"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Results on the spectral stability of standing wave solutions of the Soler model in 1-D",
+                "pub_year": "2023",
+                "citation": "Communications in Mathematical Physics 401 (1), 227-273, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "QjRZVPYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16628553625449805197",
+            "cites_id": [
+                "16628553625449805197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the spectral stability of the nonlinear Dirac equation of Soler type",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "QjRZVPYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

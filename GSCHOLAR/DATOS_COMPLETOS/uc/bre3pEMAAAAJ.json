@@ -1,0 +1,141 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bre3pEMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alexander Pinto",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bre3pEMAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "computer science",
+        "semantic web",
+        "graph theory"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://github.com/giulianodelagala",
+    "citedby": 27,
+    "citedby5y": 27,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 10,
+        "2022": 3,
+        "2023": 9,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TSSwvG4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yudith Cardinale",
+            "affiliation": "Professor, Universidad Internacional de Valencia, Spain; Universidad Simon Bolivar, Venezuela"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RC4OC4UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Regina Paola Ticona Herrera",
+            "affiliation": "Universidad Cat\u00f3lica San Pablo, Arequipa Per\u00fa"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DpPqHAQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Irvin Dongo",
+            "affiliation": "Ph.D. in Computer Science | Universidad Cat\u00f3lica San Pablo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QiPIBxoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria A. Cornejo Lupa",
+            "affiliation": "Universidad Cat\u00f3lica San Pablo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an ontology for urban tourism",
+                "pub_year": "2021",
+                "citation": "Proceedings of the 36th Annual ACM Symposium on Applied Computing, 1887-1890, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bre3pEMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4085681735556062608",
+            "cites_id": [
+                "4085681735556062608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Ontology for Modeling Cultural Heritage Knowledge in Urban Tourism",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 61820-61842, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bre3pEMAAAAJ:hC7cP41nSMkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13386357603172645034",
+            "cites_id": [
+                "13386357603172645034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of a methodological approach to compare ontologies",
+                "pub_year": "2021",
+                "citation": "International Journal of Web Information Systems 17 (4), 333-376, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bre3pEMAAAAJ:IWHjjKOFINEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14834900171205588992",
+            "cites_id": [
+                "14834900171205588992"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CURIOCITY Framework: Managing Heterogeneous Cultural Heritage Data",
+                "pub_year": "2021",
+                "citation": "IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bre3pEMAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4641798985154837361",
+            "cites_id": [
+                "4641798985154837361"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
