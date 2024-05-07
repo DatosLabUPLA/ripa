@@ -1,0 +1,502 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "JIJW4BoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mat\u00edas Vidal Navarro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=JIJW4BoAAAAJ&citpid=2",
+    "affiliation": "Universidad Autonoma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "astronomy",
+        "interstellar medium",
+        "CMB foregrounds"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 3517,
+    "citedby5y": 1591,
+    "hindex": 11,
+    "hindex5y": 10,
+    "i10index": 12,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2011": 13,
+        "2012": 18,
+        "2013": 99,
+        "2014": 172,
+        "2015": 408,
+        "2016": 388,
+        "2017": 374,
+        "2018": 428,
+        "2019": 369,
+        "2020": 325,
+        "2021": 285,
+        "2022": 269,
+        "2023": 258,
+        "2024": 85
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "g2xuek0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Clive Dickinson",
+            "affiliation": "Jodrell Bank Centre for Astrophysics, The University of Manchester"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOj959UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simon Casassus",
+            "affiliation": "Full Professor, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ISyTdHEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Peel",
+            "affiliation": "Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hU7OS70AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Adolf N. Witt",
+            "affiliation": "University of Toledo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Planck 2013 results. I. Overview of products and scientific results",
+                "pub_year": "2014",
+                "citation": "Astronomy & Astrophysics 571, A1, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2956,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2460750132897826205,10327757148256768912",
+            "cites_id": [
+                "2460750132897826205",
+                "10327757148256768912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Planck 2015 results-XXV. Diffuse low-frequency Galactic foregrounds",
+                "pub_year": "2016",
+                "citation": "Astronomy & Astrophysics 594, A25, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 117,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1134421133636270744",
+            "cites_id": [
+                "1134421133636270744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The State-of-Play of Anomalous Microwave Emission (AME) research",
+                "pub_year": "2018",
+                "citation": "New Astronomy Reviews 80, 1-28, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:WF5omc3nYNoC",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11331561166288414414",
+            "cites_id": [
+                "11331561166288414414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polarized radio filaments outside the Galactic plane",
+                "pub_year": "2015",
+                "citation": "Monthly Notices of the Royal Astronomical Society 452 (1), 656-675, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 98,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12580075637815242391",
+            "cites_id": [
+                "12580075637815242391"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New constraints on the polarization of anomalous microwave emission in nearby molecular clouds",
+                "pub_year": "2011",
+                "citation": "Monthly Notices of the Royal Astronomical Society: Letters 418 (1), L35-L39, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533795104427511353",
+            "cites_id": [
+                "7533795104427511353"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dust-correlated cm wavelength continuum emission from translucent clouds \u03b6 Oph and LDN 1780",
+                "pub_year": "2011",
+                "citation": "Monthly Notices of the Royal Astronomical Society 414 (3), 2424-2435, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:Se3iqnhoufwC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370191475790344685",
+            "cites_id": [
+                "16370191475790344685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cm-wavelength observations of MWC 758: resolved dust trapping in a vortex",
+                "pub_year": "2019",
+                "citation": "Monthly Notices of the Royal Astronomical Society 483 (3), 3278-3287, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:UebtZRa9Y70C",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2263597446212377613",
+            "cites_id": [
+                "2263597446212377613"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dust-correlated centimetre-wave radiation from the M78 reflection nebula",
+                "pub_year": "2011",
+                "citation": "Monthly Notices of the Royal Astronomical Society 411 (2), 1137-1150, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10069582426169655757",
+            "cites_id": [
+                "10069582426169655757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new polarization amplitude bias reduction method",
+                "pub_year": "2016",
+                "citation": "Monthly Notices of the Royal Astronomical Society 461 (1), 698-709, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11199095256199003703",
+            "cites_id": [
+                "11199095256199003703"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Q/U imaging experiment: Polarization measurements of the galactic plane at 43 and 95 GHz",
+                "pub_year": "2015",
+                "citation": "The Astrophysical Journal 811 (2), 89, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1672934347629498278",
+            "cites_id": [
+                "1672934347629498278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolved observations at 31 GHz of spinning dust emissivity variations in \u03c1 Oph",
+                "pub_year": "2020",
+                "citation": "Monthly Notices of the Royal Astronomical Society 495 (3), 3482-3493, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:8k81kl-MbHgC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7451136725887949916",
+            "cites_id": [
+                "7451136725887949916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolved spectral variations of the centimetre-wavelength continuum from the \u03c1 Oph W photodissociation region",
+                "pub_year": "2021",
+                "citation": "Monthly Notices of the Royal Astronomical Society 502 (1), 589-600, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14842263934764765618",
+            "cites_id": [
+                "14842263934764765618"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the spinning dust emission from LDN 1780",
+                "pub_year": "2020",
+                "citation": "Monthly Notices of the Royal Astronomical Society 495 (1), 1122-1135, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14638217389828301009",
+            "cites_id": [
+                "14638217389828301009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VLA proper motion constraints on the origin, age, and potential magnetar future of PSR J17343333",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2111.09788, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:Zph67rFs4hoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7882774767100220507",
+            "cites_id": [
+                "7882774767100220507"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Diffuse Radio Foregrounds: All-Sky Polarisation, and Anomalous Microwave Emission",
+                "pub_year": "2015",
+                "citation": "Springer, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2664833942945862163",
+            "cites_id": [
+                "2664833942945862163"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-wavelength constraints on cosmic-ray leptons in the Galaxy",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1507.05958, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15916690116435039463",
+            "cites_id": [
+                "15916690116435039463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studies of Anomalous Microwave Emission (AME) with the SKA",
+                "pub_year": "2014",
+                "citation": "arXiv preprint arXiv:1412.5054, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6727237993747080784",
+            "cites_id": [
+                "6727237993747080784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolved spectral variations of the centimetre-wavelength continuum from the \ud835\udf0c Oph W photo-dissociation-region",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RADIO/SUBMM CONTINUUM EMISSION FROM THE ISM",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DIFFUSE RADIO FOREGROUNDS: All-sky Polarisation, and Anomalous Microwave Emission",
+                "pub_year": "2017",
+                "citation": "SPRINGER, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis Techniques for WMAP  Polarisation Data",
+                "pub_year": "2016",
+                "citation": "Diffuse Radio Foregrounds, 25-61, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AME in LDN 1780",
+                "pub_year": "2016",
+                "citation": "Diffuse Radio Foregrounds, 145-183, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Loops and arcs in the radio sky",
+                "pub_year": "2016",
+                "citation": "Physics World 29 (1), 28, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WMAP Polarised Filaments",
+                "pub_year": "2016",
+                "citation": "Diffuse Radio Foregrounds, 63-116, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QUIET Galactic Observations",
+                "pub_year": "2016",
+                "citation": "Diffuse Radio Foregrounds, 117-143, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conclusions and Future Work",
+                "pub_year": "2016",
+                "citation": "Diffuse Radio Foregrounds, 185-193, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new polarisation amplitude de-biasing method.",
+                "pub_year": "2014",
+                "citation": "arXiv preprint arXiv:1410.4436, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emisi\u00f3n An\u00f3mala en Ondas Centim\u00e9tricas de las Nubes Transl\u00facidas \u03b6 OPH y LDN 1780",
+                "pub_year": "2010",
+                "citation": "Universidad de Chile, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MAT\u00cdAS AMBROSIO VIDAL NAVARRO",
+                "pub_year": "1780",
+                "citation": "UNIVERSIDAD DE CHILE, 1780"
+            },
+            "filled": false,
+            "author_pub_id": "JIJW4BoAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 12,
+        "not_available": 0
+    }
+}

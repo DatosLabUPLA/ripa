@@ -1,0 +1,104 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "gRcyZ2MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "MARIA ALEJANDRA VESGA BARON",
+    "affiliation": "Escuela de Ingenier\u00eda Bioqu\u00edmica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Environmental engineering. Modelling. Hydrogen production. Wastewater treatment."
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 212,
+    "citedby5y": 210,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2020": 12,
+        "2021": 48,
+        "2022": 68,
+        "2023": 48,
+        "2024": 33
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability problems in the hydrogen production by dark fermentation: possible causes and solutions",
+                "pub_year": "2020",
+                "citation": "Renewable and Sustainable Energy Reviews 119, 109602, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "gRcyZ2MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 182,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3622400207561440174",
+            "cites_id": [
+                "3622400207561440174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlled oxidation-reduction potential on dark fermentative hydrogen production from glycerol: Impacts on metabolic pathways and microbial diversity of an acidogenic sludge",
+                "pub_year": "2021",
+                "citation": "International Journal of Hydrogen Energy 46 (7), 5074-5084, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "gRcyZ2MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17655366460695690681",
+            "cites_id": [
+                "17655366460695690681"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knowing the enemy: homoacetogens in hydrogen production reactors",
+                "pub_year": "2021",
+                "citation": "Applied Microbiology and Biotechnology 105, 8989-9002, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "gRcyZ2MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12831274056198201576",
+            "cites_id": [
+                "12831274056198201576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimizing foaming and bulking in activated sludge with bacteriophage treatment: a review of mathematical modeling",
+                "pub_year": "2022",
+                "citation": "Processes 10 (8), 1600, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "gRcyZ2MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7700752806450331350",
+            "cites_id": [
+                "7700752806450331350"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

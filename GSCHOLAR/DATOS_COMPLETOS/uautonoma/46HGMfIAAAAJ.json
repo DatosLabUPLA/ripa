@@ -1,0 +1,104 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "46HGMfIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Oscar Loyola",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Inteligencia Articial",
+        "Rob\u00f3tica cognitiva",
+        "IoT",
+        "IoRT",
+        "Industria 4.0"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 44,
+    "citedby5y": 33,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 8,
+        "2019": 5,
+        "2020": 6,
+        "2021": 8,
+        "2022": 6,
+        "2023": 7,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A cloud-based mobile system to improve respiratory therapy services at home",
+                "pub_year": "2016",
+                "citation": "Journal of biomedical informatics 63, 45-53, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "46HGMfIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7361200272476183019",
+            "cites_id": [
+                "7361200272476183019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel algorithm for agent navigation based on intrinsic motivation due to boredom",
+                "pub_year": "2021",
+                "citation": "Information Technology and Control 50 (3), 485-494, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "46HGMfIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16462958877885161934",
+            "cites_id": [
+                "16462958877885161934"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Plataformas Tecnol\u00f3gicas que Ayudan en el Proceso de Toma de Decisiones Usando Data Mining en Agricultura 4.0",
+                "pub_year": "2023",
+                "citation": "Ciencia Latina Revista Cient\u00edfica Multidisciplinar 7 (5), 10091-10102, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "46HGMfIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integration of Cyber-Physical System and Digital Twin for Controlling a Robotic Manipulator: An Industry 4.0 Approach",
+                "pub_year": "2023",
+                "citation": "Advances in Computing 1942, 141-152, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "46HGMfIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

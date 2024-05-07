@@ -1,0 +1,68 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YaJn9ZUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jos\u00e9 Barahona Ya\u00f1ez",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Computational Mechanics",
+        "Biomechanics",
+        "Machine Learning",
+        "Computer Vision",
+        "Artificial Intelligence"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 0,
+        "2023": 1,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "91W66kcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Valencia",
+            "affiliation": "Departamento de Ingenieria Mecanica Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of the Hemodynamics effects of an isolated systolic hypertension (ISH) condition on cerebral aneurysms models, using FSI simulations",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (6), 2595, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YaJn9ZUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10020487403701960392",
+            "cites_id": [
+                "10020487403701960392"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

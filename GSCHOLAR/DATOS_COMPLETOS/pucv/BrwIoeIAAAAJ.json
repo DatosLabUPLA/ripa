@@ -1,0 +1,566 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "BrwIoeIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristian Galleguillos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=BrwIoeIAAAAJ&citpid=2",
+    "affiliation": "PhD Student, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Artificial Intelligence"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 207,
+    "citedby5y": 113,
+    "hindex": 8,
+    "hindex5y": 7,
+    "i10index": 8,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2002": 1,
+        "2003": 2,
+        "2004": 1,
+        "2005": 1,
+        "2006": 0,
+        "2007": 0,
+        "2008": 1,
+        "2009": 1,
+        "2010": 0,
+        "2011": 0,
+        "2012": 0,
+        "2013": 1,
+        "2014": 9,
+        "2015": 29,
+        "2016": 10,
+        "2017": 10,
+        "2018": 25,
+        "2019": 27,
+        "2020": 33,
+        "2021": 26,
+        "2022": 8,
+        "2023": 9,
+        "2024": 10
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iC1zxr4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Soto",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1ULUsmIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Monfroy",
+            "affiliation": "Professor of Computer Science, Universit\u00e9 de Nantes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AFjvjTgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sanjay Misra",
+            "affiliation": "Institute for Energy Technology(IFE), Halden, Norway"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid ac3-tabu search algorithm for solving sudoku puzzles",
+                "pub_year": "2013",
+                "citation": "Expert Systems with Applications 40 (15), 5817-5821, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7556359354534401242",
+            "cites_id": [
+                "7556359354534401242"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Data-driven job dispatching in HPC systems",
+                "pub_year": "2018",
+                "citation": "Machine Learning, Optimization, and Big Data: Third International Conference \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:NhqRSupF_l8C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1977630475607753202",
+            "cites_id": [
+                "1977630475607753202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A prefiltered cuckoo search algorithm with geometric operators for solving Sudoku problems",
+                "pub_year": "2014",
+                "citation": "The Scientific World Journal 2014, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8889908122904852184",
+            "cites_id": [
+                "8889908122904852184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using autonomous search for solving constraint satisfaction problems via new modern approaches",
+                "pub_year": "2016",
+                "citation": "Swarm and Evolutionary Computation 30, 64-77, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:EUQCXRtRnyEC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13475735510923967986",
+            "cites_id": [
+                "13475735510923967986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AccaSim: a customizable workload management simulator for job dispatching research in HPC systems",
+                "pub_year": "2020",
+                "citation": "Cluster Computing 23 (1), 107-122, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:KxtntwgDAa4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12335038548446734657",
+            "cites_id": [
+                "12335038548446734657"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid alldifferent-tabu search algorithm for solving sudoku puzzles",
+                "pub_year": "2015",
+                "citation": "Computational intelligence and neuroscience 2015, 40-40, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16943703531539164312",
+            "cites_id": [
+                "16943703531539164312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accasim: an HPC simulator for workload management",
+                "pub_year": "2018",
+                "citation": "High Performance Computing: 4th Latin American Conference, CARLA 2017 \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10784941394135545786",
+            "cites_id": [
+                "10784941394135545786"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heterogeneity-aware resource allocation in HPC systems",
+                "pub_year": "2018",
+                "citation": "High Performance Computing: 33rd International Conference, ISC High \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:nb7KW1ujOQ8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10461995005857783261",
+            "cites_id": [
+                "10461995005857783261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing cuckoo search, bee colony, firefly optimization, and electromagnetism-like algorithms for solving the set covering problem",
+                "pub_year": "2015",
+                "citation": "Computational Science and Its Applications--ICCSA 2015: 15th International \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16448727264505646577",
+            "cites_id": [
+                "16448727264505646577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Constraint programming-based job dispatching for modern HPC applications",
+                "pub_year": "2019",
+                "citation": "Principles and Practice of Constraint Programming: 25th International \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:UxriW0iASnsC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2182630965958671689",
+            "cites_id": [
+                "2182630965958671689"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A marriage theorem based-algorithm for solving sudoku",
+                "pub_year": "2015",
+                "citation": "2015 Fourteenth Mexican International Conference on Artificial Intelligence \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:_xSYboBqXhAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16280547927570107743",
+            "cites_id": [
+                "16280547927570107743"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous tuning for constraint programming via artificial bee colony optimization",
+                "pub_year": "2015",
+                "citation": "Computational Science and Its Applications--ICCSA 2015: 15th International \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13675718007422611652",
+            "cites_id": [
+                "13675718007422611652"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving nonogram using genetic algorithms",
+                "pub_year": "2016",
+                "citation": "2016 11th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:abG-DnoFyZgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13202915232616071578",
+            "cites_id": [
+                "13202915232616071578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A filtering technique for helping to solve sudoku problems",
+                "pub_year": "2015",
+                "citation": "International Conference on Human-Computer Interaction, 598-603, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3506855024906696247",
+            "cites_id": [
+                "3506855024906696247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effects of electrical conductivity on the yield and quality of tomato (Lycopersicon esculentum L.) fruits.",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:vRqMK49ujn8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17179746745086693933",
+            "cites_id": [
+                "17179746745086693933"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Germination of seeds and development of seedlings of capsicums (Capsicum annuum L.) in a constant saline environment.",
+                "pub_year": "1996",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:08ZZubdj9fEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17087243210966655405",
+            "cites_id": [
+                "17087243210966655405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Germinaci\u00f3n de semillas y desarrollo de pl\u00e1ntulas de pimiento (Capsicum annuum L.) en un ambiente salino constante",
+                "pub_year": "1996",
+                "citation": "Phyton 59, 177-186, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:WbkHhVStYXYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15540799506146242293",
+            "cites_id": [
+                "15540799506146242293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Germinative capacity and seedling develop of Capsicum annuum L in an environment with constant salinity",
+                "pub_year": "1996",
+                "citation": "PHYTON-INTERNATIONAL JOURNAL OF EXPERIMENTAL BOTANY 59 (1-2), 177-186, 1996"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:XiSMed-E-HIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3912153441642022105",
+            "cites_id": [
+                "3912153441642022105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A job dispatcher for large and heterogeneous HPC systems running modern applications",
+                "pub_year": "2021",
+                "citation": "27th International Conference on Principles and Practice of Constraint \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:738O_yMBCRsC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14195476904367516449",
+            "cites_id": [
+                "14195476904367516449"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The complexity of designing and implementing metaheuristics",
+                "pub_year": "2015",
+                "citation": "HCI International 2015-Posters\u2019 Extended Abstracts: International Conference \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17284146072061724709",
+            "cites_id": [
+                "17284146072061724709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving sudokus via metaheuristics and AC3",
+                "pub_year": "2014",
+                "citation": "2014 IEEE 6th International Conference on Adaptive Science & Technology \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4025569541649455044",
+            "cites_id": [
+                "4025569541649455044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of electrical conductivity on tomato fruit yield and quality (Lycopersicon esculentum L.)",
+                "pub_year": "1999",
+                "citation": "Phyton-International Journal of Experimental Botany 65, 71-76, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:p2g8aNsByqUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=896292308727360969",
+            "cites_id": [
+                "896292308727360969"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Constraint Programming-based Job Dispatcher for Modern HPC Systems and Applications",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2009.10348, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the container pre-marshalling problem using Artificial Bee Colony algorithm",
+                "pub_year": "2016",
+                "citation": "2016 Fifteenth Mexican International Conference on Artificial Intelligence \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n De Nonogramas Usando Algoritmos Gen\u00e9ticos",
+                "pub_year": "2016",
+                "citation": "11th Iberian Conference on Information Systems and Technologies, CISTI 2016 \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:u9iWguZQMMsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n de nonogramas usando algoritmos gen\u00e9ticos [Solving nonogram using genetic algorithms]",
+                "pub_year": "2016",
+                "citation": "IEEE Computer Society, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos h\u00edbridos para la resoluci\u00f3n de Sudokus",
+                "pub_year": "2015",
+                "citation": "2015 10th Iberian Conference on Information Systems and Technologies, CISTI \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid algorithms for solving Sudokus",
+                "pub_year": "2015",
+                "citation": "2015 10th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid algorithms for solving Sudokus [Algoritmos h\u00edbridos para la resoluci\u00f3n de Sudokus]",
+                "pub_year": "2015",
+                "citation": "Institute of Electrical and Electronics Engineers Inc., 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:SP6oXDckpogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated, adaptive, and optimized search for CSPs via cuckoo search",
+                "pub_year": "2015",
+                "citation": "Advances in Swarm and Computational Intelligence: 6th International \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acute and residual effect of vibration on hamstring flexibility",
+                "pub_year": "2014",
+                "citation": "Cultura, Ciencia y Deporte 9 (25 SUPPL.), S262, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article A Prefiltered Cuckoo Search Algorithm with Geometric Operators for Solving Sudoku Problems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algoritmos h\u00edbridos para la resoluci\u00f3n de Sudokus Hybrid algorithms for Solving Sudokus",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "BrwIoeIAAAAJ:P5F9QuxV20EC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

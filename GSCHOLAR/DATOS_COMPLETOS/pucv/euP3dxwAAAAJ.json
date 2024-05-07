@@ -1,0 +1,65 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "euP3dxwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Pablo Saavedra Guerin",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "miCMtj4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Feijoo",
+            "affiliation": "PUCV - Past: PNNL-JGCRI, JHU, MIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iH3HgpwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guillermo Droppelmann",
+            "affiliation": "Cl\u00ednica MEDS"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-accuracy detection of supraspinatus fatty infiltration in shoulder MRI using convolutional neural network algorithms",
+                "pub_year": "2023",
+                "citation": "Frontiers in Medicine 10, 1070499, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "euP3dxwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6080801540162343652",
+            "cites_id": [
+                "6080801540162343652"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

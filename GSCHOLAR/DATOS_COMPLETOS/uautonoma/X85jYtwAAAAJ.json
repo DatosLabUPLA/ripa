@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "X85jYtwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Johanna Alvarado",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Automatizaci\u00f3n y Rob\u00f3tica"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 45,
+    "citedby5y": 45,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 16,
+        "2023": 15,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and evaluation of a new fuzzy control algorithm applied to a manipulator robot",
+                "pub_year": "2020",
+                "citation": "Applied Sciences 10 (21), 7482, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "X85jYtwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13495290641564988151",
+            "cites_id": [
+                "13495290641564988151"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REDES DE AREA CORPORAL INALAMBRICAS: REQUISITOS, DESAFIOS E INTERFERENCIA",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "X85jYtwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CRIPTOGRAF\u00cdA DE CURVA EL\u00cdPTICA APLICADA A SEGURIDAD PARA REDES WBAN BAJO LA NORMA IEEE 802.15. 6",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "X85jYtwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

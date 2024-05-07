@@ -1,0 +1,591 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "le4B99MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Andres J. Diaz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=le4B99MAAAAJ&citpid=2",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Data center energy and thermal management",
+        "electronics cooling",
+        "computational fluids mechanics and heat and mass transfer"
+    ],
+    "email_domain": "@udp.cl",
+    "homepage": "http://ingenieria.udp.cl/ingenieria-civil-industrial/",
+    "citedby": 435,
+    "citedby5y": 327,
+    "hindex": 10,
+    "hindex5y": 7,
+    "i10index": 10,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "1996": 2,
+        "1997": 5,
+        "1998": 2,
+        "1999": 1,
+        "2000": 2,
+        "2001": 1,
+        "2002": 2,
+        "2003": 1,
+        "2004": 2,
+        "2005": 1,
+        "2006": 1,
+        "2007": 3,
+        "2008": 1,
+        "2009": 2,
+        "2010": 4,
+        "2011": 5,
+        "2012": 2,
+        "2013": 3,
+        "2014": 9,
+        "2015": 1,
+        "2016": 10,
+        "2017": 19,
+        "2018": 27,
+        "2019": 41,
+        "2020": 69,
+        "2021": 76,
+        "2022": 54,
+        "2023": 63,
+        "2024": 24
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NAoxWPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose M. Cardemil",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7A7EEkMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Escobar",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6p8NWHIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul Fischer",
+            "affiliation": "Professor, Depts. of Computer Science and Mechanical Science & Engineering, University of Illinois"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic evaluation of solar-geothermal hybrid power plants in northern Chile",
+                "pub_year": "2016",
+                "citation": "Energy Conversion and Management 123, 348-361, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8524622148482008173",
+            "cites_id": [
+                "8524622148482008173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancement of the cooling capability of a high concentration photovoltaic system using microchannels with forward triangular ribs on sidewalls",
+                "pub_year": "2018",
+                "citation": "Applied energy 226, 160-180, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4414495836771409853",
+            "cites_id": [
+                "4414495836771409853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In vitro progesterone effects on 3H-dopamine release from rat corpus striatum slices obtained under different endocrine conditions",
+                "pub_year": "1993",
+                "citation": "Life sciences 53 (23), 1767-1777, 1993"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:maZDTaKrznsC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16063351578469082024",
+            "cites_id": [
+                "16063351578469082024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of climate conditions on the thermodynamic performance of a data center cooling system under water-side economization",
+                "pub_year": "2020",
+                "citation": "Energy and Buildings 208, 109634, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1824526221309891218",
+            "cites_id": [
+                "1824526221309891218"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parametrized analysis of a carbon dioxide transcritical Rankine cycle driven by solar energy",
+                "pub_year": "2018",
+                "citation": "Applied Thermal Engineering 140, 580-592, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5400292487938924009",
+            "cites_id": [
+                "5400292487938924009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy and exergy assessment in a perimeter cooled data center: The value of second law efficiency",
+                "pub_year": "2017",
+                "citation": "Applied Thermal Engineering 124, 820-830, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415443351322604620",
+            "cites_id": [
+                "4415443351322604620"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cooling effectiveness of a data center room under overhead airflow via entropy generation assessment in transient scenarios",
+                "pub_year": "2019",
+                "citation": "Entropy 21 (1), 98, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9656664780362359994",
+            "cites_id": [
+                "9656664780362359994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gas-assisted droplet impact on a solid surface",
+                "pub_year": "2016",
+                "citation": "Journal of Fluids Engineering 138 (8), 081104, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11802384920708418088",
+            "cites_id": [
+                "11802384920708418088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Investigation of a gas-propelled liquid droplet impinging onto a heated surface",
+                "pub_year": "2013",
+                "citation": "International journal of heat and mass transfer 67, 1181-1190, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3219750762190728999",
+            "cites_id": [
+                "3219750762190728999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow and heat transfer characteristics in micro and mini communicating pressure driven channel flows by numerical simulations",
+                "pub_year": "2013",
+                "citation": "International Journal of Heat and Mass Transfer 58 (1-2), 568-577, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1638120355025139444",
+            "cites_id": [
+                "1638120355025139444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving energy and water consumption of a data center via air free-cooling economization: The effect weather on its performance",
+                "pub_year": "2023",
+                "citation": "Energy Conversion and Management 292, 117344, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:isC4tDSrTZIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17471820957260960443",
+            "cites_id": [
+                "17471820957260960443"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical investigation of a liquid droplet transported by a gas stream impinging on a heated surface: single-phase regime",
+                "pub_year": "2010",
+                "citation": "2010 12th IEEE Intersociety Conference on Thermal and Thermomechanical \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13987497890275058210",
+            "cites_id": [
+                "13987497890275058210"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identificaci\u00f3n de las \u00e1reas de recarga acu\u00edfera y zonas de protecci\u00f3n de los manantiales del cant\u00f3n central de Cartago",
+                "pub_year": "2007",
+                "citation": "En: lX Congreso Nacional de Ciencias Exploraciones fuera y dentro del aula \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:TFP_iSt0sucC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10783227358102536871",
+            "cites_id": [
+                "10783227358102536871"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Meteorological assessment and implementation of an air-side free-cooling system for data centers in Chile",
+                "pub_year": "2017",
+                "citation": "2017 16th IEEE Intersociety Conference on Thermal and Thermomechanical \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2829798302169472753",
+            "cites_id": [
+                "2829798302169472753"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A numerical and experimental investigation of a gas propelled liquid droplet impinging onto a heated surface",
+                "pub_year": "2011",
+                "citation": "ASME International Mechanical Engineering Congress and Exposition 54969, 187-196, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1481985926506283907",
+            "cites_id": [
+                "1481985926506283907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LA CONFIANZA INTERPERSONAL VALIDEZ DEL CONSTRUCTO Y FACTORES RELACIONADOS",
+                "pub_year": "2005",
+                "citation": "Revista Memorias 6 (1), 83-98, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17998739433585953797",
+            "cites_id": [
+                "17998739433585953797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "C\u00e1lculo dental una revisi\u00f3n de literatura y presentaci\u00f3n de una condici\u00f3n inusual. ISSN [Internet]. 2011;[citado 28 de agosto 2016]; 49 (3)",
+                "citation": "C:/Users/Hp/Desktop/tesis% 20andrea/papers/calculo% 20dental. htm, 0"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1766155000538524255",
+            "cites_id": [
+                "1766155000538524255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical investigation of a liquid droplet impinging on a heated surface",
+                "pub_year": "2009",
+                "citation": "ASME International Mechanical Engineering Congress and Exposition 43826 \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12385084878041574757",
+            "cites_id": [
+                "12385084878041574757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flow Characteristics of Rarified Gases in Micro-Grooved Channels by the Lattice-Boltzmann Method",
+                "pub_year": "2008",
+                "citation": "International Conference on Micro/Nanoscale Heat Transfer 42924, 655-664, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18276774497513307511",
+            "cites_id": [
+                "18276774497513307511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stretching Fields and Flow Mixing Enhancement of Rarified Gases in Micro-Grooved Channels by the Lattice-Boltzmann Method",
+                "pub_year": "2008",
+                "citation": "Fluids Engineering Division Summer Meeting 48401, 551-560, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12928622306807126750",
+            "cites_id": [
+                "12928622306807126750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring tree\u2010like fins for enhanced latent heat storage performance",
+                "pub_year": "2023",
+                "citation": "Energy Storage, e478, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reply to \u201cComment on \u201cThermodynamic evaluation of solar-geothermal hybrid power plants in northern Chile\u201d[Energy Convers. Manage. 2016; 123: 348\u2013361] by Cardemil et al.\u201d",
+                "pub_year": "2019",
+                "citation": "Elsevier Ltd, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reply to\" Comment on\" Thermodynamic evaluation of solar-geothermal hybrid power plants in northern Chile\"[Energy Convers. Manage. 2016; 123: 348-361] by Cardemil et al\"",
+                "pub_year": "2019",
+                "citation": "Energy Conversion and Management 185, 944-945, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of an Organic Rankine Cycle Through a Control Strategy for Waste Heat Recovery",
+                "pub_year": "2018",
+                "citation": "2018 17th IEEE Intersociety Conference on Thermal and Thermomechanical \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancement of the cooling capability of a high concentration photovoltaic system using microchannels with forward triangular ribs on sidewalls",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermodynamic Evaluation and Optimization of a Solar-Geothermal Hybrid System in Northern Chile",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Herramienta computacional para la optimizaci\u00f3n del tama\u00f1o de mini-centrales hidroel\u00e9ctricas y sus l\u00edneas de interconexi\u00f3n al sistema de transmision",
+                "pub_year": "2015",
+                "citation": "Water Week Latinoam\u00e9rica, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Droplet Impact Behavior by an Improved Lattice Boltzmann Method",
+                "pub_year": "2015",
+                "citation": "13th Conference on Liquid Atomization and Spray Systems, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancement of the Optical Efficiency in Organic and Non-Organic Photovoltaic Cells With Inclusion of Metallic Nanoparticles",
+                "pub_year": "2013",
+                "citation": "ASME International Mechanical Engineering Congress and Exposition 56291 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Numerical Investigation of Flow Over an Airfoil by the Lattice Boltzmann Method",
+                "pub_year": "2013",
+                "citation": "ASME International Mechanical Engineering Congress and Exposition 56178 \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Observations on the Behavior of a Liquid Droplet Transported by a Gas Stream Impinging on an Isothermal Surface",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "885 Opening and closing characteristics of normally functioning stentless aortic bioprostheses",
+                "pub_year": "2003",
+                "citation": "European Journal of Echocardiography, S112, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conservation biotechnology for olive tree germplasm",
+                "pub_year": "1999",
+                "citation": "AGRO FOOD INDUSTRY HI-TECH 10 (6), 36-38, 1999"
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conservation biotechnology for olive tree germplasm.",
+                "pub_year": "1999",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rescate de Huellas en la Luz",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "le4B99MAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 1
+    }
+}

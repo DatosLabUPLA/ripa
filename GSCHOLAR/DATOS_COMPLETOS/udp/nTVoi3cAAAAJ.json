@@ -1,0 +1,67 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nTVoi3cAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yerko Ortiz",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=nTVoi3cAAAAJ&citpid=1",
+    "affiliation": "Course Instructor, Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Algorithms"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A framework for implementing metaheuristic algorithms using intercellular communication",
+                "pub_year": "2021",
+                "citation": "Frontiers in Bioengineering and Biotechnology 9, 660148, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "nTVoi3cAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8551898995749278333",
+            "cites_id": [
+                "8551898995749278333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "pyBrick-DNA: A Python-Based Environment for Automated Genetic Component Assembly",
+                "pub_year": "2023",
+                "citation": "Journal of Computational Biology 30 (12), 1315-1321, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "nTVoi3cAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

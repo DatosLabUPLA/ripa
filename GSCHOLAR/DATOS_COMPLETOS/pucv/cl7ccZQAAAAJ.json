@@ -1,0 +1,751 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cl7ccZQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Roberto O. Ch\u00e1vez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cl7ccZQAAAAJ&citpid=1",
+    "affiliation": "Laboratorio de Geo-informaci\u00f3n y percepci\u00f3n remota, Instituto de Geograf\u00eda, PUCV, Chile",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Quantitative remote sensing",
+        "vegetation monitoring",
+        "environmental impact assessment"
+    ],
+    "email_domain": "@pucv.cl",
+    "homepage": "http://www.labgrs.pucv.cl/",
+    "citedby": 1009,
+    "citedby5y": 851,
+    "hindex": 16,
+    "hindex5y": 15,
+    "i10index": 18,
+    "i10index5y": 17,
+    "cites_per_year": {
+        "2013": 3,
+        "2014": 20,
+        "2015": 23,
+        "2016": 35,
+        "2017": 27,
+        "2018": 35,
+        "2019": 71,
+        "2020": 129,
+        "2021": 158,
+        "2022": 194,
+        "2023": 216,
+        "2024": 79
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EDFKv8gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jan Clevers",
+            "affiliation": "Associate Professor in Remote Sensing, Wageningen University, the Netherlands"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "94JOMYcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio A Estay",
+            "affiliation": "Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ldF3hbYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martin Herold",
+            "affiliation": "GFZ Potsdam, University of Potsdam, Wageningen University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7emBPXYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mathieu Decuyper",
+            "affiliation": "Wageningen University & Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0EUiosEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ariel A. Mu\u00f1oz",
+            "affiliation": "Profesor Instituto de Geograf\u00eda, Pontificia Universidad Cat\u00f3lica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "W3G8mmgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ronald Rocco",
+            "affiliation": "labgrs, PUCV"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HgAZcHYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "\u00c1lvaro Gonz\u00e1lez-Reyes",
+            "affiliation": "Instituto de Ciencias de la Tierra (ICT), Universidad Austral de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S5ghpBMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Isabella Aguilera-Betti",
+            "affiliation": "Universidad de Magallanes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Qk3qyJEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro G. Gutierrez",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gqFj7SUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andres Moreira-Munoz",
+            "affiliation": "Profesor Investigador Instituto de Geograf\u00eda PUCV"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human\u2013environmental drivers and impacts of the globally extreme 2017 Chilean fires",
+                "pub_year": "2019",
+                "citation": "Ambio 48, 350-362, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 191,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13378628656142737431",
+            "cites_id": [
+                "13378628656142737431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Water crisis in Petorca Basin, Chile: The combined effects of a mega-drought and water management",
+                "pub_year": "2020",
+                "citation": "Water 12 (3), 648, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 98,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11632575085540381542",
+            "cites_id": [
+                "11632575085540381542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian object-based estimation of LAI and chlorophyll from a simulated Sentinel-2 top-of-atmosphere radiance image",
+                "pub_year": "2014",
+                "citation": "Remote Sensing of Environment 140, 318-329, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4801356002329881179",
+            "cites_id": [
+                "4801356002329881179"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatio-temporal assessment of beech growth in relation to climate extremes in Slovenia\u2013An integrated approach using remote sensing and tree-ring data",
+                "pub_year": "2020",
+                "citation": "Agricultural and Forest Meteorology 287, 107925, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9225557943635223369",
+            "cites_id": [
+                "9225557943635223369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GIMMS NDVI time series reveal the extent, duration, and intensity of \u201cblooming desert\u201d events in the hyper-arid Atacama Desert, Northern Chile",
+                "pub_year": "2019",
+                "citation": "International Journal of Applied Earth Observation and Geoinformation 76 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14382288631180651357",
+            "cites_id": [
+                "14382288631180651357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "50 years of water extraction in the Pampa del Tamarugal basin: Can Prosopis tamarugo trees survive in the hyper-arid Atacama Desert (Northern Chile)?",
+                "pub_year": "2016",
+                "citation": "Journal of Arid Environments 124, 292-303, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 59,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12299986445966226061",
+            "cites_id": [
+                "12299986445966226061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuous monitoring of forest change dynamics with satellite time series",
+                "pub_year": "2022",
+                "citation": "Remote Sensing of Environment 269, 112829, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:aqlVkmm33-oC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18206826541898010834",
+            "cites_id": [
+                "18206826541898010834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multidecadal environmental pollution in a mega-industrial area in central Chile registered by tree rings",
+                "pub_year": "2019",
+                "citation": "Science of The Total Environment 696, 133915, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:roLk4NBRz8UC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=200850849950829236",
+            "cites_id": [
+                "200850849950829236"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelling the spectral response of the desert tree Prosopis tamarugo to water stress",
+                "pub_year": "2013",
+                "citation": "International Journal of Applied Earth Observation and Geoinformation 21, 53-65, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11335496745189172364",
+            "cites_id": [
+                "11335496745189172364"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-scale approach to assess the effect of groundwater extraction on Prosopis tamarugo in the Atacama Desert",
+                "pub_year": "2016",
+                "citation": "Journal of Arid Environments 131, 25-34, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18025142141278024710",
+            "cites_id": [
+                "18025142141278024710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing Water Stress of Desert Tamarugo Trees Using in situ Data and Very High Spatial Resolution Remote Sensing",
+                "pub_year": "2013",
+                "citation": "Remote Sensing 5 (10), 5064-5088, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14577128734425919779",
+            "cites_id": [
+                "14577128734425919779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Self-Calibrated Non-Parametric Time Series Analysis Approach for Assessing Insect Defoliation of Broad-Leaved Deciduous Nothofagus pumilio Forests",
+                "pub_year": "2019",
+                "citation": "Remote Sensing 11 (2), 204, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339979430194597836",
+            "cites_id": [
+                "2339979430194597836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantifying massive outbreaks of the defoliator moth Ormiscodes amphimone in deciduous Nothofagus\u2010dominated southern forests using remote sensing time \u2026",
+                "pub_year": "2019",
+                "citation": "Journal of Applied Entomology 143 (7), 787-796, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9523578498638564019",
+            "cites_id": [
+                "9523578498638564019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecting leaf pulvinar movements on NDVI time series of desert trees: a new approach for water stress detection",
+                "pub_year": "2014",
+                "citation": "PLoS One 9 (9), e106613, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606370157748340970",
+            "cites_id": [
+                "6606370157748340970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Multiscale Productivity Assessment of High Andean Peatlands across the Chilean Altiplano Using 31 Years of Landsat Imagery",
+                "pub_year": "2019",
+                "citation": "Remote Sensing 11 (24), 2955, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:Se3iqnhoufwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2445270694714532845",
+            "cites_id": [
+                "2445270694714532845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatiotemporal peatland productivity and climate relationships across the western south American Altiplano",
+                "pub_year": "2021",
+                "citation": "Journal of Geophysical Research: Biogeosciences 126 (6), e2020JG005994, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1722343028644986997",
+            "cites_id": [
+                "1722343028644986997"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Object-based analysis of 8-bands WorldView2 imagery for assessing health condition of desert trees",
+                "pub_year": "2010",
+                "citation": "CGI report, ISSN, 1568-1874, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11128077853651753448",
+            "cites_id": [
+                "11128077853651753448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Andean peatlands at risk? Spatiotemporal patterns of extreme NDVI anomalies, water extraction and drought severity in a large-scale mining area of Atacama, northern Chile",
+                "pub_year": "2023",
+                "citation": "International Journal of Applied Earth Observation and Geoinformation 116 \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:dhFuZR0502QC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13693977646290315484",
+            "cites_id": [
+                "13693977646290315484"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ormiscodes amphimone Outbreak Frequency Increased Since 2000 in Subantarctic Nothofagus pumilio Forests of Chilean Patagonia",
+                "pub_year": "2020",
+                "citation": "Forest Pest and Disease Management in Latin America: Modern Perspectives in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12402798492335631921",
+            "cites_id": [
+                "12402798492335631921"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "npphen: an R-package for non-parametric reconstruction of vegetation phenology and anomaly detection using remote sensing",
+                "pub_year": "2018",
+                "citation": "bioRxiv, 301143, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14733389728898739379",
+            "cites_id": [
+                "14733389728898739379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing water stress of desert tamarugo trees using in situ data and very high spatial resolution remote sensing. Remote Sens 5: 5064-5088",
+                "pub_year": "2013",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6725457419873416840",
+            "cites_id": [
+                "6725457419873416840"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "npphen. Vegetation Phenological Cycle and Anomaly Detection using Remote Sensing Data",
+                "pub_year": "2017",
+                "citation": "UACH, PUCV, Chile, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8959948384620081640",
+            "cites_id": [
+                "8959948384620081640"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "npphen. An R package for estimating annual phenological cycle",
+                "pub_year": "2017",
+                "citation": "Uach, PUCV, Chile, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:5nxA0vEk-isC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=516774819957037897",
+            "cites_id": [
+                "516774819957037897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biodiversidad y cambio clim\u00e1tico en Chile: Evidencia cient\u00edfica para la toma de decisiones. Cap\u00edtulo 6: Datos en biodiversidad: un informe para COP25",
+                "pub_year": "2019",
+                "citation": "Comit\u00e9 Cient\u00edfico COP25: Ministerio de Ciencia, Tecnolog\u00eda, Conocimiento e \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:Zph67rFs4hoC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3640122499436755197",
+            "cites_id": [
+                "3640122499436755197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "npphen: An R-Package for Detecting and Mapping Extreme Vegetation Anomalies Based on Remotely Sensed Phenological Variability",
+                "pub_year": "2022",
+                "citation": "Remote Sensing 15 (1), 73, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15918612519640924678",
+            "cites_id": [
+                "15918612519640924678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Probabilistic Multi-Source Remote Sensing Approach to Evaluate Extreme Precursory Drought Conditions of a Wildfire Event in Central Chile",
+                "pub_year": "2022",
+                "citation": "Frontiers in Environmental Science 10, 865406, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4227150493892270774",
+            "cites_id": [
+                "4227150493892270774"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Snow cover and snow persistence changes in the Mocho-Choshuenco volcano (Southern Chile) derived from 35 years of Landsat satellite images",
+                "pub_year": "2021",
+                "citation": "Frontiers in Ecology and Evolution, 596, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:_kc_bZDykSQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7217547486734676800",
+            "cites_id": [
+                "7217547486734676800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing water stress of desert vegetation using remote sensing: the case of the tamarugo forest in the Atacama Desert (Northern Chile)",
+                "pub_year": "2014",
+                "citation": "PQDT-Global, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17297469252717954044",
+            "cites_id": [
+                "17297469252717954044"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Canopy Gap Structure as an Indicator of Intact, Old-Growth Temperate Rainforests in the Valdivian Ecoregion",
+                "pub_year": "2021",
+                "citation": "Forests 12 (9), 1183, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1777913260071018243",
+            "cites_id": [
+                "1777913260071018243"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Canopy gap structure as an indicator of intact, old-growth temperate rainforests in the valdivian ecoregion. Forests 2021, 12, 1183",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6708860521362661227",
+            "cites_id": [
+                "6708860521362661227"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A User-Friendly Remote-Sensing Web-Platform for Biodiversity Conservation and Management in Protected Areas",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Latin American GRSS & ISPRS Remote Sensing Conference (LAGIRS \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15703808414166839370",
+            "cites_id": [
+                "15703808414166839370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Object-based analysis of 8-bands Worldview2 imagery for assessing health condition of desert trees",
+                "pub_year": "2012",
+                "citation": "Wageningen University, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6348664951312516679",
+            "cites_id": [
+                "6348664951312516679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MODIS Time Series Reveal New Maximum Records of Defoliated Area by Ormiscodes amphimone in Deciduous Nothofagus Forests, Southern Chile",
+                "pub_year": "2023",
+                "citation": "Remote Sensing 15 (14), 3538, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Package \u2018npphen\u2019",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Canopy gap structure as an indicator of intact, old-growth temperate rainforests in the Valdivian ecoregion",
+                "pub_year": "2021",
+                "citation": "MDPI, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Larvas defoliadoras de los bosques australes",
+                "pub_year": "2020",
+                "citation": "Investigaci\u00f3n y ciencia, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Remote Sensing for Insect Outbreak Detection and Assessment in Latin America",
+                "pub_year": "2020",
+                "citation": "Forest Pest and Disease Management in Latin America: Modern Perspectives in \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantifying massive outbreaks of the defoliator moth ormiscodes amphimone in deciduous nothofagus-dominated southern forests using remote sensing time series analysis",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multidecadal environmental pollution in a mega-industrial area in central Chile registered by tree rings",
+                "pub_year": "2019",
+                "citation": "ELSEVIER, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing water stress of desert vegetation using remote sensing: the case of the tamarugo forest in the Atacama Desert (Northern Chile)",
+                "pub_year": "2014",
+                "citation": "Wageningen University, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing water stress of desert vegetation using remote sensing",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cl7ccZQAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

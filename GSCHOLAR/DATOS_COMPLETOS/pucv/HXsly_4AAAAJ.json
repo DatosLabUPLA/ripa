@@ -1,0 +1,360 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HXsly_4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Tapia",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HXsly_4AAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso (PUCV)",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Optics",
+        "Adaptive Optics",
+        "Imaging system (visible and infrared range)",
+        "Spatial super-resolution",
+        "Biophysics"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 50,
+    "citedby5y": 48,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 3,
+        "2020": 10,
+        "2021": 10,
+        "2022": 3,
+        "2023": 10,
+        "2024": 12
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P4eJcxUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Coelho Caro",
+            "affiliation": "Facultad de Ingenier\u00eda, Arquitectura y Dise\u00f1o, Universidad San Sebasti\u00e1n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ymoqnSgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esteban Vera",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6YDZBwgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Saavedra",
+            "affiliation": "Center for Optics and Photonics, Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "YPM6KxAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio N. Torres",
+            "affiliation": "Professor of Electrical Engineering, University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pl2r99EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Gonz\u00e1lez-Ortiz",
+            "affiliation": "Laboratorio de Investigaci\u00f3n Materno-Fetal (LIMaF), Universidad de Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Infrared light field imaging system free of fixed-pattern noise",
+                "pub_year": "2017",
+                "citation": "Scientific reports 7 (1), 13040, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6754914933891239384",
+            "cites_id": [
+                "6754914933891239384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Antioxidant effect of resveratrol in single red blood cells measured by thermal fluctuation spectroscopy",
+                "pub_year": "2019",
+                "citation": "Archives of biochemistry and biophysics 665, 30-35, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9829918852363305922",
+            "cites_id": [
+                "9829918852363305922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hyperspectral Microscopy Technology to Detect Syrups Adulteration of Endemic Guindo Santo and Quillay Honey Using Machine-Learning Tools",
+                "pub_year": "2022",
+                "citation": "Foods 11 (23), 3868, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3015277017837056701",
+            "cites_id": [
+                "3015277017837056701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Correlated flickering of erythrocytes membrane observed with dual time resolved membrane fluctuation spectroscopy under different d-glucose concentrations",
+                "pub_year": "2021",
+                "citation": "Scientific Reports 11 (1), 2429, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368730490978693781",
+            "cites_id": [
+                "14368730490978693781"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and training of a deep neural network for estimating the optical gain in pyramid wavefront sensors",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics and Applications, JF1B. 6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14212666767003721687",
+            "cites_id": [
+                "14212666767003721687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploration of convolutional neural networks to handle non-linearity estimation issues in pyramid wavefront sensors.",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics Systems VIII 12185, 2576-2581, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10347528516738910775",
+            "cites_id": [
+                "10347528516738910775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CAMARAS PLENOPTICAS, DISE\u00d1O Y APLICACIONES",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8146600891552062294",
+            "cites_id": [
+                "8146600891552062294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep optics preconditioner for modulation-free pyramid wavefront sensing",
+                "pub_year": "2024",
+                "citation": "Photonics Research 12 (2), 301-312, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123691728508950334",
+            "cites_id": [
+                "6123691728508950334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PULPOS: a multi-purpose adaptive optics test bench in Chile",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics Systems VIII 12185, 2222-2231, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4216439048607289390",
+            "cites_id": [
+                "4216439048607289390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced Pyramid Wavefront Sensor via End-to-End trained diffractive optical layer",
+                "pub_year": "2022",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14071672776776425195",
+            "cites_id": [
+                "14071672776776425195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal fluctuation spectroscopy apply to red blood cells membrane: the effect of glucose on the micro rheological properties",
+                "pub_year": "2020",
+                "citation": "Clinical and Translational Biophotonics, TW4B. 6, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3063160955923512511",
+            "cites_id": [
+                "3063160955923512511"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase Retrieval by Designed Hadamard Complementary Coded Apertures.",
+                "pub_year": "2024",
+                "citation": "Optica Open, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-speed wavefront reconstruction of a Gaussian beam propagating through controlled optical turbulence",
+                "pub_year": "2023",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans XII \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PULPOS: A multi-purpose adaptive optics test bench for testing advanced wavefront sensing concepts",
+                "pub_year": "2022",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Process allowing the removal through digital refocusing of fixed-pattern noise in effective images formed by electromagnetic sensor arrays in a light field",
+                "pub_year": "2021",
+                "citation": "US Patent 10,891,716, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mejora en la resoluci\u00f3n espacial en pinzas \u00f3pticas dobles mediante uso de correlaciones espaciales.",
+                "pub_year": "2020",
+                "citation": "Universidad de Concepci\u00f3n, Facultad de Ciencias F\u00edsicas y Matem\u00e1ticas \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatial resolution improvement in dual optical tweezers by using spatial correlations",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PROCEDIMIENTO QUE PERMITE ELIMINAR EL RUIDO DE PATRON FIJO EN IM\u00c1GENES EFECTIVAS FORMADAS POR UN ARREGLO DE SENSORES ELECTROMAGNETICOS DE UN CAMPO DE LUZ MEDIANTE REENFOQUE DIGITAL",
+                "pub_year": "2018",
+                "citation": "ES Patent 55,615, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "C\u00e1maras Plen\u00f3pticas, dise\u00f1o y aplicaciones",
+                "pub_year": "2016",
+                "citation": "Universidad de Concepci\u00f3n, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "HXsly_4AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

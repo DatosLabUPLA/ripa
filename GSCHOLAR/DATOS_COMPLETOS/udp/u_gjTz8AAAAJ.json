@@ -1,0 +1,119 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "u_gjTz8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gabriel Sotomayor",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Desigualdad",
+        "Estratificaci\u00f3n Social",
+        "Sociolog\u00eda del Trabajo",
+        "Impuestos"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pi6ccTkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tom\u00e1s Peters",
+            "affiliation": "Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nuevas y viejas tendencias del consumo cultural en Chile: desigualdades, pr\u00e1cticas emergentes y descripciones sem\u00e1nticas",
+                "pub_year": "2022",
+                "citation": "Revista Internacional de Sociolog\u00eda 80 (3), e212-e212, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "u_gjTz8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15741896979378276399",
+            "cites_id": [
+                "15741896979378276399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Book Review: Marx, Women, and Capitalist Social Reproduction: Marxist Feminist Essays by Martha E Gimenez",
+                "pub_year": "2020",
+                "citation": "Capital & Class 44 (1), 126-128, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "u_gjTz8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12822718642586287659,14655828458450544772",
+            "cites_id": [
+                "12822718642586287659",
+                "14655828458450544772"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control, Property and Corporate Change: Observing Large Companies Transformation in Chile",
+                "pub_year": "2021",
+                "citation": "33rd Annual Meeting, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "u_gjTz8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desigualdades de g\u00e9nero y clase en los tiempos de trabajo remunerado y no remunerado en Chile",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "u_gjTz8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Book Review: Capitalism and the Political Economy of Work Time by Christoph Hermann",
+                "pub_year": "2018",
+                "citation": "Capital & Class 42 (3), 585-587, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "u_gjTz8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

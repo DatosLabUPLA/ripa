@@ -1,0 +1,237 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "orHWtQEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilo Weinberger Cerro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=orHWtQEAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Optics",
+        "Optoelectronics",
+        "Turbulence",
+        "Wavefront sensors",
+        "Adaptive optics"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 49,
+    "citedby5y": 42,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2017": 4,
+        "2018": 3,
+        "2019": 4,
+        "2020": 2,
+        "2021": 10,
+        "2022": 9,
+        "2023": 9,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NynEwzEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gustavo Funes",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "j_0iv2cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Olivares",
+            "affiliation": "Postdoc IFISC - Plama"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wLoNVa8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yeraldinne Carrasco Salas",
+            "affiliation": "Postdoctoral Researcher, LIPhy"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis of anisotropic optical turbulence at the laboratory",
+                "pub_year": "2016",
+                "citation": "Optics letters 41 (24), 5696-5699, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16749484834018669755",
+            "cites_id": [
+                "16749484834018669755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boosting the deep learning wavefront sensor for real-time applications",
+                "pub_year": "2021",
+                "citation": "Applied Optics 60 (10), B119-B124, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16324651640575373856",
+            "cites_id": [
+                "16324651640575373856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved training for the deep learning wavefront sensor",
+                "pub_year": "2020",
+                "citation": "Adaptive Optics Systems VII 11448, 887-892, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557674479554192762",
+            "cites_id": [
+                "15557674479554192762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and training of a deep neural network for estimating the optical gain in pyramid wavefront sensors",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics and Applications, JF1B. 6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14212666767003721687",
+            "cites_id": [
+                "14212666767003721687"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploration of convolutional neural networks to handle non-linearity estimation issues in pyramid wavefront sensors.",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics Systems VIII 12185, 2576-2581, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10347528516738910775",
+            "cites_id": [
+                "10347528516738910775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep optics preconditioner for modulation-free pyramid wavefront sensing",
+                "pub_year": "2024",
+                "citation": "Photonics Research 12 (2), 301-312, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123691728508950334",
+            "cites_id": [
+                "6123691728508950334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PULPOS: a multi-purpose adaptive optics test bench in Chile",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics Systems VIII 12185, 2222-2231, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4216439048607289390",
+            "cites_id": [
+                "4216439048607289390"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced Pyramid Wavefront Sensor via End-to-End trained diffractive optical layer",
+                "pub_year": "2022",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14071672776776425195",
+            "cites_id": [
+                "14071672776776425195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PULPOS: A multi-purpose adaptive optics test bench for testing advanced wavefront sensing concepts",
+                "pub_year": "2022",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Training and using the deep learning wavefront sensor",
+                "pub_year": "2020",
+                "citation": "Imaging Systems and Applications, JW2A. 24, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory synthesis of atmospheric anisotropic turbulence",
+                "pub_year": "2016",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "orHWtQEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

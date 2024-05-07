@@ -1,0 +1,90 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "C3iasTUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Anibal Stuardo Oyanedel",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=C3iasTUAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Telecomunicaciones",
+        "Dise\u00f1o de componentes de radio frecuencia"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 18,
+    "citedby5y": 18,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 6,
+        "2022": 6,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3D-printed sievenpiper metasurface using conductive filaments",
+                "pub_year": "2020",
+                "citation": "Materials 13 (11), 2614, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "C3iasTUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3606073240586305974",
+            "cites_id": [
+                "3606073240586305974"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully 3d-printed spring metasurface loaded with dielectric substrate",
+                "pub_year": "2022",
+                "citation": "AEU-International Journal of Electronics and Communications 151, 154224, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "C3iasTUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13191218536249050847",
+            "cites_id": [
+                "13191218536249050847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Potential use of cold plasma discharges for frequency reconfigurability in a sievenpiper mushroom metasurface",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (23), 11342, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "C3iasTUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1149886472463415928",
+            "cites_id": [
+                "1149886472463415928"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

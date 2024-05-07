@@ -1,0 +1,234 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "gD5Y61QAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe del Rio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gD5Y61QAAAAJ&citpid=2",
+    "affiliation": "Phd. student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "machine learning",
+        "deep learning",
+        "recommender systems"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 29,
+    "citedby5y": 29,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 4,
+        "2021": 6,
+        "2022": 10,
+        "2023": 4,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOVVRk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Soto",
+            "affiliation": "Professor Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "iSY0Kj8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio Cerda-Mardini",
+            "affiliation": "MindsDB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "D_bkoi8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Eyzaguirre",
+            "affiliation": "Ph.D. Student, Stanford University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3MYIosoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vicente Dominguez",
+            "affiliation": "Pontifica Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p4TbBLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladimir Araujo",
+            "affiliation": "Postdoctoral Researcher - KU Leuven"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0gXva0YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Buc Calderon",
+            "affiliation": "Centro Nacional de Inteligencia Artificial"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "te1de2MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Ossa Guerra",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZKnSBs4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Hurtado",
+            "affiliation": "Phd PUC Chile, Innovation Research Associate CAMaCS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rQLINtQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vincenzo Lomonaco",
+            "affiliation": "Assistant Professor @ Unipi, President @ ContinualAI.org, Co-Founder @ ContinualIST.org"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Do Better ImageNet Models Transfer Better... for Image Recommendation?",
+                "pub_year": "2018",
+                "citation": "2nd workshop on Intelligent Recommender Systems by Knowledge Transfer and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2495189299327511902",
+            "cites_id": [
+                "2495189299327511902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CuratorNet: Visually-aware recommendation of art images",
+                "pub_year": "2020",
+                "citation": "ComplexRec-ImpactRS @ RecSys, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1456394915785839293",
+            "cites_id": [
+                "1456394915785839293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DACT-BERT: Differentiable Adaptive Computation Time for an Efficient BERT Inference",
+                "pub_year": "2022",
+                "citation": "The First Workshop on Efficient Benchmarking in NLP, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6670691842723364664,15086405358504217708",
+            "cites_id": [
+                "6670691842723364664",
+                "15086405358504217708"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a Recommender System for Undergraduate Research",
+                "pub_year": "2017",
+                "citation": "11th ACM Conference on Recommender Systems, Poster session, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2441038997305061068",
+            "cites_id": [
+                "2441038997305061068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VisRec: A Hands-on Tutorial on Deep Learning for Visual Recommender Systems",
+                "pub_year": "2021",
+                "citation": "26th International Conference on Intelligent User Interfaces-Companion, 5-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5047593047068164189",
+            "cites_id": [
+                "5047593047068164189"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Studying Generalization on Memory-Based Methods in Continual Learning",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2306.09890, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14041258004316543891",
+            "cites_id": [
+                "14041258004316543891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Targeted Image Data Augmentation Increases Basic Skills Captioning Robustness",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2309.15991, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "gD5Y61QAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,328 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "j5DcHasAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Guzm\u00e1n Vega",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Computational Imaging",
+        "Compressed Sensing",
+        "Wavefron Sensing"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 48,
+    "citedby5y": 48,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2021": 6,
+        "2022": 10,
+        "2023": 24,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ymoqnSgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esteban Vera",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "orHWtQEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Camilo Weinberger Cerro",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JQXNzLUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nelson Diaz",
+            "affiliation": "Postdoctoral Fellow, Department of Electrical Engineering, Universidad Cat\u00f3lica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "X3UDDjoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Meza",
+            "affiliation": "Universida de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Qto5714AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Alvarado",
+            "affiliation": "Lecturer, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Shuffled rolling shutter for snapshot temporal imaging",
+                "pub_year": "2022",
+                "citation": "Optics Express 30 (2), 887-901, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13245351388204690214",
+            "cites_id": [
+                "13245351388204690214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boosting the deep learning wavefront sensor for real-time applications",
+                "pub_year": "2021",
+                "citation": "Applied Optics 60 (10), B119-B124, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:WF5omc3nYNoC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16324651640575373856",
+            "cites_id": [
+                "16324651640575373856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive temporal imaging using a rolling shutter camera array",
+                "pub_year": "2021",
+                "citation": "Optics Express 29 (9), 12787-12800, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11634420294919305278",
+            "cites_id": [
+                "11634420294919305278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved training for the deep learning wavefront sensor",
+                "pub_year": "2020",
+                "citation": "Adaptive Optics Systems VII 11448, 887-892, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15557674479554192762",
+            "cites_id": [
+                "15557674479554192762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multispectral filter array design by optimal sphere packing",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Image Processing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8120931240189472318",
+            "cites_id": [
+                "8120931240189472318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploration of convolutional neural networks to handle non-linearity estimation issues in pyramid wavefront sensors.",
+                "pub_year": "2022",
+                "citation": "Adaptive Optics Systems VIII 12185, 2576-2581, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10347528516738910775",
+            "cites_id": [
+                "10347528516738910775"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multispectral mosaic design using a sphere packing filter array",
+                "pub_year": "2022",
+                "citation": "Computational Optical Sensing and Imaging, CTh4C. 1, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14101067869119470223",
+            "cites_id": [
+                "14101067869119470223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep optics preconditioner for modulation-free pyramid wavefront sensing",
+                "pub_year": "2024",
+                "citation": "Photonics Research 12 (2), 301-312, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123691728508950334",
+            "cites_id": [
+                "6123691728508950334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive video via IR-pulsed illumination",
+                "pub_year": "2023",
+                "citation": "Optics Express 31 (23), 39201-39212, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14158178410044681955",
+            "cites_id": [
+                "14158178410044681955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced Pyramid Wavefront Sensor via End-to-End trained diffractive optical layer",
+                "pub_year": "2022",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14071672776776425195",
+            "cites_id": [
+                "14071672776776425195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved compressive temporal imaging using a shuffled rolling shutter",
+                "pub_year": "2021",
+                "citation": "Fourier Transform Spectroscopy, JTh6A. 9, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7762159816604137140",
+            "cites_id": [
+                "7762159816604137140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Training and using the deep learning wavefront sensor",
+                "pub_year": "2020",
+                "citation": "Imaging Systems and Applications, JW2A. 24, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive rolling shutter camera array",
+                "pub_year": "2020",
+                "citation": "Computational Optical Sensing and Imaging, CW4B. 2, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-Cost Fourier Ptychography Microscope Kit",
+                "pub_year": "2019",
+                "citation": "2019 XXII Symposium on Image, Signal Processing and Artificial Vision \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low-cost high resolution microscopy based on fourier ptychography",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demosaicking Multispectral Images by Sphere Packing Filter Design",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo de un microscopio basado en Fourier Ptychography",
+                "citation": "Valpara\u00edso, Chile Pontificia Universidad Cat\u00f3lica de Valpara\u00edso, 0"
+            },
+            "filled": false,
+            "author_pub_id": "j5DcHasAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 3
+    }
+}

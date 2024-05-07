@@ -1,0 +1,1023 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7EB5IpEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Julio C. L\u00f3pez Luis",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7EB5IpEAAAAJ&citpid=2",
+    "affiliation": "Instituto de Ciencias B\u00e1sicas, Facultad de Ingenier\u00eda y Ciencias, Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "conic programming",
+        "convex optimization",
+        "proximal algorithms",
+        "machine learning"
+    ],
+    "email_domain": "@udp.cl",
+    "citedby": 1329,
+    "citedby5y": 1103,
+    "hindex": 20,
+    "hindex5y": 17,
+    "i10index": 33,
+    "i10index5y": 25,
+    "cites_per_year": {
+        "2013": 8,
+        "2014": 11,
+        "2015": 18,
+        "2016": 46,
+        "2017": 52,
+        "2018": 81,
+        "2019": 136,
+        "2020": 183,
+        "2021": 196,
+        "2022": 266,
+        "2023": 225,
+        "2024": 94
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Qzl7WeYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sebasti\u00e1n Maldonado",
+            "affiliation": "Department of Management Control and Information Systems, University of Chile & ISCI"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cfmvWC0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Miguel Carrasco",
+            "affiliation": "Profesor de Matem\u00e1ticas, Universidad de los Andes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Vze5x18AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Ramirez C.",
+            "affiliation": "Depto Ingenier\u00eda Matem\u00e1tica & Centro de Modelamiento Matem\u00e1tico, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fu7_nDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Alvarez",
+            "affiliation": "Departamento de Ingenier\u00eda Matem\u00e1tica, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IeppRzQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Paul Bosch",
+            "affiliation": "Universidad del Desarrollo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UPq3SPUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Montoya",
+            "affiliation": "Associate Professor of Marketing, Universidad Cat\u00f3lica de Chile - School of Management"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dealing with high-dimensional class-imbalanced datasets: embedded feature selection for SVM classification",
+                "pub_year": "2018",
+                "citation": "Applied Soft Computing 67, 94-105, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:-f6ydRqryjwC",
+            "num_citations": 230,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7914724732138781468",
+            "cites_id": [
+                "7914724732138781468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An alternative SMOTE oversampling strategy for high-dimensional datasets",
+                "pub_year": "2019",
+                "citation": "Applied Soft Computing 76, 380-389, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 196,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8053690365476218874",
+            "cites_id": [
+                "8053690365476218874"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated framework for profit-based feature selection and SVM classification in credit scoring",
+                "pub_year": "2017",
+                "citation": "Decision Support Systems 104, 113-121, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 107,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5251174004906499094",
+            "cites_id": [
+                "5251174004906499094"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Imbalanced data classification using second-order cone programming support vector machines",
+                "pub_year": "2014",
+                "citation": "Pattern Recognition 47 (5), 2070-2079, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 90,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17901909118423774784",
+            "cites_id": [
+                "17901909118423774784"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior proximal algorithm with variable metric for second-order cone programming: applications to structural optimization and support vector machines",
+                "pub_year": "2010",
+                "citation": "Optimization Methods & Software 25 (6), 859-881, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2011530500029415404",
+            "cites_id": [
+                "2011530500029415404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Profit-based churn prediction based on minimax probability machines",
+                "pub_year": "2020",
+                "citation": "European Journal of Operational Research 284 (1), 273-284, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8084337748266123768",
+            "cites_id": [
+                "8084337748266123768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous feature selection and heterogeneity control for SVM classification: An application to mental workload assessment",
+                "pub_year": "2020",
+                "citation": "Expert Systems with Applications 143, 112988, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8121168958108933546",
+            "cites_id": [
+                "8121168958108933546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double regularization methods for robust feature selection and SVM classification via DC programming",
+                "pub_year": "2018",
+                "citation": "Information Sciences 429, 377-389, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:qUcmZB5y_30C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4474130304819630079",
+            "cites_id": [
+                "4474130304819630079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Support vector machine under uncertainty: An application for hydroacoustic classification of fish-schools in Chile",
+                "pub_year": "2013",
+                "citation": "Expert Systems with Applications 40 (10), 4029-4034, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5629429257165249873",
+            "cites_id": [
+                "5629429257165249873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Profit-based Credit Scoring based on Robust Optimization and Feature Selection",
+                "pub_year": "2019",
+                "citation": "Information Sciences 500, 190-202, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10306739612090375537",
+            "cites_id": [
+                "10306739612090375537"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A second-order cone programming formulation for twin support vector machines",
+                "pub_year": "2016",
+                "citation": "Applied Intelligence 45 (2), 265-276, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7181965345233490817",
+            "cites_id": [
+                "7181965345233490817"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-class Second-Order Cone Programming Support Vector Machines",
+                "pub_year": "2016",
+                "citation": "Information Sciences 330, 328-341, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7852412619299654205",
+            "cites_id": [
+                "7852412619299654205"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Alternative second-order cone programming formulations for support vector classification",
+                "pub_year": "2014",
+                "citation": "Information Sciences 268, 328-341, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10014543731569659303",
+            "cites_id": [
+                "10014543731569659303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synchronized feature selection for Support Vector Machines with twin hyperplanes",
+                "pub_year": "2017",
+                "citation": "Knowledge-Based Systems 132, 119-128, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9730735375306597836",
+            "cites_id": [
+                "9730735375306597836"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Second-order cone programming formulation for nonparallel hyperplane support vector machine",
+                "pub_year": "2016",
+                "citation": "Expert Systems with Applications 54, 95-104, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:_kc_bZDykSQC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15097726855318639582",
+            "cites_id": [
+                "15097726855318639582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust nonparallel support vector machines via second-order cone programming",
+                "pub_year": "2019",
+                "citation": "Neurocomputing 364, 227-238, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:r0BpntZqJG4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=199557130854786607",
+            "cites_id": [
+                "199557130854786607"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Redefining nearest neighbor classification in high-dimensional settings",
+                "pub_year": "2018",
+                "citation": "Pattern Recognition Letters 110, 36-43, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13340238774054031907",
+            "cites_id": [
+                "13340238774054031907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-class SVM approach based on the l1-norm minimization of the distances between the reduced convex hulls",
+                "pub_year": "2015",
+                "citation": "Pattern Recognition 48 (5), 1598-1607, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13208455087538849342",
+            "cites_id": [
+                "13208455087538849342"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Time-weighted Fuzzy Support Vector Machines for classification in changing environments",
+                "pub_year": "2021",
+                "citation": "Information Sciences 559, 97-110, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:UxriW0iASnsC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13300167527419487199",
+            "cites_id": [
+                "13300167527419487199"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust twin support vector regression via second-order cone programming",
+                "pub_year": "2018",
+                "citation": "Knowledge-Based Systems 152, 83-93, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:mB3voiENLucC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13185670434939111303",
+            "cites_id": [
+                "13185670434939111303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel Multi-class SVM model using second-order cone constraints",
+                "pub_year": "2016",
+                "citation": "Applied Intelligence 44 (2), 457-469, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18328897367687194046",
+            "cites_id": [
+                "18328897367687194046"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epsilon-nonparallel support vector regression",
+                "pub_year": "2019",
+                "citation": "Applied Intelligence 49 (12), 4223-4236, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14411250479178713282",
+            "cites_id": [
+                "14411250479178713282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Embedded heterogeneous feature selection for conjoint analysis: A SVM approach using L1 penalty",
+                "pub_year": "2017",
+                "citation": "Applied Intelligence 46 (6), 775-787, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12455826105864341180",
+            "cites_id": [
+                "12455826105864341180"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An embedded feature selection approach for support vector classification via second-order cone programming",
+                "pub_year": "2015",
+                "citation": "Intelligent Data Analysis Journal 19 (6), 1259-1273, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6350579405577770625",
+            "cites_id": [
+                "6350579405577770625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous model construction and noise reduction for hierarchical time series via Support Vector Regression",
+                "pub_year": "2021",
+                "citation": "Knowledge-Based Systems 232, 107492, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:SP6oXDckpogC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=502950494942734432",
+            "cites_id": [
+                "502950494942734432"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Out-of-time cross-validation strategies for classification in the presence of dataset shift",
+                "pub_year": "2022",
+                "citation": "Applied Intelligence 52 (5), 5770-5783, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16690780356721339910",
+            "cites_id": [
+                "16690780356721339910"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Group-penalized feature selection and robust twin SVM classification via second-order cone programming",
+                "pub_year": "2017",
+                "citation": "Neurocomputing 235, 112-121, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:dhFuZR0502QC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17976987134569537834",
+            "cites_id": [
+                "17976987134569537834"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularized minimax probability machine",
+                "pub_year": "2019",
+                "citation": "Knowledge-Based Systems 177, 127-135, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8137620866544367001",
+            "cites_id": [
+                "8137620866544367001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A feasible direction algorithm for nonlinear second-order cone programs",
+                "pub_year": "2019",
+                "citation": "Optimization Methods and Software 34 (6), 1322-1341, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:TQgYirikUcIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14913002725337017820",
+            "cites_id": [
+                "14913002725337017820"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust formulation for twin multiclass support vector machine",
+                "pub_year": "2017",
+                "citation": "Applied Intelligence 47 (4), 1031-1043, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4000052771989302963",
+            "cites_id": [
+                "4000052771989302963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust Kernel-based Multiclass Support Vector Machines via Second-Order Cone Programming",
+                "pub_year": "2017",
+                "citation": "Applied Intelligence 46 (6), 983-992, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11109405219334114165",
+            "cites_id": [
+                "11109405219334114165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the central paths and Cauchy trajectories in semidefinite programming",
+                "pub_year": "2010",
+                "citation": "Kybernetika 46 (3), 524-535, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15319008163204997841",
+            "cites_id": [
+                "15319008163204997841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new method for reliability analysis and reliability-based design optimization",
+                "pub_year": "2019",
+                "citation": "Structural and Multidisciplinary Optimization 59 (5), 1655-1671, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1791532660235249809",
+            "cites_id": [
+                "1791532660235249809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mining EEG with SVM for understanding cognitive underpinnings of math problem solving strategies",
+                "pub_year": "2018",
+                "citation": "Behavioural Neurology 2018, 15, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:hC7cP41nSMkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1483887233132601965",
+            "cites_id": [
+                "1483887233132601965"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous preference estimation and heterogeneity control for choice-based conjoint via support vector machines",
+                "pub_year": "2017",
+                "citation": "Journal of the Operational Research Society 68 (11), 1323-1334, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14405966336631904852",
+            "cites_id": [
+                "14405966336631904852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of the sequential parametric convex approximation method to the design of robust trusses",
+                "pub_year": "2017",
+                "citation": "Journal of Global Optimization 68, 169-187, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:4DMP91E08xMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11532015452453666241",
+            "cites_id": [
+                "11532015452453666241"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A proximal multiplier method for convex separable symmetric cone optimization",
+                "pub_year": "2020",
+                "citation": "Proceedings of the 2020 5th International Conference on Multimedia Systems \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:YFjsv_pBGBYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16953973482505335601",
+            "cites_id": [
+                "16953973482505335601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ellipsoidal Support Vector Regression based on Second-order Cone Programming",
+                "pub_year": "2018",
+                "citation": "Neurocomputing 305, 59-69, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:HDshCWvjkbEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13161050236344078162",
+            "cites_id": [
+                "13161050236344078162"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construction of proximal distances over symmetric cones",
+                "pub_year": "2017",
+                "citation": "Optimization 66, 1301-1321, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5655002784646961419",
+            "cites_id": [
+                "5655002784646961419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust feature selection for multiclass Support Vector Machines using second-order cone programming",
+                "pub_year": "2015",
+                "citation": "Intelligent Data Analysis 19 (s1), S117-S133, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490061432936198829",
+            "cites_id": [
+                "4490061432936198829"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "OWAdapt: An adaptive loss function for deep learning using OWA operators",
+                "pub_year": "2023",
+                "citation": "Knowledge-Based Systems 280, 111022, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:WbkHhVStYXYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12874070320344486536",
+            "cites_id": [
+                "12874070320344486536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pooling information across levels in hierarchical time series forecasting via Kernel methods",
+                "pub_year": "2023",
+                "citation": "Expert Systems with Applications 213, 118830, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:u9iWguZQMMsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5992319754972744441",
+            "cites_id": [
+                "5992319754972744441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Cobb-Douglas Learning Machine",
+                "pub_year": "2022",
+                "citation": "Pattern Recognition 128, 108701, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:OU6Ihb5iCvQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18063802870442986175",
+            "cites_id": [
+                "18063802870442986175"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Convergence to the optimal value for barrier methods combined with Hessian Riemannian gradient flows and generalized proximal algorithms",
+                "pub_year": "2010",
+                "citation": "Journal of Convex Analysis 17 (3&4), 701-720, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6223149557890253756",
+            "cites_id": [
+                "6223149557890253756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior proximal bundle algorithm with variable metric for nonsmooth convex symmetric cone programming",
+                "pub_year": "2016",
+                "citation": "Optimization 65 (9), 1757-1779, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3903555240966371032",
+            "cites_id": [
+                "3903555240966371032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Linear Complementarity Problems over Symmetric Cones: Characterization of Q  b -transformations and Existence Results",
+                "pub_year": "2013",
+                "citation": "Journal of Optimization Theory and Applications 159, 741-768, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10997243630381941882",
+            "cites_id": [
+                "10997243630381941882"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing Q-linear transformations for semidefinite linear complementarity problems",
+                "pub_year": "2012",
+                "citation": "Nonlinear Analysis: Theory, Methods & Applications 75 (3), 1441-1448, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16253053838986032741",
+            "cites_id": [
+                "16253053838986032741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence and stability results based on asymptotic analysis for semidefinite linear complementarity problems",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10882078411695841515",
+            "cites_id": [
+                "10882078411695841515"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Topology optimization of truss structures under failure probability using the Bernstein approximation",
+                "pub_year": "2024",
+                "citation": "Computers and Structures 296, 107295, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A symmetric cone proximal multiplier algorithm",
+                "pub_year": "2023",
+                "citation": "Seventh Sense Research Group, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:Tiz5es2fbqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Combining support vector machine classification and profit measures in credit scoring",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Profit-based classification and feature selection with support vector machines: An application in credit scoring",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NUMERICAL AND THEORETICAL STUDY OF CONIC COMPLEMENTARITY PROBLEMS. APPLICATIONS TO ROBUST MULTI-CLASS CLASSIFICATION",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:vRqMK49ujn8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior proximal bundle algorithm with variable metric for nonsmooth convex symmetric cone programming",
+                "pub_year": "2016",
+                "citation": "Taylor & Francis, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust feature selection for multi-class second-order cone programming support vector machines",
+                "pub_year": "2015",
+                "citation": "Intelligent Data Analysis 19 (1), S117-S133, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Note on the Paper \u201cLinear Complementarity Problems Over Symmetric Cones: Characterization of Qb-Transformations and Existence Results\u201d",
+                "pub_year": "2014",
+                "citation": "Journal of Optimization Theory and Applications 163 (1), 351-354, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NUMERICAL STUDY OF PROXIMAL TYPE ALGORITHM FOR CONVEX PROGRAMMING PROBLEMS WITH PARTICULAR STRUCTURE AND ANALYSIS OF SEMIDEFINITE PROGRAMS.",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:K3LRdlH-MEoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis de Problemas de Control y Aplicaciones.",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "NUMERICAL ALGORITHMS FOR NON-SMOOTH OPTIMIZATION AND VARIATIONAL INEQUALITIES OVER SECOND-ORDER CONE",
+                "pub_year": "2010",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:08ZZubdj9fEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior Proximal Algorithm with Variable Metric for Second-Order Cone Programming: Applications to Structural Optimization and Support Vector Machines",
+                "pub_year": "2009",
+                "citation": "Taylor & Francis, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularized Interior Proximal Alternating Direction Method for Separable Convex Optimization Problems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7EB5IpEAAAAJ:maZDTaKrznsC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "RF6l_rMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicolas Boettcher",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=RF6l_rMAAAAJ&citpid=2",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "network protocols analysis",
+        "measurement and simulation",
+        "security and privacy"
+    ],
+    "email_domain": "@udp.cl",
+    "homepage": "https://installfights.blogspot.com/",
+    "citedby": 22,
+    "citedby5y": 17,
+    "hindex": 3,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 7,
+        "2020": 2,
+        "2021": 3,
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xewIFOAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yasmany Prieto Hern\u00e1ndez",
+            "affiliation": "Departamento de Ingenier\u00eda Inform\u00e1tica, Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Increasing network reliability to correlated failures through optimal multiculture design",
+                "pub_year": "2017",
+                "citation": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7329647107122491293",
+            "cites_id": [
+                "7329647107122491293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resilient multiculture network design in the presence of exploit-triggered correlated failures",
+                "pub_year": "2018",
+                "citation": "IEEE Latin America Transactions 16 (9), 2336-2344, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3983973711776211223",
+            "cites_id": [
+                "3983973711776211223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal Multiculture Network Design for Maximizing Resilience in the Face of Multiple Correlated Failures",
+                "pub_year": "2019",
+                "citation": "Applied Sciences 9 (11), 2256, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12048657131737881537",
+            "cites_id": [
+                "12048657131737881537"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QoSApp: Dynamic bandwith management for QoS applications using OpenFlow",
+                "pub_year": "2016",
+                "citation": "2016 IEEE 37th Sarnoff Symposium, 1-2, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10129716362224138776",
+            "cites_id": [
+                "10129716362224138776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Micro Failure Region Models Inducing Massive Correlated Failures on Networks Topologies",
+                "pub_year": "2018",
+                "citation": "International Conference on Information Technology in Disaster Risk \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923772921674437735",
+            "cites_id": [
+                "14923772921674437735"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geolocalizaci\u00f3n dentro de la ciudad independiente del cliente",
+                "pub_year": "2013",
+                "citation": "2013 Senacitel, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical efficiency gains of high-speed UDP-based protocols in realistic settings",
+                "pub_year": "2013",
+                "citation": "2013 Latincom, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "RF6l_rMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

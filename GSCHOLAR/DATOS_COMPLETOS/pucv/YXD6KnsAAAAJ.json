@@ -1,0 +1,770 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YXD6KnsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Milovic",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YXD6KnsAAAAJ&citpid=1",
+    "affiliation": "Associate Professor, School of Electrical Engineering, Pontificia Universidad Catolica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Inverse problems",
+        "image reconstruction",
+        "Quantitative Susceptibility Mapping"
+    ],
+    "email_domain": "@pucv.cl",
+    "homepage": "https://eie.pucv.cl/nuestro-equipo/carlos-milovic-fabregat/",
+    "citedby": 777,
+    "citedby5y": 665,
+    "hindex": 13,
+    "hindex5y": 13,
+    "i10index": 14,
+    "i10index5y": 13,
+    "cites_per_year": {
+        "2013": 3,
+        "2014": 2,
+        "2015": 2,
+        "2016": 5,
+        "2017": 13,
+        "2018": 39,
+        "2019": 66,
+        "2020": 81,
+        "2021": 118,
+        "2022": 130,
+        "2023": 166,
+        "2024": 85
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TCz_FngAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Tejos",
+            "affiliation": "Professor, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UiSXwdIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Berkin Bilgic",
+            "affiliation": "Massachusetts General Hospital, Harvard Medical School"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lQMCl7gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Langkammer",
+            "affiliation": "Department of Neurology, Medical University of Graz, Austria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_-CaQ9wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Julio Acosta-Cabronero",
+            "affiliation": "Head of R&D at Luminance Technologies"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "F1ZwUloAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 P. Marques",
+            "affiliation": "Associate PI, Radboud University, Nijmegen, The Netherlands"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Qo5PDKIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Karin Shmueli",
+            "affiliation": "Professor of Magnetic Resonance Imaging Physics, UCL Medical Physics & Biomedical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9EM2bHIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Irarrazaval",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Zps6LIMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ferdinand Schweser",
+            "affiliation": "Associate Professor, University at Buffalo, The State University of New York"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "c1iKsfIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kristian Bredies",
+            "affiliation": "University of Graz"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative susceptibility mapping: Report from the 2016 reconstruction challenge",
+                "pub_year": "2018",
+                "citation": "Magnetic resonance in medicine 79 (3), 1661-1673, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 227,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13134259153004245665",
+            "cites_id": [
+                "13134259153004245665"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast nonlinear susceptibility inversion with variational regularization",
+                "pub_year": "2018",
+                "citation": "Magnetic resonance in medicine 80 (2), 814-821, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13758349122683090853",
+            "cites_id": [
+                "13758349122683090853"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A robust multi-scale approach to quantitative susceptibility mapping",
+                "pub_year": "2018",
+                "citation": "Neuroimage 183, 7-24, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:WF5omc3nYNoC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16807970604195079593",
+            "cites_id": [
+                "16807970604195079593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear dipole inversion (NDI) enables robust quantitative susceptibility mapping (QSM)",
+                "pub_year": "2020",
+                "citation": "NMR in Biomedicine 33 (12), e4271, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 55,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4328615150228423533",
+            "cites_id": [
+                "4328615150228423533"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QSM reconstruction challenge 2.0: A realistic in silico head phantom for MRI data simulation and evaluation of susceptibility mapping procedures",
+                "pub_year": "2021",
+                "citation": "Magnetic resonance in medicine 86 (1), 526-542, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 52,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18323766386892572168",
+            "cites_id": [
+                "18323766386892572168"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QSM reconstruction challenge 2.0: design and report of results",
+                "pub_year": "2021",
+                "citation": "Magnetic resonance in medicine 86 (3), 1241-1255, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9474729980732712546",
+            "cites_id": [
+                "9474729980732712546"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep optical images of Malin 1 reveal new features",
+                "pub_year": "2015",
+                "citation": "The Astrophysical Journal Letters 815 (2), L29, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15455478626700081223",
+            "cites_id": [
+                "15455478626700081223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The 2016 QSM Challenge: Lessons learned and considerations for a future challenge design",
+                "pub_year": "2020",
+                "citation": "Magnetic resonance in medicine 84 (3), 1624-1637, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13276229961183463526",
+            "cites_id": [
+                "13276229961183463526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak\u2010harmonic regularization for quantitative susceptibility mapping",
+                "pub_year": "2019",
+                "citation": "Magnetic resonance in medicine 81 (2), 1399-1411, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:qjMakFHDy7sC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9085897594812621447",
+            "cites_id": [
+                "9085897594812621447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of parameter optimization methods for quantitative susceptibility mapping",
+                "pub_year": "2021",
+                "citation": "Magnetic resonance in medicine 85 (1), 480-494, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3052354188995833975",
+            "cites_id": [
+                "3052354188995833975"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recommended implementation of quantitative susceptibility mapping for clinical research in the brain: a consensus of the ISMRM electro\u2010magnetic tissue properties study group",
+                "pub_year": "2024",
+                "citation": "Magnetic resonance in medicine, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:TQgYirikUcIC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7434215251883474764",
+            "cites_id": [
+                "7434215251883474764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DeepSPIO: Super paramagnetic iron oxide particle quantification using deep learning in magnetic resonance imaging",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Pattern Analysis and Machine Intelligence 44 (1), 143-153, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1755317812257531288",
+            "cites_id": [
+                "1755317812257531288"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural similarity index metric setup for QSM applications (XSIM)",
+                "pub_year": "2019",
+                "citation": "5th International Workshop on MRI Phase Contrast & Quantitative \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3013078897768297818",
+            "cites_id": [
+                "3013078897768297818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative susceptibility map reconstruction via a total generalized variation regularization",
+                "pub_year": "2013",
+                "citation": "2013 International Workshop on Pattern Recognition in Neuroimaging, 203-206, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15308160394524261375",
+            "cites_id": [
+                "15308160394524261375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Streaking artifact suppression of quantitative susceptibility mapping reconstructions via L1\u2010norm data fidelity optimization (L1\u2010QSM)",
+                "pub_year": "2022",
+                "citation": "Magnetic Resonance in Medicine 87 (1), 457-473, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16414549699565540744",
+            "cites_id": [
+                "16414549699565540744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid data fidelity term approach for quantitative susceptibility mapping",
+                "pub_year": "2022",
+                "citation": "Magnetic Resonance in Medicine 88 (2), 962-972, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13917475368036942750",
+            "cites_id": [
+                "13917475368036942750"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards QSM challenge 2.0: creation and evaluation of a realistic magnetic susceptibility phantom",
+                "pub_year": "2019",
+                "citation": "Proc. 27th Annual Meeting of the ISMRM, Montreal, Canada, 1122, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6312122333969864693",
+            "cites_id": [
+                "6312122333969864693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fast algorithm for nonlinear QSM reconstruction",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 25th Annual Meeting of ISMRM, Honolulu, Hawai\u2019i, USA, 3669, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:0EnyYjriUFMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9304689588429128780",
+            "cites_id": [
+                "9304689588429128780"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High Levels of Leptin Reduces Ciliary Activity and Affects Ovum Transport Velocity in the Rat Oviduct.",
+                "pub_year": "2011",
+                "citation": "Biology of Reproduction 85 (Suppl_1), 337-337, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9898321255029166457",
+            "cites_id": [
+                "9898321255029166457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "QSM streaking suppression with L1 data fidelity terms",
+                "pub_year": "2020",
+                "citation": "Proc. Intl. Soc. Mag. Reson. Med 28, 3257, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18022570763614542482",
+            "cites_id": [
+                "18022570763614542482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Calcium (Ca2+) waves data calibration and analysis using image processing techniques",
+                "pub_year": "2013",
+                "citation": "BMC bioinformatics 14, 1-14, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12749685798562701240",
+            "cites_id": [
+                "12749685798562701240"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Leptin and adiponectin have opposite effect on ciliary activity, calcium wave velocity and ovum transport velocity in the rat oviduct",
+                "pub_year": "2013",
+                "citation": "The FASEB Journal 27, 734.1-734.1, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11485123624536751201",
+            "cites_id": [
+                "11485123624536751201"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new discrete dipole kernel for quantitative susceptibility mapping",
+                "pub_year": "2018",
+                "citation": "Magnetic Resonance Imaging 51, 7-13, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7587975588611532271",
+            "cites_id": [
+                "7587975588611532271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved magnetic dipole kernel for reconstruction methods in quantitative susceptibility mapping",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 24th Annual Meeting of ISMRM, Singapore, 2843, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10881873108702174677",
+            "cites_id": [
+                "10881873108702174677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Fast Algorithm for Nonlinear QSM Reconstruction with Variational Penalties",
+                "pub_year": "2016",
+                "citation": "Proceedings of the Fourth International Workshop on MRI Phase Contrast \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7486362452433129724",
+            "cites_id": [
+                "7486362452433129724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative Susceptibility Mapping MRI in Deep-Brain Nuclei in First-Episode Psychosis",
+                "pub_year": "2023",
+                "citation": "Schizophrenia Bulletin 49 (5), 1355-1363, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:HDshCWvjkbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=823403247479005045",
+            "cites_id": [
+                "823403247479005045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "XSIM, a Susceptibility-Optimised Similarity Index Metric: Validation with 2016 and 2019 QSM Reconstruction Challenge Datasets",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:hC7cP41nSMkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7280423036200655733",
+            "cites_id": [
+                "7280423036200655733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale Spherical Mean Value based background field removal method for Quantitative Susceptibility Mapping",
+                "pub_year": "2019",
+                "citation": "27th International Conference of the ISMRM, Montreal, Canada, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5413673682114657845",
+            "cites_id": [
+                "5413673682114657845"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative Susceptibility Mapping MRI shows changes in dorsal striatum in patients with a first Episode of Psychosis compared to controls.",
+                "pub_year": "2019",
+                "citation": "ISMRM 27th Annual Meeting & Exhibition, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6297182547791721195",
+            "cites_id": [
+                "6297182547791721195"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale gradient domain compression for astronomical high dynamic range imaging",
+                "pub_year": "2016",
+                "citation": "The Imaging Science Journal 64 (7), 353-363, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6585953155842543166",
+            "cites_id": [
+                "6585953155842543166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Toward a realistic in silico abdominal phantom for QSM",
+                "pub_year": "2023",
+                "citation": "Magnetic Resonance in Medicine 89 (6), 2402-2418, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Publications scientifiques de l'UFR ISTIC-Informatique et Electronique",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Comparison of Background Field Removal and \u201cSingle-Step\u201d Algorithms in Realistic Phantoms: Towards QSM Challenge 3.0?",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realistic brain phantom for Susceptibility Tensor Imaging",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Realistic in silico abdominal QSM phantom",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Proximal Step Enables Fast and Accurate Single-Step QSM Reconstructions, Preventing Susceptibility Underestimation",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic, Non-Regularized Nonlinear Dipole Inversion for Fast and Robust Quantitative Susceptibility Mapping",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-regularized Dipole Inversion with streaking suppression via L1-norm optimization",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving Quantitative Susceptibility Mapping reconstructions via non-linear Huber loss data fidelity term (Huber-QSM)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Total Deep Variation Regularization for Improved Iterative Quantitative Susceptibility Mapping (TDV-QSM)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter selection in Total Generalized Variation based reconstruction problems.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DeepSPIO: A SPIO particles quantification method using Deep Learning",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Longitudinal study of quantitative susceptibility mapping in patients with the first episode of psychosis",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:4TOpqqG69KYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quantitative Susceptibility Mapping shows differences in substantia nigra of individuals with 22q11. 2 deletion syndrome and controls",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear projection onto dipole fields with preconditioning (nPDF)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "YXD6KnsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 14,
+        "not_available": 0
+    }
+}

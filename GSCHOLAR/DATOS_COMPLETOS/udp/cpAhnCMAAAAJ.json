@@ -1,0 +1,733 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cpAhnCMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo A. Henr\u00edquez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cpAhnCMAAAAJ&citpid=2",
+    "affiliation": "Assistant Professor, Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Machine Learning",
+        "neural networks",
+        "Data Science",
+        "Business Analytics"
+    ],
+    "email_domain": "@udp.cl",
+    "homepage": "https://pabhenriquez.github.io/pabhenriquez/",
+    "citedby": 619,
+    "citedby5y": 601,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2018": 15,
+        "2019": 27,
+        "2020": 50,
+        "2021": 112,
+        "2022": 162,
+        "2023": 194,
+        "2024": 52
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7H4k-70AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aldo Mascare\u00f1o",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jkovdhYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo A. Ruz",
+            "affiliation": "Professor, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ccpwMmQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco Billi",
+            "affiliation": "Assistant Professor, Department of Rural Management & Innovation, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "22ynv5cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Cordero",
+            "affiliation": "Professor of Sociology, Universidad Diego Portales (Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "koeAMKQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Winkelried",
+            "affiliation": "Universidad del Pacifico"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2SdKmo8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Sabat",
+            "affiliation": "Universidad Andres Bello"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x7OiALsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Hardy",
+            "affiliation": "Universidad Diego Portales"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sentiment analysis of Twitter data during critical events through Bayesian networks classifiers",
+                "pub_year": "2020",
+                "citation": "Future Generation Computer Systems 106, 92-104, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:ufrVoPGSRksC",
+            "num_citations": 321,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13094062185434383071",
+            "cites_id": [
+                "13094062185434383071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controversies in social-ecological systems",
+                "pub_year": "2018",
+                "citation": "Ecology and Society 23 (4), 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6670437753363194182",
+            "cites_id": [
+                "6670437753363194182"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-iterative method for pruning hidden neurons in neural networks with random weights",
+                "pub_year": "2018",
+                "citation": "Applied Soft Computing 70, 1109-1121, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 48,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18141459338057570752",
+            "cites_id": [
+                "18141459338057570752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stock market volatility and the COVID-19 reproductive number",
+                "pub_year": "2022",
+                "citation": "Research in international business and finance 59, 101517, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1711203558620986851",
+            "cites_id": [
+                "1711203558620986851"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Twitter sentiment classification based on deep random vector functional link",
+                "pub_year": "2018",
+                "citation": "2018 international joint conference on neural networks (IJCNN), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3973291272178419274",
+            "cites_id": [
+                "3973291272178419274"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Social sentiment segregation: Evidence from Twitter and Google Trends in Chile during the COVID-19 dynamic quarantine strategy",
+                "pub_year": "2021",
+                "citation": "PloS one 16 (7), e0254638, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:Se3iqnhoufwC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15652351631877124112",
+            "cites_id": [
+                "15652351631877124112"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noise reduction for near-infrared spectroscopy data using extreme learning machines",
+                "pub_year": "2019",
+                "citation": "Engineering Applications of Artificial Intelligence 79, 13-22, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10795116655612865263",
+            "cites_id": [
+                "10795116655612865263"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extreme learning machine with a deterministic assignment of hidden weights in two parallel layers",
+                "pub_year": "2017",
+                "citation": "Neurocomputing 226, 109-116, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4526915709456809788",
+            "cites_id": [
+                "4526915709456809788"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Twitter-lived red tide crisis on Chilo\u00e9 Island, Chile: what can be obtained for social-ecological research through social media analysis?",
+                "pub_year": "2020",
+                "citation": "Sustainability 12 (20), 8506, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295799167627275729",
+            "cites_id": [
+                "12295799167627275729"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sem\u00e1nticas constitucionales: Un an\u00e1lisis de los programas de los convencionales constituyentes",
+                "pub_year": "2021",
+                "citation": "Puntos de Referencia 578 (1-16), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:UebtZRa9Y70C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15303897730796881099",
+            "cites_id": [
+                "15303897730796881099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning from crises? The long and winding road of the salmon industry in Chilo\u00e9 Island, Chile",
+                "pub_year": "2022",
+                "citation": "Marine Policy 140, 105069, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15320360181534808420",
+            "cites_id": [
+                "15320360181534808420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bayesian constitutionalization: Twitter sentiment analysis of the chilean constitutional process through bayesian network classifiers",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (2), 166, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:8k81kl-MbHgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18246175018372221375",
+            "cites_id": [
+                "18246175018372221375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An empirical study of the hidden matrix rank for neural networks with random weights",
+                "pub_year": "2017",
+                "citation": "2017 16th IEEE International Conference on Machine Learning and Applications \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15501661142669552465",
+            "cites_id": [
+                "15501661142669552465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Population well-being and the COVID-19 vaccination program in Chile: evidence from Google Trends",
+                "pub_year": "2023",
+                "citation": "Public health 219, 22-30, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:hC7cP41nSMkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5072162979839816682",
+            "cites_id": [
+                "5072162979839816682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Facial biotype classification for orthodontic treatment planning using an alternative learning algorithm for tree augmented Naive Bayes",
+                "pub_year": "2022",
+                "citation": "BMC Medical Informatics and Decision Making 22 (1), 316, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:4DMP91E08xMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10037890285440997088",
+            "cites_id": [
+                "10037890285440997088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drawing constitutional boundaries: A digital historical analysis of the writing process of Pinochet\u2019s 1980 authoritarian constitution",
+                "pub_year": "2022",
+                "citation": "Historical Methods: A Journal of Quantitative and Interdisciplinary History \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5549270141364521556",
+            "cites_id": [
+                "5549270141364521556"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apruebo y rechazo en septiembre 2022. Expectativas, decepciones y horiizontes comunes para el nuevo proceso constitucional",
+                "pub_year": "2023",
+                "citation": "CEP: Centro de Estudios P\u00fablicos, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:dhFuZR0502QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15809934039276277394",
+            "cites_id": [
+                "15809934039276277394"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heterogeneous responses in Google Trends measures of well-being to the COVID-19 dynamic quarantines in Chile",
+                "pub_year": "2022",
+                "citation": "Scientific Reports 12 (1), 14514, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15604896300260975164",
+            "cites_id": [
+                "15604896300260975164"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mapuche en el sur: identidad, materialidad y expectativa",
+                "pub_year": "2023",
+                "citation": "Puntos de Referencia 638, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8734435723160543038",
+            "cites_id": [
+                "8734435723160543038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Politicians\u2019 willingness to agree: evidence from the interactions in twitter of Chilean deputies",
+                "pub_year": "2023",
+                "citation": "Journal of information technology & politics 20 (1), 92-111, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1928134335552357485",
+            "cites_id": [
+                "1928134335552357485"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Partido de la Gente. La construcci\u00f3n del individualismo posdemocr\u00e1tico",
+                "pub_year": "2022",
+                "citation": "Puntos de Referencia 630, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11381150216408437922",
+            "cites_id": [
+                "11381150216408437922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Individual competence predominates over host nutritional status in Arabidopsis root exudate-mediated bacterial enrichment in a combination of four Burkholderiaceae species",
+                "pub_year": "2022",
+                "citation": "BMC microbiology 22 (1), 218, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2618318296991574847",
+            "cites_id": [
+                "2618318296991574847"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Random vector functional link with naive Bayes for classification problems of mixed data",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 31st International Conference on Tools with Artificial \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6742146771740906400",
+            "cites_id": [
+                "6742146771740906400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El valor de la simpat\u00eda pol\u00edtica mutua. Pragmatismo y convicci\u00f3n en la Comisi\u00f3n Experta",
+                "pub_year": "2023",
+                "citation": "CEP: Centro de Estudios P\u00fablicos, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3757492371135263153",
+            "cites_id": [
+                "3757492371135263153"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Futuros presentes. Nuevas opciones y riesgos en escenarios complejos",
+                "pub_year": "2023",
+                "citation": "Puntos de Referencia 648, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:qUcmZB5y_30C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14414094149414093414",
+            "cites_id": [
+                "14414094149414093414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La Constituci\u00f3n pre-estallido de Michelle Bachelet.\u00bf Cu\u00e1nto rinde hoy?",
+                "pub_year": "2023",
+                "citation": "Puntos de Referencia 644, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1200833682546629949",
+            "cites_id": [
+                "1200833682546629949"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Apruebo y rechazo en septiembre 2022",
+                "pub_year": "2023",
+                "citation": "Expectativas, decepciones y horizontes comunes para el nuevo proceso \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4784903892858437385",
+            "cites_id": [
+                "4784903892858437385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La constituci\u00f3n de la Constituci\u00f3n",
+                "pub_year": "2022",
+                "citation": "C22 8, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12947660021371557468",
+            "cites_id": [
+                "12947660021371557468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "No eres t\u00fa, soy yo. La monta\u00f1a rusa convencional",
+                "pub_year": "2022",
+                "citation": "Nota de Investigaci\u00f3n C22, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11376170456028261639",
+            "cites_id": [
+                "11376170456028261639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comunidades sem\u00e1nticas y distinciones pol\u00edticas en el discurso de los convencionales constituyentes",
+                "pub_year": "2021",
+                "citation": "Puntos de Referencia 581, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562136791932124309",
+            "cites_id": [
+                "8562136791932124309"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing the Impact of Small Firm Dynamics on Public Mental Health Amid the Pandemic in Latin America",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-iterative method for pruning hidden neurons in neural networks with random weights",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La ley de los grandes n\u00fameros",
+                "pub_year": "2022",
+                "citation": "La ley 27, 05, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Suma cero. Sentimientos convencionales",
+                "pub_year": "2022",
+                "citation": "Suma 13, 05, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Zona de curvas",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DOCUMENTO DE TRABAJO N\u00ba9",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modularidad topol\u00f3gica en el Consejo Constitucional",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Santos en la Corte. Pluralismo jur\u00eddico culturalista en la Convenci\u00f3n Constitucional",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La prueba de ADN",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comuna, regi\u00f3n y naci\u00f3n. Vac\u00edos e inconsistencias en el borrador de la Constituci\u00f3n 2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La forma del pleno",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nuevo estilo de baile: 4/7",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Polarizaci\u00f3n y fragmentaci\u00f3n en la C\u00e1mara de Diputados.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "cpAhnCMAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

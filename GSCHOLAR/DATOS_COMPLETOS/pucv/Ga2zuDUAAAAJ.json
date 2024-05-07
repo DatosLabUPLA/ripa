@@ -1,0 +1,124 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ga2zuDUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mauricio Moyano",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ga2zuDUAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Catolica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Optimization"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 31,
+    "citedby5y": 31,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 2,
+        "2022": 8,
+        "2023": 11,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A beam search algorithm for the biobjective container loading problem",
+                "pub_year": "2020",
+                "citation": "European Journal of Operational Research 286 (2), 417-431, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18064553103770513980",
+            "cites_id": [
+                "18064553103770513980"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local search for the direct aperture optimisation in IMRT",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7004991231060744412",
+            "cites_id": [
+                "7004991231060744412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Hybrid Local Search for the Direct Aperture Optimisation Problem",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Emerging Topics in Computational Intelligence, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2650125292316259732",
+            "cites_id": [
+                "2650125292316259732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle Swarm Optimisation Applied to the Direct Aperture Optimisation Problem in Radiation Therapy",
+                "pub_year": "2023",
+                "citation": "Cancers 15 (19), 4868, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Local search algorithms for the composite retrieval problem",
+                "pub_year": "2023",
+                "citation": "International Transactions in Operational Research 30 (2), 1065-1091, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristics for direct aperture optimization in Intensity modulated radiotherapy treatment: a systematic literature",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ga2zuDUAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

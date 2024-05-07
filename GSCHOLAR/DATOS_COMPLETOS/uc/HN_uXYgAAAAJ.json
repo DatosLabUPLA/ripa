@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HN_uXYgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Carlos Dominguez",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "coastal engineering",
+        "tsunami",
+        "wave modelling"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 364,
+    "citedby5y": 140,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2010": 1,
+        "2011": 8,
+        "2012": 22,
+        "2013": 26,
+        "2014": 41,
+        "2015": 42,
+        "2016": 27,
+        "2017": 34,
+        "2018": 23,
+        "2019": 20,
+        "2020": 31,
+        "2021": 29,
+        "2022": 32,
+        "2023": 19,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Twh1PxcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Cienfuegos",
+            "affiliation": "Pontificia Universidad Catolica de Chile - DIHA - CIGIDEN"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field survey of the 27 February 2010 Chile tsunami",
+                "pub_year": "2011",
+                "citation": "Pure and Applied Geophysics 168 (11), 1989-2010, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "HN_uXYgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 364,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8716642332526882174",
+            "cites_id": [
+                "8716642332526882174"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

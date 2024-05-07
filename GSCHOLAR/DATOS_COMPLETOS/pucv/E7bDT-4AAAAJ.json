@@ -1,0 +1,61 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "E7bDT-4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo \u00c1brego-Calder\u00f3n",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Machine Learning",
+        "Operations Research",
+        "Metaheuristics"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FEr2bK8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Cisternas-Caneo",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-armed Bandit-Based Metaheuristic Operator Selection: The Pendulum Algorithm Binarization Case",
+                "pub_year": "2023",
+                "citation": "Optimization and Learning: 6th International Conference, OLA 2023, Malaga \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "E7bDT-4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16660028089964707764",
+            "cites_id": [
+                "16660028089964707764"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

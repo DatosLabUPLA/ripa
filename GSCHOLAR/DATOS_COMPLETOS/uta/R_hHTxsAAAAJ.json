@@ -1,0 +1,646 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "R_hHTxsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Lara",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=R_hHTxsAAAAJ&citpid=1",
+    "affiliation": "Ph.D. in Applied Sciences with mention in Mathematical Engineer, University of Tarapac\u00e1",
+    "organization": 4727335469935944428,
+    "interests": [
+        "Continuous optimization",
+        "Nonconvex optimization",
+        "generalized convexity",
+        "proximal point algorithms"
+    ],
+    "email_domain": "@academicos.uta.cl",
+    "homepage": "http://felipelara.cl/",
+    "citedby": 251,
+    "citedby5y": 223,
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 11,
+    "i10index5y": 10,
+    "cites_per_year": {
+        "2013": 1,
+        "2014": 1,
+        "2015": 2,
+        "2016": 5,
+        "2017": 8,
+        "2018": 8,
+        "2019": 28,
+        "2020": 32,
+        "2021": 22,
+        "2022": 50,
+        "2023": 54,
+        "2024": 37
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vZhnWIUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "A. Iusem",
+            "affiliation": "IMPA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mU8eHasAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sorin-Mihai Grad",
+            "affiliation": "ENSTA Paris / Polytechnic Institute of Paris"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "e7MFzwsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Hadjisavvas",
+            "affiliation": "Professor emeritus, University of the Aegean, Greece"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pk3BvzQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabi\u00e1n Flores-Baz\u00e1n",
+            "affiliation": "University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ys3WcyIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alireza Kabgani",
+            "affiliation": "Department of Mathematics, University of Antwerp"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wOLg578AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Haeser",
+            "affiliation": "Department of Applied Mathematics, University of S\u00e3o Paulo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "First-and second-order asymptotic analysis with applications in quasiconvex optimization",
+                "pub_year": "2016",
+                "citation": "Journal of Optimization Theory and Applications 170, 372-393, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:roLk4NBRz8UC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11476331150898895919",
+            "cites_id": [
+                "11476331150898895919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimality conditions for vector equilibrium problems with applications",
+                "pub_year": "2019",
+                "citation": "Journal of Optimization Theory and Applications 180, 187-206, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:_kc_bZDykSQC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17321836942300329114",
+            "cites_id": [
+                "17321836942300329114"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving mixed variational inequalities beyond convexity",
+                "pub_year": "2021",
+                "citation": "Journal of Optimization Theory and Applications 190 (2), 565-580, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:8k81kl-MbHgC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557328331787099490",
+            "cites_id": [
+                "14557328331787099490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An augmented Lagrangian method for quasi-equilibrium problems",
+                "pub_year": "2020",
+                "citation": "Computational Optimization and Applications 76, 737-766, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6570492711393117404",
+            "cites_id": [
+                "6570492711393117404"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence results for noncoercive mixed variational inequalities in finite dimensional spaces",
+                "pub_year": "2019",
+                "citation": "Journal of Optimization Theory and Applications 183, 122-138, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10418881921498952502,7635061401994178848",
+            "cites_id": [
+                "10418881921498952502",
+                "7635061401994178848"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A quasiconvex asymptotic function with applications in optimization",
+                "pub_year": "2019",
+                "citation": "Journal of Optimization Theory and Applications 180, 170-186, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5900178905808574389",
+            "cites_id": [
+                "5900178905808574389"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generalized asymptotic functions in nonconvex multiobjective optimization problems",
+                "pub_year": "2017",
+                "citation": "Optimization 66 (8), 1259-1272, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1540610277890712732",
+            "cites_id": [
+                "1540610277890712732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An extension of the proximal point algorithm beyond convexity",
+                "pub_year": "2022",
+                "citation": "Journal of Global Optimization, 1-17, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:Se3iqnhoufwC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611332623707662583",
+            "cites_id": [
+                "12611332623707662583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On strongly quasiconvex functions: existence results and proximal point algorithms",
+                "pub_year": "2022",
+                "citation": "Journal of Optimization Theory and Applications 192 (3), 891-911, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10403282983487629351",
+            "cites_id": [
+                "10403282983487629351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second order asymptotic functions and applications to quadratic programming",
+                "pub_year": "2018",
+                "citation": "J. Convex Anal 25, 271-291, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:5nxA0vEk-isC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380983861494906638",
+            "cites_id": [
+                "14380983861494906638"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal point algorithms for quasiconvex pseudomonotone equilibrium problems",
+                "pub_year": "2022",
+                "citation": "Journal of Optimization Theory and Applications 193 (1), 443-461, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:ufrVoPGSRksC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10292634782810233966",
+            "cites_id": [
+                "10292634782810233966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formulas for asymptotic functions via conjugates, directional derivatives and subdifferentials",
+                "pub_year": "2017",
+                "citation": "Journal of Optimization Theory and Applications 173, 793-811, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16998515817100242481",
+            "cites_id": [
+                "16998515817100242481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second order asymptotic analysis: basic theory",
+                "pub_year": "2015",
+                "citation": "J. Convex Anal 22, 1173-1196, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3556775667475788818",
+            "cites_id": [
+                "3556775667475788818"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inner and outer estimates for the solution sets and their asymptotic cones in vector optimization",
+                "pub_year": "2012",
+                "citation": "Optimization Letters 6, 1233-1249, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7756367788861947667",
+            "cites_id": [
+                "7756367788861947667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quasiconvex optimization problems and asymptotic analysis in Banach spaces",
+                "pub_year": "2020",
+                "citation": "Optimization 69 (11), 2453-2470, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7175973724439460341",
+            "cites_id": [
+                "7175973724439460341"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimality conditions for nonconvex nonsmooth optimization via global derivatives",
+                "pub_year": "2020",
+                "citation": "Journal of Optimization Theory and Applications 185 (1), 134-150, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:0EnyYjriUFMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13725671210442691968",
+            "cites_id": [
+                "13725671210442691968"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The q-asymptotic function in c-convex analysis",
+                "pub_year": "2019",
+                "citation": "Optimization 68 (7), 1429-1445, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:aqlVkmm33-oC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18239921098301348109",
+            "cites_id": [
+                "18239921098301348109"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On global subdifferentials with applications in nonsmooth optimization",
+                "pub_year": "2021",
+                "citation": "Journal of Global Optimization 81, 881-900, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17506282369554550907",
+            "cites_id": [
+                "17506282369554550907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Strong subdifferentials: theory and applications in nonconvex optimization",
+                "pub_year": "2022",
+                "citation": "Journal of Global Optimization 84 (2), 349-368, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420391498140495582",
+            "cites_id": [
+                "9420391498140495582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On nonconvex pseudomonotone equilibrium problems with applications",
+                "pub_year": "2022",
+                "citation": "Set-Valued and Variational Analysis 30 (2), 355-372, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14921705585035089572",
+            "cites_id": [
+                "14921705585035089572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A further study on asymptotic functions via variational analysis",
+                "pub_year": "2019",
+                "citation": "Journal of Optimization Theory and Applications 182, 366-382, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18322122121914050003",
+            "cites_id": [
+                "18322122121914050003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relaxed-inertial proximal point type algorithms for quasiconvex minimization",
+                "pub_year": "2023",
+                "citation": "Journal of Global Optimization 85 (3), 615-635, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1398852417922861715",
+            "cites_id": [
+                "1398852417922861715"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A general asymptotic function with applications in nonconvex optimization",
+                "pub_year": "2020",
+                "citation": "Journal of Global Optimization 78 (1), 49-68, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:Zph67rFs4hoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15971053079744444954",
+            "cites_id": [
+                "15971053079744444954"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadratic fractional programming under asymptotic analysis",
+                "pub_year": "2019",
+                "citation": "J. of Convex Anal 26, 15-32, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4839602197977664585",
+            "cites_id": [
+                "4839602197977664585"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A subgradient projection method for quasiconvex minimization",
+                "pub_year": "2024",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4755809591296846468",
+            "cites_id": [
+                "4755809591296846468"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizations of nonconvex optimization problems via variational inequalities",
+                "pub_year": "2022",
+                "citation": "Optimization 71 (9), 2471-2490, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13592629564720107100",
+            "cites_id": [
+                "13592629564720107100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the existence of a saddle value for nonconvex and noncoercive bifunctions",
+                "pub_year": "2020",
+                "citation": "Minimax Theory Appl. 5, 65-76, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15948853485006380379",
+            "cites_id": [
+                "15948853485006380379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A note on \u201cReguralizers for structured sparsity\u201d",
+                "pub_year": "2018",
+                "citation": "Advances in Computational Mathematics 44 (4), 1321-1323, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18097153774525689926",
+            "cites_id": [
+                "18097153774525689926"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An extragradient projection method for strongly quasiconvex equilibrium problems with applications",
+                "pub_year": "2024",
+                "citation": "Computational and Applied Mathematics 43 (3), 128, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bregman proximal point type algorithms for quasiconvex minimization",
+                "pub_year": "2024",
+                "citation": "Optimization 73 (3), 497-515, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relaxed-Inertial Proximal Point Algorithms for Nonconvex Equilibrium Problems with Applications",
+                "pub_year": "2024",
+                "citation": "Journal of Optimization Theory and Applications, 1-30, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:hC7cP41nSMkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Properties and Proximal Point Type Methods for Strongly Quasiconvex Functions in Hilbert Spaces",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximal Point Type Algorithms with Relaxed and Inertial Effects Beyond Convexity",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:IWHjjKOFINEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semistrictly and neatly quasiconvex programming using lower global subdifferentials",
+                "pub_year": "2023",
+                "citation": "Journal of Global Optimization 86 (4), 845-865, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Relaxed-inertial proximal point algorithms for problems involving strongly quasiconvex functions",
+                "pub_year": "2022",
+                "citation": "Book of abstracts PGMO DAYS 2022, 57, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Second-order asymptotic analysis for noncoercive convex optimization",
+                "pub_year": "2017",
+                "citation": "Mathematical Methods of Operations Research 86, 469-483, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "R_hHTxsAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 0
+    }
+}

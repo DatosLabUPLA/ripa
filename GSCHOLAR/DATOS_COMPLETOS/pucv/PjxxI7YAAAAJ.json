@@ -1,0 +1,124 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "PjxxI7YAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Claudio Padilla-C\u00f3rdova",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Biotechnology",
+        "Biochemical engineering"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 56,
+    "citedby5y": 55,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 0,
+        "2020": 4,
+        "2021": 15,
+        "2022": 11,
+        "2023": 14,
+        "2024": 11
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GJZ1k1kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Debora Fino",
+            "affiliation": "Professore di Impianti Chimici, Politecnico di Torino"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3nHe4_MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tonia Tommasi",
+            "affiliation": "tonia.tommasi@polito.it"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Poly(3-hydroxybutyrate) accumulation by Azotobacter vinelandii under different oxygen transfer strategies",
+                "pub_year": "2019",
+                "citation": "Journal of Industrial Microbiology and Biotechnology 46 (1), 13-19, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "PjxxI7YAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16468840273979906202",
+            "cites_id": [
+                "16468840273979906202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Respiration in Azotobacter vinelandii and its relationship with the synthesis of biopolymers",
+                "pub_year": "2020",
+                "citation": "Electronic Journal of Biotechnology 48, 36-45, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "PjxxI7YAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3669653261771011479",
+            "cites_id": [
+                "3669653261771011479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Productivity and scale\u2010up of poly(3\u2010hydroxybutyrate) production under different oxygen transfer conditions in cultures of Azotobacter vinelandii",
+                "pub_year": "2020",
+                "citation": "Journal of Chemical Technology & Biotechnology 95 (11), 3034-3040, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "PjxxI7YAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9594209263158301143",
+            "cites_id": [
+                "9594209263158301143"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular weight and guluronic/mannuronic ratio of alginate produced by Azotobacter vinelandii at two bioreactor scales under diazotrophic conditions",
+                "pub_year": "2021",
+                "citation": "Bioprocess and Biosystems Engineering 44, 1275-1287, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "PjxxI7YAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15989579991853611263",
+            "cites_id": [
+                "15989579991853611263"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

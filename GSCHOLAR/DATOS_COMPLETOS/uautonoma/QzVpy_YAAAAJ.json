@@ -1,0 +1,90 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "QzVpy_YAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alfonso Miranda Athens",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Microbiology",
+        "Molecular biology"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "homepage": "http://www.uautonoma.cl/",
+    "citedby": 121,
+    "citedby5y": 68,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2016": 14,
+        "2017": 17,
+        "2018": 22,
+        "2019": 11,
+        "2020": 13,
+        "2021": 8,
+        "2022": 19,
+        "2023": 8,
+        "2024": 9
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular mechanisms of gastrointestinal protection by quercetin against indomethacin-induced damage: role of NF-\u03baB and Nrf2",
+                "pub_year": "2016",
+                "citation": "The Journal of nutritional biochemistry 27, 289-298, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "QzVpy_YAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 93,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7818715508240284135",
+            "cites_id": [
+                "7818715508240284135"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emergence of Plasmid-Borne dfrA14 Trimethoprim Resistance Gene in Shigella sonnei",
+                "pub_year": "2016",
+                "citation": "Frontiers in Cellular and Infection Microbiology 6, 77, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "QzVpy_YAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13270911251893351266",
+            "cites_id": [
+                "13270911251893351266"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Din\u00e1mica de la resistencia a Trimetoprim en cepas de Shigella sonnei aisladas en Chile entre los a\u00f1os 1995-2013",
+                "pub_year": "2015",
+                "citation": "Universidad de Chile, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "QzVpy_YAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

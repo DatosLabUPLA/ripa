@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WX81_WIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jannett Fonseca Chacana",
+    "affiliation": "PUCV",
+    "organization": 7698552169257898503,
+    "interests": [
+        "education",
+        "ELT"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 60,
+    "citedby5y": 60,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 12,
+        "2021": 18,
+        "2022": 17,
+        "2023": 9,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Making teacher dispositions explicit: A participatory approach",
+                "pub_year": "2019",
+                "citation": "Teaching and teacher education 77, 266-276, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "WX81_WIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9267632651294143061",
+            "cites_id": [
+                "9267632651294143061"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IDENTIFYING AND FOSTERING TEACHER DISPOSITIONS IN CONTEXT",
+                "pub_year": "2021",
+                "citation": "ICERI2021 Proceedings, 9601-9605, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "WX81_WIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,886 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2BR8L5MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gonzalo Garcia-Garreton",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2BR8L5MAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Catolica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Control Theory",
+        "Optimal Control",
+        "Predictive Control",
+        "Guidance and Navigation",
+        "Unmanned Vehicles"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 479,
+    "citedby5y": 303,
+    "hindex": 13,
+    "hindex5y": 10,
+    "i10index": 16,
+    "i10index5y": 11,
+    "cites_per_year": {
+        "2011": 5,
+        "2012": 2,
+        "2013": 7,
+        "2014": 20,
+        "2015": 28,
+        "2016": 32,
+        "2017": 33,
+        "2018": 45,
+        "2019": 44,
+        "2020": 42,
+        "2021": 57,
+        "2022": 68,
+        "2023": 78,
+        "2024": 14
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collision and Obstacle Avoidance in Unmanned Aerial Systems Using Morphing Potential Field Navigation and Nonlinear Model Predictive Control",
+                "pub_year": "2014",
+                "citation": "Journal of Dynamic Systems Measurement, and Control 137 (1), 403-410, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3698365526625307041",
+            "cites_id": [
+                "3698365526625307041"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear Model Predictive Controller for Navigation, Guidance and Control of a Fixed-Wing UAV",
+                "pub_year": "2011",
+                "citation": "Guidance, Navigation, and Control, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:WF5omc3nYNoC",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5164556075204855193",
+            "cites_id": [
+                "5164556075204855193"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Neural Network Approach for Building An Obstacle Detection Model by Fusion of Proximity Sensors Data",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (683), 1-18, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:isC4tDSrTZIC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10058822467113483057",
+            "cites_id": [
+                "10058822467113483057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation and Experimental Results of a New Control Strategy for Point Stabilization of Nonholonomic Mobile Robots",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Industrial Electronics, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17410982644542774173",
+            "cites_id": [
+                "17410982644542774173"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust and Adaptive Nonlinear Model Predictive Controller for Unsteady and Highly Nonlinear Unmanned Aircraft",
+                "pub_year": "2014",
+                "citation": "Transactions on Control Systems Technology 23 (4), 1620-1627, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=308667954834836683",
+            "cites_id": [
+                "308667954834836683"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simplex architecture for intelligent and safe unmanned aerial vehicles",
+                "pub_year": "2016",
+                "citation": "2016 IEEE 22nd International Conference on Embedded and Real-Time Computing \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:4TOpqqG69KYC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9917773328736022573",
+            "cites_id": [
+                "9917773328736022573"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement learning for position control problem of a mobile robot",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 152941-152951, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6292719638910551187",
+            "cites_id": [
+                "6292719638910551187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Instruments and Methods Airborne radar sounder for temperate ice: initial results from Patagonia",
+                "pub_year": "2009",
+                "citation": "Journal of Glaciology 55 (191), 507-512, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4899772713714979071",
+            "cites_id": [
+                "4899772713714979071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Airborne radar sounder for temperate ice: initial results from Patagonia",
+                "pub_year": "2009",
+                "citation": "Journal of Glaciology 55 (191), 507-512, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4899772713714979071",
+            "cites_id": [
+                "4899772713714979071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear control based on H-infinity theory for autonomous aerial vehicle",
+                "pub_year": "2017",
+                "citation": "2017 International Conference on Unmanned Aircraft Systems (ICUAS), 336-345, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=654420980020997684",
+            "cites_id": [
+                "654420980020997684"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online artificial neural network model\u2010based nonlinear model predictive controller for the meridian UAS",
+                "pub_year": "2013",
+                "citation": "International Journal of Robust and Nonlinear Control 23 (15), 1657-1681, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12290998856029254155",
+            "cites_id": [
+                "12290998856029254155"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online virtual control laboratory of mobile robots",
+                "pub_year": "2018",
+                "citation": "IFAC-PapersOnLine 51 (4), 316-321, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:k_IJM867U9cC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9972811110412479899",
+            "cites_id": [
+                "9972811110412479899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and flight control of a commercial nano quadrotor",
+                "pub_year": "2017",
+                "citation": "2017 International Conference on Unmanned Aircraft Systems (ICUAS), 524-532, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17841001654648488970",
+            "cites_id": [
+                "17841001654648488970"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced H-Infinity Trainer Autopilot",
+                "pub_year": "2010",
+                "citation": "Modeling and Simulation Technologies, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15383376014519150438",
+            "cites_id": [
+                "15383376014519150438"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biologically Inspired Trajectory Generation for Swarming UAVs Using Topological Distances",
+                "pub_year": "2016",
+                "citation": "Aerospace Science and Technology 54, 312-319, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5581731113405171763",
+            "cites_id": [
+                "5581731113405171763"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Control of a Spherical Robot in the CoppeliaSim Simulator",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (16), 6020, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:u_35RYKgDlwC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17389101922802043518",
+            "cites_id": [
+                "17389101922802043518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recovery of an Aircraft from the Loss of Control Using Open Final Time Dynamic Optimization and Receding Horizon Control",
+                "pub_year": "2015",
+                "citation": "Guidance, Navigation, and Control, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5738677281388002790",
+            "cites_id": [
+                "5738677281388002790"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Force scaling and efficiency of elongated median fin propulsion",
+                "pub_year": "2022",
+                "citation": "Bioinspiration & Biomimetics 17 (4), 046004, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603526122537657738",
+            "cites_id": [
+                "17603526122537657738"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decentralized robust nonlinear model predictive controller for unmanned aerial systems",
+                "pub_year": "2013",
+                "citation": "University of Kansas, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14027633672473139401",
+            "cites_id": [
+                "14027633672473139401"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modal Analysis of 1/3-Scale Yak-54 Aircraft Through Simulation and Flight Testing",
+                "pub_year": "2011",
+                "citation": "Atmospheric Flight Mechanics, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14090437119362512867",
+            "cites_id": [
+                "14090437119362512867"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Position Control of a Mobile Robot Using Reinforcement Learning",
+                "pub_year": "2020",
+                "citation": "IFAC-V 2020, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:RGFaLdJalmkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2046024017935756215",
+            "cites_id": [
+                "2046024017935756215"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive and Resilient Flight Control System for a Small Unmanned Aerial System",
+                "pub_year": "2013",
+                "citation": "International Journal of Aerospace Engineering 2013 (289357), 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3442982982987719442",
+            "cites_id": [
+                "3442982982987719442"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guidance of Multi-Agent Fixed-Wing Aircraft Using a Moving Mesh Method",
+                "pub_year": "2016",
+                "citation": "Unmanned Systems 4 (03), 227-244, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16362422592250321006",
+            "cites_id": [
+                "16362422592250321006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Guidance of Multi-Agent Fixed-Wing Aircraft Using a Moving Mesh Method",
+                "pub_year": "2015",
+                "citation": "International Conference on Unmanned Aircraft Systems (ICUAS), 218-225, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:8k81kl-MbHgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16362422592250321006",
+            "cites_id": [
+                "16362422592250321006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear model predictive controller robustness extension for unmanned aircraft",
+                "pub_year": "2015",
+                "citation": "International Journal of Intelligent Unmanned Systems 3 (2/3), 93-121, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:Zph67rFs4hoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15938031364046917334",
+            "cites_id": [
+                "15938031364046917334"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "H-Infinity gain scheduling design for the meridian UAS for a broader range of operation and for fault tolerant applications",
+                "pub_year": "2011",
+                "citation": "9th IEEE International Conference on Control and Automation, ICCA 2011, 1174 \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8790538598302181260",
+            "cites_id": [
+                "8790538598302181260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mobile robot navigation based on embedded computer vision",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (11), 2561, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:xtRiw3GOFMkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=74104171888390000",
+            "cites_id": [
+                "74104171888390000"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and Control of a Real Spherical Robot",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (8), 3895, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:abG-DnoFyZgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16675439500099285886",
+            "cites_id": [
+                "16675439500099285886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear H-infinity Control applied to a UAS in Trajectory Following",
+                "pub_year": "2015",
+                "citation": "Guidance, Navigation, and Control, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=318081652617193884",
+            "cites_id": [
+                "318081652617193884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust Three-Dimensional Collision Avoidance for Fixed-Wing Unmanned Aerial Systems",
+                "pub_year": "2015",
+                "citation": "Guidance, Navigation, and Control, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4533320181635966873",
+            "cites_id": [
+                "4533320181635966873"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrated Kalman Filter for a Flight Control System with Redundant Measurements",
+                "pub_year": "2012",
+                "citation": "Infotech@Aerospace, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5119405212947483756",
+            "cites_id": [
+                "5119405212947483756"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Underwater collision avoidance using undulating elongated fin propulsion",
+                "pub_year": "2023",
+                "citation": "Ocean Engineering 285, 115335, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:P5F9QuxV20EC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14964950762371750013",
+            "cites_id": [
+                "14964950762371750013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement Learning for Maneuver Control of a Bio-Inspired Vessel with Undulating Fin Propulsion",
+                "pub_year": "2022",
+                "citation": "ISOPE International Ocean and Polar Engineering Conference, ISOPE-I-22-244, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12445683100396465047",
+            "cites_id": [
+                "12445683100396465047"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scaling law of ribbon fin propulsion",
+                "pub_year": "2020",
+                "citation": "APS Division of Fluid Dynamics Meeting Abstracts, Q03. 023, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:dfsIfKJdRG4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8830624521459640481",
+            "cites_id": [
+                "8830624521459640481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cambered Undulating Fin for Heading Control",
+                "pub_year": "2020",
+                "citation": "APS Division of Fluid Dynamics Meeting Abstracts, Q03. 018, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12370971113865783221",
+            "cites_id": [
+                "12370971113865783221"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Yaw Turning Experiments of a Bio-Inspired Vessel with Undulating Fin Propulsion",
+                "pub_year": "2019",
+                "citation": "72nd Annual Meeting of the APS Division of Fluid Dynamics, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:blknAaTinKkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4715861846581224324",
+            "cites_id": [
+                "4715861846581224324"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time collision and obstacle avoidance in unmanned aerial systems",
+                "pub_year": "2014",
+                "citation": "Kansas State University, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17192837292473093859",
+            "cites_id": [
+                "17192837292473093859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and Application of an Extended Kalman Filter in a Flight Control System Development",
+                "pub_year": "2011",
+                "citation": "Infotech@Aerospace, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9740476143847007655",
+            "cites_id": [
+                "9740476143847007655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maneuver Control of an Undulating-Fin Underwater Vessel with a Central Pattern Generator",
+                "pub_year": "2019",
+                "citation": "72nd Annual Meeting of the APS Division of Fluid Dynamics, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:JV2RwH3_ST0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14957413532790703710",
+            "cites_id": [
+                "14957413532790703710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decentralized robust nonlinear model predictive controller for unmanned aerial systems",
+                "pub_year": "2013",
+                "citation": "Ph. D. Thesis, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6085442590260620727",
+            "cites_id": [
+                "6085442590260620727"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of a non electrical resistive GPR antenna",
+                "pub_year": "2007",
+                "citation": "2007 4th International Workshop on, Advanced Ground Penetrating Radar, 203-207, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109498216055742003",
+            "cites_id": [
+                "1109498216055742003"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Radar Sounding of Temperate Ice in Southern Chile",
+                "pub_year": "2006",
+                "citation": "11th International Conference on Ground Penetrating Radar, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:5nxA0vEk-isC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=223392993411968540",
+            "cites_id": [
+                "223392993411968540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Radar Sounding of Temperate Ice in Southern Chile",
+                "pub_year": "2006",
+                "citation": "11\u00aa Conferencia Internacional sobre Radar Penetrador de Suelo (19-22 Junio \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=223392993411968540",
+            "cites_id": [
+                "223392993411968540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty Detection in Supervisor\u2013Operator Audio Records of Real Electrical Network Operations",
+                "pub_year": "2023",
+                "citation": "Electronics 13 (1), 141, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bio-Inspired Actuation Control for Swimming Gait Transition using an Undulating Fin Robot",
+                "pub_year": "2022",
+                "citation": "Bulletin of the American Physical Society 67, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reinforcement Learning for a Bio-Inspired Vehicle with Undulating Fin Propulsion",
+                "pub_year": "2019",
+                "citation": "72nd Annual Meeting of the APS Division of Fluid Dynamics, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:hMod-77fHWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fixed Wing Aircraft Perching",
+                "pub_year": "2017",
+                "citation": "AIAA Guidance, Navigation, and Control Conference, 1915, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simulation algorithm for modelling lateral returns from airborne radio echo sounding signals: application to data collected with the SIRAHT HF radar in Patagonia",
+                "pub_year": "2010",
+                "citation": "International Glaciological Conference, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Field tests and first results of a 30 MHz helicopter-borne pulse radar (BGR-P30) in deep temperate ice of Patagonia",
+                "pub_year": "2010",
+                "citation": "International Glaciological Conference, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theoretical analysis and simulation for avoiding antenna oscillations without distributed resistance",
+                "pub_year": "2009",
+                "citation": "Journal of Applied Geophysics 67 (4), 374\u2013385, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Flight Dynamics Solution for Operations of the Boeing 702 Satellite",
+                "pub_year": "2008",
+                "citation": "AIAA SPACE 2008 Conference & Exposition, 7865, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modelado Semif\u00edsico de Sistemas No Lineales",
+                "pub_year": "2007",
+                "citation": "XVII Congreso Chileno de Control Automatico, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low cost VHF radar for ice thickness measurements",
+                "pub_year": "2007",
+                "citation": "International Symposium on Radioglaciology and its Applications, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A low frequency airborne radar sounder for temperate ice",
+                "pub_year": "2007",
+                "citation": "International Symposium on Radioglaciology and its Applications, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "APLICACI\u00d3N DEL \u00c1LGEBRA CONMUTATIVA Y DEL \u00c1LGEBRA DIFERENCIAL EN EL MODELADO SEMIF\u00cdSICO DE SISTEMAS DIN\u00c1MICOS",
+                "pub_year": "2006",
+                "citation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "2BR8L5MAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 10,
+        "not_available": 2
+    }
+}

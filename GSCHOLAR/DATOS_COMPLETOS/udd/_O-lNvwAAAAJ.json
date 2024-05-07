@@ -1,0 +1,102 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_O-lNvwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Paula Vasquez-Henriquez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_O-lNvwAAAAJ&citpid=1",
+    "affiliation": "Universidad del Desarrollo",
+    "organization": 4794720163447555879,
+    "interests": [
+        "data science"
+    ],
+    "email_domain": "@udd.cl",
+    "citedby": 14,
+    "citedby5y": 14,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 3,
+        "2022": 3,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Yl5fIjkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Caro",
+            "affiliation": "Computer scientist, Universidad de Santiago de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ltsTTI4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Graells-Garrido \ud83d\udc26",
+            "affiliation": "Department of Computer Science, Universidad de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing transport perception using social media: differences in mode and gender",
+                "pub_year": "2019",
+                "citation": "Proceedings of the 10th ACM Conference on Web Science, 295-299, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_O-lNvwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4644787198795433105",
+            "cites_id": [
+                "4644787198795433105"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tweets on the go: Gender differences in transport perception and its discussion on social media",
+                "pub_year": "2020",
+                "citation": "Sustainability 12 (13), 5405, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_O-lNvwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9456644091626540967",
+            "cites_id": [
+                "9456644091626540967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gender Differences in Transport Perception using Social Media Data",
+                "pub_year": "2020",
+                "citation": "Universidad del Desarrollo. Facultad de Ingenier\u00eda, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "_O-lNvwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

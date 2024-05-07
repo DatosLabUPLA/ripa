@@ -1,0 +1,102 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YBoFJH8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Manuel Silva Vega",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YBoFJH8AAAAJ&citpid=1",
+    "affiliation": "PhD Student, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Deep Learning",
+        "GeoAI",
+        "Computer Vision"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zGA8HWYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Hermosilla",
+            "affiliation": "Escuela de Ingenier\u00eda El\u00e9ctrica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DY0V0GwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre Breul",
+            "affiliation": "Institut Pascal,  Universit\u00e9 Clermont Auvergne, UMR CNRS 6602"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4cGeq0AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Farias",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso, UNED, CIEMAT"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Deep Learning Techniques for High-Quality Synthetic Thermal Image Generation",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (21), 4446, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YBoFJH8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10055786781061623024",
+            "cites_id": [
+                "10055786781061623024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AI-Driven Geolocation of Mining Waste Deposits Using Sentinel Satellite Imagery",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YBoFJH8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated Detection and Analysis of Massive Mining Waste Deposits Using Sentinel-2 Satellite Imagery and Artificial Intelligence",
+                "pub_year": "2023",
+                "citation": "Remote Sensing 15 (20), 4949, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YBoFJH8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

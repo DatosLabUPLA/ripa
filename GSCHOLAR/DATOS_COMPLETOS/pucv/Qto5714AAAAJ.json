@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Qto5714AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Alvarado",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Qto5714AAAAJ&citpid=2",
+    "affiliation": "Lecturer, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Computational Imaging",
+        "Deep Learning",
+        "Optoelectronics",
+        "Signal Processing",
+        "Compresive Sensing"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multispectral filter array design by optimal sphere packing",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Image Processing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Qto5714AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8120931240189472318",
+            "cites_id": [
+                "8120931240189472318"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multispectral mosaic design using a sphere packing filter array",
+                "pub_year": "2022",
+                "citation": "Computational Optical Sensing and Imaging, CTh4C. 1, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Qto5714AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14101067869119470223",
+            "cites_id": [
+                "14101067869119470223"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Compressive spectral video by optimal 4D-sphere packing",
+                "pub_year": "2023",
+                "citation": "Computational Optical Sensing and Imaging, CM1E. 4, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Qto5714AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Sphere Packing Approach to Design Multiplexed Multispectral Filter Arrays",
+                "pub_year": "2023",
+                "citation": "Computational Optical Sensing and Imaging, CTh2A. 6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Qto5714AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demosaicking Multispectral Images by Sphere Packing Filter Design",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Qto5714AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

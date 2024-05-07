@@ -1,0 +1,111 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "U8G4i88AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilla Eldridge",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=U8G4i88AAAAJ&citpid=5",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "phylogenetics",
+        "galactic evolution",
+        "evolutionary biology",
+        "molecular biology"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "homepage": "https://sequence-gazing.co.uk/",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 8,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The genome sequence of the harlequin ladybird, Harmonia axyridis (Pallas, 1773)",
+                "pub_year": "2021",
+                "citation": "Wellcome Open Research 6 (300), 300, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "U8G4i88AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=733086614132605825",
+            "cites_id": [
+                "733086614132605825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The genome sequence of the European hornet, Vespa crabro Linnaeus, 1758",
+                "pub_year": "2022",
+                "citation": "Wellcome Open Research 7, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "U8G4i88AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6200147465051038568",
+            "cites_id": [
+                "6200147465051038568"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Evolutionary History of a Simulated Disk Galaxy as Seen by Phylogenetic Trees",
+                "pub_year": "2024",
+                "citation": "The Astrophysical Journal 962 (2), 154, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "U8G4i88AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assembling a high-precision abundance catalogue of solar twins in GALAH for phylogenetic studies",
+                "pub_year": "2024",
+                "citation": "Monthly Notices of the Royal Astronomical Society, stae280, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "U8G4i88AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Molecular epidemiology, evolutionary history and patterns of antigenic variation in the parasitic trematode'Schistosoma turkestanicum'",
+                "pub_year": "2021",
+                "citation": "Kingston University, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "U8G4i88AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

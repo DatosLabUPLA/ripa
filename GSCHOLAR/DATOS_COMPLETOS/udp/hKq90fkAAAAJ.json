@@ -1,0 +1,728 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "hKq90fkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "NICOLAS HIDALGO",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hKq90fkAAAAJ&citpid=2",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Large Scale Distributed Systems",
+        "Systems"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 293,
+    "citedby5y": 197,
+    "hindex": 9,
+    "hindex5y": 8,
+    "i10index": 8,
+    "i10index5y": 6,
+    "cites_per_year": {
+        "2012": 2,
+        "2013": 4,
+        "2014": 13,
+        "2015": 4,
+        "2016": 14,
+        "2017": 20,
+        "2018": 34,
+        "2019": 26,
+        "2020": 44,
+        "2021": 45,
+        "2022": 35,
+        "2023": 30,
+        "2024": 16
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RcA5LWUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erika Rosas",
+            "affiliation": "Universidad Polit\u00e9cnica de Valencia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "t0-RzjEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Marin",
+            "affiliation": "University of Santiago, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hwXEZ0IAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Veronica Gil-Costa",
+            "affiliation": "UNSL - CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xTahLzEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Wladdimiro",
+            "affiliation": "LIP6 - Sorbonne Universit\u00e9"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6G03sDsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre Sens",
+            "affiliation": "LIP6 / CNRS / UPMC / INRIA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yib0GbMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Olivier Marin",
+            "affiliation": "NYU Shanghai"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_q2B3aUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Xavier Bonnaire",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vzHhJRoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hermes Senger",
+            "affiliation": "Professor of Computer Science, Federal University of Sao Carlos, Brazil"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "VqUfaJsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Marcondes",
+            "affiliation": "Professor of Computer Science, ITA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gc0ljMIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M\u00e1rcio Dorn",
+            "affiliation": "Federal University of Rio Grande do Sul"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "cXYgbhwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Gonz\u00e1lez Cantergiani",
+            "affiliation": "Universidad de Santiago de Chile (USACH)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-adaptive processing graph with operator fission for elastic stream processing",
+                "pub_year": "2017",
+                "citation": "Journal of Systems and Software 127, 205-216, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10283540351652821594",
+            "cites_id": [
+                "10283540351652821594"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Survey on simulation for mobile ad-hoc communication for disaster scenarios",
+                "pub_year": "2016",
+                "citation": "Journal of Computer Science and Technology 31, 326-349, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11430053888686255892",
+            "cites_id": [
+                "11430053888686255892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Context-aware self-adaptive routing for delay tolerant network in disaster scenarios",
+                "pub_year": "2020",
+                "citation": "Ad Hoc Networks 102, 102095, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7047281845246299806",
+            "cites_id": [
+                "7047281845246299806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Push/Pull Parallelization for Elasticity and Load Balance in Distributed Stream Processing Engines",
+                "pub_year": "2016",
+                "citation": "US Patent App. 14/583,228, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335988509114268357",
+            "cites_id": [
+                "18335988509114268357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symbiosis: Sharing mobile resources for stream processing",
+                "pub_year": "2014",
+                "citation": "2014 IEEE Symposium on Computers and Communications (ISCC), 1-6, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10612999574377463099",
+            "cites_id": [
+                "10612999574377463099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disaster management platform to support real-time analytics",
+                "pub_year": "2016",
+                "citation": "2016 3rd International Conference on Information and Communication \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17249712969549326396",
+            "cites_id": [
+                "17249712969549326396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Web search results caching service for structured P2P networks",
+                "pub_year": "2014",
+                "citation": "Future Generation Computer Systems 30, 254-264, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13869654910485122313",
+            "cites_id": [
+                "13869654910485122313"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-level result caching for web search queries on structured p2p networks",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 18th International Conference on Parallel and Distributed Systems \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5758281552781573710",
+            "cites_id": [
+                "5758281552781573710"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crowdsourcing under attack: Detecting malicious behaviors in Waze",
+                "pub_year": "2018",
+                "citation": "Trust Management XII: 12th IFIP WG 11.11 International Conference, IFIPTM \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5476295221855158654",
+            "cites_id": [
+                "5476295221855158654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mobility-aware DTN protocols for post-disaster scenarios",
+                "pub_year": "2015",
+                "citation": "2015 2nd International Conference on Information and Communication \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17658518172879530838",
+            "cites_id": [
+                "17658518172879530838"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dring: A layered scheme for range queries over dhts",
+                "pub_year": "2011",
+                "citation": "2011 IEEE 11th International Conference on Computer and Information \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1164956405060691239",
+            "cites_id": [
+                "1164956405060691239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Measuring stream processing systems adaptability under dynamic workloads",
+                "pub_year": "2018",
+                "citation": "Future Generation Computer Systems 88, 413-423, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327868960328411595",
+            "cites_id": [
+                "16327868960328411595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Echo: Efficient complex query over dht overlays",
+                "pub_year": "2016",
+                "citation": "Journal of Parallel and Distributed Computing 88, 31-45, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=822849821308323843",
+            "cites_id": [
+                "822849821308323843"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An aggregation-based routing protocol for structured peer to peer overlay networks",
+                "pub_year": "2010",
+                "citation": "2nd International Conference on Advances in P2P Systems (AP2PS 2010 \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:UebtZRa9Y70C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16174434409305096869",
+            "cites_id": [
+                "16174434409305096869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic load balance algorithm for the S4 parallel stream processing engine",
+                "pub_year": "2016",
+                "citation": "2016 International Symposium on Computer Architecture and High Performance \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=269499314769187273",
+            "cites_id": [
+                "269499314769187273"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of a combined energy fitness function for a distributed memetic algorithm to tackle the 3D protein structure prediction problem",
+                "pub_year": "2016",
+                "citation": "2016 35th International Conference of the Chilean Computer Science Society \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=622706391974220648",
+            "cites_id": [
+                "622706391974220648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards distributed geolocation for large scale disaster management",
+                "pub_year": "2014",
+                "citation": "2014 33rd international conference of the Chilean computer science society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9930915046028696399",
+            "cites_id": [
+                "9930915046028696399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the high selectivity of 3-D protein structures using distributed memetic algorithms",
+                "pub_year": "2020",
+                "citation": "Journal of Computational Science 41, 101087, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=805889095777490636",
+            "cites_id": [
+                "805889095777490636"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "When a tsunami strikes: a mobility model for coastline cities",
+                "pub_year": "2017",
+                "citation": "2017 4th International Conference on Information and Communication \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:8k81kl-MbHgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15384783332206788595",
+            "cites_id": [
+                "15384783332206788595"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reliable routing protocol for delay tolerant networks",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 21st International Conference on Parallel and Distributed Systems \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6289140083936682271",
+            "cites_id": [
+                "6289140083936682271"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessing energy efficiency in isp and web search engine collaboration",
+                "pub_year": "2014",
+                "citation": "2014 28th International Conference on Advanced Information Networking and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11732815196722212624",
+            "cites_id": [
+                "11732815196722212624"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimized range queries for large scale networks",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 26th International Conference on Advanced Information Networking \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11634844587135395862",
+            "cites_id": [
+                "11634844587135395862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A tabu based cache to improve latency and load balancing on prefix trees",
+                "pub_year": "2011",
+                "citation": "2011 IEEE 17th International Conference on Parallel and Distributed Systems \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879018497863653335",
+            "cites_id": [
+                "16879018497863653335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective communication for message prioritization in DTN for disaster scenarios",
+                "pub_year": "2023",
+                "citation": "Peer-to-Peer Networking and Applications 16 (1), 368-382, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:qUcmZB5y_30C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16937467268781806374",
+            "cites_id": [
+                "16937467268781806374"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SLedge: Scheduling and Load Balancing for a Stream Processing EDGE Architecture",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (13), 6474, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14428090834815200570",
+            "cites_id": [
+                "14428090834815200570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PRESPS: a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems",
+                "pub_year": "2023",
+                "citation": "Compas 2023-Conf\u00e9rence francophone d'informatique en Parall\u00e9lisme \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:HDshCWvjkbEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12227881010912132021",
+            "cites_id": [
+                "12227881010912132021"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A predictive approach for dynamic replication of operators in distributed stream processing systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE 34th International Symposium on Computer Architecture and High \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:mB3voiENLucC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6992137613572247441",
+            "cites_id": [
+                "6992137613572247441"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas",
+                "pub_year": "2022",
+                "citation": "ComPAS 2022-Conf\u00e9rence francophone d'informatique en Parall\u00e9lisme \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:-f6ydRqryjwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13601730210127063572",
+            "cites_id": [
+                "13601730210127063572"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Multi-Metric Adaptive Stream Processing System",
+                "pub_year": "2021",
+                "citation": "2021 IEEE 20th International Symposium on Network Computing and Applications \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16254399481975933634",
+            "cites_id": [
+                "16254399481975933634"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ADMITS: Architecting Distributed Monitoring and Analytics in IoT-based Disaster Scenarios",
+                "pub_year": "2020",
+                "citation": "Anais do XII Simp\u00f3sio Brasileiro de Computa\u00e7\u00e3o Ub\u00edqua e Pervasiva, 11-20, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4963903332616620877",
+            "cites_id": [
+                "4963903332616620877"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation Model for energy assessment in ISP and Web Search Engine collaboration",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 2014 Summer Simulation Multiconference, 1-8, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:roLk4NBRz8UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13706447609289168611",
+            "cites_id": [
+                "13706447609289168611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A dynamic load balance algorithm for the S4 parallel stream processing engine: 28th IEEE International Symposium on Computer Architecture and High Performance Computing \u2026",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00c9volution des m\u00e9moires \u00e0 semi-conducteurs \u00e0 acc\u00e8s al\u00e9atoire",
+                "pub_year": "2017",
+                "citation": "Techniques de l'Ing\u00e9nieur, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u7528\u4e8e\u81ea\u7136\u707e\u5bb3\u60c5\u666f\u4e2d\u79fb\u52a8 Ad Hoc \u901a\u4fe1\u4eff\u771f\u65b9\u6cd5\u7efc\u8ff0",
+                "pub_year": "2016",
+                "citation": "\u8ba1\u7b97\u673a\u79d1\u5b66\u6280\u672f\u5b66\u62a5 31 (2), 326-349, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SCCC 2014",
+                "pub_year": "2014",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso, Chile, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "TPT-C: A Heuristic-Based Cache to Improve Range Queries over DHTs",
+                "pub_year": "2011",
+                "citation": "INRIA, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-organized Architecture for Sharing Data Streams at Large Scale",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2022 IEEE 34th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)| 978-1-6654-5155-0/22/$31.00\u00a9 2022 IEEE| DOI: 10.1109/SBAC-PAD55451 \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Tabu-Based Cache to Improve Range Queries on Prefix Trees",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "hKq90fkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

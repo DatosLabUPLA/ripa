@@ -1,0 +1,63 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Y1FTePYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "MARIA PAZ MARTINEZ MOLINA",
+    "affiliation": "Universidad del Desarrollo",
+    "organization": 4794720163447555879,
+    "interests": [
+        "Neurociencia"
+    ],
+    "email_domain": "@udd.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The parietal cortex has a causal role in ambiguity computations in humans",
+                "pub_year": "2024",
+                "citation": "Plos Biology 22 (1), e3002452, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Y1FTePYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4736980522091729394,9276176653766273330",
+            "cites_id": [
+                "4736980522091729394",
+                "9276176653766273330"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Oscillatory activity underlying cognitive performance in children and adolescents with autism: a systematic review",
+                "pub_year": "2024",
+                "citation": "Frontiers in Human Neuroscience 18, 1320761, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "Y1FTePYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

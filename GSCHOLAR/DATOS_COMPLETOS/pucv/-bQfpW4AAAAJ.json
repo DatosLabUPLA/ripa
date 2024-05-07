@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-bQfpW4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "DANNY CARGNINO CISTERNAS",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Fitopatolog\u00eda",
+        "Enolog\u00eda",
+        "Vitivinicultura",
+        "Fisiolog\u00eda vegetal",
+        "Biomec\u00e1nica"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bacterial alginate-based hydrogel reduces hydro-mechanical soil-related problems in agriculture facing climate change",
+                "pub_year": "2022",
+                "citation": "Polymers 14 (5), 922, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-bQfpW4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3729727771908807859",
+            "cites_id": [
+                "3729727771908807859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomechanics and hydraulics of Opuntia ficus-indica roots exposed to extreme drought",
+                "pub_year": "2022",
+                "citation": "bioRxiv, 2022.05. 01.490238, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "-bQfpW4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

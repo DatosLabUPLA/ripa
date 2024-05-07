@@ -1,0 +1,471 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bIaHh6gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Christoffer L\u00f6ffler",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bIaHh6gAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Machine Learning",
+        "Human in the loop AI/ML",
+        "Complex Event Processing",
+        "AR/VR",
+        "Positioning Systems"
+    ],
+    "email_domain": "@pucv.cl",
+    "homepage": "https://christofferloeffler.com/",
+    "citedby": 141,
+    "citedby5y": 127,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2014": 3,
+        "2015": 3,
+        "2016": 4,
+        "2017": 0,
+        "2018": 3,
+        "2019": 4,
+        "2020": 16,
+        "2021": 19,
+        "2022": 36,
+        "2023": 40,
+        "2024": 11
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gKDSp8YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher Mutschler",
+            "affiliation": "Director Positioning & Networks, Fraunhofer IIS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hvfbNg0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael Philippsen",
+            "affiliation": "Professor Informatik, Friedrich-Alexander University Erlangen-N\u00fcrnberg (FAU)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SDHdsbwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tobias Feigl",
+            "affiliation": "Wissenschaftlicher Mitarbeiter der Friedrich-Alexander Universit\u00e4t (FAU) Erlangen-N\u00fcrnberg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7ems5nYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bjoern M. Eskofier",
+            "affiliation": "MaD Lab, FAU Erlangen-N\u00fcrnberg & TDH Group, Helmholtz Munich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8OU4_x8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felix Ott",
+            "affiliation": "ML Postdoctoral Researcher, Fraunhofer IIS, LMU Munich"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KjwaSXkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dario Zanca",
+            "affiliation": "Head of Applied Machine Learning Group @ MaD Lab, Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wCvExsQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicolas Witt",
+            "affiliation": "FAU Erlangen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tE5i3PQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Reinhard German",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ue2KIbwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Georgios Kontes",
+            "affiliation": "Fraunhofer IIS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JHuo2D0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher Rozell",
+            "affiliation": "Julian T. Hightower Chaired Professor of Electrical & Computer Engineering, Georgia Tech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mgho2kwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kion Fallah",
+            "affiliation": "Georgia Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TLskmTcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Plinge",
+            "affiliation": "Fraunhofer IIS"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Localization Limitations of ARCore, ARKit, and Hololens in Dynamic Large-scale Industry Environments.",
+                "pub_year": "2020",
+                "citation": "VISIGRAPP (1: GRAPP), 307-318, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8163049789733013846",
+            "cites_id": [
+                "8163049789733013846"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vipr: Visual-odometry-aided pose regression for 6dof camera localization",
+                "pub_year": "2020",
+                "citation": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16801210167294318901",
+            "cites_id": [
+                "16801210167294318901"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation criteria for inside-out indoor positioning systems based on machine learning",
+                "pub_year": "2018",
+                "citation": "2018 International Conference on Indoor Positioning and Indoor Navigation \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13111952383855670914",
+            "cites_id": [
+                "13111952383855670914"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated quality assurance for hand-held tools via embedded classification and automl",
+                "pub_year": "2021",
+                "citation": "Machine Learning and Knowledge Discovery in Databases. Applied Data Science \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:Se3iqnhoufwC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18209694217486327669",
+            "cites_id": [
+                "18209694217486327669"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A sense of quality for augmented reality assisted process guidance",
+                "pub_year": "2020",
+                "citation": "2020 IEEE International Symposium on Mixed and Augmented Reality Adjunct \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6325531468823391432,14918946306010996143",
+            "cites_id": [
+                "6325531468823391432",
+                "14918946306010996143"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive load management in smart grid environments",
+                "pub_year": "2014",
+                "citation": "Proceedings of the 8th ACM International Conference on Distributed Event \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5676470276273029461",
+            "cites_id": [
+                "5676470276273029461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulating the energy management on smartphones using hybrid modeling techniques",
+                "pub_year": "2014",
+                "citation": "Measurement, Modelling, and Evaluation of Computing Systems and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3556026464382987583",
+            "cites_id": [
+                "3556026464382987583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep Siamese Metric Learning: A Highly Scalable Approach to Searching Unordered Sets of Trajectories",
+                "pub_year": "2022",
+                "citation": "ACM Transactions on Intelligent Systems and Technology (TIST) 13 (1), 1-23, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616035621316005166",
+            "cites_id": [
+                "1616035621316005166"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overcoming catastrophic forgetting via Hessian-free curvature estimates",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5176277293459506001",
+            "cites_id": [
+                "5176277293459506001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evolutionary algorithms that use runtime migration of detector processes to reduce latency in event-based systems",
+                "pub_year": "2013",
+                "citation": "2013 NASA/ESA Conference on Adaptive Hardware and Systems (AHS-2013), 31-38, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8559668149762888570",
+            "cites_id": [
+                "8559668149762888570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Method to determine a present position of an object, positioning system, tracker and computer program",
+                "pub_year": "2023",
+                "citation": "US Patent 11,662,456, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11178785491155590552",
+            "cites_id": [
+                "11178785491155590552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IALE: Imitating Active Learner Ensembles",
+                "pub_year": "2022",
+                "citation": "Journal of Machine Learning Research 23, 1--29, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:WF5omc3nYNoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6071906203847773282",
+            "cites_id": [
+                "6071906203847773282"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Don't Get Me Wrong: How to apply Deep Visual Interpretations to Time Series",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2203.07861, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=60720547528020297,15657354202490506797",
+            "cites_id": [
+                "60720547528020297",
+                "15657354202490506797"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optical camera communication for active marker identification in camera-based positioning systems",
+                "pub_year": "2018",
+                "citation": "2018 15th Workshop on Positioning, Navigation and Communications (WPNC), 1-6, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2082920647772623672",
+            "cites_id": [
+                "2082920647772623672"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Learning of Ordinal Embeddings: A User Study on Football Data",
+                "pub_year": "2023",
+                "citation": "Transactions on Machine Learning Research, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16503596821383677906",
+            "cites_id": [
+                "16503596821383677906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximative event processing on sensor data streams",
+                "pub_year": "2015",
+                "citation": "Proceedings of the 9th ACM International Conference on Distributed Event \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:qjMakFHDy7sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4195906656696761508",
+            "cites_id": [
+                "4195906656696761508"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Netzwerksimulation-und-optimierung von verteilten Ereignisverarbeitungssystemen",
+                "pub_year": "2012",
+                "citation": "Bachelor Thesis, Friedrich-Alexander-University Erlangen-Nuremberg, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8898148741379676384",
+            "cites_id": [
+                "8898148741379676384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous Parameter Balance in Population-Based Approaches: A Self-Adaptive Learning-Based Strategy",
+                "pub_year": "2024",
+                "citation": "Biomimetics 9 (2), 82, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Active Deep Learning of Representations for Similarity Search",
+                "pub_year": "2023",
+                "citation": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg (FAU), Technische Fakult\u00e4t, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recipes for Post-training Quantization of Deep Neural Networks",
+                "pub_year": "2020",
+                "citation": "6th Workshop on Energy Efficient Machine Learning and Cognitive Computing \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vorrichtung, Verfahren und Computerprogramm zum Verbessern einer Leistungsf\u00e4higkeit eines ereignisbasierten verteilten Analysesystems",
+                "pub_year": "2014",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bIaHh6gAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}

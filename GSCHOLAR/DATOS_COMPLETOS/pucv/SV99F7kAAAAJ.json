@@ -1,0 +1,425 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SV99F7kAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Zamora",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=SV99F7kAAAAJ&citpid=1",
+    "affiliation": "Profesor auxiliar, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Machine learning",
+        "multi-view algorithms",
+        "NLP"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 160,
+    "citedby5y": 97,
+    "hindex": 5,
+    "hindex5y": 4,
+    "i10index": 5,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2011": 6,
+        "2012": 1,
+        "2013": 5,
+        "2014": 7,
+        "2015": 9,
+        "2016": 8,
+        "2017": 11,
+        "2018": 15,
+        "2019": 14,
+        "2020": 12,
+        "2021": 23,
+        "2022": 18,
+        "2023": 24,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6LYRTPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Mendoza",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile, researcher at CENIA and IMFD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZlJxcM0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hector Allende-Cid",
+            "affiliation": "Fraunhofer IAIS / PUCV"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UhAxK5EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "J\u00e9r\u00e9mie Sublime",
+            "affiliation": "Associate Professor at ISEP Paris"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Yf3WaggAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Romualdo Ib\u00e1\u00f1ez Orellana",
+            "affiliation": "Jefe de Investigaci\u00f3n, ILCL, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying the intent of a user query using support vector machines",
+                "pub_year": "2009",
+                "citation": "International symposium on string processing and information retrieval, 131-142, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 41,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15508239284595745053",
+            "cites_id": [
+                "15508239284595745053"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hashing-based clustering in high dimensional data",
+                "pub_year": "2016",
+                "citation": "Expert Systems with Applications 62, 202-211, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8263019246522612749",
+            "cites_id": [
+                "8263019246522612749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A machine learning approach for the automatic classification of schizophrenic discourse",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 45544-45553, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6845378656037796111",
+            "cites_id": [
+                "6845378656037796111"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Query Intent Detection Based on Query Log Mining.",
+                "pub_year": "2014",
+                "citation": "J. Web Eng. 13 (1&2), 24-52, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14150004395133739825",
+            "cites_id": [
+                "14150004395133739825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building decision trees to identify the intent of a user query",
+                "pub_year": "2009",
+                "citation": "International Conference on Knowledge-Based and Intelligent Information and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:WF5omc3nYNoC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13392262832231685744",
+            "cites_id": [
+                "13392262832231685744"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Causal connective expressions in textbooks written in Spanish: A comparative study of four primary school subjects",
+                "pub_year": "2021",
+                "citation": "Journal of Pragmatics 182, 104-117, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18131986164664055187",
+            "cites_id": [
+                "18131986164664055187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances in high-dimensional clustering for text data",
+                "pub_year": "2017",
+                "citation": "Claudio Moraga: a passion for multi-valued logic and soft computing, 323-337, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5991767298977093006",
+            "cites_id": [
+                "5991767298977093006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A wavelet-based method for time series forecasting",
+                "pub_year": "2012",
+                "citation": "2012 31st International Conference of the Chilean Computer Science Society \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5416803919578599907",
+            "cites_id": [
+                "5416803919578599907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A new Information theory based clustering fusion method for multi-view representations of text documents",
+                "pub_year": "2020",
+                "citation": "International Conference on Human-Computer Interaction, 156-167, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4296239180207495891",
+            "cites_id": [
+                "4296239180207495891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed clustering of text collections",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 155671-155685, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12787539570971665637",
+            "cites_id": [
+                "12787539570971665637"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stream volume prediction in twitter with artificial neural networks",
+                "pub_year": "2012",
+                "citation": "International Conference on Pattern Recognition Applications and Methods 2 \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12052676594856201796",
+            "cites_id": [
+                "12052676594856201796"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Ensemble and Multi-View Clustering Method Based on Kolmogorov Complexity",
+                "pub_year": "2023",
+                "citation": "Entropy 25 (2), 371, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1294828830459623670",
+            "cites_id": [
+                "1294828830459623670"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Snailed it! Inside the shell: using augmented reality as a window into biodiversity",
+                "pub_year": "2022",
+                "citation": "Frontiers in Education 7, 933436, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5224166535324153945",
+            "cites_id": [
+                "5224166535324153945"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Storytelling, a (nother) discourse elicitation instrument: protocol and materials",
+                "pub_year": "2022",
+                "citation": "Revista Signos. Estudios de Ling\u00fc\u00edstica 55 (110), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12627826770669979844",
+            "cites_id": [
+                "12627826770669979844"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A distributed shared nearest neighbors clustering algorithm",
+                "pub_year": "2018",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10653490122847139964",
+            "cites_id": [
+                "10653490122847139964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the Understanding of the Stream Volume Behavior on Twitter",
+                "pub_year": "2013",
+                "citation": "Pattern Recognition-Applications and Methods: International Conference \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13631070827364221806",
+            "cites_id": [
+                "13631070827364221806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Block-wise imputation EM algorithm in multi-source scenario: ADNI case",
+                "pub_year": "2024",
+                "citation": "Pattern Analysis and Applications 27 (2), 44, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Senti-Sequence: Learning to Represent Texts for Sentiment Polarity Classification",
+                "pub_year": "2024",
+                "citation": "Applied Sciences 14 (3), 1033, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy deconvolution of neuronal events in Functional Magnetic Resonance Imaging",
+                "pub_year": "2023",
+                "citation": "Procedia Computer Science 225, 3425-3431, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Narraci\u00f3n de historias, otro instrumento de elicitaci\u00f3n del discurso: protocolo y materiales",
+                "pub_year": "2022",
+                "citation": "Revista signos 55 (110), 1045-1056, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Storytelling, a (nother) Discourse Elicitation Instrument: Protocol and Materials Narraci\u00f3n de historias, otro instrumento de elicitaci\u00f3n del discurso: protocolo y materiales",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SINGLE-PASS CLUSTERING FOR MASSIVE TEXT DATA",
+                "pub_year": "2014",
+                "citation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudi ATDOM-O2: Fase I. Estan formades les professionals d'infermeria d'atenci\u00f3 prim\u00e0ria en oxigenoter\u00e0pia cr\u00f2nica domicili\u00e0ria?",
+                "pub_year": "2014",
+                "citation": "Annals de medicina 97 (3), 100-102, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "SV99F7kAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

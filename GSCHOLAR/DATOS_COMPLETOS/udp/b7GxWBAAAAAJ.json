@@ -1,0 +1,70 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "b7GxWBAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ariel Becerra",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Elecciones",
+        "opini\u00f3n p\u00fablica",
+        "leyes electorales"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 5,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2018": 1,
+        "2019": 1,
+        "2020": 0,
+        "2021": 2,
+        "2022": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El efecto de la posici\u00f3n del candidato en la papeleta de votaci\u00f3n. El caso de las elecciones locales chilenas de 2008 y 2012",
+                "pub_year": "2018",
+                "citation": "Colombia Internacional, 29-55, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "b7GxWBAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2127253919617176378",
+            "cites_id": [
+                "2127253919617176378"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Effect of the Position of the Candidate on the Voting Card. The Case of the Chilean Local Elections of 2008 and 2012",
+                "pub_year": "2018",
+                "citation": "Colombia Internacional, 29-55, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "b7GxWBAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

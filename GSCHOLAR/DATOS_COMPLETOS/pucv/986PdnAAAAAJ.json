@@ -1,0 +1,67 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "986PdnAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "ALEX PATRICIO PAZ BECERRA",
+    "affiliation": "Profesor de Administraci\u00f3n, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "organizaciones",
+        "pol\u00edticas p\u00fablicas"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 5,
+        "2023": 4,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A binary machine learning cuckoo search algorithm improved by a local search operator for the set-union knapsack problem",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (20), 2611, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "986PdnAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13206670869925568919",
+            "cites_id": [
+                "13206670869925568919"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Especificaci\u00f3n de requerimientos para un sistema de informaci\u00f3n financiero de una universidad",
+                "citation": "Valpara\u00edso Pontificia Universidad Cat\u00f3lica de Valpara\u00edso, 0"
+            },
+            "filled": false,
+            "author_pub_id": "986PdnAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

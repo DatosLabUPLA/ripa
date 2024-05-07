@@ -1,0 +1,91 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "MwzoKj8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fabian Andres Aspee Encina",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Optimizacion"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 19,
+    "citedby5y": 17,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 0,
+        "2019": 7,
+        "2020": 2,
+        "2021": 2,
+        "2022": 1,
+        "2023": 3,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the manufacturing cell design problem using the modified binary firefly algorithm and the egyptian vulture optimisation algorithm",
+                "pub_year": "2017",
+                "citation": "IET Software 11 (3), 105-115, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "MwzoKj8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5913789829057567661",
+            "cites_id": [
+                "5913789829057567661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous Population Regulation Using a Multi-Agent System in a Prey\u2013Predator Model That Integrates Cellular Automata and the African Buffalo Optimization Metaheuristic",
+                "pub_year": "2019",
+                "citation": "Algorithms 12 (3), 59, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "MwzoKj8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=993953763380773596",
+            "cites_id": [
+                "993953763380773596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del problema de dise\u00f1o de celdas de manufactura utilizando egyptian vulture",
+                "pub_year": "2017",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso. Retrieved from http://opac \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "MwzoKj8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7174554421166051831",
+            "cites_id": [
+                "7174554421166051831"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "FyuH_gcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Edio Mardones",
+    "affiliation": "Facultad de Ingenier\u00eda, Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Geociencias"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 16,
+    "citedby5y": 13,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 1,
+        "2018": 1,
+        "2019": 0,
+        "2020": 4,
+        "2021": 0,
+        "2022": 3,
+        "2023": 4,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "-decay rates of  in the microscopic interacting boson-fermion model",
+                "pub_year": "2016",
+                "citation": "Physical Review C 93 (3), 034332, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "FyuH_gcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11547231794702942312",
+            "cites_id": [
+                "11547231794702942312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "C\u00e1lculo de semividas de la desintegraci\u00f3n beta bajo el contexto del modelo de bosones en interacci\u00f3n.",
+                "pub_year": "2015",
+                "citation": "Universidad de Concepci\u00f3n., 2015"
+            },
+            "filled": false,
+            "author_pub_id": "FyuH_gcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,890 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Ck_ouu4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Boris L. Almonacid",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Ck_ouu4AAAAJ&citpid=6",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Evolutionary Algorithm",
+        "Metaheuristic",
+        "Conservation problems",
+        "Artificial Life",
+        "Constraint Programming."
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 181,
+    "citedby5y": 115,
+    "hindex": 7,
+    "hindex5y": 5,
+    "i10index": 6,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 10,
+        "2017": 33,
+        "2018": 19,
+        "2019": 39,
+        "2020": 29,
+        "2021": 8,
+        "2022": 13,
+        "2023": 20,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MwzoKj8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabian Andres Aspee Encina",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WhyWWw4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Ramos-Aguilar",
+            "affiliation": "Bi\u00f3logo, Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A migrating birds optimization algorithm for machine-part cell formation problems",
+                "pub_year": "2015",
+                "citation": "Advances in Artificial Intelligence and Soft Computing: 14th Mexican \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14312147118530312219",
+            "cites_id": [
+                "14312147118530312219"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient parallel sorting for migrating birds optimization when solving machine-part cell formation problems",
+                "pub_year": "2016",
+                "citation": "Scientific Programming 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=492873147681804212",
+            "cites_id": [
+                "492873147681804212"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Andean Condor Algorithm for cell formation problems",
+                "pub_year": "2019",
+                "citation": "Natural Computing 18, 351-381, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:l7t_Zn2s7bgC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9790828767686833647",
+            "cites_id": [
+                "9790828767686833647"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving manufacturing cell design problems by using a dolphin echolocation algorithm",
+                "pub_year": "2016",
+                "citation": "Computational Science and Its Applications\u2013ICCSA 2016: 16th International \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:dfsIfKJdRG4C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10507300382507345765",
+            "cites_id": [
+                "10507300382507345765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the manufacturing cell design problem using the modified binary firefly algorithm and the egyptian vulture optimisation algorithm",
+                "pub_year": "2017",
+                "citation": "IET Software 11 (3), 105-115, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:1sJd4Hv_s6UC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5913789829057567661",
+            "cites_id": [
+                "5913789829057567661"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bat algorithm to solve the manufacturing cell design problem",
+                "pub_year": "2016",
+                "citation": "2016 11th Iberian Conference on Information Systems and Technologies (CISTI), 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:geHnlv5EZngC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2312203166158091543",
+            "cites_id": [
+                "2312203166158091543"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolving the manufacturing cell design problem using the flower pollination algorithm",
+                "pub_year": "2016",
+                "citation": "Multi-disciplinary Trends in Artificial Intelligence: 10th International \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:xtRiw3GOFMkC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13533901112020609924",
+            "cites_id": [
+                "13533901112020609924"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "From Bioinspired Systems and Biomedical Applications to Machine Learning: 8th International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC \u2026",
+                "pub_year": "2019",
+                "citation": "Springer, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:D_sINldO8mEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=348292223032586203",
+            "cites_id": [
+                "348292223032586203"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm",
+                "pub_year": "2018",
+                "citation": "IET Software 12 (2), 96-111, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:UxriW0iASnsC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12651173425750017518",
+            "cites_id": [
+                "12651173425750017518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the manufacturing cell design problem using the artificial bee colony algorithm",
+                "pub_year": "2017",
+                "citation": "Multi-disciplinary Trends in Artificial Intelligence: 11th International \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:Tiz5es2fbqcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4155902585620914578",
+            "cites_id": [
+                "4155902585620914578"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automh: Automatically create evolutionary metaheuristic algorithms using reinforcement learning",
+                "pub_year": "2022",
+                "citation": "Entropy 24 (7), 957, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:9vf0nzSNQJEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14958365435830111005",
+            "cites_id": [
+                "14958365435830111005"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing three simple ways of generating neighboring solutions when solving the cell formation problem using two versions of migrating birds optimization",
+                "pub_year": "2017",
+                "citation": "2017 17th International Conference on Computational Science and Its \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:SP6oXDckpogC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7751645361801574417",
+            "cites_id": [
+                "7751645361801574417"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biomedical Applications Based on Natural and Artificial Computing: International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2017 \u2026",
+                "pub_year": "2017",
+                "citation": "Springer, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:1qzjygNMrQYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10204223493420702747",
+            "cites_id": [
+                "10204223493420702747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simulation of a dynamic prey-predator spatial model based on cellular automata using the behavior of the metaheuristic African Buffalo optimization",
+                "pub_year": "2017",
+                "citation": "Natural and Artificial Computation for Biomedicine and Neuroscience \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:KxtntwgDAa4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7939832795638331850",
+            "cites_id": [
+                "7939832795638331850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine-part cell formation problems with constraint programming",
+                "pub_year": "2015",
+                "citation": "2015 34th International Conference of the Chilean Computer Science Society \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10582358538678797856",
+            "cites_id": [
+                "10582358538678797856"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards an automatic optimisation model generator assisted with generative pre-trained transformer",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2305.05811, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:eq2jaN3J8jMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2137021118211635601",
+            "cites_id": [
+                "2137021118211635601"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Natural and Artificial Computation for Biomedicine and Neuroscience: International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2017 \u2026",
+                "pub_year": "2017",
+                "citation": "Springer, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:kRWSkSYxWN8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9342905605676270038",
+            "cites_id": [
+                "9342905605676270038"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HCI International 2016\u2013Posters' Extended Abstracts: 18th International Conference, HCI International 2016, Toronto, Canada, July 17-22, 2016, Proceedings, Part I",
+                "pub_year": "2016",
+                "citation": "Springer, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:VOx2b1Wkg3QC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1907706432061134486",
+            "cites_id": [
+                "1907706432061134486"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient leader exchange for migrating birds optimization when solving machine-part cell formation problems",
+                "pub_year": "2016",
+                "citation": "2016 11th Iberian Conference on Information Systems and Technologies (CISTI \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:K3LRdlH-MEoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4843208821690990570",
+            "cites_id": [
+                "4843208821690990570"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolve the cell formation problem in a set of three manufacturing cells",
+                "pub_year": "2019",
+                "citation": "PeerJ Preprints, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:5Ul4iDaHHb8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14640380769482331146",
+            "cites_id": [
+                "14640380769482331146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous Population Regulation Using a Multi-Agent System in a Prey\u2013Predator Model That Integrates Cellular Automata and the African Buffalo Optimization Metaheuristic",
+                "pub_year": "2019",
+                "citation": "Algorithms 12 (3), 59, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:vRqMK49ujn8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=993953763380773596",
+            "cites_id": [
+                "993953763380773596"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Applied Computational Intelligence and Mathematical Methods: Computational Methods in Systems and Software 2017, Vol. 2",
+                "pub_year": "2017",
+                "citation": "Springer, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:olpn-zPbct0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14789614151631599741",
+            "cites_id": [
+                "14789614151631599741"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving open-pit long-term production planning problems with constraint programming a performance evaluation",
+                "pub_year": "2014",
+                "citation": "2014 9th International Conference on Software Engineering and Applications \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14067893782906349043",
+            "cites_id": [
+                "14067893782906349043"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AutoMH: Automatically Create Evolutionary Metaheuristic Algorithms Using Reinforced Learning",
+                "pub_year": "2021",
+                "citation": "Preprints, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:WA5NYHcadZ8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14588649707137465562",
+            "cites_id": [
+                "14588649707137465562"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Preliminary experiments with the Andean Condor Algorithm to solve problems of Continuous Domains",
+                "pub_year": "2019",
+                "citation": "PeerJ PrePrints 7, e27678v1, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:8AbLer7MMksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14723977291459752641",
+            "cites_id": [
+                "14723977291459752641"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-disciplinary Trends in Artificial Intelligence: 11th International Workshop, MIWAI 2017, Gadong, Brunei, November 20-22, 2017, Proceedings",
+                "pub_year": "2017",
+                "citation": "Springer, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:q3oQSFYPqjQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8236236227132821899",
+            "cites_id": [
+                "8236236227132821899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolucion del manufacturing cell design problem utilizando flower pollination algorithm",
+                "pub_year": "2017",
+                "citation": "Pontificia Universidad Catolica de Valparaiso 1 (1), 15-20, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:fQNAKQ3IYiAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1665452932159673553",
+            "cites_id": [
+                "1665452932159673553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del problema de dise\u00f1o de celdas de manufactura utilizando egyptian vulture",
+                "pub_year": "2017",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso. Retrieved from http://opac \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:XiSMed-E-HIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7174554421166051831",
+            "cites_id": [
+                "7174554421166051831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del Manufacturing Cell Design Problem utilizando el Algoritmo Bat",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 11th Iberian Conference on Information Systems and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:AXPGKjj_ei8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11130814505250576051",
+            "cites_id": [
+                "11130814505250576051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in Artificial Intelligence and Soft Computing",
+                "pub_year": "2015",
+                "citation": "Springer, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:wbdj-CoPYUoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8441563646297834190",
+            "cites_id": [
+                "8441563646297834190"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgement to Reviewers of IJGI in 2020",
+                "pub_year": "2021",
+                "citation": "ISPRS International Journal of Geo-Information 10 (2), 49, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:ye4kPcJQO24C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgment to Reviewers of Diversity in 2020",
+                "pub_year": "2021",
+                "citation": "Diversity 13 (2), 38, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:WqliGbK-hY8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgment to Reviewers of Information in 2020",
+                "pub_year": "2021",
+                "citation": "Information 12 (1), 32, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:5awf1xo2G04C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgment to Reviewers of Sustainability in 2020",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:LjlpjdlvIbIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgment to Reviewers of Information in 2020",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:dTyEYWd-f8wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgment to Reviewers of Diversity in 2020",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:PELIpwtuRlgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Acknowledgement to Reviewers of IJGI in 2020",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:_B80troHkn4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolving the optimal selection of a natural reserve using the particle swarm optimisation by applying transfer functions",
+                "pub_year": "2018",
+                "citation": "PeerJ Preprints, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:tOudhMTPpwUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Imperialist Competitive Algorithm to Solve the Manufacturing Cell Design Problem",
+                "pub_year": "2018",
+                "citation": "Applied Computational Intelligence and Mathematical Methods: Computational \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:uWQEDVKXjbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RESOLUCI\u00d3N DEL MANUFACTURING CELL DESIGN PROBLEM CON AFRICAN BUFFALO OPTIMIZATION",
+                "pub_year": "2017",
+                "citation": "PONTIFICIA UNIVERSIDAD CAT\u00d3LICA DE VALPARA\u00cdSO, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:mvPsJ3kp5DgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FLAIRS-30 Poster Abstracts",
+                "pub_year": "2017",
+                "citation": "The Thirtieth International Flairs Conference, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:V3AGJWp-ZtQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RESOLUCION DEL MANUFACTURING CELL DESIGN PROBLEM MEDIANTE LA METAHEUR\u00cdSTICA BIG BANG BIG CRUNCH",
+                "pub_year": "2017",
+                "citation": "Pontificia Universidad Cat\u00f3lica, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:J-pR_7NvFogC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-disciplinary Trends in Artificial Intelligence: 10th International Workshop, MIWAI 2016, Chiang Mai, Thailand, December 7-9, 2016, Proceedings",
+                "pub_year": "2016",
+                "citation": "Springer, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:eflP2zaiRacC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RESOLUCI\u00d3N DE MANUFACTURING CELL DESIGN PROBLEM UTILIZANDO ARTIFICIAL BEE COLONY ALGORITHM",
+                "pub_year": "2016",
+                "citation": "PONTIFICIA UNIVERSIDAD CAT\u00d3LICA DE VALPARA\u00cdSO, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:XiVPGOgt02cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the manufacturing cell design problem using the Cuckoo Search",
+                "pub_year": "2016",
+                "citation": "2016 Fifteenth Mexican International Conference on Artificial Intelligence \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:tkaPQYYpVKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del problema Manufacturing Cell Design aplicando la metaheur\u00edstica Cuckoo Search",
+                "pub_year": "2016",
+                "citation": "PONTIFICIA UNIVERSIDAD CAT\u00d3LICA DE VALPARA\u00cdSO, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:bnK-pcrLprsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resoluci\u00f3n del Manufacturing Cell Design Problem Utilizando el Algoritmo Luci\u00e9rnaga",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 11th Iberian Conference on Information Systems and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:eMMeJKvmdy0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un Eficiente Intercambio De L\u00edder En El Algoritmo Optimizaci\u00f3n De Migraci\u00f3n de Aves en resolver el problema de Formaci\u00f3n de Celdas M\u00e1quina-Parte",
+                "pub_year": "2016",
+                "citation": "Proceedings of the 11th Iberian Conference on Information Systems and \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:Mojj43d5GZwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient leader exchange for Migrating Birds Optimization when solving machine-part cell formation problems [Un Eficiente Intercambio De L\u00edder En El Algoritmo Optimizaci\u00f3n De \u2026",
+                "pub_year": "2016",
+                "citation": "IEEE Computer Society, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:HE397vMXCloC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A bat algorithm to solve the manufacturing cell design problem [Resoluci\u00f3n del Manufacturing Cell Design Problem utilizando el Algoritmo Bat]",
+                "pub_year": "2016",
+                "citation": "IEEE Computer Society, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:t6usbXjVLHcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization for UI design via metaheuristics",
+                "pub_year": "2016",
+                "citation": "HCI International 2016\u2013Posters' Extended Abstracts: 18th International \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:cFHS6HbyZ2cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advances in Artificial Intelligence and Its Applications: 14th Mexican International Conference on Artificial Intelligence, MICAI 2015, Cuernavaca, Morelos, Mexico, October 25 \u2026",
+                "pub_year": "2015",
+                "citation": "Springer, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:SdhP9T11ey4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DESARROLLO DEL M\u00d3DULO MICRO-MUNDO DVD PARA EL SISTEMA E-LEARNING AMADeUs",
+                "pub_year": "2010",
+                "citation": "PONTIFICIA UNIVERSIDAD CAT\u00d3LICA DE VALPARA\u00cdSO, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:B3FOqHPlNUQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DESARROLLO DEL M\u00d3DULO MICRO-MUNDO DVD PARA EL PROYECTO E-LEARNING AMADeUs",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:4fKUyHm3Qg0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo del m\u00f3dulo micro-mundo dvd para el sistema e-learning AMADeUs",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:JoZmwDi-zQgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scientific Programming in Computational Intelligence",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:5ugPr518TE4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MICAI 2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:eJXPG6dFmWUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "INVITED SPEAKERS KEYNOTE SPEAKERS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:tS2w5q8j5-wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article Efficient Parallel Sorting for Migrating Birds Optimization When Solving Machine-Part Cell Formation Problems",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "Ck_ouu4AAAAJ:738O_yMBCRsC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

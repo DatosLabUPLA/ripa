@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "UQR_H8EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sergio Acevedo",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "gasto electoral",
+        "opini\u00f3n p\u00fablica",
+        "aprobaci\u00f3n presidencial",
+        "elecciones"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 21,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 3,
+        "2018": 5,
+        "2019": 0,
+        "2020": 2,
+        "2021": 3,
+        "2022": 4,
+        "2023": 2,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IBcs-ZwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio D Navia",
+            "affiliation": "New York University - Universidad Diego Portales"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un m\u00e9todo no end\u00f3geno para medir el gasto electoral en Chile, 2005-2009",
+                "pub_year": "2015",
+                "citation": "Revista mexicana de ciencias pol\u00edticas y sociales 60 (225), 103-131, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UQR_H8EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3671436474289017746",
+            "cites_id": [
+                "3671436474289017746"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Non-Endogenous Method to Measure Campaign Financing in Chile, 2005-2009",
+                "pub_year": "2015",
+                "citation": "Revista mexicana de ciencias pol\u00edticas y sociales 60 (225), 103-132, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "UQR_H8EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PROPUESTA DE REDISE\u00d1O DE ESTACI\u00d3N DE CORTE EN LADRILLERAS SAN PABLO SA USANDO MANUFACTURA VIRTUAL Y EL M\u00c9TODO DE SUPERFICIE DE RESPUESTA (RSM)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UQR_H8EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un mejor m\u00e9todo de medir el gasto electoral en Chile, 2005-2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "UQR_H8EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

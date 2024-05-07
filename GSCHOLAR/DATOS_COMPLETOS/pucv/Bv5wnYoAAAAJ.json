@@ -1,0 +1,71 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Bv5wnYoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "MATIAS GABRIEL GARCIA SALDES",
+    "affiliation": "PhD student, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "User Experience",
+        "behavioral research",
+        "Virtual Reality"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 6
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design path for a social robot for emotional Communication for Children with Autism Spectrum disorder (ASD)",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (11), 5291, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Bv5wnYoAAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13860737021052387800",
+            "cites_id": [
+                "13860737021052387800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Eye tracking to evaluate the user experience (UX): Literature review",
+                "pub_year": "2022",
+                "citation": "International Conference on Human-Computer Interaction, 134-145, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Bv5wnYoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8147955783983037123",
+            "cites_id": [
+                "8147955783983037123"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

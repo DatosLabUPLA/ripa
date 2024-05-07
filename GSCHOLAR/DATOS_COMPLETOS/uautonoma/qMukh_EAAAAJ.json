@@ -1,0 +1,68 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "qMukh_EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Catalina Chirino",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "medicina general"
+    ],
+    "email_domain": "@cloud.uautonoma.cl",
+    "homepage": "http://www.uautonoma.cl/",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Septum or \u201cTabique\u201d? Historical, Etymological and Proposal Analysis for International Anatomical Terminology (TAI)",
+                "pub_year": "2019",
+                "citation": "INTERNATIONAL JOURNAL OF MORPHOLOGY 37 (2), 766-772, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "qMukh_EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7249409095189557589,6855006319351814534",
+            "cites_id": [
+                "7249409095189557589",
+                "6855006319351814534"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u00bf Septo o Tabique? An\u00e1lisis Hist\u00f3rico, Etimol\u00f3gico y Propuesta para Terminolog\u00eda Anat\u00f3mica Internacional (TAI)",
+                "pub_year": "2019",
+                "citation": "International Journal of Morphology 37 (2), 766-772, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "qMukh_EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

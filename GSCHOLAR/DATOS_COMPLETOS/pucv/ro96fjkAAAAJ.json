@@ -1,0 +1,87 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ro96fjkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fabian Contreras",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ro96fjkAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Catolica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "dynamical systems",
+        "ergodic theory",
+        "linear response"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 5,
+    "citedby5y": 1,
+    "hindex": 2,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2015": 1,
+        "2016": 1,
+        "2017": 1,
+        "2018": 1,
+        "2019": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularity of absolutely continuous invariant measures for piecewise expanding unimodal maps",
+                "pub_year": "2016",
+                "citation": "Nonlinearity 29 (9), 2775, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ro96fjkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6920141611627296184",
+            "cites_id": [
+                "6920141611627296184"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modulus of continuity of averages of SRB measures for a transversal family of piecewise expanding unimodal maps",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1604.03365, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ro96fjkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13278941217357492405",
+            "cites_id": [
+                "13278941217357492405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regularity of measures for piecewise expanding unimodal maps",
+                "pub_year": "2014",
+                "citation": "University of Maryland, College Park, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "ro96fjkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

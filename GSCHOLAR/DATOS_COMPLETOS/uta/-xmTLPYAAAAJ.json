@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-xmTLPYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Oyarce Marambio",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-xmTLPYAAAAJ&citpid=4",
+    "affiliation": "Departamento de Ingenier\u00eda y Tecnolog\u00edas, Universidad de Tarapac\u00e1, Iquique-Chile",
+    "organization": 4727335469935944428,
+    "interests": [
+        "Control Autom\u00e1tico",
+        "Sistemas Digitales",
+        "Teor\u00eda de Circuitos El\u00e9ctricos/Electr\u00f3nicos"
+    ],
+    "email_domain": "@academicos.uta.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CnEEXs8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kristopher Chandia",
+            "affiliation": "Universidad de Tarapac\u00e1"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MEMRISTOR. UNA PERSPECTIVA GENERAL",
+                "pub_year": "2014",
+                "citation": "Interciencia 39 (7), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-xmTLPYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3246108655698965337,4824553662680828460",
+            "cites_id": [
+                "3246108655698965337",
+                "4824553662680828460"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MEMRISTOR. A GENERAL PERSPECTIVE",
+                "pub_year": "2014",
+                "citation": "INTERCIENCIA 39 (7), 458-467, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-xmTLPYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pF2ccdoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Kaminetzky",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pF2ccdoAAAAJ&citpid=2",
+    "affiliation": "Master's student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "computer vision",
+        "deep learning"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://www.linkedin.com/in/kaminetzky/",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 5,
+        "2024": 8
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Target detection by target simulation in X-ray testing",
+                "pub_year": "2022",
+                "citation": "Journal of Nondestructive Evaluation 41 (1), 21, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pF2ccdoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6911886791542968540",
+            "cites_id": [
+                "6911886791542968540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving automated baggage inspection using simulated x-ray images of 3d models",
+                "pub_year": "2022",
+                "citation": "Pacific-Rim Symposium on Image and Video Technology, 117-131, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pF2ccdoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2027644231277348176",
+            "cites_id": [
+                "2027644231277348176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SIMULATED X-RAY IMAGES OF 3D MODELS",
+                "pub_year": "2023",
+                "citation": "PONTIFICIA UNIVERSIDAD, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pF2ccdoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "In-depth analysis of automated baggage inspection using simulated X-ray images of 3D models",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pF2ccdoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

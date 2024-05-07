@@ -1,0 +1,216 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "wmzkJOoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Calder\u00f3n",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wmzkJOoAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Networking",
+        "Optical Network",
+        "Elastic Optical Networks",
+        "Machine Learning",
+        "Deep Learning"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 64,
+    "citedby5y": 64,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 22,
+        "2023": 26,
+        "2024": 7
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QmtY9h0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ariel Leiva Lopez",
+            "affiliation": "School of Electrical Engineering, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3hJ6L_4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s Jara",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x5HOolYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gabriel Saavedra",
+            "affiliation": "Universidad de Concepci\u00f3n"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vBgTDvoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Danilo B\u00f3rquez-Paredes",
+            "affiliation": "Assistant Professor, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CFE5jy8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricia Morales Calvo",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hX9KTOoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Enrique Davalos",
+            "affiliation": "Facultad Polit\u00e9cnica - Universidad Nacional de Asunci\u00f3n"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BER-adaptive RMLSA algorithm for wide-area flexible optical networks",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 128018-128031, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15188491358612862039",
+            "cites_id": [
+                "15188491358612862039"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heuristic approaches for dynamic provisioning in multi-band elastic optical networks",
+                "pub_year": "2021",
+                "citation": "IEEE Communications Letters 26 (2), 379-383, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=905972892777177370",
+            "cites_id": [
+                "905972892777177370"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-band environments for optical reinforcement learning gym for resource allocation in elastic optical networks",
+                "pub_year": "2021",
+                "citation": "2021 International Conference on Optical Network Design and Modeling (ONDM), 1-6, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5885864875241748249",
+            "cites_id": [
+                "5885864875241748249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource allocation in multicore elastic optical networks: A deep reinforcement learning approach",
+                "pub_year": "2023",
+                "citation": "Complexity 2023, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:b0M2c_1WBrUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813943216821900124",
+            "cites_id": [
+                "13813943216821900124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of amplification and regeneration schemes on the blocking performance and energy consumption of wide-area elastic optical networks",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 134355-134368, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162848378041350883",
+            "cites_id": [
+                "2162848378041350883"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "3R regeneration in elastic optical networks and its impact on the network quality of service",
+                "pub_year": "2020",
+                "citation": "2020 22nd International Conference on Transparent Optical Networks (ICTON), 1-4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3662611923072061648",
+            "cites_id": [
+                "3662611923072061648"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamic resource allocation in different ultrawideband optical network topologies",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Photonics Society Summer Topicals Meeting Series (SUM), 1-2, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:738O_yMBCRsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7651979668327130497",
+            "cites_id": [
+                "7651979668327130497"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of BER threshold over Blocking Probability of a RMLSA Method for Wide Area Flexible Optical Networks",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "wmzkJOoAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

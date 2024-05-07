@@ -1,0 +1,1137 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7g3r_ykAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo Carvajal",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7g3r_ykAAAAJ&citpid=4",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "statistical signal processing",
+        "wireless communications",
+        "OFDM",
+        "Phase noise"
+    ],
+    "email_domain": "@pucv.cl",
+    "homepage": "http://www.sysid-cps.org/rc/index.html",
+    "citedby": 412,
+    "citedby5y": 297,
+    "hindex": 10,
+    "hindex5y": 10,
+    "i10index": 14,
+    "i10index5y": 12,
+    "cites_per_year": {
+        "2012": 4,
+        "2013": 11,
+        "2014": 13,
+        "2015": 20,
+        "2016": 26,
+        "2017": 11,
+        "2018": 25,
+        "2019": 29,
+        "2020": 26,
+        "2021": 85,
+        "2022": 45,
+        "2023": 94,
+        "2024": 18
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wSXnYFYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan C. Ag\u00fcero",
+            "affiliation": "Universidad Tecnica Federico Santa Maria (Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "umQwjCgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Boris I. Godoy",
+            "affiliation": "Researcher, Lund University, Sweden"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ah1GGpIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rafael Orellana",
+            "affiliation": "Doctor in Electronics Engineering, USACH, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Kpo0tOkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Esc\u00e1rate",
+            "affiliation": "Escuela de Ingenier\u00eda El\u00e9ctrica, Facultad de Ingenier\u00eda, PUCV"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZOF0KysAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Graham clifford goodwin",
+            "affiliation": "Professor university of newcastle Australia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mzKYIOgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Maria Coronel",
+            "affiliation": "Resercher ANID-Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mfnr2oEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan I. Yuz",
+            "affiliation": "Universidad Tecnica Federico Santa Maria"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "L9US5bgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ram\u00f3n A. Delgado Pulgar",
+            "affiliation": "Ericsson Research"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-0gRNgsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cesar Silva",
+            "affiliation": "Departamento de Electr\u00f3nica, Universidad T\u00e9cnica Federico Santa Mar\u00eda, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "FPRU4iIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dimitrios Katselis",
+            "affiliation": "University of Illinois at Urbana-Champaign"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-Based Maximum Likelihood Channel Estimation in Multicarrier Systems with Phase Distortion",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Vehicular Technology 62 (1), 152-160, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7483966686496199623",
+            "cites_id": [
+                "7483966686496199623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of sparse FIR systems using a general quantisation scheme",
+                "pub_year": "2014",
+                "citation": "International Journal of Control 87 (4), 874-886, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:ufrVoPGSRksC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4623235874146421047",
+            "cites_id": [
+                "4623235874146421047"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LoRa based IoT platform for remote monitoring of large-scale agriculture farms in Chile",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (8), 2824, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:ZHo1McVdvXMC",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12386873308192256807",
+            "cites_id": [
+                "12386873308192256807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel approach to model error modelling using the expectation-maximization algorithm",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 7327-7332, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14428948019658270062",
+            "cites_id": [
+                "14428948019658270062"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimum variance control for mitigation of vibrations in adaptive optics systems",
+                "pub_year": "2017",
+                "citation": "Applied Optics 56 (19), 5388-5397, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:4DMP91E08xMC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12438908536034839955",
+            "cites_id": [
+                "12438908536034839955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A data augmentation approach for a class of statistical inference problems",
+                "pub_year": "2018",
+                "citation": "PloS one 13 (12), e0208499, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:-f6ydRqryjwC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12365493948506005392",
+            "cites_id": [
+                "12365493948506005392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based identification of ARX systems having quantized output data",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 8367-8372, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:dhFuZR0502QC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11527283536310629610",
+            "cites_id": [
+                "11527283536310629610"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the uncertainty identification for linear dynamic systems using stochastic embedding approach with gaussian mixture models",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (11), 3837, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:70eg2SAEIzsC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6358941746324626479",
+            "cites_id": [
+                "6358941746324626479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood estimation for non-minimum-phase noise transfer function with Gaussian mixture noise distribution",
+                "pub_year": "2022",
+                "citation": "Automatica 135, 109937, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:M05iB0D1s5AC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027064874440162402",
+            "cites_id": [
+                "7027064874440162402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based sparse channel estimation in OFDM systems",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 13th International Workshop on Signal Processing Advances in \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3074291069010179496",
+            "cites_id": [
+                "3074291069010179496"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On filtering methods for state-space systems having binary output measurements",
+                "pub_year": "2021",
+                "citation": "IFAC-PapersOnLine 54 (7), 815-820, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3915617611552886621",
+            "cites_id": [
+                "3915617611552886621"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood identification for Linear Dynamic Systems with finite Gaussian mixture noise distribution",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:r0BpntZqJG4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1281678432632767739",
+            "cites_id": [
+                "1281678432632767739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A method to deconvolve stellar rotational velocities-III. The probability distribution function via maximum likelihood utilizing finite distribution mixtures",
+                "pub_year": "2019",
+                "citation": "Astronomy & Astrophysics 623, A138, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12690924531060198077",
+            "cites_id": [
+                "12690924531060198077"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum likelihood infinite mixture distribution estimation utilizing finite Gaussian mixtures",
+                "pub_year": "2018",
+                "citation": "IFAC-PapersOnLine 51 (15), 706-711, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:qUcmZB5y_30C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8721475107717338869",
+            "cites_id": [
+                "8721475107717338869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood identification of a continuous-time oscillator utilizing sampled data",
+                "pub_year": "2018",
+                "citation": "IFAC-PapersOnLine 51 (15), 712-717, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:hC7cP41nSMkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12467367827872477959",
+            "cites_id": [
+                "12467367827872477959"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-filter approach for state estimation utilizing quantized output data",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (22), 7675, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714891282646700806",
+            "cites_id": [
+                "17714891282646700806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Disturbance modelling for minimum variance control in adaptive optics systems using wavefront sensor sampled-data",
+                "pub_year": "2021",
+                "citation": "Sensors 21 (9), 3054, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13683491327777657405",
+            "cites_id": [
+                "13683491327777657405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based identification of static errors-in-variables systems utilizing Gaussian Mixture models",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 863-868, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:O3NaXMp0MMsC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4686281986102036211",
+            "cites_id": [
+                "4686281986102036211"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Empirical Bayes estimation utilizing finite Gaussian mixture models",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:TFP_iSt0sucC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6803450626807678564",
+            "cites_id": [
+                "6803450626807678564"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An identification method for Errors-in-Variables systems using incomplete data",
+                "pub_year": "2012",
+                "citation": "IFAC Proceedings Volumes 45 (16), 1359-1364, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11091291057519884789",
+            "cites_id": [
+                "11091291057519884789"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Low Complexity Wiener Filtering in CDMA Systems Using a Class of Pseudo-Noise Spreading Codes",
+                "pub_year": "2012",
+                "citation": "IEEE Communications Letters 16 (9), 1357 - 1360, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:qjMakFHDy7sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3635159585999788311",
+            "cites_id": [
+                "3635159585999788311"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust automatic net damage detection and tracking on real aquaculture environment using computer vision",
+                "pub_year": "2023",
+                "citation": "Aquacultural Engineering 101, 102323, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:u_35RYKgDlwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2394730149436241369",
+            "cites_id": [
+                "2394730149436241369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model error modelling using a stochastic embedding approach with Gaussian mixture models for FIR systems",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 845-850, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:RYcK_YlVTxYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6096943663803497790",
+            "cites_id": [
+                "6096943663803497790"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vibration model identification using the maximum likelihood method",
+                "pub_year": "2018",
+                "citation": "Adaptive Optics Systems VI 10703, 1505-1510, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:IWHjjKOFINEC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=899702259209630427",
+            "cites_id": [
+                "899702259209630427"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A map approach for \u2113q-norm regularized sparse parameter estimation using the EM algorithm",
+                "pub_year": "2015",
+                "citation": "2015 IEEE 25th International Workshop on Machine Learning for Signal \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14672614585345558732",
+            "cites_id": [
+                "14672614585345558732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An optimization-based algorithm for model selection using an approximation of Akaike's Information Criterion",
+                "pub_year": "2016",
+                "citation": "2016 Australian Control Conference (AuCC), 217-220, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1429677607079141314",
+            "cites_id": [
+                "1429677607079141314"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the accuracy of phase noise bandwidth estimation in OFDM systems",
+                "pub_year": "2011",
+                "citation": "2011 IEEE 12th International Workshop on Signal Processing Advances in \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812535155332912602",
+            "cites_id": [
+                "2812535155332912602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel filtering method for hammerstein-wiener state-space systems",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:SeFeTyx0c_EC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17379250471764336255",
+            "cites_id": [
+                "17379250471764336255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of continuous-time systems utilising Kautz basis functions from sampled-data",
+                "pub_year": "2020",
+                "citation": "IFAC-PapersOnLine 53 (2), 536-541, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4168233924661873322",
+            "cites_id": [
+                "4168233924661873322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of continuous-time deterministic system utilizing orthonormal basis functions and sample data",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:maZDTaKrznsC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16338250663428420602",
+            "cites_id": [
+                "16338250663428420602"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "State Estimation for SAG Mills utilizing a simplified model with an alternative measurement",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:bEWYMUwI8FkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3788158095681756197",
+            "cites_id": [
+                "3788158095681756197"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based identification of sparse FIR systems having quantized data",
+                "pub_year": "2012",
+                "citation": "IFAC Proceedings Volumes 45 (16), 553-558, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11965656441285867446",
+            "cites_id": [
+                "11965656441285867446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based channel estimation in OFDM systems with phase noise",
+                "pub_year": "2011",
+                "citation": "2011 IEEE Global Telecommunications Conference-GLOBECOM 2011, 1-5, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745515132653006009",
+            "cites_id": [
+                "2745515132653006009"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Impulse Response Errors-in-Variables System Identification Utilizing Approximated Likelihood and Gaussian Mixture Models",
+                "pub_year": "2023",
+                "citation": "IEEE Access 11, 24615-24630, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:4OULZ7Gr8RgC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7575179540434472459",
+            "cites_id": [
+                "7575179540434472459"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Filtering and Smoothing Algorithms for Linear State-Space Models Having Quantized Output Data",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (6), 1327, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:fPk4N6BV_jEC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2870942682101323379",
+            "cites_id": [
+                "2870942682101323379"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification and model predictive control of an experimental adaptive optics setup utilizing Kautz basis functions",
+                "pub_year": "2020",
+                "citation": "Adaptive Optics Systems VII 11448, 497-508, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:ns9cj8rnVeAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5898231148770580701",
+            "cites_id": [
+                "5898231148770580701"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel bayesian filtering method for systems with quantized output data",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:isC4tDSrTZIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7076071679320096435",
+            "cites_id": [
+                "7076071679320096435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Information criterion-based channel estimation in OFDM systems with time and frequency offset",
+                "pub_year": "2016",
+                "citation": "2016 8th IEEE Latin-American Conference on Communications (LATINCOM), 1-5, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13234001674163265340",
+            "cites_id": [
+                "13234001674163265340"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the dimension of the Krylov subspace in low complexity wireless communications linear receivers",
+                "pub_year": "2016",
+                "citation": "IEEE Latin America Transactions 14 (3), 1192-1198, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4457806945852316239",
+            "cites_id": [
+                "4457806945852316239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A MAP approach for -norm regularized sparse parameter estimation using the EM algorithm",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1508.01071, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:4TOpqqG69KYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6026053483263440712",
+            "cites_id": [
+                "6026053483263440712"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A gaussian sum smoothing algorithm for Hammerstein-Wiener state-space systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:zA6iFVUQeVQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13189326333453574963",
+            "cites_id": [
+                "13189326333453574963"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the uncertainty modelling for linear continuous-time systems utilising sampled data and Gaussian mixture models",
+                "pub_year": "2021",
+                "citation": "IFAC-PapersOnLine 54 (7), 589-594, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:ldfaerwXgEUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15568479497271570356",
+            "cites_id": [
+                "15568479497271570356"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification and control of an experimental Adaptive Optics setup",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1767203459347713220",
+            "cites_id": [
+                "1767203459347713220"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On maximum likelihood estimation of continuous-time oscillators modelled as continuous-time autoregressive system",
+                "pub_year": "2019",
+                "citation": "IEEE Latin America Transactions 17 (07), 1214-1219, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12524782175355627095",
+            "cites_id": [
+                "12524782175355627095"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Vibrations modelling at LBTO utilizing telemetry data",
+                "pub_year": "2019",
+                "citation": "Proceedings of the Adaptive Optics for Extremely Large Telescopes, Quebec \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:lSLTfruPkqcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9554549487560194279",
+            "cites_id": [
+                "9554549487560194279"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On maximum likelihood estimation of channel impulse response and carrier frequency offset in OFDM systems",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 9th Latin-American Conference on Communications (LATINCOM), 1-4, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16843847363608775501",
+            "cites_id": [
+                "16843847363608775501"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based ML channel estimation in OFDM systems with phase distortion using RB-EKF",
+                "pub_year": "2014",
+                "citation": "2014 International Symposium on Wireless Personal Multimedia Communications \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:UebtZRa9Y70C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8668278789631894213",
+            "cites_id": [
+                "8668278789631894213"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Identification Method for Stochastic Continuous-Time Disturbances in Adaptive Optics Systems",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 4228-4233, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:pyW8ca7W8N0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6512282859999156294",
+            "cites_id": [
+                "6512282859999156294"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "VizieR Online Data Catalog: ALMA Frontier Fields Survey. I.(Gonzalez-Lopez+, 2017)",
+                "pub_year": "2016",
+                "citation": "VizieR Online Data Catalog, J/A+ A/597/A41, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:blknAaTinKkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10794827564849689377",
+            "cites_id": [
+                "10794827564849689377"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sparse logistic regression utilizing cardinality constraints and information criteria",
+                "pub_year": "2016",
+                "citation": "2016 IEEE Conference on Control Applications (CCA), 798-803, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4591404900266012903",
+            "cites_id": [
+                "4591404900266012903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based sparse channel estimation in OFDM systems with \u2113q-norm regularization in the presence of phase noise and frequency offset",
+                "pub_year": "2015",
+                "citation": "2015 7th IEEE Latin-American Conference on Communications (LATINCOM), 1-6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14903560150330329813",
+            "cites_id": [
+                "14903560150330329813"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian approach to sparse channel estimation in OFDM systems",
+                "pub_year": "2013",
+                "citation": "arXiv preprint arXiv:1311.3613, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:WF5omc3nYNoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12806262334787117070",
+            "cites_id": [
+                "12806262334787117070"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "EM-based channel estimation for multicarrier communication systems",
+                "pub_year": "2013",
+                "citation": "University of Newcastle, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=642130706063534627",
+            "cites_id": [
+                "642130706063534627"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maximum Likelihood Estimation for an SAG Mill Model utilizing Physical Available Measurements",
+                "pub_year": "2024",
+                "citation": "IEEE Access, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:NhqRSupF_l8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Accurate Discrete-Time Dynamic Models of an Induction Machine",
+                "pub_year": "2024",
+                "citation": "Mathematics 12 (3), 373, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:_xSYboBqXhAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Iterative Estimation Algorithm for a Class of Wiener System Model Utilizing a Piece-Wise Linear Approximation",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:abG-DnoFyZgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Optimal Integral Controller for Adaptive Optics Systems",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (22), 9186, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:D03iK_w7-QYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Bayesian Filtering Method for Wiener State-Space Systems Utilizing a Piece-wise Linear Approximation",
+                "pub_year": "2023",
+                "citation": "IFAC-PapersOnLine 56 (2), 10246-10251, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:f2IySw72cVMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Recursive State Estimation for Linear State-Space Models Having Quantized Output Data",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2112.07828, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:HoB7MX3m0LUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameter Estimation over Wired Networks with Time-Delay and Packet Collision",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:k_IJM867U9cC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Alternative Optimization Approach for MPC Control of PV plants with Energy Storage",
+                "pub_year": "2019",
+                "citation": "2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A systematic optimization approach for a class of statistical inference problems utilizing data augmentation",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1601.05074, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Channel estimation and interpolation for fourth generation mobile broadband telecommunications",
+                "pub_year": "2014",
+                "citation": "IFAC Proceedings Volumes 47 (3), 9998-10003, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An EM-based estimation algorithm for a class of systems promoting sparsity",
+                "pub_year": "2013",
+                "citation": "2013 European Control Conference (ECC), 2398-2403, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A filtering approach for model selection",
+                "pub_year": "2011",
+                "citation": "2011 9th IEEE International Conference on Control and Automation (ICCA), 47-52, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "IEEE COMMUNICATIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "7g3r_ykAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "fVhIwYsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Sofia Tosso",
+    "affiliation": "Docente Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Adsorption",
+        "Algae",
+        "Gases"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "homepage": "http://www.uautonoma.cl/",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 1,
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the use of single, dual and three process langmuir models for binary gas mixtures that exhibit unique combinations of these processes",
+                "pub_year": "2021",
+                "citation": "Adsorption 27 (4), 637-658, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fVhIwYsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12633297375280443229",
+            "cites_id": [
+                "12633297375280443229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Heterogeneous Extended Langmuir Model with a Truncated Multi-Normal Energy Distribution for Fitting Unary Data and Predicting Mixed-Gas Adsorption Equilibria",
+                "pub_year": "2021",
+                "citation": "University of South Carolina, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "fVhIwYsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single Gas Multi-Normal Energy Distribution Models for Predicting Mixed Gas Adsorption Equilibria from Non-Uniform Heterogeneous Extended Langmuir and Hias Models",
+                "pub_year": "2020",
+                "citation": "2020 Virtual AIChE Annual Meeting, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "fVhIwYsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

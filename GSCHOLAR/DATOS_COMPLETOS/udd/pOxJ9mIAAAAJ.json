@@ -1,0 +1,458 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "pOxJ9mIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Boris Rebolledo-Jaramillo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=pOxJ9mIAAAAJ&citpid=9",
+    "affiliation": "Researcher at Universidad del Desarrollo",
+    "organization": 4794720163447555879,
+    "interests": [
+        "bioinformatics",
+        "heteroplasmy",
+        "mitochondria",
+        "clinical genomics",
+        "rare diseases"
+    ],
+    "email_domain": "@udd.cl",
+    "citedby": 578,
+    "citedby5y": 369,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2014": 8,
+        "2015": 30,
+        "2016": 50,
+        "2017": 51,
+        "2018": 64,
+        "2019": 64,
+        "2020": 71,
+        "2021": 68,
+        "2022": 88,
+        "2023": 58,
+        "2024": 20
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ActR7hIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ben Dickins",
+            "affiliation": "University Lecturer"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SjnkwHUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Blankenberg",
+            "affiliation": "Genomic Medicine Institute - Lerner Research Institute - Cleveland Clinic / Galaxy Project"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GYmhyu4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kateryna Makova",
+            "affiliation": "Professor of Biology, Penn State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2WSivQUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicholas Stoler",
+            "affiliation": "Penn State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kpp5m7YAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francesca Chiaromonte",
+            "affiliation": "Professor of Statistics, Pennsylvania State University, Sant'Anna School of Advanced Studies"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "PySbfcEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rasmus Nielsen",
+            "affiliation": "UC Berkeley, University of Copenhagen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-YNWF4AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Thorfinn Sand Korneliussen",
+            "affiliation": "Associate Professor, University of Copenhagen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-VBLpmUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Raz Zarivach",
+            "affiliation": "Ben Gurion University of the Negev"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Maternal age effect and severe germ-line bottleneck in the inheritance of human mitochondrial DNA",
+                "pub_year": "2014",
+                "citation": "Proceedings of the National Academy of Sciences 111 (43), 15474-15479, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 251,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4350464947142486782,15345420240250446469",
+            "cites_id": [
+                "4350464947142486782",
+                "15345420240250446469"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Jupyter and Galaxy: Easing entry barriers into complex data analyses for biomedical researchers",
+                "pub_year": "2017",
+                "citation": "PLoS computational biology 13 (5), e1005425, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086672181959286249,15124274206115592373",
+            "cites_id": [
+                "16086672181959286249",
+                "15124274206115592373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "RNA\u2013DNA differences in human mitochondria restore ancestral form of 16S ribosomal RNA",
+                "pub_year": "2013",
+                "citation": "Genome research 23 (11), 1789-1796, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15426157323169914959",
+            "cites_id": [
+                "15426157323169914959"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Function of GATA factors in the adult mouse liver",
+                "pub_year": "2013",
+                "citation": "PLoS One 8 (12), e83723, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 50,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10969573662705964034",
+            "cites_id": [
+                "10969573662705964034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epidermolysis bullosa simplex with KLHL24 mutations is associated with dilated cardiomyopathy",
+                "pub_year": "2019",
+                "citation": "Journal of Investigative Dermatology 139 (1), 244-249, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 38,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=560473613207601006",
+            "cites_id": [
+                "560473613207601006"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlling for contamination in re-sequencing studies with a reproducible web-based phylogenetic approach",
+                "pub_year": "2014",
+                "citation": "BioTechniques 56 (3), 134-141, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17246654928177021010",
+            "cites_id": [
+                "17246654928177021010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Teneurins: an integrative molecular, functional, and biomedical overview of their role in cancer",
+                "pub_year": "2018",
+                "citation": "Frontiers in Neuroscience 12, 427766, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:5nxA0vEk-isC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13243154877059343677",
+            "cites_id": [
+                "13243154877059343677"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cells from discarded dressings differentiate chronic from acute wounds in patients with Epidermolysis Bullosa",
+                "pub_year": "2020",
+                "citation": "Scientific Reports 10 (1), 15064, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:Zph67rFs4hoC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17726725891496981465,432996623195577490",
+            "cites_id": [
+                "17726725891496981465",
+                "432996623195577490"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prevalence of filaggrin loss\u2010of\u2010function variants in Chilean population with and without atopic dermatitis",
+                "pub_year": "2022",
+                "citation": "International Journal of Dermatology 61 (3), 310-315, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15045466021184790994",
+            "cites_id": [
+                "15045466021184790994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proteomic analysis of Niemann-Pick type C hepatocytes reveals potential therapeutic targets for liver damage",
+                "pub_year": "2021",
+                "citation": "Cells 10 (8), 2159, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:_kc_bZDykSQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8926594299973583857",
+            "cites_id": [
+                "8926594299973583857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Streamlined computational pipeline for genetic background characterization of genetically engineered mice based on next generation sequencing data",
+                "pub_year": "2019",
+                "citation": "BMC genomics 20, 1-20, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11351649429424927113",
+            "cites_id": [
+                "11351649429424927113"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential methylation of genomic regions associated with heteroblasty detected by M&M algorithm in the nonmodel species Eucalyptus globulus Labill.",
+                "pub_year": "2016",
+                "citation": "International Journal of Genomics 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8961693623374182865,1489258030004259444",
+            "cites_id": [
+                "8961693623374182865",
+                "1489258030004259444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of genetic modifiers of murine hepatic \u03b2-glucocerebrosidase activity",
+                "pub_year": "2021",
+                "citation": "Biochemistry and Biophysics Reports 28, 101105, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:4TOpqqG69KYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13081029850126466609",
+            "cites_id": [
+                "13081029850126466609"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rare Diseases: Genomics and Public Health",
+                "pub_year": "2020",
+                "citation": "Applied Genomics and Public Health, 37-51, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9066678316173117373",
+            "cites_id": [
+                "9066678316173117373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Longitudinal study of wound healing status and bacterial colonisation of Staphylococcus aureus and Corynebacterium diphtheriae in epidermolysis bullosa patients",
+                "pub_year": "2023",
+                "citation": "International Wound Journal 20 (3), 774-783, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:4DMP91E08xMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17211718903275724704,4590903443882033915",
+            "cites_id": [
+                "17211718903275724704",
+                "4590903443882033915"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoding complex inherited phenotypes in rare disorders: the DECIPHERD initiative for rare undiagnosed diseases in Chile",
+                "pub_year": "2024",
+                "citation": "European Journal of Human Genetics, 1-11, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5443601424647067409,7446086786829104682,13609978348004058526",
+            "cites_id": [
+                "5443601424647067409",
+                "7446086786829104682",
+                "13609978348004058526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A mouse systems genetics approach reveals common and uncommon genetic modifiers of hepatic lysosomal enzyme activities and glycosphingolipids",
+                "pub_year": "2023",
+                "citation": "International Journal of Molecular Sciences 24 (5), 4915, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4083215545854213868",
+            "cites_id": [
+                "4083215545854213868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cis-regulatory elements are harbored in Intron5 of the RUNX1gene",
+                "pub_year": "2014",
+                "citation": "BMC genomics 15, 1-8, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16561427703863187576",
+            "cites_id": [
+                "16561427703863187576"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prodromal manifestations of Parkinson\u2019s disease in adults with 22q11. 2 microdeletion syndrome",
+                "pub_year": "2022",
+                "citation": "medRxiv, 2022.05. 18.22275282, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Contribution of Mitochondrial DNA Heteroplasmy to the Congenital Cardiac and Palatal Phenotypic Variability in Maternally Transmitted 22q11. 2 Deletion Syndrome",
+                "pub_year": "2021",
+                "citation": "Genes 12 (1), 92, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing pre-defined workflows withad hocanalytics using Galaxy, Docker and Jupyter",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Epigenetic Changes Associated with Chromosomal Translocation in Leukemia",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "pOxJ9mIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 9,
+        "not_available": 0
+    }
+}

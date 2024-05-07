@@ -1,0 +1,67 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "xGUGqB0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Ram\u00edrez-Carrasco",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Urban Planning"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 0,
+        "2023": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Barrio Almagro, resiliencia y especulaci\u00f3n fortuita de la pobreza ante la gentrificaci\u00f3n",
+                "pub_year": "2019",
+                "citation": "Cuadernos de Vivienda y Urbanismo 12 (24), 1-20, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "xGUGqB0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17046167384315965082",
+            "cites_id": [
+                "17046167384315965082"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Almagro Neighborhood, Resilience and the Random Speculation about Poverty in Relation to Gentrification",
+                "pub_year": "2021",
+                "citation": "PONTIFICIA UNIV JAVERIANA. FACULTAD ARQUITECTURA DISENO, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "xGUGqB0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rqsm4GsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "JAVIERA  AGUAYO",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [],
+    "email_domain": "@pucv.cl",
+    "homepage": "https://www.pucv.cl/uuaa/site/edic/base/port/labgrs.html",
+    "citedby": 67,
+    "citedby5y": 67,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 6,
+        "2020": 11,
+        "2021": 18,
+        "2022": 14,
+        "2023": 9,
+        "2024": 7
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "GIMMS NDVI time series reveal the extent, duration, and intensity of \u201cblooming desert\u201d events in the hyper-arid Atacama Desert, Northern Chile",
+                "pub_year": "2019",
+                "citation": "International Journal of Applied Earth Observation and Geoinformation 76 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rqsm4GsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14382288631180651357",
+            "cites_id": [
+                "14382288631180651357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Npphen: An R-Package for Detecting and Mapping Extreme Vegetation Anomalies Based on Remotely Sensed Phenological Variability",
+                "pub_year": "2022",
+                "citation": "Remote Sensing 15 (1), 73, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rqsm4GsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15918612519640924678",
+            "cites_id": [
+                "15918612519640924678"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

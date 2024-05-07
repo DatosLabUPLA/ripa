@@ -1,0 +1,442 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rU9jiAwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Daniel A. B\u00f3rquez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rU9jiAwAAAAJ&citpid=1",
+    "affiliation": "Centro de Investigaci\u00f3n Biom\u00e9dica, Facultad de Medicina, Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Cell signaling",
+        "Bioinformatics",
+        "Drug design",
+        "Neurodegenerative diseases"
+    ],
+    "email_domain": "@udp.cl",
+    "citedby": 301,
+    "citedby5y": 201,
+    "hindex": 8,
+    "hindex5y": 7,
+    "i10index": 6,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2011": 1,
+        "2012": 4,
+        "2013": 8,
+        "2014": 9,
+        "2015": 14,
+        "2016": 17,
+        "2017": 17,
+        "2018": 30,
+        "2019": 26,
+        "2020": 29,
+        "2021": 25,
+        "2022": 51,
+        "2023": 55,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "h5lwVDUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pamela J Urrutia",
+            "affiliation": "Instituto de Nutrici\u00f3n y Tecnolog\u00eda de los Alimentos (INTA), Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U_df6NEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Gonz\u00e1lez-Billault",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-LRA0Y8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marco T Nunez",
+            "affiliation": "Professor of Cell Biology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "h74YjCQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Wilson",
+            "affiliation": "CONICET CIMETSA IUCBC"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3mw4pfwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Brigitte van Zundert",
+            "affiliation": "Full Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9SgzoioAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andrea Sosa Toledo",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "i--v2TcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elias Samuel Utreras Puratich",
+            "affiliation": "Associate Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "k2ocs7wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kulkarni AB",
+            "affiliation": "Senior Investigator, NIH"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KtBttDgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alex Di Genova",
+            "affiliation": "Universidad de O'Higgins"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mYN1dVQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Maass",
+            "affiliation": "Center for Mathematical Modeling, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xr4rXA8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Homma Yuta",
+            "affiliation": ""
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yE0E3i4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Victoria Roz\u00e9s-Salvador",
+            "affiliation": "Dep. Bioqu\u00edmica Cl\u00ednica, UNC CIBICI-CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "O5d7nY8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mitsunori Fukuda",
+            "affiliation": "Tohoku university"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p1BSbe0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cecilia Conde",
+            "affiliation": "INIMEC - CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GehRBkMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ismael Palacios-Garcia",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissecting the role of redox signaling in neuronal development",
+                "pub_year": "2016",
+                "citation": "Journal of neurochemistry 137 (4), 506-517, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 88,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6793376992076873667",
+            "cites_id": [
+                "6793376992076873667"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inflaming the brain with iron",
+                "pub_year": "2021",
+                "citation": "Antioxidants 10 (1), 61, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15474572372774008698",
+            "cites_id": [
+                "15474572372774008698"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The amyloid precursor protein intracellular domain-fe65 multiprotein complexes: a challenge to the amyloid hypothesis for Alzheimer's disease?",
+                "pub_year": "2012",
+                "citation": "International Journal of Alzheimer\u2019s Disease 2012, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 40,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12112456310831835123",
+            "cites_id": [
+                "12112456310831835123"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Searching for Novel Cdk5 Substrates in Brain by Comparative Phosphoproteomics of Wild Type and Cdk5\u2212/\u2212 Mice",
+                "pub_year": "2014",
+                "citation": "PloS one 9 (3), e90363, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17378719518894377352",
+            "cites_id": [
+                "17378719518894377352"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioinformatic survey for new physiological substrates of Cyclin-dependent kinase 5",
+                "pub_year": "2013",
+                "citation": "Genomics 101 (4), 221-228, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138962954531038766",
+            "cites_id": [
+                "8138962954531038766"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regulation of cell polarity by controlled proteolytic systems",
+                "pub_year": "2011",
+                "citation": "Biological research 44 (1), 35-41, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:qjMakFHDy7sC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12881485406203977665",
+            "cites_id": [
+                "12881485406203977665"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron, the endolysosomal system and neuroinflammation: a matter of balance",
+                "pub_year": "2022",
+                "citation": "Neural Regeneration Research 17 (5), 1003-1004, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6359960979298238895",
+            "cites_id": [
+                "6359960979298238895"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tuba activates Cdc42 during neuronal polarization downstream of the small GTPase Rab8a",
+                "pub_year": "2021",
+                "citation": "Journal of Neuroscience 41 (8), 1636-1649, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14969453969720552611",
+            "cites_id": [
+                "14969453969720552611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bioinformatics Approaches for Predicting Kinase\u2013Substrate Relationships",
+                "pub_year": "2016",
+                "citation": "Bioinformatics-Updated Features and Applications, 1-21, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8678174083675313455",
+            "cites_id": [
+                "8678174083675313455"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Expanded bioinformatic analysis of Oximouse dataset reveals key putative processes involved in brain aging and cognitive decline",
+                "pub_year": "2023",
+                "citation": "Free Radical Biology and Medicine 207, 200-211, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10778314996524773078",
+            "cites_id": [
+                "10778314996524773078"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New players in neuronal Iron homeostasis: insights from CRISPRi studies",
+                "pub_year": "2022",
+                "citation": "Antioxidants 11 (9), 1807, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=291707211861075465",
+            "cites_id": [
+                "291707211861075465"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron toxicity: a critical review on its role in Parkinson\u2019s disease",
+                "pub_year": "2008",
+                "citation": "Neurodegenerative diseases: from molecular concepts to therapeutic targets \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10473938701349329392",
+            "cites_id": [
+                "10473938701349329392"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron Neurotoxicity in Parkinson\u2019s Disease",
+                "pub_year": "2023",
+                "citation": "Handbook of Neurotoxicity, 2219-2241, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7546258856636376886",
+            "cites_id": [
+                "7546258856636376886"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u94c1\u8c03\u8282\u86cb\u767d 1: \u94c1\u840e\u7f29\u7684\u81f4\u547d\u5f00\u5173",
+                "pub_year": "2024",
+                "citation": "\u4e2d\u56fd\u795e\u7ecf\u518d\u751f\u7814\u7a76 (\u82f1\u6587\u7248) 19 (3), 477, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron regulatory protein 1: the deadly switch of ferroptosis",
+                "pub_year": "2023",
+                "citation": "Neural Regeneration Research, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Iron Neurotoxicity in Parkinson\u2019s Disease",
+                "pub_year": "2022",
+                "citation": "Springer, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inflaming the brain with iron",
+                "pub_year": "2021",
+                "citation": "MDPI, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Amyloidogenic Pathway Meets the Reelin Signaling Cascade: A Cytoskeleton Bridge Between Neurodevelopment and Neurodegeneration",
+                "pub_year": "2013",
+                "citation": "Understanding Alzheimer's Disease, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "rU9jiAwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,423 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NNQ6dUYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Hern\u00e1n Mella",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NNQ6dUYAAAAJ&citpid=2",
+    "affiliation": "Assistant Professor, School of Electrical Engineering, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Magnetic resonance imaging"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 29,
+    "citedby5y": 29,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 5,
+        "2022": 4,
+        "2023": 12,
+        "2024": 8
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7M_TC6MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sergio Uribe",
+            "affiliation": "Professor of Medical Physics and Imaging"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s3Mc-cEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Joaqu\u00edn Mura",
+            "affiliation": "Department of Mechanical Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NwCxlWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Hurtado",
+            "affiliation": "MIT, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "catRFYwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Ivan Arratia Lopez",
+            "affiliation": "University of Bath, Department of Mathematical Sciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9wRFbcEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Sahli Costabal",
+            "affiliation": "Assistant Professor at Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "OKH0Ii4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Crist\u00f3bal Bertoglio",
+            "affiliation": "Bernoulli Institute - University of Groningen"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "l_-r190AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Radomir Chabiniok, MD, PhD",
+            "affiliation": "University of Texas Southwestern Medical Center, Dallas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "kzK5v8EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michael D. Taylor, MD, PhD",
+            "affiliation": "Professor of pediatrics, University of Texas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "yZaP-VYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lydia Dux-Santoy Hurtado",
+            "affiliation": "Vall d'Hebron Research Institute - Barcelona"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GEz0nAEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bram Ruijsink MD, PhD",
+            "affiliation": "Cardiology Registrar and Clinical Research Fellow, King's College London & UMC Utrecht"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zgHSnJYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Arrieta",
+            "affiliation": "Academic at the Faculty of Engineering, Universidad Alberto Hurtado"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZtYOFuMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esteban Denecken Campa\u00f1a",
+            "affiliation": "Biomedical Imaging Center, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3zYzIYwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jeremias Garay",
+            "affiliation": "Pontifical Catholic University of Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WarpPINN: Cine-MR image registration with physics-informed neural networks",
+                "pub_year": "2023",
+                "citation": "Medical Image Analysis 89, 102925, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15410849586747262439,9560937631051510010",
+            "cites_id": [
+                "15410849586747262439",
+                "9560937631051510010"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "HARP-I: a harmonic phase interpolation method for the estimation of motion from tagged MR images",
+                "pub_year": "2021",
+                "citation": "IEEE transactions on medical imaging 40 (4), 1240-1252, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6561816679679900350",
+            "cites_id": [
+                "6561816679679900350"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of 4D flow MRI's quality by verifying its Navier\u2013Stokes compatibility",
+                "pub_year": "2022",
+                "citation": "International Journal for Numerical Methods in Biomedical Engineering 38 (6 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12427746152293737704,4975903740410802850",
+            "cites_id": [
+                "12427746152293737704",
+                "4975903740410802850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fully three-dimensional hemodynamic characterization of altered blood flow in bicuspid aortic valve patients with respect to aortic dilatation: a finite element approach",
+                "pub_year": "2022",
+                "citation": "Frontiers in Cardiovascular Medicine 9, 885338, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=338821873157293433",
+            "cites_id": [
+                "338821873157293433"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comprehensive comparison between shortest-path HARP refinement, SinMod, and DENSEanalysis processing tools applied to CSPAMM and DENSE images",
+                "pub_year": "2021",
+                "citation": "Magnetic Resonance Imaging 83, 14-26, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099461665739426793",
+            "cites_id": [
+                "7099461665739426793"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three\u2010dimensional quantification of circulation using finite\u2010element methods in four\u2010dimensional flow MR data of the thoracic aorta",
+                "pub_year": "2022",
+                "citation": "Magnetic Resonance in Medicine 87 (2), 1036-1045, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2926687556742696809",
+            "cites_id": [
+                "2926687556742696809"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhancing Hemodynamic Parameter Estimations: Nonlinear Blood Behavior in 4D Flow MRI",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.09007, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid PML formulation for the 2D three-field dynamic poroelastic equations",
+                "pub_year": "2023",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 416, 116386, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-invasive local pulse wave velocity using 4D-flow MRI",
+                "pub_year": "2022",
+                "citation": "Biomedical Signal Processing and Control 71, 103259, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An off\u2010resonance insensitive orthogonal CSPAMM sequence (ORI\u2010O\u2010CSPAMM) for the acquisition of CSPAMM and MICSR grids in half scan time",
+                "pub_year": "2021",
+                "citation": "Magnetic Resonance in Medicine 86 (6), 3022-3033, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous acquisition of water-fat concentrations and velocity images using a Phase-contrast Three-point Dixon method",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Harmonic Phase Interpolation Method for the Estimation of Motion from Tagged MR Images",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of fat in the estimation of strain from tagged MR images",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Off-Resonance Insensitive Orthogonal CSPAMM Sequence (ORI-O-CSPAMM)",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel, accurate and robust three-dimensional quantification of circulation using finite-element methods in 4D Flow MRI data of thoracic aorta",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Left Ventricle Strain Estimation using ow MRI",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "4D-Flow MRI and robust local Pulse Wave Velocity allow the detection of alterations in human aortas",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PyMRStrain: A Python Library for the Generation of SPAMM, C-SPAMM, and DENSE Synthetic Images",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simultaneous acquisition of water-fat concentrations and velocity images using a Phase-contrast T2*-IDEAL method",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beyond SPAMM-PAV: a Phase Complementary SPAMM (PCSPAMM) acquisition to quantify simultaneously tissue motion and flow velocity",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Left Ventricle 2D and 3D Strain Phantoms Generation Using a Python Finite Element-based Library",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Implementation of Mixed and Hybrid Formulation of the PML Method in Elastodynamics Using FEniCS",
+                "citation": "University of Luxembourg, 12-14 June 2017, 0"
+            },
+            "filled": false,
+            "author_pub_id": "NNQ6dUYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ufIVQE0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Herrera Mu\u00f1oz",
+    "affiliation": "Docente Escuela de Arquitectura Universidad del Desarrollo",
+    "organization": 4794720163447555879,
+    "interests": [
+        "Arquitectura",
+        "Urbanismo",
+        "Patrimonio",
+        "Historia",
+        "Cr\u00edtica"
+    ],
+    "email_domain": "@udd.cl",
+    "citedby": 10,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2012": 1,
+        "2013": 1,
+        "2014": 0,
+        "2015": 1,
+        "2016": 1,
+        "2017": 0,
+        "2018": 1,
+        "2019": 0,
+        "2020": 1,
+        "2021": 2,
+        "2022": 0,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geograf\u00edas urbanas, arte y memorias colectivas: El Centenario chileno y la definici\u00f3n de lugar",
+                "pub_year": "2010",
+                "citation": "Historia mexicana, 397-438, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "ufIVQE0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10851740521593193780",
+            "cites_id": [
+                "10851740521593193780"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CICOP Chile",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "ufIVQE0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

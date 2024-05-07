@@ -1,0 +1,845 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "zGA8HWYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gabriel Hermosilla",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zGA8HWYAAAAJ&citpid=4",
+    "affiliation": "Escuela de Ingenier\u00eda El\u00e9ctrica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Computer Vision",
+        "Deep Learning",
+        "Thermal Face Recognition"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 791,
+    "citedby5y": 520,
+    "hindex": 14,
+    "hindex5y": 13,
+    "i10index": 18,
+    "i10index5y": 15,
+    "cites_per_year": {
+        "2011": 5,
+        "2012": 20,
+        "2013": 35,
+        "2014": 43,
+        "2015": 22,
+        "2016": 24,
+        "2017": 60,
+        "2018": 51,
+        "2019": 75,
+        "2020": 67,
+        "2021": 85,
+        "2022": 126,
+        "2023": 131,
+        "2024": 35
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4cGeq0AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Farias",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso, UNED, CIEMAT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "U0XHBs8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Ruiz-del-Solar",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Fv1lZNkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo Verschae",
+            "affiliation": "Universidad de O'Higgins (UOH)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hDMbFpoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Pizarro Torres",
+            "affiliation": "Associate Professor, Escuela de Ingenier\u00eda El\u00e9ctrica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mF7oqmcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Correa",
+            "affiliation": "AMTC - Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "lCma-igAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "CESAR SAN MARTIN SALAS",
+            "affiliation": "Universidad de La Frontera"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ymoqnSgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esteban Vera",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A comparative study of thermal face recognition methods in unconstrained environments",
+                "pub_year": "2012",
+                "citation": "Pattern Recognition 45 (7), 2445-2459, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 135,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14793192078968169124",
+            "cites_id": [
+                "14793192078968169124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Human detection and identification by robots using thermal and visual information in domestic environments",
+                "pub_year": "2012",
+                "citation": "Journal of Intelligent & Robotic Systems 66, 223-243, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 90,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2334573804043648863",
+            "cites_id": [
+                "2334573804043648863"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parametric study of 3D additive printing parameters using conductive filaments on microwave topologies",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 106814-106823, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:4TOpqqG69KYC",
+            "num_citations": 63,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11468663565760294816",
+            "cites_id": [
+                "11468663565760294816"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Easy-to-build textile pressure sensor",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (4), 1190, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 62,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=853720313558185246",
+            "cites_id": [
+                "853720313558185246"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fusion of visible and thermal descriptors using genetic algorithms for face recognition systems",
+                "pub_year": "2015",
+                "citation": "Sensors 15 (8), 17944-17962, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:ufrVoPGSRksC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5480620214344941733",
+            "cites_id": [
+                "5480620214344941733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic feature extraction in large fusion databases by using deep learning approach",
+                "pub_year": "2016",
+                "citation": "Fusion Engineering and Design 112, 979-983, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:roLk4NBRz8UC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16494330467180594320",
+            "cites_id": [
+                "16494330467180594320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face recognition and drunk classification using infrared face images",
+                "pub_year": "2018",
+                "citation": "Journal of Sensors 2018, 1-8, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:5nxA0vEk-isC",
+            "num_citations": 36,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16476177554995268447",
+            "cites_id": [
+                "16476177554995268447"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face recognition under temporal variation conditions",
+                "pub_year": "2017",
+                "citation": "Ieee access 5, 9663-9672, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 34,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9039621972601234251",
+            "cites_id": [
+                "9039621972601234251"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A neural network approach for building an obstacle detection model by fusion of proximity sensors data",
+                "pub_year": "2018",
+                "citation": "Sensors 18 (3), 683, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:8k81kl-MbHgC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10058822467113483057",
+            "cites_id": [
+                "10058822467113483057"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parametric study of a fully 3D-printed dielectric resonator antenna loaded with a metallic cap",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 73771-73779, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:dhFuZR0502QC",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5355669536418700695",
+            "cites_id": [
+                "5355669536418700695"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face recognition using thermal infrared images for human-robot interaction applications: a comparative study",
+                "pub_year": "2009",
+                "citation": "2009 6th Latin American Robotics Symposium (LARS 2009), 1-7, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8561172622737329079",
+            "cites_id": [
+                "8561172622737329079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle swarm optimization for the fusion of thermal and visible descriptors in face recognition systems",
+                "pub_year": "2018",
+                "citation": "IEEE Access 6, 42800-42811, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17027623987499770292",
+            "cites_id": [
+                "17027623987499770292"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face recognition using local interest points and descriptors for HRI applications",
+                "pub_year": "2011",
+                "citation": "RoboCup 2010: Robot Soccer World Cup XIV 14, 25-35, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4268581252063444439",
+            "cites_id": [
+                "4268581252063444439"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face generation using stylegan",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 80511-80523, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10174031992165163133",
+            "cites_id": [
+                "10174031992165163133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Position control of a mobile robot through deep reinforcement learning",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (14), 7194, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:HDshCWvjkbEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1627127328711806865",
+            "cites_id": [
+                "1627127328711806865"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An easy to use deep reinforcement learning library for ai mobile robots in isaac sim",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (17), 8429, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:TQgYirikUcIC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17620075510856665879",
+            "cites_id": [
+                "17620075510856665879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An enhanced representation of thermal faces for improving local appearance-based face recognition",
+                "pub_year": "2017",
+                "citation": "Intelligent Automation & Soft Computing 23 (1), 1-12, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16218541492804490185",
+            "cites_id": [
+                "16218541492804490185"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal image generation for robust face recognition",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (1), 497, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:hC7cP41nSMkC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8288044737347485724",
+            "cites_id": [
+                "8288044737347485724"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face recognition in unconstrained environments using histograms of LBP features",
+                "pub_year": "2014",
+                "citation": "Local Binary Patterns: New Variants and Applications, 219-243, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=153352527355195577",
+            "cites_id": [
+                "153352527355195577"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource allocation in multicore elastic optical networks: A deep reinforcement learning approach",
+                "pub_year": "2023",
+                "citation": "Complexity 2023, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813943216821900124",
+            "cites_id": [
+                "13813943216821900124"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Moisture Content in Thickened Tailings Dams: Machine Learning Techniques Applied to Remote Sensing Images",
+                "pub_year": "2021",
+                "citation": "IEEE Access 9, 16988-16998, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:aqlVkmm33-oC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8827490478322150419",
+            "cites_id": [
+                "8827490478322150419"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reduced isothermal feature set for long wave infrared (LWIR) face recognition",
+                "pub_year": "2017",
+                "citation": "Infrared Physics & Technology 83, 114-123, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:UebtZRa9Y70C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5723378813003543869",
+            "cites_id": [
+                "5723378813003543869"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of local matching-based facial recognition methods using thermal infrared imagery",
+                "pub_year": "2015",
+                "citation": "International Journal of Pattern Recognition and Artificial Intelligence 29 \u2026, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4426252647795253776",
+            "cites_id": [
+                "4426252647795253776"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face recognition using local patterns",
+                "pub_year": "2014",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12346032868536755534",
+            "cites_id": [
+                "12346032868536755534"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recent advances on face recognition using thermal infrared images",
+                "pub_year": "2011",
+                "citation": "Reviews, Refinements and New Ideas in Face Recognition, 95-112, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5369669278797993805",
+            "cites_id": [
+                "5369669278797993805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-Time Remote Sensing of the Lobesia botrana Moth Using a Wireless Acoustic Detection Sensor",
+                "pub_year": "2021",
+                "citation": "Applied Sciences 11 (24), 11889, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:qUcmZB5y_30C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1833516296204652583",
+            "cites_id": [
+                "1833516296204652583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Generation of synthetic data for the analysis of the physical stability of tailing dams through artificial intelligence",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (23), 4396, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17806602349941277646",
+            "cites_id": [
+                "17806602349941277646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of human gait phases using textile pressure sensors: a low cost and pervasive approach",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (8), 2825, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:mB3voiENLucC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17482247983968364762",
+            "cites_id": [
+                "17482247983968364762"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Image classification by using a reduced set of features in the TJ-II Thomson Scattering diagnostic",
+                "pub_year": "2018",
+                "citation": "Fusion Engineering and Design 129, 99-103, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15036608102440259248",
+            "cites_id": [
+                "15036608102440259248"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A machine learning based method to efficiently analyze the cogging torque under manufacturing tolerances",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 1353-1357, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:-f6ydRqryjwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3787764600659714239",
+            "cites_id": [
+                "3787764600659714239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un enfoque sistem\u00e1tico para la evaluaciOn de cursos de ingenier\u00cda basados en competencias",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 31o Congreso SOCHEDI, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10386583715960910335",
+            "cites_id": [
+                "10386583715960910335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clasificador de noticias usando autoencoders",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3333139783138682047",
+            "cites_id": [
+                "3333139783138682047"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Advanced Deep Learning Techniques for High-Quality Synthetic Thermal Image Generation",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (21), 4446, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10055786781061623024",
+            "cites_id": [
+                "10055786781061623024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CJ: An intelligent robotic head based on deep learning for HRI",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2282138443537571074",
+            "cites_id": [
+                "2282138443537571074"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impacto del uso de un laboratorio de mediciones sobre el aprendizaje en comunicaciones \u00f3pticas",
+                "pub_year": "2017",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15653694284087905431",
+            "cites_id": [
+                "15653694284087905431"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construcci\u00f3n de Laboratorios Reales y Virtuales para la Ense\u00f1anza del Control: Primeras Experiencias en la PUCV",
+                "pub_year": "2014",
+                "citation": "Memorias del XVI Congreso Latinoamericano de Control Autom\u00e1tico, 1398-1403, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:Se3iqnhoufwC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12946867792963706092",
+            "cites_id": [
+                "12946867792963706092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratorio de pr\u00e1cticas para la ense\u00f1anza de sistemas de control de tiempo real",
+                "pub_year": "2014",
+                "citation": "Memorias del XVI Congreso Latinoamericano de Control Autom\u00e1tico, CLCA 2014 \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12041838382103954169",
+            "cites_id": [
+                "12041838382103954169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Uncertainty Detection in Supervisor\u2013Operator Audio Records of Real Electrical Network Operations",
+                "pub_year": "2023",
+                "citation": "Electronics 13 (1), 141, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "AI-Driven Geolocation of Mining Waste Deposits Using Sentinel Satellite Imagery",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:r0BpntZqJG4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High-Frequency Parametric Study of Electroplated Conductive Filaments in 3D Printed Microwave Topologies",
+                "pub_year": "2023",
+                "citation": "3D Printing and Additive Manufacturing, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automated Detection and Analysis of Massive Mining Waste Deposits Using Sentinel-2 Satellite Imagery and Artificial Intelligence",
+                "pub_year": "2023",
+                "citation": "Remote Sensing 15 (20), 4949, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article Face Recognition and Drunk Classification Using Infrared Face Images",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online Manuscript Access",
+                "pub_year": "2015",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study of visible face recognition methods applied to infrared spectrum",
+                "pub_year": "2014",
+                "citation": "IET Digital Library, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermal face recognition over time using sparse representation approach",
+                "pub_year": "2014",
+                "citation": "IET Digital Library, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kinect Human Anatomy: Virtual Human Body System for Didactic Education",
+                "pub_year": "2013",
+                "citation": "IEEE Escuela de Verano Latino - Americana en Inteligencia Computacional EVIC \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratorio Virtual de un Levitador Magnetico",
+                "pub_year": "2013",
+                "citation": "XXVI Congreso Chileno de Educacion en Ingenieria, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reconocimiento robusto de rostros usando im\u00e1genes t\u00e9rmicas",
+                "pub_year": "2012",
+                "citation": "Universidad de Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Minimum variance gain nonuniformity estimation in infrared focal plane array sensors",
+                "pub_year": "2009",
+                "citation": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "zGA8HWYAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 4,
+        "not_available": 1
+    }
+}

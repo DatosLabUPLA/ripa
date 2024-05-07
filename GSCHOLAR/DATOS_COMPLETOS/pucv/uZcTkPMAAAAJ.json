@@ -1,0 +1,93 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uZcTkPMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Karla Schr\u00f6der Silva",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uZcTkPMAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [],
+    "email_domain": "@pucv.cl",
+    "citedby": 14,
+    "citedby5y": 14,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2023": 10,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b6zK_xwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alberto Marroqu\u00edn",
+            "affiliation": "Researcher and Electronic Professor - Universidad Don Bosco, El Salvador"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4cGeq0AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Farias",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso, UNED, CIEMAT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BJhP7HQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ernesto Fabregas",
+            "affiliation": "Computer Science and Automatic Control. National University of Distance Education (UNED)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Control of a Spherical Robot in the CoppeliaSim Simulator",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (16), 6020, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uZcTkPMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17389101922802043518",
+            "cites_id": [
+                "17389101922802043518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development and Control of a Real Spherical Robot",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (8), 3895, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uZcTkPMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16675439500099285886",
+            "cites_id": [
+                "16675439500099285886"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "KMExoUwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gonzalo R\u00edos-V\u00e1squez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KMExoUwAAAAJ&citpid=1",
+    "affiliation": "Escuela de Ingenier\u00eda Industrial, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Statistics",
+        "applied statistics",
+        "econometrics",
+        "data science",
+        "machine learning"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8WxaU9cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hanns de la Fuente-Mella",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Mbn2AEwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Elortegui Gomez",
+            "affiliation": "Escuela de Periodismo Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nBLBS7cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Benito Uma\u00f1a Hermosilla",
+            "affiliation": "Universidad del B\u00eco-B\u00eco"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "z4ohN_8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marisela Fonseca Fuentes",
+            "affiliation": "Universidad del B\u00edo-B\u00edo"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mathematical Analysis and Modeling of the Factors That Determine the Quality of Life in the City Councils of Chile",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (5), 1218, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "KMExoUwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14989265621598512735",
+            "cites_id": [
+                "14989265621598512735"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stochastic Approaches Systems to Predictive and Modeling Chilean Wildfires",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (20), 4346, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "KMExoUwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

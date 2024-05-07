@@ -1,0 +1,142 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NOhW5BsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Jara-Moroni",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NOhW5BsAAAAJ&citpid=3",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Nonlinear Optimization",
+        "Linear Optimization",
+        "Bilevel Programming",
+        "Mathematical Programs with Complementarity Constraints"
+    ],
+    "email_domain": "@udp.cl",
+    "citedby": 31,
+    "citedby5y": 26,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 5,
+        "2020": 4,
+        "2021": 3,
+        "2022": 6,
+        "2023": 6,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DZryMhIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jong-Shi Pang",
+            "affiliation": "Daniel J. Epstein Chair Professor of Industrial and Systems Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y1EdzIwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andreas Waechter",
+            "affiliation": "Northwestern University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BQGw7AUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "John Mitchell",
+            "affiliation": "Prof of Mathematical Sciences, RPI"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1MyqMS4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Guido Lagos",
+            "affiliation": "Assistant Professor, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rvaWH8oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sina Ansari",
+            "affiliation": "Driehaus College of Business at DePaul University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study of the difference-of-convex approach for solving linear programs with complementarity constraints",
+                "pub_year": "2018",
+                "citation": "Mathematical Programming 169, 221-254, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NOhW5BsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6766307534361583088",
+            "cites_id": [
+                "6766307534361583088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An enhanced logical benders approach for linear programs with complementarity constraints",
+                "pub_year": "2020",
+                "citation": "Journal of Global Optimization 77, 687-714, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NOhW5BsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13789705126821552335",
+            "cites_id": [
+                "13789705126821552335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization models for patient and technician scheduling in hemodialysis centers",
+                "pub_year": "2023",
+                "citation": "Health Care Management Science 26 (3), 558-582, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "NOhW5BsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scheduling of healthcare professionals using Bayesian Optimization",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NOhW5BsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

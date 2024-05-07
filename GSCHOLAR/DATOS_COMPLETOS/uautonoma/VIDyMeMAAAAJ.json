@@ -1,0 +1,83 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "VIDyMeMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Liz Vallejos Roa",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "derecho internacional publico",
+        "derechos humanos",
+        "derechos de los pueblos ind\u00edgenas",
+        "derecho constitucional"
+    ],
+    "email_domain": "@cloud.uautonoma.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 3,
+        "2021": 1,
+        "2022": 3,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jimR0lYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Jorge Faundes Pe\u00f1afiel",
+            "affiliation": "UNIVERSIDAD AUT\u00d3NOMA DE CHILE"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "El derecho fundamental a la identidad cultural de los pueblos ind\u00edgenas, titulares, naturaleza, contenido y alcances, desde la jurisprudencia de la Corte Interamericana de \u2026",
+                "pub_year": "2020",
+                "citation": "En libro Derecho fundamental a la identidad cultural, abordajes plurales \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "VIDyMeMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17405133270963850481",
+            "cites_id": [
+                "17405133270963850481"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiculturalismo y pueblos ind\u00edgenas: an\u00e1lisis de los est\u00e1ndares de la Corte Interamericana de Derechos Humanos relativos a territorios ind\u00edgenas",
+                "pub_year": "2022",
+                "citation": "Revista De Derecho Pol\u00edtico, 359-385, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "VIDyMeMAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11510755087150114360",
+            "cites_id": [
+                "11510755087150114360"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

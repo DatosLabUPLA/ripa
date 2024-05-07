@@ -1,0 +1,142 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uZug_vAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mauricio Hidalgo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uZug_vAAAAAJ&citpid=1",
+    "affiliation": "Universidad Diego Portales / Universidad T\u00e9cnica Federico Santa Mar\u00eda",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Software Engineering",
+        "Software Engineering Education",
+        "Deep Learning"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 0,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "32ekRVMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hernan Astudillo",
+            "affiliation": "UTFSM (on sabbatical) & UNAB"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uWBv3OMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Laura M. Castro",
+            "affiliation": "Professor of Computer Science, Universidade da Coru\u00f1a"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zr1vKDYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Satu Elisa Schaeffer",
+            "affiliation": "Associate Professor and Academic Domain Director, SCS, McGill University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4oSpxncAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Bustos",
+            "affiliation": "NIC Chile Research Labs"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Challenges to Use Role Playing in Software Engineering Education: A Rapid Review",
+                "pub_year": "2023",
+                "citation": "International Conference on Applied Informatics, 245-260, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uZug_vAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6495088534963983892",
+            "cites_id": [
+                "6495088534963983892"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating the size of natural networks using local information",
+                "pub_year": "2010",
+                "citation": "2010 XXIX International Conference of the Chilean Computer Science Society \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "uZug_vAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10152680437380011814",
+            "cites_id": [
+                "10152680437380011814"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "How Software Architects Learn: A pilot study of their learning style in Kolb\u2019s Learning Styles Inventory",
+                "pub_year": "2023",
+                "citation": "2023 42nd IEEE International Conference of the Chilean Computer Science \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uZug_vAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Batch Generation of a Satellite Big Data Database and Comparison of LSTM Network Performance on Local Workstations",
+                "pub_year": "2023",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "uZug_vAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning aplicado para la detecci\u00f3n de hemorragias y tumores cerebrales",
+                "pub_year": "2021",
+                "citation": "AtoZ: novas pr\u00e1ticas em informa\u00e7\u00e3o e conhecimento 10 (3), 10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "uZug_vAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

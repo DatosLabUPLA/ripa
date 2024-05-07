@@ -1,0 +1,60 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "iXX3LNMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Cardenas-Lopera",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=iXX3LNMAAAAJ&citpid=1",
+    "affiliation": "PhD, Pontificia Universidad Catolica de Valparaiso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "AI and scientific computing",
+        "physics",
+        "radioastronomy",
+        "Antennas/metasurfaces/photonics"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Problemas de optimizaci\u00f3n en log\u00edstica: una propuesta de soluci\u00f3n aplicando el algoritmo Particle Swarm Optimization (PSO)",
+                "pub_year": "2023",
+                "citation": "Revista CIES Escolme 14 (1), 211-224, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iXX3LNMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quadrature hybrid optimization for ALMA bands 2 and 3: particle swarm algorithm for millimeter and sub-millimeter microwave devices optimization",
+                "pub_year": "2023",
+                "citation": "Grupo de F\u00edsica y Astrof\u00edsica Computacional (FACOM), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iXX3LNMAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

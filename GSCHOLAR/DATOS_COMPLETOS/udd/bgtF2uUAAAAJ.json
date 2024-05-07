@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bgtF2uUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilo Rodriguez-Beltran",
+    "affiliation": "Universidad del Desarrollo",
+    "organization": 4794720163447555879,
+    "interests": [
+        "environmental and health monitoring",
+        "responsive materials",
+        "technology exploration",
+        "sensor systems",
+        "biosafety"
+    ],
+    "email_domain": "@udd.cl",
+    "homepage": "http://www.camilorodriguez.net/",
+    "citedby": 198,
+    "citedby5y": 42,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2008": 3,
+        "2009": 20,
+        "2010": 10,
+        "2011": 17,
+        "2012": 12,
+        "2013": 22,
+        "2014": 20,
+        "2015": 15,
+        "2016": 15,
+        "2017": 12,
+        "2018": 10,
+        "2019": 9,
+        "2020": 11,
+        "2021": 7,
+        "2022": 7,
+        "2023": 5,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell-to-cell stochastic variation in gene expression is a complex genetic trait",
+                "pub_year": "2008",
+                "citation": "PLoS genetics 4 (4), e1000049, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "bgtF2uUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 198,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182087838305854089",
+            "cites_id": [
+                "7182087838305854089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cell-to-cell stochastic variation in gene expression is a complex genetic trait",
+                "pub_year": "2008",
+                "citation": "http://www. plosgenetics. org/ 4, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "bgtF2uUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

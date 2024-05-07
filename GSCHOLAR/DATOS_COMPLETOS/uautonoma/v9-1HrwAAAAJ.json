@@ -1,0 +1,82 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "v9-1HrwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Piero Viteri Madrid",
+    "affiliation": "Universidad Aut\u00f3noma de Chile",
+    "organization": 6219877915722792561,
+    "interests": [
+        "Gesti\u00f3n P\u00fablica",
+        "Pol\u00edticas P\u00fablicas"
+    ],
+    "email_domain": "@uautonoma.cl",
+    "citedby": 2,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 0,
+        "2019": 0,
+        "2020": 0,
+        "2021": 0,
+        "2022": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Participaci\u00f3n y ciudadan\u00eda en el contexto actual",
+                "pub_year": "2015",
+                "citation": "Revista Estudios de Pol\u00edticas P\u00fablicas 1 (1), 272-276, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "v9-1HrwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6240508408495177591",
+            "cites_id": [
+                "6240508408495177591"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una nueva institucionalidad cient\u00edfica para Chile: Creaci\u00f3n del Ministerio de Ciencia y Tecnolog\u00eda (MCyT)",
+                "pub_year": "2017",
+                "citation": "Universidad de Chile, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "v9-1HrwAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DEMOCRATIC GOVERNANCE IN LATIN AMERICA",
+                "pub_year": "2016",
+                "citation": "Journal of Public Governance and Policy: Latin American Review 1 (2), 153-157, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "v9-1HrwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

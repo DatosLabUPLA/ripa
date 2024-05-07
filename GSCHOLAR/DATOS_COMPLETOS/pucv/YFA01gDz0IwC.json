@@ -1,0 +1,106 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YFA01gDz0IwC",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "David Escobar",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YFA01gDz0IwC&citpid=3",
+    "affiliation": "Magister, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Automotive Engineering",
+        "Power Electronics",
+        "Adaptive Optics",
+        "Deep Learning"
+    ],
+    "email_domain": "@mail.pucv.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ymoqnSgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esteban Vera",
+            "affiliation": "Pontificia Universidad Catolica de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QgRQfxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sara Cu\u00e9llar Carrillo",
+            "affiliation": "PhD Candidate at Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pBC8EsoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jesus Gonzalez-Llorente",
+            "affiliation": "Kyushu Institute of Technology"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Wavefront sensing using deep learning for Shack Hartmann and pyramidal sensors",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "YFA01gDz0IwC:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=750204270090763758",
+            "cites_id": [
+                "750204270090763758"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of maximum power point tracking algorithms for small satellites",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Workshop on Power Electronics and Power Quality Applications \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "YFA01gDz0IwC:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Limitations of buck converter control implementation using the natural switching surfaces",
+                "pub_year": "2017",
+                "citation": "2017 IEEE Workshop on Power Electronics and Power Quality Applications \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "YFA01gDz0IwC:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

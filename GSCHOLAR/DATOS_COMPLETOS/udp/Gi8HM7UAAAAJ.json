@@ -1,0 +1,110 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Gi8HM7UAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Aar\u00f3n Montoya-Moraga",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Gi8HM7UAAAAJ&citpid=2",
+    "affiliation": "Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "Electronic interfaces",
+        "open source",
+        "open source toolkits for artists"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "homepage": "https://montoyamoraga.io/",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SFdKmHwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo F. C\u00e1diz",
+            "affiliation": "Professor, Music and Electrical Engineering, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Zs6aFYIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Patricio de la Cuadra",
+            "affiliation": "Professor of Acoustics, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9EM2bHIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Irarrazaval",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "TCz_FngAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Tejos",
+            "affiliation": "Professor, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pPuBjOIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo E. Andia",
+            "affiliation": "Biomedical Imaging Center, School of Medicine, Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sonification of medical images based on statistical descriptors",
+                "pub_year": "2015",
+                "citation": "ICMC, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "Gi8HM7UAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3206470400587734316",
+            "cites_id": [
+                "3206470400587734316"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tiny Trainable Instruments",
+                "pub_year": "2021",
+                "citation": "Massachusetts Institute of Technology, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Gi8HM7UAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

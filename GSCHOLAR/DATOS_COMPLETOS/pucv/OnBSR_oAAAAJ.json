@@ -1,0 +1,798 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "OnBSR_oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Monica A. Garcia-Nustes",
+    "affiliation": "Associate Professor Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Dinamica No lineal",
+        "Formacion de patrones y estructuras localizadas"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 303,
+    "citedby5y": 164,
+    "hindex": 11,
+    "hindex5y": 7,
+    "i10index": 12,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2008": 2,
+        "2009": 1,
+        "2010": 2,
+        "2011": 2,
+        "2012": 1,
+        "2013": 3,
+        "2014": 20,
+        "2015": 30,
+        "2016": 25,
+        "2017": 28,
+        "2018": 23,
+        "2019": 30,
+        "2020": 34,
+        "2021": 36,
+        "2022": 17,
+        "2023": 36,
+        "2024": 11
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9eI25jMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcel G. Clerc",
+            "affiliation": "Professor of Physics, FCFM, Department of Physics, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sY4n2tEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Saliya Coulibaly",
+            "affiliation": "Laboratoire de Physique des Lasers, atomes et molecules, Universit\u00e9 de Lille"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "rGZuoz0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan F. Mar\u00edn",
+            "affiliation": "Assistant Professor, Universidad Tecnol\u00f3gica Metropolitana - Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZRdkr0cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ren\u00e9 Rojas Cort\u00e9s",
+            "affiliation": "Instituto de F\u00edsica, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BgWylwMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yair Z\u00e1rate",
+            "affiliation": "PhD Student, Nonlinear Physics Centre, ANU."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LxxO4CoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Leonardo Gordillo",
+            "affiliation": "Associate Professor (Universidad de Santiago de Chile)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NnSycucAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eric Louvergneaux",
+            "affiliation": "Associate professor, Universit\u00e9 de Lille"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oYLLopMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Falc\u00f3n",
+            "affiliation": "Associate Professor, DFI, FCFM, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qDARca0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Michel Ferr\u00e9 D\u00edaz",
+            "affiliation": "Ben-Gurion University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w_OQZmsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Fern\u00e1ndez-Oto",
+            "affiliation": "Universidad de Los Andes"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4a3L2hEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angel S\u00e1nchez",
+            "affiliation": "Grupo Interdisciplinar de Sistemas Complejos (GISC), Matem\u00e1ticas, Universidad Carlos III de Madrid"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "W1qfc3oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "PVE McClintock",
+            "affiliation": "Lancaster University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y8b-0moAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pio J. Arias",
+            "affiliation": "Professor of Physics, Universidad Central de Venezuela"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CjnEr_gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Emilio Hernandez-Garcia",
+            "affiliation": "IFISC (UIB-CSIC), Palma de Mallorca, Spain"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chimera-type states induced by local coupling",
+                "pub_year": "2016",
+                "citation": "Physical Review E 93 (5), 052204, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 66,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16813299945865065414",
+            "cites_id": [
+                "16813299945865065414"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spatially modulated kinks in shallow granular layers",
+                "pub_year": "2013",
+                "citation": "Physical Review E 88 (2), 020201, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15651381466925235598",
+            "cites_id": [
+                "15651381466925235598"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formation of a two-kink soliton pair in perturbed sine-Gordon models due to kink\u2013internal-mode instabilities",
+                "pub_year": "2012",
+                "citation": "Physical Review E 86 (6), 066602, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6934814034270750733",
+            "cites_id": [
+                "6934814034270750733"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Arbitrarily large numbers of kink internal modes in inhomogeneous sine-Gordon equations",
+                "pub_year": "2017",
+                "citation": "Physics Letters A 381 (24), 1995-1998, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2178068992285868798",
+            "cites_id": [
+                "2178068992285868798"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissipative localized states with shieldlike phase structure",
+                "pub_year": "2011",
+                "citation": "Physical Review Letters 107 (25), 254102, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9218342951153774351",
+            "cites_id": [
+                "9218342951153774351"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Localized Faraday patterns under heterogeneous parametric excitation",
+                "pub_year": "2019",
+                "citation": "Physical Review E 99 (3), 033115, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374449257690995146",
+            "cites_id": [
+                "5374449257690995146"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fate of the true-vacuum bubbles",
+                "pub_year": "2018",
+                "citation": "Journal of Cosmology and Astroparticle Physics 2018 (06), 033, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14297539002017468955",
+            "cites_id": [
+                "14297539002017468955"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Origin of the pinning of drifting monostable patterns",
+                "pub_year": "2012",
+                "citation": "Physical review letters 109 (10), 104101, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5073863884932061275",
+            "cites_id": [
+                "5073863884932061275"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical independence in nonlinear maps coupled to non-invertible transformations",
+                "pub_year": "2008",
+                "citation": "Physics Letters A 372 (44), 6593-6601, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14278195992824263749",
+            "cites_id": [
+                "14278195992824263749"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bubblelike structures generated by activation of internal shape modes in two-dimensional sine-Gordon line solitons",
+                "pub_year": "2017",
+                "citation": "Physical Review E 95 (3), 032222, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5946172075557393498",
+            "cites_id": [
+                "5946172075557393498"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hawking-like emission in kink-soliton escape from a potential well",
+                "pub_year": "2008",
+                "citation": "New Journal of Physics 10 (11), 113015, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142500194646558365",
+            "cites_id": [
+                "16142500194646558365"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase shielding soliton in parametrically driven systems",
+                "pub_year": "2013",
+                "citation": "Physical Review E 87 (5), 052915, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7735311935178392270",
+            "cites_id": [
+                "7735311935178392270"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u03c0-kink propagation in the damped Frenkel-Kontorova model",
+                "pub_year": "2017",
+                "citation": "Europhysics Letters 119 (4), 40003, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4981053273001256805",
+            "cites_id": [
+                "4981053273001256805"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dissipation-driven behavior of nonpropagating hydrodynamic solitons under confinement",
+                "pub_year": "2014",
+                "citation": "Physical Review Letters 112 (16), 164101, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:ufrVoPGSRksC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12604678982315759366",
+            "cites_id": [
+                "12604678982315759366"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Traveling wave into an unstable state in dissipative oscillator chains",
+                "pub_year": "2019",
+                "citation": "Nonlinear Dynamics 98, 1391-1402, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:IWHjjKOFINEC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16447558881996638532",
+            "cites_id": [
+                "16447558881996638532"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New combinational therapies for cancer using modern statistical mechanics",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1902.00728, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10434987693273766538",
+            "cites_id": [
+                "10434987693273766538"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability of bubble-like fluxons in disk-shaped Josephson junctions in the presence of a coaxial dipole current",
+                "pub_year": "2020",
+                "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 30 (6), 2020"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16868931538537998956",
+            "cites_id": [
+                "16868931538537998956"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Emergence of spatiotemporal dislocation chains in drifting patterns",
+                "pub_year": "2014",
+                "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 24 (2), 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7252923597336523825",
+            "cites_id": [
+                "7252923597336523825"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classical Rabi oscillations induced by unbalanced dissipation on a nonlinear dimer",
+                "pub_year": "2023",
+                "citation": "Chaos, Solitons & Fractals 171, 113435, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11626110737760294152",
+            "cites_id": [
+                "11626110737760294152"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-organization in the one-dimensional Landau\u2013Lifshitz\u2013Gilbert\u2013Slonczewski equation with non-uniform anisotropy fields",
+                "pub_year": "2021",
+                "citation": "Communications in Nonlinear Science and Numerical Simulation 96, 105674, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:-f6ydRqryjwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7543282256699713925",
+            "cites_id": [
+                "7543282256699713925"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recurrent noise-induced phase singularities in drifting patterns",
+                "pub_year": "2015",
+                "citation": "Physical Review E 92 (5), 050902, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:0EnyYjriUFMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7868440476670797368",
+            "cites_id": [
+                "7868440476670797368"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drifting Faraday patterns under localised driving",
+                "pub_year": "2023",
+                "citation": "Communications Physics 6 (1), 63, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15147136290354274517",
+            "cites_id": [
+                "15147136290354274517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Kink propagation in inhomogeneous systems driven by spatiotemporal perturbations",
+                "pub_year": "2010",
+                "citation": "Journal of Physics: Conference Series 246 (1), 012008, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16052997099089567988",
+            "cites_id": [
+                "16052997099089567988"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A recipe for an unpredictable random number generator",
+                "pub_year": "2006",
+                "citation": "arXiv preprint cond-mat/0605281, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14475974573012067646",
+            "cites_id": [
+                "14475974573012067646"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariance of the selfdual vector model",
+                "pub_year": "2004",
+                "citation": "arXiv preprint hep-th/0410219, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2696963128331459400",
+            "cites_id": [
+                "2696963128331459400"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Escape of a vector matter\u2013wave soliton from a parabolic trap",
+                "pub_year": "2017",
+                "citation": "Journal of Physics B: Atomic, Molecular and Optical Physics 50 (13), 135004, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:aqlVkmm33-oC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7356021236567389927",
+            "cites_id": [
+                "7356021236567389927"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Localized Faraday patterns with inhomogeneous parametric excitation",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1702.02683, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8343232853234515565",
+            "cites_id": [
+                "8343232853234515565"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Front propagation into unstable states in discrete media",
+                "pub_year": "2016",
+                "citation": "arXiv preprint arXiv:1605.00556, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:8k81kl-MbHgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=85444336459561606",
+            "cites_id": [
+                "85444336459561606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagative phase shielding solitons in inhomogeneous media",
+                "pub_year": "2014",
+                "citation": "Physica D: Nonlinear Phenomena 269, 86-93, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3074246795722392790",
+            "cites_id": [
+                "3074246795722392790"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A model for micro-front dynamics using a \u03d54 equation",
+                "pub_year": "2024",
+                "citation": "Chaos: An Interdisciplinary Journal of Nonlinear Science 34 (2), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Drift instabilities in localised Faraday patterns",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2112.03866, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Self-organization in the one-dimensional Landau & ndash; Lifshitz & ndash; Gilbert & ndash; Slonczewski equation with non-uniform anisotropy fields",
+                "pub_year": "2021",
+                "citation": "COMMUNICATIONS IN NONLINEAR SCIENCE AND NUMERICAL SIMULATION 96, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Non-Maxwellian distribution in linear systems and its applications",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Formation and interaction of two-kink solitons",
+                "pub_year": "2016",
+                "citation": "Nonlinear Dynamics: Materials, Theory and Experiments: Selected Lectures \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Transverse phase shielding solitons in the degenerated optical parametric oscillator",
+                "pub_year": "2015",
+                "citation": "Optics Communications 354, 163-167, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hawking-like escape of the soliton from the trap in two-component Bose-Einstein condensate",
+                "pub_year": "2015",
+                "citation": "gas], 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Recurrent noise-induced phase singularities in drifting patterns",
+                "pub_year": "2015",
+                "citation": "American Physical Society, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Noise-induced traveling Nozaki-Bekki holes and vortices in experimental drifting patterns",
+                "pub_year": "2014",
+                "citation": "Specialty Optical Fibers, JTu3A. 38, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Propagative phase shielding solitons in inhomogeneous media",
+                "pub_year": "2014",
+                "citation": "Elsevier, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SPATIO-TEMPORAL DYNAMICS OF PARAMETRICALLY DRIVEN SYSTEMS",
+                "pub_year": "2011",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Universal functions and exactly solvable chaotic systems",
+                "pub_year": "2008",
+                "citation": "arXiv preprint arXiv:0811.1179, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariance of the vectorial self-dual theory",
+                "pub_year": "2006",
+                "citation": "REVISTA MEXICANA DE FISICA 52 (3), 95-97, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Covariancia de la teor\u00eda autodual vectorial",
+                "pub_year": "2006",
+                "citation": "Revista mexicana de f\u00edsica 52, 95-97, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "OnBSR_oAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

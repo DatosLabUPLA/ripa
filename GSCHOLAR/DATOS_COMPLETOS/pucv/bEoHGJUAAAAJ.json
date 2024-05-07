@@ -1,0 +1,89 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bEoHGJUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mar\u00eda Isabel Vega C\u00e1rdenas",
+    "affiliation": "Profesora, Escuela de Ingenier\u00eda de Transporte, PUCV",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Log\u00edstica humanitaria",
+        "comercio internacional",
+        "gesti\u00f3n de riesgo en la cadena de suministro"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 2,
+        "2022": 0,
+        "2023": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "J3dHlkMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lorena Andrea Bearzotti",
+            "affiliation": "Professor of Construction and Transportation School, PUCV"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Rs_HIpMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rosa G. Gonz\u00e1lez-Ram\u00edrez",
+            "affiliation": "Universidad de Los Andes, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una propuesta de indicadores para el an\u00e1lisis de la sustentabilidad en puertos",
+                "pub_year": "2018",
+                "citation": "Andres Escobar Espinoza, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "bEoHGJUAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17159518741056159286",
+            "cites_id": [
+                "17159518741056159286"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Smart logistics of organic waste collection in cities",
+                "pub_year": "2017",
+                "citation": "Proceedings of the Hamburg International Conference of Logistics (HICL), 253-266, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "bEoHGJUAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1260479430353641629",
+            "cites_id": [
+                "1260479430353641629"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

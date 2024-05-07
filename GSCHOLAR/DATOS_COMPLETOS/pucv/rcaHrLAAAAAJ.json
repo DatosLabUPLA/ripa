@@ -1,0 +1,916 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rcaHrLAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Werner Eduardo Jara Montecinos",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rcaHrLAAAAAJ&citpid=2",
+    "affiliation": "Werner Jara Montecinos, Pontificia Universidad Cat\u00f3lica de Valpara\u00edso",
+    "organization": 7698552169257898503,
+    "interests": [
+        "Dise\u00f1o y control de m\u00e1quinas el\u00e9ctricas",
+        "eficiencia energ\u00e9tica",
+        "electromovilidad",
+        "energ\u00edas renobables"
+    ],
+    "email_domain": "@pucv.cl",
+    "citedby": 381,
+    "citedby5y": 313,
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 11,
+    "i10index5y": 8,
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 5,
+        "2016": 16,
+        "2017": 16,
+        "2018": 28,
+        "2019": 31,
+        "2020": 40,
+        "2021": 58,
+        "2022": 78,
+        "2023": 82,
+        "2024": 24
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7Hhm0PwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan A. Tapia",
+            "affiliation": "University of Concepcion"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3IJo-NoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Riedemann",
+            "affiliation": "University of Sheffield"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nbdcrQUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pyrh\u00f6nen Juha",
+            "affiliation": "Lappeenranta University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6dJyrc0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pia Lindh",
+            "affiliation": "LUT Univeristy"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "IKqMaGUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerd Bramerdorfer",
+            "affiliation": "Johannes Kepler University Linz"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hybrid cooling method of axial-flux permanent-magnet machines for vehicle applications",
+                "pub_year": "2015",
+                "citation": "IEEE Transactions on Industrial Electronics 62 (12), 7382-7390, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 91,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1032123527153125645",
+            "cites_id": [
+                "1032123527153125645"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Rotor eddy-current losses reduction in an axial flux permanent-magnet machine",
+                "pub_year": "2016",
+                "citation": "IEEE Transactions on Industrial Electronics 63 (8), 4729-4737, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 44,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18172368369920251898",
+            "cites_id": [
+                "18172368369920251898"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimised design of permanent magnet assisted synchronous reluctance machines for household appliances",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Energy Conversion 36 (4), 3084-3095, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:4TOpqqG69KYC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12958053934711099461",
+            "cites_id": [
+                "12958053934711099461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A modified step-up DC-DC flyback converter with active snubber for improved efficiency",
+                "pub_year": "2019",
+                "citation": "Energies 12 (11), 2066, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:roLk4NBRz8UC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6607570436488009655",
+            "cites_id": [
+                "6607570436488009655"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of tolerances on the cogging torque of tooth-coil-winding PMSMs with modular stator core by means of efficient superposition technique",
+                "pub_year": "2020",
+                "citation": "Electronics 9 (10), 1594, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8214767166770268333",
+            "cites_id": [
+                "8214767166770268333"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-form solution for the slot leakage inductance of tooth-coil-winding permanent magnet machines",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Energy Conversion 34 (3), 1572-1580, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15640193720262515398",
+            "cites_id": [
+                "15640193720262515398"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An active/reactive power control strategy for renewable generation systems",
+                "pub_year": "2021",
+                "citation": "Electronics 10 (9), 1061, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557799289156035096",
+            "cites_id": [
+                "14557799289156035096"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Squirrel cage induction motor: A design-based comparison between aluminium and copper cages",
+                "pub_year": "2021",
+                "citation": "IEEE Open Journal of Industry Applications 2, 110-120, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:_kc_bZDykSQC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7024294091025189255",
+            "cites_id": [
+                "7024294091025189255"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procedure for fast electromagnetic design of axial flux permanent magnet machines",
+                "pub_year": "2014",
+                "citation": "2014 International Conference on Electrical Machines (ICEM), 1396-1402, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6479156396653389140",
+            "cites_id": [
+                "6479156396653389140"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical model of tooth-coil winding permanent magnet synchronous machines with modular U-Shape stator",
+                "pub_year": "2016",
+                "citation": "2016 XXII International Conference on Electrical Machines (ICEM), 145-151, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9774773165029253396",
+            "cites_id": [
+                "9774773165029253396"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial flux PM machine for low wind power generation",
+                "pub_year": "2010",
+                "citation": "The XIX International Conference on Electrical Machines-ICEM 2010, 1-5, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:WF5omc3nYNoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16729974740503511068",
+            "cites_id": [
+                "16729974740503511068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Parameters identification of an axial flux induction machine using field equations",
+                "pub_year": "2018",
+                "citation": "2018 XIII International Conference on Electrical Machines (ICEM), 351-357, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6381299368134209298",
+            "cites_id": [
+                "6381299368134209298"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of static and dynamic eccentricity on the performance of permanent magnet synchronous machines with modular stator core",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 3775-3780, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15246062459594594161",
+            "cites_id": [
+                "15246062459594594161"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Homothetic design in synchronous reluctance machines and effects on torque ripple",
+                "pub_year": "2020",
+                "citation": "IEEE Transactions on Energy Conversion 36 (3), 2195-2205, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40451233814650069",
+            "cites_id": [
+                "40451233814650069"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical model and sensitivity analysis of tooth-coil-winding permanent magnet synchronous machine with modular U-shape stator",
+                "pub_year": "2019",
+                "citation": "2019 IEEE Energy Conversion Congress and Exposition (ECCE), 1761-1768, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:8k81kl-MbHgC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11821492408651655204",
+            "cites_id": [
+                "11821492408651655204"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel rotor structure for an axial flux PM machine: Performance analysis",
+                "pub_year": "2016",
+                "citation": "2016 International Symposium on Power Electronics, Electrical Drives \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14344327321879361647",
+            "cites_id": [
+                "14344327321879361647"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A predictive current control strategy for a medium-voltage open-end winding machine drive",
+                "pub_year": "2023",
+                "citation": "Electronics 12 (5), 1070, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:IWHjjKOFINEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9651304778695125461",
+            "cites_id": [
+                "9651304778695125461"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of optimized fault-tolerant modular stator machines with U-shape and H-shape core structure",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 4254-4259, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7512754228869340065",
+            "cites_id": [
+                "7512754228869340065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Statistical analysis of manufacturing tolerances effect on axial-flux permanent magnet machines cogging torque",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 4342-4346, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2243076352108767499",
+            "cites_id": [
+                "2243076352108767499"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial Flux Permanent Magnet Machines\u2013Development of Optimal Design Strategies",
+                "pub_year": "2016",
+                "citation": "Universidad de Concepci\u00f3n., 2016"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6237131444020066899",
+            "cites_id": [
+                "6237131444020066899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electromagnetic analysis of a novel PMSM with modular stator for low power generation",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4788048398307537739",
+            "cites_id": [
+                "4788048398307537739"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Closed-Form solution for the slot leakage inductance of tooth-coil-winding permanent magnet machines",
+                "pub_year": "2018",
+                "citation": "2018 IEEE Energy Conversion Congress and Exposition (ECCE), 4373-4377, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13510017484947657374",
+            "cites_id": [
+                "13510017484947657374"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axial flux machine structure reducing rotor eddy current losses",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Electric Machines & Drives Conference (IEMDC), 143-146, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18142611505068871435",
+            "cites_id": [
+                "18142611505068871435"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical electromagnetic torque estimation of an axial flux permanent magnet machine under saturation",
+                "pub_year": "2015",
+                "citation": "2015 IEEE International Electric Machines & Drives Conference (IEMDC), 1124-1130, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12287318569791939709",
+            "cites_id": [
+                "12287318569791939709"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A machine learning based method to efficiently analyze the cogging torque under manufacturing tolerances",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 1353-1357, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:4DMP91E08xMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3787764600659714239",
+            "cites_id": [
+                "3787764600659714239"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of constructive parameters on the performance of an axial-flux induction machine with solid and magnetically anisotropic rotor",
+                "pub_year": "2021",
+                "citation": "2021 IEEE Energy Conversion Congress and Exposition (ECCE), 4037-4044, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:aqlVkmm33-oC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2404387556941000731",
+            "cites_id": [
+                "2404387556941000731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model Predictive Control of a Quasi-Three-Level Inverter Topology Supplying Multiple Solar-Powered Pumps",
+                "pub_year": "2020",
+                "citation": "2020 IEEE 11th International Symposium on Power Electronics for Distributed \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3204084509938094852",
+            "cites_id": [
+                "3204084509938094852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Direct power control strategy for an axial flux permanent magnet synchronous machine",
+                "pub_year": "2020",
+                "citation": "Electrical Engineering 102, 481-491, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:UebtZRa9Y70C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11470771575738060625",
+            "cites_id": [
+                "11470771575738060625"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design and building of an automatic alternator synchronizer based on open-hardware arduino platform",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 105116-105122, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:Se3iqnhoufwC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8562104530191800280",
+            "cites_id": [
+                "8562104530191800280"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-drive solar pumping system with reduced DC-link current ripple",
+                "pub_year": "2018",
+                "citation": "2018 International Symposium on Power Electronics, Electrical Drives \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1492947267276193373",
+            "cites_id": [
+                "1492947267276193373"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Manufacturing Tolerances on Axial Flux Permanent Magnet Machines with Ironless Rotor Core: A Statistical Approach",
+                "pub_year": "2023",
+                "citation": "Machines 11 (5), 535, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:hC7cP41nSMkC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4403178843532331721",
+            "cites_id": [
+                "4403178843532331721"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuous-Domain Semi-Analytical Method for Tolerance Analysis of Axial Flux Permanent Magnet Machines",
+                "pub_year": "2022",
+                "citation": "2022 IEEE Energy Conversion Congress and Exposition (ECCE), 1-6, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7264681897929905868",
+            "cites_id": [
+                "7264681897929905868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DC current harmonics reduction in multi-inverter topology",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Power Delivery 37 (5), 4489-4492, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12712073036834416704",
+            "cites_id": [
+                "12712073036834416704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and optimization of radial flux modular stator permanent magnet synchronous machines",
+                "pub_year": "2020",
+                "citation": "2020 IEEE Energy Conversion Congress and Exposition (ECCE), 1167-1173, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:Zph67rFs4hoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7410868978197046243",
+            "cites_id": [
+                "7410868978197046243"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of a permanent magnet linear generator",
+                "pub_year": "2019",
+                "citation": "IECON 2019-45th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:0EnyYjriUFMC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17932584082739621735",
+            "cites_id": [
+                "17932584082739621735"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive control of a multi-drive solar pumping system",
+                "pub_year": "2019",
+                "citation": "2019 21st European Conference on Power Electronics and Applications (EPE'19 \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7430661142196850938",
+            "cites_id": [
+                "7430661142196850938"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive current control of an induction machine for solar pumping application",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4367505572055976958",
+            "cites_id": [
+                "4367505572055976958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Study on Stator-Rotor Misalignment in Modular Permanent Magnet Synchronous Machines with Different Slot/Pole Combinations",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (5), 2777, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=257998921214801482",
+            "cites_id": [
+                "257998921214801482"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Quick Comparison of the Cogging Torque Severity in Permanent Magnet Synchronous Machines with Segmented Stator Core",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Conference on Automation/XXV Congress of the Chilean \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9363804296383322907",
+            "cites_id": [
+                "9363804296383322907"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Semi-analytical finite element study of the slot leakage inductance of double-layer windings",
+                "pub_year": "2020",
+                "citation": "2020 International Conference on Electrical Machines (ICEM) 1, 326-331, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8094008751005058999",
+            "cites_id": [
+                "8094008751005058999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiphysical design of an axial induction motor with an anisotropic rotor",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16795257567119470876",
+            "cites_id": [
+                "16795257567119470876"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construcci\u00f3n y puesta a punto de un generador de flujo axial con imanes permanentes y estator sin nucleo",
+                "pub_year": "2010",
+                "citation": "Universidad de Concepci\u00f3n, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13371167979528662021",
+            "cites_id": [
+                "13371167979528662021"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Simple Method to Estimate Eccentricity Effects on Radial Flux Permanent Magnet Machines",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:R3hNpaxXUhUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of Matrix-Rotor Induction Motor and Permanent Magnet Machine for Low-Speed High-Torque Applications",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:TQgYirikUcIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structural Feasibility and Electromagnetic Analysis of an Ironless Rotor Axial Flux Permanent Magnet Synchronous Machine",
+                "pub_year": "2023",
+                "citation": "2023 IEEE Energy Conversion Congress and Exposition (ECCE), 4297-4301, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:HDshCWvjkbEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast Assessment of Rotor Barrier Dimensional Allowances in Synchronous Reluctance Machines",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:-f6ydRqryjwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluation of Dual Three-Phase Winding in Permanent Magnet Machines with Modular Stator Core",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Electric Machines & Drives Conference (IEMDC), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decoupled Control for Double-T Dc-Dc MMC Topology for MT-HVdc/MVdc Grids",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (6), 3778, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:qUcmZB5y_30C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Axial-Varying Eccentricity on the Performance of PMSM with Segmented Stator Core",
+                "pub_year": "2022",
+                "citation": "2022 International Conference on Electrical Machines (ICEM), 157-163, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:dhFuZR0502QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Active/Reactive Power Control Strategy for Renewable Generation Systems. Electronics 2021, 10, 1061",
+                "pub_year": "2021",
+                "citation": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Symmetrical Hybrid Multilevel VSI and CSI Inverters Derived from Dc-Dc Converters",
+                "pub_year": "2019",
+                "citation": "2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sliding mode control of a boost converter applied as MPPT on a stand-alone WECS",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Conference on Automation/XXIII Congress of the \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Squirrel Cage Induction Motor: A Design-Based Comparison Between Aluminium and Copper Cages",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machines and Drives Electric Drive System of Dual-Winding Fault-Tolerant Permanent-Magnet Motor for Aerospace Applications................................................. X \u2026",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical Model of an Axial Flux Induction Machine through Vector Magnetic Potential using Multilayer Model",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "rcaHrLAAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 2
+    }
+}
