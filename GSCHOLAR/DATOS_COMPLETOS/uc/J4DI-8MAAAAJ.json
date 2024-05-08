@@ -1,0 +1,357 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "J4DI-8MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "David E. Acu\u00f1a-Ureta",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=J4DI-8MAAAAJ&citpid=13",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "event prognosis",
+        "condition monitoring",
+        "decision-making"
+    ],
+    "email_domain": "@ing.puc.cl",
+    "homepage": "https://www.linkedin.com/in/david-acuna-ureta/",
+    "citedby": 166,
+    "citedby5y": 134,
+    "hindex": 6,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 1,
+        "2016": 2,
+        "2017": 10,
+        "2018": 18,
+        "2019": 30,
+        "2020": 44,
+        "2021": 24,
+        "2022": 18,
+        "2023": 17,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1SHHThYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcos Orchard",
+            "affiliation": "University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "M6SHossAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aramis Perez Mora",
+            "affiliation": "Universidad de Costa Rica"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "hUZ1H5EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge F. Silva",
+            "affiliation": "University of Chile, Department of Electrical Engineering"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle-filtering-based failure prognosis via sigma-points: Application to Lithium-Ion battery State-of-Charge monitoring",
+                "pub_year": "2017",
+                "citation": "Mechanical Systems and Signal Processing 85, 827-848, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 75,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6588672493881870169",
+            "cites_id": [
+                "6588672493881870169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A theoretically rigorous approach to failure prognosis",
+                "pub_year": "2018",
+                "citation": "Annual Conference of the Prognostics and Health Management Society, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4363854108111794241",
+            "cites_id": [
+                "4363854108111794241"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computation of time probability distributions for the occurrence of uncertain future events",
+                "citation": "Mechanical Systems and Signal Processing 150, 107332, 0"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3366639421724787446",
+            "cites_id": [
+                "3366639421724787446"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conditional predictive Bayesian Cram\u00e9r-Rao Lower Bounds for prognostic algorithms design",
+                "pub_year": "2018",
+                "citation": "Applied Soft Computing 72, 647-665, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7310289384973017385",
+            "cites_id": [
+                "7310289384973017385"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle-filtering-based state-of-health estimation and end-of-life prognosis for lithium-ion batteries at operation temperature",
+                "pub_year": "2016",
+                "citation": "Proc. Annu. Conf. Prognostics Health Manag. Soc., 137-146, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15927715654211732978",
+            "cites_id": [
+                "15927715654211732978"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple-imputation-particle-filtering for uncertainty characterization in battery state-of-charge estimation problems with missing measurement data: performance analysis and \u2026",
+                "pub_year": "2015",
+                "citation": "Int J Prog Health Manage, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3662548023356011451",
+            "cites_id": [
+                "3662548023356011451"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prognostic Algorithms Design Based on Predictive Bayesian Cram\u00e9r-Rao Lower Bounds",
+                "pub_year": "2017",
+                "citation": "IFAC-PapersOnLine 50 (1), 4719-4726, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8935895133669642354",
+            "cites_id": [
+                "8935895133669642354"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On Prognostic Algorithm Design and Fundamental Precision Limits in Long-Term Prediction",
+                "pub_year": "2019",
+                "citation": "Predictive Maintenance in Dynamic Systems, 355-379, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2389305543004406967",
+            "cites_id": [
+                "2389305543004406967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling and Prediction of Criminal Activity Based on Spatio-Temporal Probabilistic Risk Functions",
+                "pub_year": "2015",
+                "citation": "Annual Conference of the Prognostics and Health Management Society 6, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16110675536003797120",
+            "cites_id": [
+                "16110675536003797120"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiple-imputation-particle-filtering scheme for uncertainty characterization in battery state-of-charge estimation problems with missing measurement data",
+                "pub_year": "2014",
+                "citation": "Annual Conference of the Prognostics and Health Management Society 5 (037), 1-9, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16610345959477808935",
+            "cites_id": [
+                "16610345959477808935"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Gentle Correctness Verification of the Theory of Uncertain Event Prognosis to Compute Failure Time Probability",
+                "pub_year": "2022",
+                "citation": "Annual Conference of the PHM Society 14 (1), 2022"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=958131405162461165",
+            "cites_id": [
+                "958131405162461165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Near-instantaneous battery End-of-Discharge prognosis via uncertain event likelihood functions",
+                "pub_year": "2022",
+                "citation": "ISA Transactions, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4113829516075868268",
+            "cites_id": [
+                "4113829516075868268"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theoretical Advances in Lebesgue-Sampling-Based Prognostic Algorithms",
+                "pub_year": "2019",
+                "citation": "2019 Prognostics and System Health Management Conference (PHM-Paris), 7-12, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9214657427184167691",
+            "cites_id": [
+                "9214657427184167691"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Application of Multiple-imputation-particle-filter for Parameter Estimation of Visual Binary Stars with Incomplete Observations",
+                "pub_year": "2016",
+                "citation": "Annual Conference of the Prognostics and Health Management Society 2016 7, 12, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=499215889963216841",
+            "cites_id": [
+                "499215889963216841"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Underlying Probability Measure Approximated by Monte Carlo Simulations in Event Prognostics",
+                "pub_year": "2023",
+                "citation": "Annual Conference of the PHM Society 15 (1), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Theoretical foundations uncertain event prognosis and predictive Bayesian Cram\u00e9r-Rao bounds",
+                "pub_year": "2020",
+                "citation": "Universidad de Chile, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Particle Filter-based Estimation of Orbital Parameters of Visual Binary Stars with Incomplete Observations",
+                "pub_year": "2018",
+                "citation": "Revista Mexicana de Astronomia y Astrofisica Conference Series 50, 52-53, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Manejo de incertidumbre ante p\u00e9rdida parcial o total de datos en algoritmos basados en m\u00e9todos secuenciales de Monte Carlo y nueva definici\u00f3n de probabilidad de falla en el \u2026",
+                "pub_year": "2016",
+                "citation": "Universidad de Chile, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fundamentals of Sequential System Monitoring and Prognostics Methods",
+                "citation": "Bayesian Inverse Problems, 39-60, 0"
+            },
+            "filled": false,
+            "author_pub_id": "J4DI-8MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

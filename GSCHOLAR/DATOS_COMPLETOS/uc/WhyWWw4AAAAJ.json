@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "WhyWWw4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge Ramos-Aguilar",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WhyWWw4AAAAJ&citpid=1",
+    "affiliation": "Bi\u00f3logo, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Ecolog\u00eda de comunidades",
+        "comportamiento animal",
+        "comportamiento humano",
+        "bot\u00e1nica."
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 3,
+        "2021": 0,
+        "2022": 0,
+        "2023": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ck_ouu4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Boris L. Almonacid",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm",
+                "pub_year": "2018",
+                "citation": "IET Software 12 (2), 96-111, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "WhyWWw4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12651173425750017518",
+            "cites_id": [
+                "12651173425750017518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio espaciotemporal de la vegetaci\u00f3n existente y su relaci\u00f3n con el desierto florido en la regi\u00f3n de Atacama, Chile",
+                "pub_year": "2022",
+                "citation": "Revista Internacional de Ciencia y Tecnolog\u00eda de la Informaci\u00f3n Geogr\u00e1fica 3 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "WhyWWw4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12878591792941574382",
+            "cites_id": [
+                "12878591792941574382"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

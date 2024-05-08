@@ -1,0 +1,116 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "u9hJCHEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ivanna Martinez",
+    "affiliation": "Ph.D. student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Structural engineering",
+        "Earthquake engineering",
+        "Seismic design"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 5,
+    "citedby5y": 5,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 0,
+        "2021": 2,
+        "2022": 1,
+        "2023": 0,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wcmRU3kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gerardo Araya-Letelier",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ehsAJTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Diego Lopez-Garcia",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pedalejar sense fatigar-se: an\u00e0lisi d\u2019infraestructura ciclista urbana basada en l\u2019energia de pedaleig",
+                "pub_year": "2019",
+                "citation": "Documents d'an\u00e0lisi geogr\u00e0fica 65 (2), 273-292, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "u9hJCHEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12011538812602084865",
+            "cites_id": [
+                "12011538812602084865"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An\u00e1lisis por desempe\u00f1o de una estructura especial de acero modelada con fibras controladas por fuerzas en el software OpenSees",
+                "pub_year": "2018",
+                "citation": "Universidad de Cuenca, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "u9hJCHEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3129200249584598448",
+            "cites_id": [
+                "3129200249584598448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Impact of Probabilistic Modeling Alternatives on the Seismic Fragility Analysis of Reinforced Concrete Dual Wall\u2013Frame Buildings towards Resilient Designs",
+                "pub_year": "2024",
+                "citation": "Sustainability 16 (4), 1668, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "u9hJCHEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Level of Detail Required to Model Special Steel Moment Frames to Evaluate Floor Accelerations in Nonstructural Components",
+                "pub_year": "2019",
+                "citation": "Structures Congress 2019, 426-437, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "u9hJCHEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

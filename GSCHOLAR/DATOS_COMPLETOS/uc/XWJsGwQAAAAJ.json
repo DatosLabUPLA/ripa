@@ -1,0 +1,63 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "XWJsGwQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Mart\u00ednez Arg\u00fcello",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XWJsGwQAAAAJ&citpid=1",
+    "affiliation": "Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Physics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Axisymmetric self-similar finite-time singularity solution of the Euler equations",
+                "pub_year": "2023",
+                "citation": "Advances in Continuous and Discrete Models 2023 (1), 30, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "XWJsGwQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2336633852792731331",
+            "cites_id": [
+                "2336633852792731331"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operador geom\u00e9trico de \u00e1rea construido con Loop Quantum Gravity",
+                "pub_year": "2019",
+                "citation": "Universidad de los Andes, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "XWJsGwQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

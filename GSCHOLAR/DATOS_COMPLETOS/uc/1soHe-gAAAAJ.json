@@ -1,0 +1,864 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1soHe-gAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Elwin van 't Wout",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1soHe-gAAAAJ&citpid=1",
+    "affiliation": "Associate Professor of Mathematical and Computational Engineering, Pontificia Universidad Cat\u00f3lica",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Applied Mathematics",
+        "High-Performance Computing",
+        "Boundary Element Methods",
+        "Machine Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 325,
+    "citedby5y": 269,
+    "hindex": 11,
+    "hindex5y": 9,
+    "i10index": 11,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2012": 5,
+        "2013": 4,
+        "2014": 5,
+        "2015": 7,
+        "2016": 8,
+        "2017": 10,
+        "2018": 14,
+        "2019": 30,
+        "2020": 26,
+        "2021": 40,
+        "2022": 59,
+        "2023": 73,
+        "2024": 39
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "omZoNaEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pierre G\u00e9lat",
+            "affiliation": "Associate Professor, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HCAkiTYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Timo Betcke",
+            "affiliation": "Professor of Computational Mathematics, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_jzqQT0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nader Saffari",
+            "affiliation": "Professor of Ultrasonics, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P7k6VuEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kees Vuik",
+            "affiliation": "Delft University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "f_P4WEMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Duncan van der Heul",
+            "affiliation": "assistant professor, Delft Insitute for Applied Mathematics, Faculty of Electrical Engineering \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "x6cMRgIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kim Butts Pauly",
+            "affiliation": "Professor of Radiology, Bioengineering and Electrical Engineering, by courtesy, Stanford \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "dozvChIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rebecca M Jones",
+            "affiliation": "University of North Carolina at Chapel Hill and North Carolina State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "b4KHKygAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Aki Pulkkinen",
+            "affiliation": "University of Eastern Finland"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "LVzHVy0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jiri Jaros",
+            "affiliation": "Associate Professor, Faculty of Information Technology, Brno University of Technology \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ssWTvC8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samuel Pichardo",
+            "affiliation": "University of Calgary"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fW9e_UEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Esra Neufeld",
+            "affiliation": "IT'IS Foundation for Research on Information Technologies in Society"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "janVBUgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Stanziola",
+            "affiliation": "Research Fellow, UCL"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SHBogUkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Cueto",
+            "affiliation": "EPSRC Doctoral Fellow, Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mGMLmGgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Douglas Christensen",
+            "affiliation": "Professor of Biomedical Engineering, University of Utah"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Lupp8JEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ningrui Li",
+            "affiliation": "Stanford University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7JNwIZMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bradley Treeby",
+            "affiliation": "University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "otHnrJUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Bates",
+            "affiliation": "Imperial College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SNe05JoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean-Francois Aubry",
+            "affiliation": "Director of Research, CNRS"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "g4lsbqMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gianmarco Pinton",
+            "affiliation": "University of North Carolina at Chapel Hill and North Carolina State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ODZnZbgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Thielscher",
+            "affiliation": "Professor, Technical University of Denmark & Senior Researcher, DRCMR"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nkb3d8UAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Yun Jing",
+            "affiliation": "Professor of Acoustics, Penn State University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "wxM0Gh8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matthew W. Scroggs",
+            "affiliation": "Research Fellow, Department of Mathematics, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Kx9xsJMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Erik Burman",
+            "affiliation": "Chair of Computational Mathematics, University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_dRI898AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wojciech \u015amigaj",
+            "affiliation": "Vitaware, UK"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UKy9ejwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simon ARRIDGE",
+            "affiliation": "University College London"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "2zKBiVcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pilar Larroulet Philippi",
+            "affiliation": "Assistant Professor, School of Criminal Justice, Rutgers University-Newark"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9Dpk8V4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kenzo Asahi",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tsyXO3MAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Pieringer",
+            "affiliation": "AI Researcher | Ph.D. Computer Science"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5wradzYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fabrice Lambert",
+            "affiliation": "Professor of Climatology, Pont. Cath. Univ. of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MbFApisAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Martin van Gijzen",
+            "affiliation": "Delft University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Pe0_erMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "David Torres Irribarra",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_sAB1sAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christopher D Cooper",
+            "affiliation": "Assistant Professor, Departamento de Ingenier\u00eda Mec\u00e1nica, Universidad T\u00e9cnica Federico \u2026"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8gproUcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Samuel Groth",
+            "affiliation": "University of Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qevR9IoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Garth N. Wells",
+            "affiliation": "Hibbitt Professor, Department of Engineering, University of Cambridge"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "y5BCSrEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Nicol\u00e1s J. Cosentino",
+            "affiliation": "CIMA-IFAECI (CONICET-UBA-CNRS-IRD)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ihVS4FAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Axel Osses",
+            "affiliation": "PhD Applied Mathematics (U. de Chile)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmark problems for transcranial ultrasound simulation: Intercomparison of compressional wave models",
+                "pub_year": "2022",
+                "citation": "The Journal of the Acoustical Society of America 152 (2), 1003-1019, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487885324544505312",
+            "cites_id": [
+                "14487885324544505312"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Software frameworks for integral equations in electromagnetic scattering based on Calder\u00f3n identities",
+                "pub_year": "2017",
+                "citation": "Computers & Mathematics with Applications 74 (11), 2897-2914, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3529577898501410539",
+            "cites_id": [
+                "3529577898501410539"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fast boundary element method for the scattering analysis of high-intensity focused ultrasound",
+                "pub_year": "2015",
+                "citation": "The Journal of the Acoustical Society of America 138 (5), 2726-2737, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5623626478569920411",
+            "cites_id": [
+                "5623626478569920411"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computationally efficient boundary element methods for high-frequency Helmholtz problems in unbounded domains",
+                "pub_year": "2017",
+                "citation": "Modern Solvers for Helmholtz Problems, 215-243, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3889085938105798100",
+            "cites_id": [
+                "3889085938105798100"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Design of temporal basis functions for time domain integral equation methods with predefined accuracy and smoothness",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Antennas and Propagation 61 (1), 271-280, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7264778136485668760",
+            "cites_id": [
+                "7264778136485668760"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fast full-wave solver for calculating ultrasound propagation in the body",
+                "pub_year": "2021",
+                "citation": "Ultrasonics 110, 106240, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=744269365139882619,14002199936603737064",
+            "cites_id": [
+                "744269365139882619",
+                "14002199936603737064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability analysis of the marching-on-in-time boundary element method for electromagnetics",
+                "pub_year": "2016",
+                "citation": "Journal of Computational and Applied Mathematics 294, 358-371, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10269173806891766528",
+            "cites_id": [
+                "10269173806891766528"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Benchmarking preconditioned boundary integral formulations for acoustics",
+                "pub_year": "2021",
+                "citation": "International Journal for Numerical Methods in Engineering 122 (20), 5873-5897, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:UebtZRa9Y70C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18375461098657812879",
+            "cites_id": [
+                "18375461098657812879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency-robust preconditioning of boundary integral equations for acoustic transmission",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Physics 462, 111229, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:0EnyYjriUFMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=40906385139544977",
+            "cites_id": [
+                "40906385139544977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The influence of the exact evaluation of radiation fields in finite precision arithmetic on the stability of the time domain integral equation method",
+                "pub_year": "2013",
+                "citation": "IEEE Transactions on Antennas and Propagation 61 (12), 6064-6074, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3557377794921621768",
+            "cites_id": [
+                "3557377794921621768"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Deflated Relaxed Incomplete Cholesky CG method for use in a real-time ship simulator",
+                "pub_year": "2010",
+                "citation": "Procedia Computer Science 1 (1), 249-257, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=399587909164353399",
+            "cites_id": [
+                "399587909164353399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Machine learning for policing: a case study on arrests in Chile",
+                "pub_year": "2021",
+                "citation": "Policing and Society 31 (9), 1036-1050, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4928588683515075639",
+            "cites_id": [
+                "4928588683515075639"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Boundary integral formulations for acoustic modelling of high-contrast media",
+                "pub_year": "2022",
+                "citation": "Computers & Mathematics with Applications 105, 136-149, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15811144742903963303",
+            "cites_id": [
+                "15811144742903963303"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Proximity resonances of water-entrained air bubbles near acoustically reflecting boundaries",
+                "pub_year": "2021",
+                "citation": "The Journal of the Acoustical Society of America 149 (4), 2477-2491, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:Se3iqnhoufwC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10526605530766905823",
+            "cites_id": [
+                "10526605530766905823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The accuracy of temporal basis functions used in the TDIE method",
+                "pub_year": "2011",
+                "citation": "Antennas and Propagation (APSURSI), 2011 IEEE International Symposium on \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15005997305312827049",
+            "cites_id": [
+                "15005997305312827049"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards optimal boundary integral formulations of the Poisson-Boltzmann equation for molecular electrostatics",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Chemistry 43 (10), 674-691, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8765345022809639891",
+            "cites_id": [
+                "8765345022809639891"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A provably stable MoT scheme based on quadratic spline basis functions",
+                "pub_year": "2012",
+                "citation": "Proceedings of the 2012 IEEE International Symposium on Antennas and \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11603119325517663627",
+            "cites_id": [
+                "11603119325517663627"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stable and efficient FEM-BEM coupling with OSRC regularisation for acoustic wave transmission",
+                "pub_year": "2022",
+                "citation": "Journal of Computational Physics 450, 110867, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:8k81kl-MbHgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10390449265039118943,14364456905756086542",
+            "cites_id": [
+                "10390449265039118943",
+                "14364456905756086542"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Big data para la identificaci\u00f3n de comportamiento criminal",
+                "pub_year": "2019",
+                "citation": "Propuestas para Chile, 49, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:ufrVoPGSRksC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5577015879017794463",
+            "cites_id": [
+                "5577015879017794463"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stability, accuracy, and robustness of the time domain integral equation method for radar scattering analysis",
+                "pub_year": "2013",
+                "citation": "Delft University of Technology, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16955182183978769831",
+            "cites_id": [
+                "16955182183978769831"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global\u2010Krigger: A Global Kriging Interpolation Toolbox With Paleoclimatology Examples",
+                "pub_year": "2023",
+                "citation": "Geochemistry, Geophysics, Geosystems 24 (6), e2022GC010821, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:aqlVkmm33-oC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3811171497767836540",
+            "cites_id": [
+                "3811171497767836540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling frequency shifts of collective bubble resonances with the boundary element method",
+                "pub_year": "2023",
+                "citation": "The Journal of the Acoustical Society of America 153 (3), 1898-1911, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:4TOpqqG69KYC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18320367687850818861",
+            "cites_id": [
+                "18320367687850818861"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accelerating frequency-domain numerical methods for weakly nonlinear focused ultrasound using nested meshes",
+                "pub_year": "2021",
+                "citation": "The Journal of the Acoustical Society of America 150 (1), 441-453, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:5nxA0vEk-isC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10264390270987370455,4660731009207055148",
+            "cites_id": [
+                "10264390270987370455",
+                "4660731009207055148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Boundary Element Method for Acoustic Transmission with Nonconforming Grids",
+                "pub_year": "2024",
+                "citation": "Journal of Computational and Applied Mathematics 445, 115838, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:_kc_bZDykSQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11934504996388664100,1700622561066828089",
+            "cites_id": [
+                "11934504996388664100",
+                "1700622561066828089"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving the linear solver used in the interactive wave model of a real-time ship simulator",
+                "pub_year": "2009",
+                "citation": "Delft University of Technology, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3921256303842212529",
+            "cites_id": [
+                "3921256303842212529"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aerial Video Surveillance in a Megacity: A Case Study in Santiago, Chile",
+                "pub_year": "2024",
+                "citation": "Journal of Urban Technology, 1-18, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modeling Global Surface Dust Deposition Using Physics-Informed Neural Networks",
+                "pub_year": "2024",
+                "citation": "arXiv 2401 (14372), 2024"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fast and accurate boundary element methods for large-scale computational acoustics",
+                "pub_year": "2023",
+                "citation": "The Journal of the Acoustical Society of America 154 (4_supplement), A179-A179, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geographic variability of dust and temperature in climate scaling regimes over the Last Glacial Cycle",
+                "pub_year": "2023",
+                "citation": "EGUsphere 2023, 1-19, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ClimAG-Krigger: A New (Paleo) Climatology-Oriented Toolbox for Anisotropic Global Kriging Interpolation",
+                "pub_year": "2022",
+                "citation": "Authorea Preprints, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Past Atmospheric Particulate Matter Reconstruction based on Dendrochemistry",
+                "pub_year": "2021",
+                "citation": "AGU Fall Meeting Abstracts 2021, GC31C-08, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient boundary element solver for trans-abdominal high-intensity focused ultrasound treatment planning",
+                "pub_year": "2017",
+                "citation": "The Journal of the Acoustical Society of America 142 (4_Supplement), 2720-2720, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building integral equation methods with the open-source library BEM++",
+                "pub_year": "2016",
+                "citation": "2016 IEEE International Symposium on Antennas and Propagation (APSURSI), 753-754, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A framework to design temporal basis functions used in boundary element methods for transient electromagnetic scattering",
+                "pub_year": "2011",
+                "citation": "AES 2012, Advanced Electromagnetics Symposium, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Geographic variability of dust and temperature in climate scaling regimes over the Last Glacial Cycle.",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "1soHe-gAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 9,
+        "not_available": 0
+    }
+}

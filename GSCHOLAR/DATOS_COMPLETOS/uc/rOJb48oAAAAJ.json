@@ -1,0 +1,144 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "rOJb48oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Concha",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "machine learning",
+        "elementos finitos",
+        "multi-f\u00edsica",
+        "multi-escala",
+        "an\u00e1lisis estructural"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 123,
+    "citedby5y": 101,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2017": 2,
+        "2018": 18,
+        "2019": 12,
+        "2020": 10,
+        "2021": 18,
+        "2022": 29,
+        "2023": 17,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NwCxlWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Hurtado",
+            "affiliation": "MIT, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jjQDKYYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ellen Kuhl",
+            "affiliation": "Robert Bosch Chair of Mechanical Engineering and Walter B. Reinhold Professor of Engineering"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9wRFbcEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Francisco Sahli Costabal",
+            "affiliation": "Assistant Professor at Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s1mgbwEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "M.A. Sarabia-Vallejos",
+            "affiliation": "Assistant Professor, Universidad San Sebastian"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The importance of mechano-electrical feedback and inertia in cardiac electromechanics",
+                "pub_year": "2017",
+                "citation": "Computer methods in applied mechanics and engineering 320, 352-368, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "rOJb48oAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 68,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4883910111395343659",
+            "cites_id": [
+                "4883910111395343659"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Micromechanical model of lung parenchyma hyperelasticity",
+                "pub_year": "2018",
+                "citation": "Journal of the Mechanics and Physics of Solids 112, 126-144, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "rOJb48oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=540170670893416167",
+            "cites_id": [
+                "540170670893416167"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Upscaling the poroelastic behavior of the lung parenchyma: A finite-deformation micromechanical model",
+                "pub_year": "2020",
+                "citation": "Journal of the Mechanics and Physics of Solids 145, 104147, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "rOJb48oAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6218459369508499015",
+            "cites_id": [
+                "6218459369508499015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multiscale modeling of lung mechanics: From alveolar microstructure to pulmonary function",
+                "pub_year": "2023",
+                "citation": "Journal of the Mechanics and Physics of Solids 179, 105364, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "rOJb48oAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8501348688340689799",
+            "cites_id": [
+                "8501348688340689799"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

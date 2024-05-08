@@ -1,0 +1,341 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "06-n2ZoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Sanabria",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=06-n2ZoAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Computer Science"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 90,
+    "citedby5y": 82,
+    "hindex": 6,
+    "hindex5y": 6,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 7,
+        "2019": 17,
+        "2020": 15,
+        "2021": 16,
+        "2022": 13,
+        "2023": 12,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "xPEdf1wAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andres Neyem",
+            "affiliation": "Computer Science Department, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bdtDucIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose I. Benedetto",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "P66wfO8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime Navon",
+            "affiliation": "Associate Professor of Computer Science, Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7anf7aEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Christian Poellabauer",
+            "affiliation": "Professor, Florida International University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "8oPYZYUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mat\u00edas Hirsch",
+            "affiliation": "ISISTAN-UNCPBA-CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DAf6BckAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Mateos",
+            "affiliation": "Researcher at ISISTAN-UNICEN-CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fvcAHgwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandro Zunino",
+            "affiliation": "Professor of Computer Science, Principal Research Scientist, ISISTAN, UNICEN & CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nEug9NIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan Diego Diaz Mosquera",
+            "affiliation": "Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a practical framework for code offloading in the Internet of Things",
+                "pub_year": "2019",
+                "citation": "Future Generation Computer Systems 92, 424-437, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8957944669293868407",
+            "cites_id": [
+                "8957944669293868407"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MobiCOP: a scalable and reliable mobile code offloading solution",
+                "pub_year": "2018",
+                "citation": "Wireless Communications and Mobile Computing 2018, 1-18, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11701147049956322405",
+            "cites_id": [
+                "11701147049956322405"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving task scheduling problems in dew computing via deep reinforcement learning",
+                "pub_year": "2022",
+                "citation": "Applied Sciences 12 (14), 7137, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2862533763934823024",
+            "cites_id": [
+                "2862533763934823024"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New heuristics for scheduling and distributing jobs under hybrid dew computing environments",
+                "pub_year": "2021",
+                "citation": "Wireless Communications and Mobile Computing 2021, 1-12, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:8k81kl-MbHgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7884018272663096508",
+            "cites_id": [
+                "7884018272663096508"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Code offloading solutions for audio processing in mobile healthcare applications: a case study",
+                "pub_year": "2018",
+                "citation": "Proceedings of the 5th International Conference on Mobile Software \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9997717758779615073",
+            "cites_id": [
+                "9997717758779615073"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enriching capstone project-based learning experiences using a crowdsourcing recommender engine",
+                "pub_year": "2017",
+                "citation": "2017 IEEE/ACM 4th International Workshop on CrowdSourcing in Software \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9154415070646890508",
+            "cites_id": [
+                "9154415070646890508"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep Neural Networks on Mobile Healthcare Applications: Practical Recommendations",
+                "pub_year": "2018",
+                "citation": "Proceedings 2 (19), 550, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:ufrVoPGSRksC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2638810445172048993",
+            "cites_id": [
+                "2638810445172048993"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards native code offloading platforms for image processing in mobile applications: a case study",
+                "pub_year": "2017",
+                "citation": "2017 IEEE/ACM 4th International Conference on Mobile Software Engineering \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7453207646100561885",
+            "cites_id": [
+                "7453207646100561885"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Connection-Aware Heuristics for Scheduling and Distributing Jobs under Dynamic Dew Computing Environments",
+                "pub_year": "2024",
+                "citation": "Applied Sciences 14 (8), 3206, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:4DMP91E08xMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Empirical Study of Mobile Code Offloading in Unpredictable Environments",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A performance comparison of heuristics for scheduling jobs in hybrid mobile topologies",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A performance comparison of heuristics for scheduling jobs in hybrid mobile topologies",
+                "pub_year": "2019",
+                "citation": "IEEE, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards a practical framework for code offloading in the Internet of Things",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Research Article MobiCOP: A Scalable and Reliable Mobile Code Offloading Solution",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "MobiCOP: A Scalable and Reliable Mobile Code Offloading Solution",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards Native Code Offloading Platforms for Image Processing in Mobile Applications: A Case Study",
+                "pub_year": "2017",
+                "citation": "IEEE, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "06-n2ZoAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 1
+    }
+}

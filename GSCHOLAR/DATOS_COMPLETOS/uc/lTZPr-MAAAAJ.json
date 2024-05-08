@@ -1,0 +1,229 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "lTZPr-MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Aspillaga",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=lTZPr-MAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "NLP",
+        "Artificial Intelligence",
+        "AI",
+        "Deep Learning"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 81,
+    "citedby5y": 81,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2020": 5,
+        "2021": 23,
+        "2022": 18,
+        "2023": 26,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0jU-UZ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e9s Carvallo",
+            "affiliation": "Postdoctoral Researcher at CENIA. PhD at Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p4TbBLEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Vladimir Araujo",
+            "affiliation": "Postdoctoral Researcher - KU Leuven"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "aQ9TkcIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Denis Parra",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gOVVRk4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Soto",
+            "affiliation": "Professor Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "6LYRTPEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Marcelo Mendoza",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile, researcher at CENIA and IMFD"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "d0DmCg8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eugenio Herrera-Berg",
+            "affiliation": "Centro Nacional de Inteligencia Artificial"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gD5Y61QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe del Rio",
+            "affiliation": "Phd. student, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5HX-EfcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valentin Barriere",
+            "affiliation": "Telecom ParisTech"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress test evaluation of transformer-based models in natural language understanding tasks",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2002.06261, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 37,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2343933790884862325",
+            "cites_id": [
+                "2343933790884862325"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On adversarial examples for biomedical nlp tasks",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2004.11157, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11387216089481400563",
+            "cites_id": [
+                "11387216089481400563"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inspecting the concept knowledge graph encoded by modern language models",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2105.13471, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9660841195889107329",
+            "cites_id": [
+                "9660841195889107329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Stress test evaluation of biomedical word embeddings",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2107.11652, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15568266212925184944",
+            "cites_id": [
+                "15568266212925184944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neural Machine Translation through Active Learning on low-resource languages: The case of Spanish to Mapudungun",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Workshop on Natural Language Processing for Indigenous \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7394212134266056382",
+            "cites_id": [
+                "7394212134266056382"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Tracking the progress of Language Models by extracting their underlying Knowledge Graphs",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3071952675760337019",
+            "cites_id": [
+                "3071952675760337019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Targeted Image Data Augmentation Increases Basic Skills Captioning Robustness",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2309.15991, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CoTranslate: A web-based tool for crowdsourcing high-quality sentence pair corpora",
+                "pub_year": "2023",
+                "citation": "SoftwareX 23, 101508, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "lTZPr-MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

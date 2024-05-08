@@ -1,0 +1,158 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "-eiYIhAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos Munoz-Castro",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-eiYIhAAAAAJ&citpid=1",
+    "affiliation": "PhD Student Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Natural Language Processing",
+        "Explainable Artificial Intelligence",
+        "Graph Neural Networks"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "geH4mS0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jocelyn Dunstan",
+            "affiliation": "Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "u22SyYQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Aracena",
+            "affiliation": "Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0jU-UZ8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Andr\u00e9s Carvallo",
+            "affiliation": "Postdoctoral Researcher at CENIA. PhD at Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-hjCWPMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mat\u00edas Rojas",
+            "affiliation": "MSc. in Computer Science, Universidad de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "mQbtaXUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alfredo Enrique Candia-V\u00e9jar",
+            "affiliation": "Professor of Operations Research, Finis Terrae University"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Automatic Section Classification in Spanish Clinical Narratives Using Chunked Named Entity Recognition",
+                "pub_year": "2023",
+                "citation": "Proceedings of the Iberian Languages Evaluation Forum (IberLEF 2023), CEUR \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=837824752933734236",
+            "cites_id": [
+                "837824752933734236"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CMM PLN at MentalRiskES: A Traditional Machine Learning Approach for Detection of Eating Disorders and Depression in Chat Messages",
+                "pub_year": "2023",
+                "citation": "IberLEF (Working Notes). CEUR Workshop Proceedings, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=62821108455842944",
+            "cites_id": [
+                "62821108455842944"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "News Gathering: Leveraging Transformers to Rank News",
+                "pub_year": "2024",
+                "citation": "European Conference on Information Retrieval, 486-493, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Evaluating polysemy and lexical similarity in semantic matching: a new dataset in news",
+                "pub_year": "2023",
+                "citation": "KHIPU \u2013 Latin American Meeting In Artificial Intelligence (poster session), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "LinkMed: Entity Recognition and Relation Extraction from Clinical Notes in Spanish",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Solving the Arc Routing Problem with a Hybrid Electromagnetic Mechanism Algorithm",
+                "pub_year": "2014",
+                "citation": "XLVI - Simp\u00f3sio Brasileiro de Pesquisa Operacional, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "-eiYIhAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

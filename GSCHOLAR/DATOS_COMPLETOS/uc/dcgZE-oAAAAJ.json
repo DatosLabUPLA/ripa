@@ -1,0 +1,51 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "dcgZE-oAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Van Sint Jan",
+    "affiliation": "Estudiante de Mag\u00edster, PUC",
+    "organization": 7459009050823923954,
+    "interests": [
+        "automata theory",
+        "graph databases"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "REmatch: A Novel Regex Engine for Finding All Matches",
+                "pub_year": "2023",
+                "citation": "Proceedings of the VLDB Endowment 16 (11), 2792-2804, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "dcgZE-oAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2169434840869633180",
+            "cites_id": [
+                "2169434840869633180"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

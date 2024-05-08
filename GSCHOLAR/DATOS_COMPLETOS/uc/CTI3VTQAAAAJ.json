@@ -1,0 +1,116 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "CTI3VTQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luciano Hidalgo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CTI3VTQAAAAJ&citpid=2",
+    "affiliation": "PhD. Student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Process mining",
+        "education in engineering"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 20,
+    "citedby5y": 20,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 6,
+        "2023": 9,
+        "2024": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using machine learning methods to identify significant variables for the prediction of first-year Informatics Engineering students dropout",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "CTI3VTQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12649197860990976176",
+            "cites_id": [
+                "12649197860990976176"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Domain-driven event abstraction framework for learning dynamics in MOOCs sessions",
+                "pub_year": "2022",
+                "citation": "International Conference on Process Mining, 552-564, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CTI3VTQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1191505240022454247",
+            "cites_id": [
+                "1191505240022454247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using machine learning techniques to predict academic success in an introductory programming course",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society, 1-8, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "CTI3VTQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2762834659322987769",
+            "cites_id": [
+                "2762834659322987769"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A domain-driven framework to analyze learning dynamics in MOOCs through event abstraction",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (5), 3039, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "CTI3VTQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10712409667319627475",
+            "cites_id": [
+                "10712409667319627475"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predicting Students\u2019 Outcome in an Introductory Programming Course: Leveraging the Student Background",
+                "pub_year": "2023",
+                "citation": "Applied Sciences 13 (21), 2023"
+            },
+            "filled": false,
+            "author_pub_id": "CTI3VTQAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

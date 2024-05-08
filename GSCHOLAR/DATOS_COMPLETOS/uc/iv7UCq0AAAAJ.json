@@ -1,0 +1,215 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "iv7UCq0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Samuel C\u00f3rdova",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iv7UCq0AAAAJ&citpid=3",
+    "affiliation": "Assistant profesor, PUC-Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Power Systems",
+        "Optimization",
+        "Smart Grid",
+        "Microgrids"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 111,
+    "citedby5y": 109,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 8,
+        "2020": 8,
+        "2021": 8,
+        "2022": 27,
+        "2023": 30,
+        "2024": 26
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KoG_tgwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alvaro Lorca",
+            "affiliation": "Associate Professor, PUC-Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "w742qQgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Olivares Quero",
+            "affiliation": "Associate Professor, Faculty of Engineering and Sciences, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NqIpnMkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudio Canizares",
+            "affiliation": "University of Waterloo"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "-Wv0Vi4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Hugh Rudnick",
+            "affiliation": "Professor Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "XBmKvDAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Matias Negrete-Pincetic",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tUMqLxoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexandre Moreira",
+            "affiliation": "Lawrence Berkeley National Laboratory"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficient forecasting-optimization scheme for the intraday unit commitment process under significant wind and solar power",
+                "pub_year": "2018",
+                "citation": "IEEE Transactions on Sustainable Energy 9 (4), 1899-1909, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 42,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17371514007713319348",
+            "cites_id": [
+                "17371514007713319348"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An energy management system with short-term fluctuation reserves and battery degradation for isolated microgrids",
+                "pub_year": "2021",
+                "citation": "IEEE Transactions on Smart Grid 12 (6), 4668-4680, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1571759941914575439",
+            "cites_id": [
+                "1571759941914575439"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Frequency-constrained energy management system for isolated microgrids",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Smart Grid 13 (5), 3394-3407, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2024956280855982261",
+            "cites_id": [
+                "2024956280855982261"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aggregate modeling of thermostatically controlled loads for microgrid energy management systems",
+                "pub_year": "2023",
+                "citation": "IEEE Transactions on Smart Grid, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18189971437978516064",
+            "cites_id": [
+                "18189971437978516064"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal operation scheduling of a PV-BESS-Electrolyzer system for hydrogen production and frequency regulation",
+                "pub_year": "2023",
+                "citation": "Applied Energy 344, 121243, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9062034349057228374",
+            "cites_id": [
+                "9062034349057228374"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Importance of hourly multi-bus unit commitment models in the context of high adoption of variable renewable energies: A Chilean example",
+                "pub_year": "2017",
+                "citation": "2017 IEEE PES Innovative Smart Grid Technologies Conference-Latin America \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13704733073902415916",
+            "cites_id": [
+                "13704733073902415916"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Netload Range Cost Curves for a Transmission-Aware Distribution System Planning under DER Growth Uncertainty",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.07428, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operation of Microgrids with Conventional and Virtual Energy Storage Systems",
+                "pub_year": "2022",
+                "citation": "University of Waterloo, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "iv7UCq0AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 1
+    }
+}

@@ -1,0 +1,832 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HiYZ-6MAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Mircea Petrache",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HiYZ-6MAAAAJ&citpid=2",
+    "affiliation": "PUC Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Deep Learning",
+        "Point Configurations",
+        "Calculus of Variations",
+        "Geometric Analysis",
+        "Mathematical Physics"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "homepage": "https://sites.google.com/site/mircpetrache/home",
+    "citedby": 419,
+    "citedby5y": 304,
+    "hindex": 14,
+    "hindex5y": 11,
+    "i10index": 15,
+    "i10index5y": 12,
+    "cites_per_year": {
+        "2012": 3,
+        "2013": 7,
+        "2014": 11,
+        "2015": 9,
+        "2016": 9,
+        "2017": 29,
+        "2018": 30,
+        "2019": 32,
+        "2020": 47,
+        "2021": 69,
+        "2022": 53,
+        "2023": 79,
+        "2024": 22
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GUHrffwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sylvia Serfaty",
+            "affiliation": "Courant Institute of Mathematical Sciences"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ll7X878AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Laurent B\u00e9termin",
+            "affiliation": "Universit\u00e9 Claude Bernard Lyon 1, Institut Camille Jordan"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ORarg8cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luca Martinazzi",
+            "affiliation": "Sapienza University of Rome"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ys7rX_4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuel V. Gnann",
+            "affiliation": "Assistant Professor, Delft University of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0MS9VTMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lorenzo Brasco",
+            "affiliation": "Universit\u00e0 degli Studi di Ferrara"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pta2DvMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Simona Rota Nodari",
+            "affiliation": "Universit\u00e9 C\u00f4te d'Azur"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CxjRYScAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Lucia De Luca",
+            "affiliation": "Ricercatore, Istituto per le Applicazioni del Calcolo, IAC-CNR"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BjkTNyYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "E. B. Saff",
+            "affiliation": "Professor of Mathematics, Vanderbilt University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JvTwH8oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Doug Hardin",
+            "affiliation": "Professor of Mathematics and Biomedical Informatics, Vanderbilt University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "EbyGwncAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Shubhendu Trivedi",
+            "affiliation": "Massachusetts Institute of Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zFJIDwoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jean Van Schaftingen",
+            "affiliation": "UCLouvain (Universit\u00e9 catholique de Louvain)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "CnGt5CEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexander Kozachinskiy",
+            "affiliation": "Postdoc, CENIA Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GciZaiYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodolfo Viera",
+            "affiliation": "Departamento de Matem\u00e1ticas, Universidad de La Serena"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "qXGXKRwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Valentino Delle Rose",
+            "affiliation": "Postdoc fellow, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Z1aTUGsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristobal Rojas",
+            "affiliation": "Instituto de Ingenier\u00eda Matem\u00e1tica y Computacional, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4OVgSYUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Giacomo Del Nin",
+            "affiliation": "Max Planck Institute, Leipzig"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9OH3PokAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pablo Barcel\u00f3",
+            "affiliation": "Institute for Mathematical and Computational Engineering, PUC Chile & IMFD Chile & CENIA Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Next order asymptotics and renormalized energy for Riesz interactions",
+                "pub_year": "2017",
+                "citation": "Journal of the Institute of Mathematics of Jussieu 16 (3), 501-569, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 92,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7508846644656286437",
+            "cites_id": [
+                "7508846644656286437"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crystallization for Coulomb and Riesz interactions as a consequence of the Cohn-Kumar conjecture",
+                "pub_year": "2020",
+                "citation": "Proceedings of the American Mathematical Society 148 (7), 3047-3057, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3639450987824234445",
+            "cites_id": [
+                "3639450987824234445"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dimension reduction techniques for the minimization of theta functions on lattices",
+                "pub_year": "2017",
+                "citation": "Journal of Mathematical Physics 58 (7), 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:qjMakFHDy7sC",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14708006387585276994",
+            "cites_id": [
+                "14708006387585276994"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equality of the jellium and uniform electron gas next-order asymptotic terms for Coulomb and Riesz potentials",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1707.07664, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15410085946572750099",
+            "cites_id": [
+                "15410085946572750099"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equidistribution of jellium energy for Coulomb and Riesz interactions",
+                "pub_year": "2018",
+                "citation": "Constructive Approximation 47, 163-210, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1145893965351971410",
+            "cites_id": [
+                "1145893965351971410"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal and non-optimal lattices for non-completely monotone interaction potentials",
+                "pub_year": "2019",
+                "citation": "Analysis and Mathematical Physics 9 (4), 2033-2073, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:5nxA0vEk-isC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4026039951311889823",
+            "cites_id": [
+                "4026039951311889823"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Navier-slip thin-film equation for 3D fluid films: existence and uniqueness",
+                "pub_year": "2018",
+                "citation": "Journal of Differential Equations 265 (11), 5832-5958, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:8k81kl-MbHgC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10246083729348486112,7178872610194625996",
+            "cites_id": [
+                "10246083729348486112",
+                "7178872610194625996"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Asymptotics and quantization for a mean-field equation of higher order",
+                "pub_year": "2010",
+                "citation": "Communications in Partial Differential Equations 35 (3), 443-464, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12301921317677648127",
+            "cites_id": [
+                "12301921317677648127"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Crystallization to the square lattice for a two-body potential",
+                "pub_year": "2021",
+                "citation": "Archive for Rational Mechanics and Analysis 240, 987-1053, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5463993092915541608",
+            "cites_id": [
+                "5463993092915541608"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Next-order asymptotic expansion for N-marginal optimal transport with Coulomb and Riesz costs",
+                "pub_year": "2019",
+                "citation": "Advances in Mathematics 344, 137-233, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:UebtZRa9Y70C",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7740082837236905042",
+            "cites_id": [
+                "7740082837236905042"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The resolution of the Yang\u2013Mills Plateau problem in super-critical dimensions",
+                "pub_year": "2017",
+                "citation": "Advances in Mathematics 316, 469-540, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5262101076012407703,885168683082142001",
+            "cites_id": [
+                "5262101076012407703",
+                "885168683082142001"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A continuous model of transportation revisited",
+                "pub_year": "2014",
+                "citation": "Journal of mathematical sciences 196, 119-137, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:BqipwSGYUEgC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4860541757873017456,10560726942766296606",
+            "cites_id": [
+                "4860541757873017456",
+                "10560726942766296606"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Global gauges and global extensions in optimal spaces",
+                "pub_year": "2015",
+                "citation": "Analysis & PDE 7 (8), 1851-1899, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=110728919823936536",
+            "cites_id": [
+                "110728919823936536"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak Closure of Singular Abelian L  p -Bundles in 3 Dimensions",
+                "pub_year": "2011",
+                "citation": "Geometric and Functional Analysis 21, 1419-1442, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9165157727183993819",
+            "cites_id": [
+                "9165157727183993819"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Controlled singular extension of critical trace Sobolev maps from spheres to compact manifolds",
+                "pub_year": "2017",
+                "citation": "International Mathematics Research Notices 2017 (12), 3647-3683, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:roLk4NBRz8UC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9261257063004125718",
+            "cites_id": [
+                "9261257063004125718"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Unconstrained polarization (Chebyshev) problems: basic properties and Riesz kernel asymptotics",
+                "pub_year": "2020",
+                "citation": "Potential Analysis, 1-44, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:3fE2CSJIrl8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7098733847043110882,7195445191444730899",
+            "cites_id": [
+                "7098733847043110882",
+                "7195445191444730899"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximation-generalization trade-offs under (approximate) group equivariance",
+                "pub_year": "2024",
+                "citation": "Advances in Neural Information Processing Systems 36, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:NMxIlDl6LWMC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9172169838583624516",
+            "cites_id": [
+                "9172169838583624516"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Notes on a slice distance for singular Lp-bundles",
+                "pub_year": "2014",
+                "citation": "Journal of Functional Analysis 267 (2), 405-427, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1656723192907111685",
+            "cites_id": [
+                "1656723192907111685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The space of weak connections in high dimensions",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1812.04432, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17534241102234693716",
+            "cites_id": [
+                "17534241102234693716"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An integrability result for Lp-vector fields in the plane",
+                "pub_year": "2013",
+                "citation": "Advances in Calculus of Variations 6 (3), 299-319, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14545323847573833754",
+            "cites_id": [
+                "14545323847573833754"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Interior partial regularity for minimal Lp-vectorfields with integer fluxes",
+                "pub_year": "2012",
+                "citation": "arXiv preprint arXiv:1204.0209, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2490710196996857393",
+            "cites_id": [
+                "2490710196996857393"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cyclically monotone non-optimal N-marginal transport plans and Smirnov-type decompositions for N-flows",
+                "pub_year": "2020",
+                "citation": "ESAIM: Control, Optimisation and Calculus of Variations 26, 120, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10892740489710176574",
+            "cites_id": [
+                "10892740489710176574"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Decorrelation as an avatar of convexity",
+                "pub_year": "2015",
+                "citation": "arXiv preprint arXiv:1507.00782, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3852126290333395958",
+            "cites_id": [
+                "3852126290333395958"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Weak bundle structures and a variational approach to Yang-Mills Lagrangians in supercritical dimensions",
+                "pub_year": "2013",
+                "citation": "ETH Zurich, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17112964912913691673",
+            "cites_id": [
+                "17112964912913691673"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Three iterations of (d\u2212 1)-WL test distinguish non isometric clouds of d-dimensional points",
+                "pub_year": "2024",
+                "citation": "Advances in Neural Information Processing Systems 36, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:J_g5lzvAfSwC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17195284987971553739,16703669751162514147",
+            "cites_id": [
+                "17195284987971553739",
+                "16703669751162514147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Continuum limits of discrete isoperimetric problems and Wulff shapes in lattices and quasicrystal tilings",
+                "pub_year": "2022",
+                "citation": "Calculus of Variations and Partial Differential Equations 61 (6), 226, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16153312752690761582",
+            "cites_id": [
+                "16153312752690761582"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Almost sure recovery in quasi-periodic structures",
+                "pub_year": "2023",
+                "citation": "Journal of Statistical Physics 190 (2), 39, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9295749232244880363",
+            "cites_id": [
+                "9295749232244880363"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Coefficient groups inducing nonbranched optimal transport",
+                "pub_year": "2018",
+                "citation": "Zeitschrift f\u00fcr Analysis und ihre Anwendungen 37 (4), 389-416, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:0EnyYjriUFMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14401406509146291561",
+            "cites_id": [
+                "14401406509146291561"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A singular radial connection over  minimizing the Yang-Mills energy",
+                "pub_year": "2015",
+                "citation": "Calculus of Variations and Partial Differential Equations 54, 631-642, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10048552441900933081",
+            "cites_id": [
+                "10048552441900933081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Matchings in metric spaces, the dual problem and calibrations modulo 2",
+                "pub_year": "2014",
+                "citation": "arXiv preprint arXiv:1410.0062, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:ufrVoPGSRksC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17169027983552938757",
+            "cites_id": [
+                "17169027983552938757"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Class of Topological Pseudodistances for Fast Comparison of Persistence Diagrams",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.14489, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:g5m5HwL7SMYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Position Paper: Generalized grammar rules and structure-based generalization beyond classical equivariance for lexical tasks and transduction",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2402.01629, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:M05iB0D1s5AC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Class of Topological Pseudodistances for Fast Comparison of Persistence Diagrams",
+                "pub_year": "2024",
+                "citation": "arXiv e-prints, arXiv: 2402.14489, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:pqnbT2bcN3wC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence and uniqueness of Monge minimizers for a Multi-marginal Optimal Transport problem with intermolecular interactions cost",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2401.07880, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:2P1L_qKh6hAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steady State Kinetics for Enzymes with Multiple Binding Sites Upstream of the Catalytic Site",
+                "pub_year": "2023",
+                "citation": "Symmetry 15 (12), 2176, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:35N4QoGY0k4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The search for the lost attractor",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2311.16306, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:70eg2SAEIzsC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Curvature-Dimension Tradeoff for Generalization in Hyperbolic Space",
+                "pub_year": "2023",
+                "citation": "NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:vV6vV6tmYwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal quantization with branched optimal transport distances",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2309.08677, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:lSLTfruPkqcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective recovery of Fourier spectra and spectral approximation by finite groups",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2308.07446, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sharp discrete isoperimetric inequalities in periodic graphs via discrete PDE and Semidiscrete Optimal Transport",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2012.11039, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Classification of uniformly distributed measures of dimension  in general codimension",
+                "pub_year": "2019",
+                "citation": "arXiv preprint arXiv:1905.09601, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Existence of solutions to a higher dimensional mean-field equation on manifolds",
+                "pub_year": "2010",
+                "citation": "arXiv preprint arXiv:1001.5231, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential Inclusions and the Euler Equation",
+                "pub_year": "2008",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "HiYZ-6MAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 7,
+        "not_available": 0
+    }
+}

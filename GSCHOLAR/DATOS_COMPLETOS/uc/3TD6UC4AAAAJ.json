@@ -1,0 +1,90 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3TD6UC4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "PABLO LAGOS",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3TD6UC4AAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Physiology",
+        "Autopagy",
+        "Primary Cilia"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 77,
+    "citedby5y": 77,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 3,
+    "cites_per_year": {
+        "2021": 9,
+        "2022": 35,
+        "2023": 17,
+        "2024": 15
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanobiology of autophagy: the unexplored side of cancer",
+                "pub_year": "2021",
+                "citation": "Frontiers in Oncology 11, 632956, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3TD6UC4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5502934599327864732",
+            "cites_id": [
+                "5502934599327864732"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Palmitic acid reduces the autophagic flux in hypothalamic neurons by impairing autophagosome-lysosome fusion and endolysosomal dynamics",
+                "pub_year": "2020",
+                "citation": "Molecular & cellular oncology 7 (5), 1789418, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3TD6UC4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14471952003161511170",
+            "cites_id": [
+                "14471952003161511170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Palmitic acid control of ciliogenesis modulates insulin signaling in hypothalamic neurons through an autophagy-dependent mechanism",
+                "pub_year": "2022",
+                "citation": "Cell Death & Disease 13 (7), 659, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "3TD6UC4AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7479920569579253399",
+            "cites_id": [
+                "7479920569579253399"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

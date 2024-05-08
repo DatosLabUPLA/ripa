@@ -1,0 +1,257 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ifyKmJIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "David Ortiz-Puerta",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ifyKmJIAAAAJ&citpid=2",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Medical imaging",
+        "Isogeometric Analysis",
+        "Biomedical Engineering"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "http://ingenieriabiologicaymedica.uc.cl/",
+    "citedby": 70,
+    "citedby5y": 51,
+    "hindex": 5,
+    "hindex5y": 4,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2016": 1,
+        "2017": 6,
+        "2018": 11,
+        "2019": 9,
+        "2020": 8,
+        "2021": 7,
+        "2022": 8,
+        "2023": 16,
+        "2024": 3
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pM_CCtEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel Sierra-Sosa",
+            "affiliation": "Department of Computer Science & Information Technology, Hood College"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4WgXIToAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bego\u00f1a Garc\u00eda-Zapirain Soto (ORCID:...",
+            "affiliation": "Universidad de Deusto"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Y0oKuCkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "O. Lucia Quintero M",
+            "affiliation": "Profesor Titular Universidad EAFIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NwCxlWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Daniel E. Hurtado",
+            "affiliation": "MIT, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "WwjMSIAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Manuela Bastidas Olivares",
+            "affiliation": "Hasselt University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Sh0RObkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos M. V\u00e9lez S.",
+            "affiliation": "School of Applied Sciences and Engineering, Universidad EAFIT, Medell\u00edn, Colombia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pressure ulcer image segmentation technique through synthetic frequencies generation and contrast variation using toroidal geometry",
+                "pub_year": "2017",
+                "citation": "Biomedical engineering online 16 (1), 1-19, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 29,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8520693416745189967",
+            "cites_id": [
+                "8520693416745189967"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efficient use of mobile devices for quantification of pressure injury images",
+                "pub_year": "2018",
+                "citation": "Technology and Health Care 26 (S1), 269-280, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4682843552093677725",
+            "cites_id": [
+                "4682843552093677725"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double fourier analysis for emotion identification in voiced speech",
+                "pub_year": "2016",
+                "citation": "Journal of Physics: Conference Series 705 (1), 012035, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1116903518449440320",
+            "cites_id": [
+                "1116903518449440320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A simple but efficient voice activity detection algorithm through Hilbert transform and dynamic threshold for speech pathologies",
+                "pub_year": "2016",
+                "citation": "JPhCS 705 (1), 012037, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11214802530304504912",
+            "cites_id": [
+                "11214802530304504912"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Snakes Isogeometric Analysis (SIGA): Towards accurate and flexible geometrical models of the respiratory airways",
+                "pub_year": "2022",
+                "citation": "Computer Methods in Applied Mechanics and Engineering 394, 114841, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8931002923274920427",
+            "cites_id": [
+                "8931002923274920427"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mechanics-informed snakes isogeometric analysis (MISIGA): an image-based method for the estimation of local deformation and strain in blood vessels",
+                "pub_year": "2022",
+                "citation": "Engineering with Computers 38 (5), 4043-4060, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964788053633373284",
+            "cites_id": [
+                "17964788053633373284"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una aproximaci\u00f3n al modelado matem\u00e1tico y simulaci\u00f3n de un MAV tipo ala voladora",
+                "pub_year": "2012",
+                "citation": "Universidad EAFIT, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17811255777319605260",
+            "cites_id": [
+                "17811255777319605260"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of Biocompatible Digital Light Processing Resins for Additive Manufacturing Using Visible Light-Induced RAFT Polymerization",
+                "pub_year": "2024",
+                "citation": "Polymers 16 (4), 472, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphometric analysis of airways in pre-COPD and mild COPD lungs using continuous surface representations of the bronchial lumen",
+                "pub_year": "2023",
+                "citation": "Frontiers in Bioengineering and Biotechnology 11, 1271760, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Morphological Analysis of Pressure Injury Images",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Symposium on Signal Processing and Information \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Una aproximaci\u00f3n al filtrado adaptativo para la cancelaci\u00f3n de ruidos en se\u00f1ales de voz monof\u00f3nicas",
+                "pub_year": "2014",
+                "citation": "Universidad EAFIT, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "ifyKmJIAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 0
+    }
+}
