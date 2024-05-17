@@ -94,3 +94,4 @@ for blob in blobs:
         print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
     except Exception as e:
         print(f'Error al cargar el archivo {gcs_uri}: {e}')
+    break  # Solo cargar un archivo para probar el código
