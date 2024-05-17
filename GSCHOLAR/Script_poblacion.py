@@ -15,9 +15,6 @@ dataset_id = 'universidad'
 table_id = 'academicos'
 bucket_name = 'scholarly_data'
 
-# Ruta de la carpeta que contiene las subcarpetas con los archivos JSON
-base_folder_path = 'DATOS_COMPLETOS'
-
 # Define la referencia a la tabla
 table_ref = bigquery_client.dataset(dataset_id).table(table_id)
 
@@ -80,18 +77,56 @@ job_config = bigquery.LoadJobConfig(
 bucket = storage_client.bucket(bucket_name)
 blobs = bucket.list_blobs()
 
-# Cargar archivos desde GCS a BigQuery
-for blob in blobs:
-    gcs_uri = f'gs://{bucket_name}/{blob.name}'
-    
+def is_valid_json(json_text):
     try:
-        load_job = bigquery_client.load_table_from_uri(
-            gcs_uri,
-            table_ref,
-            job_config=job_config
-        )
-        load_job.result()  # Espera a que el job de carga se complete
-        print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
-    except Exception as e:
-        print(f'Error al cargar el archivo {gcs_uri}: {e}')
+        json.loads(json_text)
+        return True
+    except json.JSONDecodeError as e:
+        print(f'Error al validar JSON: {e}')
+        return False
+
+def transform_to_ndjson(json_text):
+    try:
+        data = json.loads(json_text)
+        if isinstance(data, list):
+            # Si el JSON es una lista, conviértelo a NDJSON
+            ndjson = '\n'.join(json.dumps(record) for record in data)
+        else:
+            # Si el JSON es un solo objeto, no es necesario transformar
+            ndjson = json.dumps(data)
+        return ndjson
+    except json.JSONDecodeError as e:
+        print(f'Error al transformar JSON: {e}')
+        return None
+
+# Descargar, validar y cargar archivos desde GCS a BigQuery
+for blob in blobs:
+    json_text = blob.download_as_text()
+    if is_valid_json(json_text):
+        ndjson_text = transform_to_ndjson(json_text)
+        if ndjson_text:
+            temp_file_path = '/tmp/temp_ndjson.json'
+            with open(temp_file_path, 'w') as temp_file:
+                temp_file.write(ndjson_text)
+            
+            # Subir el archivo transformado a un nuevo blob en GCS
+            transformed_blob_name = f'transformed/{blob.name}'
+            transformed_blob = bucket.blob(transformed_blob_name)
+            transformed_blob.upload_from_filename(temp_file_path)
+
+            gcs_uri = f'gs://{bucket_name}/{transformed_blob_name}'
+            try:
+                load_job = bigquery_client.load_table_from_uri(
+                    gcs_uri,
+                    table_ref,
+                    job_config=job_config
+                )
+                load_job.result()  # Espera a que el job de carga se complete
+                print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
+            except Exception as e:
+                print(f'Error al cargar el archivo {gcs_uri}: {e}')
+        else:
+            print(f'Error al transformar el archivo: gs://{bucket_name}/{blob.name}')
+    else:
+        print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
     break  # Solo cargar un archivo para probar el código
