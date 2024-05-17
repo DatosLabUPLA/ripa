@@ -15,63 +15,40 @@ dataset_id = 'universidad'
 table_id = 'academicos'
 bucket_name = 'scholarly_data'
 
-# Define la referencia a la tabla
-table_ref = bigquery_client.dataset(dataset_id).table(table_id)
-
-# Configura el job de carga
-job_config = bigquery.LoadJobConfig(
-    source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON,
-    schema=[
-        bigquery.SchemaField("container_type", "STRING"),
-        bigquery.SchemaField("filled", "STRING", mode="REPEATED"),
+# Definición de las tablas y sus esquemas
+tables_schemas = {
+    'Info_Autores': [
         bigquery.SchemaField("scholar_id", "STRING"),
-        bigquery.SchemaField("source", "STRING"),
         bigquery.SchemaField("name", "STRING"),
-        bigquery.SchemaField("url_picture", "STRING"),
         bigquery.SchemaField("affiliation", "STRING"),
-        bigquery.SchemaField("organization", "INTEGER"),
-        bigquery.SchemaField("interests", "STRING", mode="REPEATED"),
-        bigquery.SchemaField("email_domain", "STRING"),
-        bigquery.SchemaField("citedby", "INTEGER"),
-        bigquery.SchemaField("citedby5y", "INTEGER"),
         bigquery.SchemaField("hindex", "INTEGER"),
-        bigquery.SchemaField("hindex5y", "INTEGER"),
-        bigquery.SchemaField("i10index", "INTEGER"),
-        bigquery.SchemaField("i10index5y", "INTEGER"),
-        bigquery.SchemaField("cites_per_year", "RECORD", mode="REPEATED", fields=[
-            bigquery.SchemaField("year", "INTEGER"),
-            bigquery.SchemaField("citations", "INTEGER"),
-        ]),
-        bigquery.SchemaField("coauthors", "RECORD", mode="REPEATED", fields=[
-            bigquery.SchemaField("container_type", "STRING"),
-            bigquery.SchemaField("filled", "STRING", mode="REPEATED"),
-            bigquery.SchemaField("scholar_id", "STRING"),
-            bigquery.SchemaField("source", "STRING"),
-            bigquery.SchemaField("name", "STRING"),
-            bigquery.SchemaField("affiliation", "STRING"),
-        ]),
-        bigquery.SchemaField("publications", "RECORD", mode="REPEATED", fields=[
-            bigquery.SchemaField("container_type", "STRING"),
-            bigquery.SchemaField("source", "STRING"),
-            bigquery.SchemaField("bib", "RECORD", fields=[
-                bigquery.SchemaField("title", "STRING"),
-                bigquery.SchemaField("pub_year", "STRING"),
-                bigquery.SchemaField("citation", "STRING"),
-            ]),
-            bigquery.SchemaField("filled", "BOOLEAN"),
-            bigquery.SchemaField("author_pub_id", "STRING"),
-            bigquery.SchemaField("num_citations", "INTEGER"),
-            bigquery.SchemaField("citedby_url", "STRING"),
-            bigquery.SchemaField("cites_id", "STRING", mode="REPEATED"),
-        ]),
-        bigquery.SchemaField("public_access", "RECORD", fields=[
-            bigquery.SchemaField("available", "INTEGER"),
-            bigquery.SchemaField("not_available", "INTEGER"),
-        ]),
+        bigquery.SchemaField("interests", "STRING", mode="REPEATED"),
     ],
-    max_bad_records=10,  # Permitir hasta 10 errores
-    ignore_unknown_values=True  # Ignorar valores desconocidos
-)
+    'Info_Publicaciones': [
+        bigquery.SchemaField("scholar_id", "STRING"),
+        bigquery.SchemaField("title", "STRING"),
+        bigquery.SchemaField("pub_year", "STRING"),
+        bigquery.SchemaField("citation", "STRING"),
+        bigquery.SchemaField("num_citations", "INTEGER"),
+    ],
+    'Info_Coautores': [
+        bigquery.SchemaField("scholar_id", "STRING"),
+        bigquery.SchemaField("coauthor_id", "STRING"),
+        bigquery.SchemaField("name", "STRING"),
+        bigquery.SchemaField("affiliation", "STRING"),
+    ],
+}
+
+# Crear tablas en BigQuery si no existen
+for table_name, schema in tables_schemas.items():
+    table_ref = bigquery_client.dataset(dataset_id).table(table_name)
+    try:
+        bigquery_client.get_table(table_ref)
+        print(f"Tabla {table_name} ya existe.")
+    except:
+        table = bigquery.Table(table_ref, schema=schema)
+        bigquery_client.create_table(table)
+        print(f"Tabla {table_name} creada.")
 
 # Obtener todos los blobs (archivos) del bucket
 bucket = storage_client.bucket(bucket_name)
@@ -85,48 +62,65 @@ def is_valid_json(json_text):
         print(f'Error al validar JSON: {e}')
         return False
 
-def transform_to_ndjson(json_text):
-    try:
-        data = json.loads(json_text)
-        if isinstance(data, list):
-            # Si el JSON es una lista, conviértelo a NDJSON
-            ndjson = '\n'.join(json.dumps(record) for record in data)
-        else:
-            # Si el JSON es un solo objeto, no es necesario transformar
-            ndjson = json.dumps(data)
-        return ndjson
-    except json.JSONDecodeError as e:
-        print(f'Error al transformar JSON: {e}')
-        return None
+def transform_and_accumulate(json_text, authors, publications, coauthors):
+    data = json.loads(json_text)
+    
+    # Agregar información del autor
+    author_info = {
+        "scholar_id": data["scholar_id"],
+        "name": data["name"],
+        "affiliation": data["affiliation"],
+        "hindex": data["hindex"],
+        "interests": data["interests"]
+    }
+    authors.append(author_info)
+    
+    # Agregar información de las publicaciones
+    for pub in data.get("publications", []):
+        publication_info = {
+            "scholar_id": data["scholar_id"],
+            "title": pub["bib"]["title"],
+            "pub_year": pub["bib"].get("pub_year", None),
+            "citation": pub["bib"].get("citation", None),
+            "num_citations": pub.get("num_citations", None)
+        }
+        publications.append(publication_info)
+    
+    # Agregar información de los coautores
+    for coauthor in data.get("coauthors", []):
+        coauthor_info = {
+            "scholar_id": data["scholar_id"],
+            "coauthor_id": coauthor["scholar_id"],
+            "name": coauthor["name"],
+            "affiliation": coauthor["affiliation"]
+        }
+        coauthors.append(coauthor_info)
 
-# Descargar, validar y cargar archivos desde GCS a BigQuery
+def load_data_to_bigquery(table_name, rows):
+    table_ref = bigquery_client.dataset(dataset_id).table(table_name)
+    errors = bigquery_client.insert_rows_json(table_ref, rows)
+    if errors:
+        print(f'Error al insertar en {table_name}: {errors}')
+    else:
+        print(f'{len(rows)} registros insertados en {table_name}')
+
+# Acumular datos antes de cargar
+authors = []
+publications = []
+coauthors = []
+
+# Descargar, validar y acumular datos desde GCS
 for blob in blobs:
     json_text = blob.download_as_text()
     if is_valid_json(json_text):
-        ndjson_text = transform_to_ndjson(json_text)
-        if ndjson_text:
-            temp_file_path = '/tmp/temp_ndjson.json'
-            with open(temp_file_path, 'w') as temp_file:
-                temp_file.write(ndjson_text)
-            
-            # Subir el archivo transformado a un nuevo blob en GCS
-            transformed_blob_name = f'transformed/{blob.name}'
-            transformed_blob = bucket.blob(transformed_blob_name)
-            transformed_blob.upload_from_filename(temp_file_path)
-
-            gcs_uri = f'gs://{bucket_name}/{transformed_blob_name}'
-            try:
-                load_job = bigquery_client.load_table_from_uri(
-                    gcs_uri,
-                    table_ref,
-                    job_config=job_config
-                )
-                load_job.result()  # Espera a que el job de carga se complete
-                print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
-            except Exception as e:
-                print(f'Error al cargar el archivo {gcs_uri}: {e}')
-        else:
-            print(f'Error al transformar el archivo: gs://{bucket_name}/{blob.name}')
+        transform_and_accumulate(json_text, authors, publications, coauthors)
     else:
         print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
-    break  # Solo cargar un archivo para probar el código
+
+# Cargar datos acumulados en BigQuery
+if authors:
+    load_data_to_bigquery('Info_Autores', authors)
+if publications:
+    load_data_to_bigquery('Info_Publicaciones', publications)
+if coauthors:
+    load_data_to_bigquery('Info_Coautores', coauthors)
