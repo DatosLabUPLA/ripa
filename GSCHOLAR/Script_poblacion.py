@@ -18,41 +18,6 @@ bucket_name = 'scholarly_data'
 # Ruta de la carpeta que contiene las subcarpetas con los archivos JSON
 base_folder_path = 'DATOS_COMPLETOS'
 
-# Crear el bucket en GCS si no existe
-bucket = storage_client.bucket(bucket_name)
-if not bucket.exists():
-    bucket = storage_client.create_bucket(bucket_name)
-    print(f'Bucket {bucket_name} creado.')
-else:
-    print(f'Bucket {bucket_name} ya existe.')
-
-def is_valid_json(json_file_path):
-    try:
-        with open(json_file_path, 'r', encoding='utf-8') as file:
-            json.load(file)
-        return True
-    except ValueError as e:
-        print(f'Archivo JSON inválido: {json_file_path}, error: {e}')
-        return False
-
-# Subir archivos JSON a GCS
-for subfolder in os.listdir(base_folder_path):
-    subfolder_path = os.path.join(base_folder_path, subfolder)
-    
-    if os.path.isdir(subfolder_path):
-        for json_file in os.listdir(subfolder_path):
-            json_file_path = os.path.join(subfolder_path, json_file)
-            
-            if is_valid_json(json_file_path):
-                blob_name = f'{subfolder}/{json_file}'
-
-                # Subir archivo a GCS
-                blob = bucket.blob(blob_name)
-                blob.upload_from_filename(json_file_path)
-                print(f'Archivo {json_file_path} subido a gs://{bucket_name}/{blob_name}')
-            else:
-                print(f'Archivo {json_file_path} omitido debido a un formato JSON inválido.')
-
 # Define la referencia a la tabla
 table_ref = bigquery_client.dataset(dataset_id).table(table_id)
 
@@ -111,19 +76,21 @@ job_config = bigquery.LoadJobConfig(
     ignore_unknown_values=True  # Ignorar valores desconocidos
 )
 
+# Obtener todos los blobs (archivos) del bucket
+bucket = storage_client.bucket(bucket_name)
+blobs = bucket.list_blobs()
+
 # Cargar archivos desde GCS a BigQuery
-for subfolder in os.listdir(base_folder_path):
-    subfolder_path = os.path.join(base_folder_path, subfolder)
+for blob in blobs:
+    gcs_uri = f'gs://{bucket_name}/{blob.name}'
     
-    if os.path.isdir(subfolder_path):
-        for json_file in os.listdir(subfolder_path):
-            blob_name = f'{subfolder}/{json_file}'
-            gcs_uri = f'gs://{bucket_name}/{blob_name}'
-            
-            load_job = bigquery_client.load_table_from_uri(
-                gcs_uri,
-                table_ref,
-                job_config=job_config
-            )
-            load_job.result()  # Espera a que el job de carga se complete
-            print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
+    try:
+        load_job = bigquery_client.load_table_from_uri(
+            gcs_uri,
+            table_ref,
+            job_config=job_config
+        )
+        load_job.result()  # Espera a que el job de carga se complete
+        print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
+    except Exception as e:
+        print(f'Error al cargar el archivo {gcs_uri}: {e}')
