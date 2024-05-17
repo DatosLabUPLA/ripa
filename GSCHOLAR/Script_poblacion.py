@@ -26,6 +26,15 @@ if not bucket.exists():
 else:
     print(f'Bucket {bucket_name} ya existe.')
 
+def is_valid_json(json_file_path):
+    try:
+        with open(json_file_path, 'r', encoding='utf-8') as file:
+            json.load(file)
+        return True
+    except ValueError as e:
+        print(f'Archivo JSON inválido: {json_file_path}, error: {e}')
+        return False
+
 # Subir archivos JSON a GCS
 for subfolder in os.listdir(base_folder_path):
     subfolder_path = os.path.join(base_folder_path, subfolder)
@@ -33,12 +42,16 @@ for subfolder in os.listdir(base_folder_path):
     if os.path.isdir(subfolder_path):
         for json_file in os.listdir(subfolder_path):
             json_file_path = os.path.join(subfolder_path, json_file)
-            blob_name = f'{subfolder}/{json_file}'
+            
+            if is_valid_json(json_file_path):
+                blob_name = f'{subfolder}/{json_file}'
 
-            # Subir archivo a GCS
-            blob = bucket.blob(blob_name)
-            blob.upload_from_filename(json_file_path)
-            print(f'Archivo {json_file_path} subido a gs://{bucket_name}/{blob_name}')
+                # Subir archivo a GCS
+                blob = bucket.blob(blob_name)
+                blob.upload_from_filename(json_file_path)
+                print(f'Archivo {json_file_path} subido a gs://{bucket_name}/{blob_name}')
+            else:
+                print(f'Archivo {json_file_path} omitido debido a un formato JSON inválido.')
 
 # Define la referencia a la tabla
 table_ref = bigquery_client.dataset(dataset_id).table(table_id)
@@ -94,6 +107,8 @@ job_config = bigquery.LoadJobConfig(
             bigquery.SchemaField("not_available", "INTEGER"),
         ]),
     ],
+    max_bad_records=10,  # Permitir hasta 10 errores
+    ignore_unknown_values=True  # Ignorar valores desconocidos
 )
 
 # Cargar archivos desde GCS a BigQuery
