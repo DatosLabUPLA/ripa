@@ -11,9 +11,9 @@ bigquery_client = bigquery.Client()
 storage_client = storage.Client()
 
 # Define el ID del proyecto, el dataset y el nombre del bucket
-project_id = 'your-project-id'
-dataset_id = 'your-dataset-id'
-bucket_name = 'your-bucket-name'
+project_id = 'ripa-1022'
+dataset_id = 'universidad'
+bucket_name = 'scholarly_data'
 
 # Definición de las tablas y sus esquemas
 tables_schemas = {
