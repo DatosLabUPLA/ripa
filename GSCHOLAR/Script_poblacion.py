@@ -1,5 +1,6 @@
 import os
 import json
+import concurrent.futures
 from google.cloud import bigquery, storage
 
 # Configura la ruta a las credenciales de Google Cloud (solo si no estás usando Cloud Shell)
@@ -9,11 +10,10 @@ from google.cloud import bigquery, storage
 bigquery_client = bigquery.Client()
 storage_client = storage.Client()
 
-# Define el ID del proyecto, el dataset, la tabla y el nombre del bucket
-project_id = 'ripa-1022'
-dataset_id = 'universidad'
-table_id = 'academicos'
-bucket_name = 'scholarly_data'
+# Define el ID del proyecto, el dataset y el nombre del bucket
+project_id = 'your-project-id'
+dataset_id = 'your-dataset-id'
+bucket_name = 'your-bucket-name'
 
 # Definición de las tablas y sus esquemas
 tables_schemas = {
@@ -52,7 +52,7 @@ for table_name, schema in tables_schemas.items():
 
 # Obtener todos los blobs (archivos) del bucket
 bucket = storage_client.bucket(bucket_name)
-blobs = bucket.list_blobs()
+blobs = list(bucket.list_blobs())
 
 def is_valid_json(json_text):
     try:
@@ -62,7 +62,12 @@ def is_valid_json(json_text):
         print(f'Error al validar JSON: {e}')
         return False
 
-def transform_and_accumulate(json_text, authors, publications, coauthors):
+def transform_and_accumulate(blob, authors, publications, coauthors):
+    json_text = blob.download_as_text()
+    if not is_valid_json(json_text):
+        print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
+        return
+
     data = json.loads(json_text)
     
     # Agregar información del autor
@@ -104,20 +109,31 @@ def load_data_to_bigquery(table_name, rows):
     else:
         print(f'{len(rows)} registros insertados en {table_name}')
 
-# Acumular datos antes de cargar
+# Procesar y cargar datos en lotes
+batch_size = 100
 authors = []
 publications = []
 coauthors = []
 
-# Descargar, validar y acumular datos desde GCS
-for blob in blobs:
-    json_text = blob.download_as_text()
-    if is_valid_json(json_text):
-        transform_and_accumulate(json_text, authors, publications, coauthors)
-    else:
-        print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
+def process_blob(blob):
+    global authors, publications, coauthors
+    transform_and_accumulate(blob, authors, publications, coauthors)
+    
+    if len(authors) >= batch_size:
+        load_data_to_bigquery('Info_Autores', authors)
+        authors = []
+    if len(publications) >= batch_size:
+        load_data_to_bigquery('Info_Publicaciones', publications)
+        publications = []
+    if len(coauthors) >= batch_size:
+        load_data_to_bigquery('Info_Coautores', coauthors)
+        coauthors = []
 
-# Cargar datos acumulados en BigQuery
+# Usar procesamiento concurrente para manejar múltiples archivos simultáneamente
+with concurrent.futures.ThreadPoolExecutor() as executor:
+    executor.map(process_blob, blobs)
+
+# Cargar cualquier dato restante
 if authors:
     load_data_to_bigquery('Info_Autores', authors)
 if publications:
