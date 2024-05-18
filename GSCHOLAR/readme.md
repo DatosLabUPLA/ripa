@@ -1,28 +1,121 @@
-(TITULO)Sistema de extraccion de datos
-Modulo de extraccion de datos para modelo ETL utilizando la libreria scholarly. 
 
-Dicha libreria extrae los datos desde google scholar con  funciones predefinidas para la facilitar su uso.
+# Proyecto de Scraping y Análisis de Datos Académicos
 
-Dentro de este proyecto se utilizan las siguientes funciones de scholarly:
+Este proyecto contiene dos scripts en Python para realizar scraping de datos académicos y procesar información poblacional. A continuación se explica el funcionamiento de cada uno de estos scripts.
 
-1.-search_author_by_organization(id_universidad): dicha funcion en base el id de una univeridad entrega una lista de objetos del tipo autor. Esta funcion se utiliza para realizar una extraccion de todos los autores de cada universidad, sin embargo solo traen la informacion especifica de cada uno
+## Scraper_Organiza.py
 
-2.- fill(author:Author object): funcion que rellena un objeto del tipo Author para que contenga completa cantidad de su informacion
+Este script extrae y procesa información sobre instituciones académicas y autores asociados utilizando la biblioteca scholarly para interactuar con Google Scholar.
 
-Dentro del codigo principal se encuentran las siguientes funciones principales
+### Dependencias
 
-1.-get_instituciones(): Esta funcion obtiene las ID de instituciones del archivo semilla en formato csv (vease 'organizaciones.csv') donde se obtienen todas las instituciones para analizar
+- `csv`
+- `json`
+- `os`
+- `time`
+- `datetime`
+- `scholarly`
+- `ProxyGenerator`
 
-2.- get_instituciones_completas(): Esta funcion obtiene las ID de las universidades ya completadas en el archivo, donde retorna un conjunto con las instituciones completas. De manera que se resta con el conjunto retornado en get_instituciones, y asi analizar las intituciones que faltan analizar
+### Funcionalidades Principales
 
-3.- get_autores_completados(dominio):Obtiene todos los ID de autores guardados de una institucion que devuelve un arreglo con esas ID's
+#### Extracción de Instituciones
 
-4.- get_autores(org_number): obtiene todos los ID's de autores de una institucion, lo que devuelve es un conjunto con los id's de autores
+- `get_instituciones()`: Lee un archivo CSV para obtener una lista de instituciones a extraer.
+- `get_instituciones_completas()`: Lee un archivo CSV para obtener una lista de instituciones ya procesadas.
 
-5.- add_inst_completas(org_number): Funcion que agrega en un archivo CSV las instituciones que ya se encuentran con todos sus autores extraidos.
+#### Manejo de Autores
 
-6.- get_dominio(org_number):
+- `get_autores_completados(dominio)`: Obtiene una lista de autores ya procesados para una institución específica.
+- `get_autores(org_number)`: Busca autores en Google Scholar asociados a una organización específica.
 
-7.- save_authors(authors, institution_name,dominio): funcion que guarda la informacion completa de los autores para luego dicha informacion guardarla en un archivo de tipo json en especifico por cada autor
+#### Procesamiento de Datos
 
-8.- main(): funcion principal que compara las universidades terminadas con las que estan por terminar y en base a las universidades restantes se corre el codigo para guardar informacion faltante
+- `add_inst_completas(org_number)`: Agrega una institución al archivo de instituciones completadas.
+- `agregar_datos_autor(autor)`: Agrega información detallada sobre un autor a los datos procesados.
+- `guardar_datos(autor, datos)`: Guarda los datos de un autor en un archivo JSON.
+- `guardar_publicaciones(publicaciones, autor)`: Guarda las publicaciones de un autor en un archivo JSON.
+
+#### Integración con Google Cloud Storage y BigQuery
+
+- `transform_and_accumulate(data, authors, publications, coauthors)`: Transforma y acumula datos de autores, publicaciones y coautores.
+- `load_data_to_bigquery(table_name, rows)`: Carga datos en BigQuery en lotes.
+
+#### Procesamiento Concurrente
+
+- Uso de `concurrent.futures.ThreadPoolExecutor` para procesar múltiples archivos simultáneamente.
+
+### Ejecución
+
+Para ejecutar el script, asegúrate de tener configuradas las credenciales necesarias para acceder a Google Cloud y tener los archivos CSV requeridos en la misma carpeta que el script.
+
+```sh
+python Scraper_Organiza.py
+```
+
+## Script_poblacion.py
+
+Este repositorio contiene un script en Python diseñado para automatizar el proceso de carga de datos de Google Scholar en BigQuery. El script recupera datos desde Google Cloud Storage, los procesa y los carga en tablas predefinidas en BigQuery.
+
+### Características
+
+- **Integración con BigQuery**: Crea automáticamente tablas en BigQuery si no existen.
+- **Integración con Google Cloud Storage**: Recupera archivos JSON que contienen datos de Google Scholar desde un bucket especificado de Google Cloud Storage.
+- **Transformación de Datos**: Transforma y agrega datos para autores, publicaciones y coautores.
+- **Procesamiento Concurrente**: Utiliza multithreading para procesar múltiples archivos simultáneamente y cargar datos de manera eficiente.
+- **Procesamiento por Lotes**: Inserta datos en BigQuery en lotes para un rendimiento optimizado.
+
+### Configuración
+
+#### Prerrequisitos
+
+- **Google Cloud SDK**: Asegúrate de tener instalado y configurado Google Cloud SDK.
+- **Cuenta de Servicio**: Crea una cuenta de servicio con permisos para acceder a BigQuery y Cloud Storage. Descarga el archivo de clave JSON.
+- **Paquetes de Python**: Instala los paquetes de Python requeridos usando el siguiente comando:
+
+```sh
+pip install google-cloud-bigquery google-cloud-storage
+```
+
+#### Configuración
+
+Establece la ruta a tu archivo de credenciales de Google Cloud descomentando y actualizando la siguiente línea en el script:
+
+```python
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "ruta/a/tu/archivo-de-cuenta-de-servicio.json"
+```
+
+Actualiza las variables `project_id`, `dataset_id` y `bucket_name` en el script para que coincidan con tu proyecto y recursos de Google Cloud:
+
+```python
+project_id = 'tu-id-de-proyecto'
+dataset_id = 'tu-id-de-dataset'
+bucket_name = 'tu-nombre-de-bucket'
+```
+
+### Uso
+
+1. Asegúrate de que tus credenciales de Google Cloud estén configuradas correctamente.
+2. Ejecuta el script:
+
+```sh
+python Script_poblacion.py
+```
+
+### Descripción del Script
+
+El script realiza las siguientes funciones principales:
+
+- **Creación de Tablas**: Define esquemas para las tablas `Info_Autores`, `Info_Publicaciones` e `Info_Coautores` y las crea en BigQuery si no existen.
+- **Recuperación de Datos**: Lista y lee archivos JSON del bucket especificado de Cloud Storage.
+- **Transformación de Datos**: Extrae la información relevante de cada archivo JSON y la prepara para su carga en BigQuery.
+- **Carga por Lotes**: Inserta datos en las tablas de BigQuery en lotes de 100 registros utilizando el método `insert_rows_json`.
+- **Procesamiento Concurrente**: Utiliza `ThreadPoolExecutor` para procesar múltiples archivos JSON concurrentemente.
+
+### Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+```sh
+python Script_poblacion.py
+```
