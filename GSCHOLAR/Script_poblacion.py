@@ -1,7 +1,7 @@
 import os
 import json
-import concurrent.futures
 from google.cloud import bigquery, storage
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Configura la ruta a las credenciales de Google Cloud (solo si no estás usando Cloud Shell)
 # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/service-account-file.json"
@@ -10,7 +10,7 @@ from google.cloud import bigquery, storage
 bigquery_client = bigquery.Client()
 storage_client = storage.Client()
 
-# Define el ID del proyecto, el dataset y el nombre del bucket
+# Define el ID del proyecto y los datasets de BigQuery
 project_id = 'ripa-1022'
 dataset_id = 'universidad'
 bucket_name = 'scholarly_data'
