@@ -129,62 +129,68 @@ def extract_info(data):
     
     return info_autores, info_publicaciones, info_coautores
 
+def process_blob(blob):
+    try:
+        json_text = blob.download_as_text()
+        if is_valid_json(json_text):
+            data = json.loads(json_text)
+            return extract_info(data)
+        else:
+            print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
+            return [], [], []
+    except Exception as e:
+        print(f'Error al procesar el archivo gs://{bucket_name}/{blob.name}: {e}')
+        return [], [], []
+
+def load_data_to_bigquery(data, table_ref, job_config):
+    if data:
+        json_data = '\n'.join(json.dumps(record) for record in data)
+        temp_file_path = f'/tmp/{table_ref.table_id}.json'
+        with open(temp_file_path, 'w') as temp_file:
+            temp_file.write(json_data)
+
+        transformed_blob_name = f'transformed/{table_ref.table_id}.json'
+        transformed_blob = bucket.blob(transformed_blob_name)
+        transformed_blob.upload_from_filename(temp_file_path)
+
+        gcs_uri = f'gs://{bucket_name}/{transformed_blob_name}'
+        try:
+            load_job = bigquery_client.load_table_from_uri(
+                gcs_uri,
+                table_ref,
+                job_config=job_config
+            )
+            load_job.result()  # Espera a que el job de carga se complete
+            print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
+        except Exception as e:
+            print(f'Error al cargar el archivo {gcs_uri}: {e}')
+
 # Descargar, validar y extraer información de los archivos JSON
 all_info_autores = []
 all_info_publicaciones = []
 all_info_coautores = []
 
-batch_size = 1000  # Tamaño del lote para cargar los datos
+with ThreadPoolExecutor(max_workers=10) as executor:
+    futures = [executor.submit(process_blob, blob) for blob in blobs]
+    for future in as_completed(futures):
+        info_autores, info_publicaciones, info_coautores = future.result()
+        all_info_autores.extend(info_autores)
+        all_info_publicaciones.extend(info_publicaciones)
+        all_info_coautores.extend(info_coautores)
 
-for blob in blobs:
-    json_text = blob.download_as_text()
-    if is_valid_json(json_text):
-        try:
-            data = json.loads(json_text)
-            info_autores, info_publicaciones, info_coautores = extract_info(data)
-            all_info_autores.extend(info_autores)
-            all_info_publicaciones.extend(info_publicaciones)
-            all_info_coautores.extend(info_coautores)
-        except Exception as e:
-            print(f'Error al procesar el archivo gs://{bucket_name}/{blob.name}: {e}')
-    else:
-        print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
-
-def load_data_to_bigquery(data, table_ref, job_config):
-    if data:
-        batches = [data[i:i + batch_size] for i in range(0, len(data), batch_size)]
-        for batch in batches:
-            json_data = '\n'.join(json.dumps(record) for record in batch)
-            temp_file_path = f'/tmp/{table_ref.table_id}.json'
-            with open(temp_file_path, 'w') as temp_file:
-                temp_file.write(json_data)
-            
-            transformed_blob_name = f'transformed/{table_ref.table_id}.json'
-            transformed_blob = bucket.blob(transformed_blob_name)
-            transformed_blob.upload_from_filename(temp_file_path)
-            
-            gcs_uri = f'gs://{bucket_name}/{transformed_blob_name}'
-            try:
-                load_job = bigquery_client.load_table_from_uri(
-                    gcs_uri,
-                    table_ref,
-                    job_config=job_config
-                )
-                load_job.result()  # Espera a que el job de carga se complete
-                print(f'Archivo {gcs_uri} cargado correctamente en BigQuery')
-            except Exception as e:
-                print(f'Error al cargar el archivo {gcs_uri}: {e}')
-
-# Función para paralelizar la carga de datos
-def parallel_load_data(table_name, data):
-    load_data_to_bigquery(data, table_refs[table_name], load_job_configs[table_name])
+# Agrupar datos en lotes y cargar en BigQuery
+def batch_and_load_data(data, table_ref, job_config):
+    batch_size = 1000
+    batches = [data[i:i + batch_size] for i in range(0, len(data), batch_size)]
+    for batch in batches:
+        load_data_to_bigquery(batch, table_ref, job_config)
 
 # Cargar datos en las tablas de BigQuery en paralelo
 with ThreadPoolExecutor(max_workers=3) as executor:
     future_to_table = {
-        executor.submit(parallel_load_data, "Info_Autores", all_info_autores): "Info_Autores",
-        executor.submit(parallel_load_data, "Info_Publicaciones", all_info_publicaciones): "Info_Publicaciones",
-        executor.submit(parallel_load_data, "Info_Coautores", all_info_coautores): "Info_Coautores"
+        executor.submit(batch_and_load_data, all_info_autores, table_refs["Info_Autores"], load_job_configs["Info_Autores"]): "Info_Autores",
+        executor.submit(batch_and_load_data, all_info_publicaciones, table_refs["Info_Publicaciones"], load_job_configs["Info_Publicaciones"]): "Info_Publicaciones",
+        executor.submit(batch_and_load_data, all_info_coautores, table_refs["Info_Coautores"], load_job_configs["Info_Coautores"]): "Info_Coautores"
     }
     for future in as_completed(future_to_table):
         table_name = future_to_table[future]
