@@ -83,50 +83,49 @@ def extract_info(data):
     info_publicaciones = []
     info_coautores = []
 
-    for item in data:
-        # Extraer información del autor
-        autor = {
-            "container_type": item.get("container_type"),
-            "scholar_id": item.get("scholar_id"),
-            "source": item.get("source"),
-            "name": item.get("name"),
-            "url_picture": item.get("url_picture"),
-            "affiliation": item.get("affiliation"),
-            "organization": item.get("organization"),
-            "email_domain": item.get("email_domain"),
-            "citedby": item.get("citedby"),
-            "citedby5y": item.get("citedby5y"),
-            "hindex": item.get("hindex"),
-            "hindex5y": item.get("hindex5y"),
-            "i10index": item.get("i10index"),
-            "i10index5y": item.get("i10index5y")
+    # Extraer información del autor
+    autor = {
+        "container_type": data.get("container_type"),
+        "scholar_id": data.get("scholar_id"),
+        "source": data.get("source"),
+        "name": data.get("name"),
+        "url_picture": data.get("url_picture"),
+        "affiliation": data.get("affiliation"),
+        "organization": data.get("organization"),
+        "email_domain": data.get("email_domain"),
+        "citedby": data.get("citedby"),
+        "citedby5y": data.get("citedby5y"),
+        "hindex": data.get("hindex"),
+        "hindex5y": data.get("hindex5y"),
+        "i10index": data.get("i10index"),
+        "i10index5y": data.get("i10index5y")
+    }
+    info_autores.append(autor)
+
+    # Extraer información de las publicaciones
+    for pub in data.get("publications", []):
+        publicacion = {
+            "scholar_id": data.get("scholar_id"),
+            "container_type": pub.get("container_type"),
+            "source": pub.get("source"),
+            "title": pub.get("bib", {}).get("title"),
+            "pub_year": pub.get("bib", {}).get("pub_year"),
+            "citation": pub.get("bib", {}).get("citation"),
+            "author_pub_id": pub.get("author_pub_id"),
+            "num_citations": pub.get("num_citations"),
+            "citedby_url": pub.get("citedby_url"),
         }
-        info_autores.append(autor)
+        info_publicaciones.append(publicacion)
 
-        # Extraer información de las publicaciones
-        for pub in item.get("publications", []):
-            publicacion = {
-                "scholar_id": item.get("scholar_id"),
-                "container_type": pub.get("container_type"),
-                "source": pub.get("source"),
-                "title": pub.get("bib", {}).get("title"),
-                "pub_year": pub.get("bib", {}).get("pub_year"),
-                "citation": pub.get("bib", {}).get("citation"),
-                "author_pub_id": pub.get("author_pub_id"),
-                "num_citations": pub.get("num_citations"),
-                "citedby_url": pub.get("citedby_url"),
-            }
-            info_publicaciones.append(publicacion)
-
-        # Extraer información de los coautores
-        for coauthor in item.get("coauthors", []):
-            coautor = {
-                "scholar_id": item.get("scholar_id"),
-                "coauthor_scholar_id": coauthor.get("scholar_id"),
-                "name": coauthor.get("name"),
-                "affiliation": coauthor.get("affiliation"),
-            }
-            info_coautores.append(coautor)
+    # Extraer información de los coautores
+    for coauthor in data.get("coauthors", []):
+        coautor = {
+            "scholar_id": data.get("scholar_id"),
+            "coauthor_scholar_id": coauthor.get("scholar_id"),
+            "name": coauthor.get("name"),
+            "affiliation": coauthor.get("affiliation"),
+        }
+        info_coautores.append(coautor)
     
     return info_autores, info_publicaciones, info_coautores
 
@@ -140,14 +139,14 @@ batch_size = 1000  # Tamaño del lote para cargar los datos
 for blob in blobs:
     json_text = blob.download_as_text()
     if is_valid_json(json_text):
-        data = json.loads(json_text)
-        if isinstance(data, list):
+        try:
+            data = json.loads(json_text)
             info_autores, info_publicaciones, info_coautores = extract_info(data)
             all_info_autores.extend(info_autores)
             all_info_publicaciones.extend(info_publicaciones)
             all_info_coautores.extend(info_coautores)
-        else:
-            print(f'Formato inesperado en archivo: gs://{bucket_name}/{blob.name}')
+        except Exception as e:
+            print(f'Error al procesar el archivo gs://{bucket_name}/{blob.name}: {e}')
     else:
         print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
 
@@ -156,7 +155,7 @@ def load_data_to_bigquery(data, table_ref, job_config):
         batches = [data[i:i + batch_size] for i in range(0, len(data), batch_size)]
         for batch in batches:
             json_data = '\n'.join(json.dumps(record) for record in batch)
-            temp_file_path = '/tmp/temp_ndjson.json'
+            temp_file_path = f'/tmp/{table_ref.table_id}.json'
             with open(temp_file_path, 'w') as temp_file:
                 temp_file.write(json_data)
             
