@@ -31,7 +31,7 @@ schemas = {
         bigquery.SchemaField("name", "STRING"),
         bigquery.SchemaField("url_picture", "STRING"),
         bigquery.SchemaField("affiliation", "STRING"),
-        bigquery.SchemaField("organization", "INTEGER"),
+        bigquery.SchemaField("organization", "STRING"),  # Cambiado a STRING
         bigquery.SchemaField("email_domain", "STRING"),
         bigquery.SchemaField("citedby", "INTEGER"),
         bigquery.SchemaField("citedby5y", "INTEGER"),
@@ -91,7 +91,7 @@ def extract_info(data):
         "name": data.get("name"),
         "url_picture": data.get("url_picture"),
         "affiliation": data.get("affiliation"),
-        "organization": data.get("organization"),
+        "organization": str(data.get("organization")),  # Convertir a STRING
         "email_domain": data.get("email_domain"),
         "citedby": data.get("citedby"),
         "citedby5y": data.get("citedby5y"),
