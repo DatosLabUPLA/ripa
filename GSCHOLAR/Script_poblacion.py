@@ -165,15 +165,31 @@ def load_data_to_bigquery(data, table_ref, job_config):
         except Exception as e:
             print(f'Error al cargar el archivo {gcs_uri}: {e}')
 
+# Obtener los IDs ya existentes en las tablas de BigQuery
+def get_existing_ids(table_ref, id_column):
+    query = f"SELECT {id_column} FROM `{project_id}.{dataset_id}.{table_ref.table_id}`"
+    results = bigquery_client.query(query)
+    return {row[id_column] for row in results}
+
 # Descargar, validar y extraer información de los archivos JSON
 all_info_autores = []
 all_info_publicaciones = []
 all_info_coautores = []
 
+# Obtener los IDs ya existentes
+existing_scholar_ids = get_existing_ids(table_refs["Info_Autores"], "scholar_id")
+existing_publication_ids = get_existing_ids(table_refs["Info_Publicaciones"], "author_pub_id")
+existing_coauthor_ids = get_existing_ids(table_refs["Info_Coautores"], "coauthor_scholar_id")
+
 with ThreadPoolExecutor(max_workers=10) as executor:
     futures = [executor.submit(process_blob, blob) for blob in blobs]
     for future in as_completed(futures):
         info_autores, info_publicaciones, info_coautores = future.result()
+        # Filtrar información ya existente
+        info_autores = [autor for autor in info_autores if autor["scholar_id"] not in existing_scholar_ids]
+        info_publicaciones = [pub for pub in info_publicaciones if pub["author_pub_id"] not in existing_publication_ids]
+        info_coautores = [coauthor for coauthor in info_coautores if coauthor["coauthor_scholar_id"] not in existing_coauthor_ids]
+
         all_info_autores.extend(info_autores)
         all_info_publicaciones.extend(info_publicaciones)
         all_info_coautores.extend(info_coautores)
