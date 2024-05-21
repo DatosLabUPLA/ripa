@@ -66,6 +66,20 @@ load_job_configs = {
     "Info_Coautores": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["Info_Coautores"])
 }
 
+# Crear tablas si no existen
+def create_table_if_not_exists(table_ref, schema):
+    try:
+        bigquery_client.get_table(table_ref)
+        print(f"Table {table_ref.table_id} already exists.")
+    except:
+        table = bigquery.Table(table_ref, schema=schema)
+        bigquery_client.create_table(table)
+        print(f"Created table {table_ref.table_id}.")
+
+# Crear todas las tablas necesarias
+for table_name, table_ref in table_refs.items():
+    create_table_if_not_exists(table_ref, schemas[table_name])
+
 # Obtener todos los blobs (archivos) del bucket
 bucket = storage_client.bucket(bucket_name)
 blobs = bucket.list_blobs()
