@@ -32,7 +32,7 @@ def get_autores_completados(dominio):
     return autores
 def get_autores(org_number):
     pg = ProxyGenerator()
-    success = pg.ScraperAPI('a04593990d15c798a5477e1f7804a66b')
+    success = pg.ScraperAPI('a04593990d15c798a5477e1f7804a66b') #cambiar por una cuenta con creditos
     scholarly.use_proxy(pg)
     authors_id = set()
     authors = scholarly.search_author_by_organization(org_number)
@@ -63,8 +63,8 @@ def save_authors(authors, institution_name,dominio):
         author_info=scholarly.search_author_id(author, filled=True)
         
         # Obtener el identificador del autor
-        dominio2 = author_info["scholar_id"]
-        json_file = f'{dominio2}.json'
+        id_gs = author_info["scholar_id"] # ID google Schorar 
+        json_file = f'{id_gs}.json'
         archivo = os.path.join(institution_folder, json_file)
         # Guardar el resultado en un archivo JSON separado para cada autor
         with open(archivo, 'w') as f:
