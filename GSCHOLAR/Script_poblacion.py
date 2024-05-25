@@ -12,7 +12,7 @@ storage_client = storage.Client()
 
 # Define el ID del proyecto y los datasets de BigQuery
 project_id = 'ripa-1022'
-dataset_id = 'universidad'
+dataset_id = 'scholarly'
 bucket_name = 'scholarly_data'
 
 # Define las referencias a las tablas
@@ -84,6 +84,7 @@ for table_name, table_ref in table_refs.items():
 bucket = storage_client.bucket(bucket_name)
 blobs = bucket.list_blobs()
 
+# Validar si el texto es un JSON válido
 def is_valid_json(json_text):
     try:
         json.loads(json_text)
@@ -92,6 +93,7 @@ def is_valid_json(json_text):
         print(f'Error al validar JSON: {e}')
         return False
 
+# Extraer información del JSON y convertirlo en los registros necesarios
 def extract_info(data):
     info_autores = []
     info_publicaciones = []
@@ -143,6 +145,7 @@ def extract_info(data):
     
     return info_autores, info_publicaciones, info_coautores
 
+# Procesar cada blob y extraer la información
 def process_blob(blob):
     try:
         json_text = blob.download_as_text()
@@ -156,6 +159,7 @@ def process_blob(blob):
         print(f'Error al procesar el archivo gs://{bucket_name}/{blob.name}: {e}')
         return [], [], []
 
+# Cargar datos a BigQuery en lotes
 def load_data_to_bigquery(data, table_ref, job_config):
     if data:
         json_data = '\n'.join(json.dumps(record) for record in data)
@@ -195,6 +199,7 @@ existing_scholar_ids = get_existing_ids(table_refs["Info_Autores"], "scholar_id"
 existing_publication_ids = get_existing_ids(table_refs["Info_Publicaciones"], "author_pub_id")
 existing_coauthor_ids = get_existing_ids(table_refs["Info_Coautores"], "coauthor_scholar_id")
 
+# Procesar blobs en paralelo y extraer información
 with ThreadPoolExecutor(max_workers=10) as executor:
     futures = [executor.submit(process_blob, blob) for blob in blobs]
     for future in as_completed(futures):
