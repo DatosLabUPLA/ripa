@@ -2,6 +2,8 @@ import os
 import json
 from google.cloud import bigquery, storage
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
+
 
 # Configura la ruta a las credenciales de Google Cloud (solo si no estás usando Cloud Shell)
 # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/service-account-file.json"
@@ -31,7 +33,7 @@ schemas = {
         bigquery.SchemaField("name", "STRING"),
         bigquery.SchemaField("url_picture", "STRING"),
         bigquery.SchemaField("affiliation", "STRING"),
-        bigquery.SchemaField("organization", "STRING"),  # Cambiado a STRING
+        bigquery.SchemaField("organization", "STRING"),
         bigquery.SchemaField("email_domain", "STRING"),
         bigquery.SchemaField("citedby", "INTEGER"),
         bigquery.SchemaField("citedby5y", "INTEGER"),
@@ -71,7 +73,7 @@ def create_table_if_not_exists(table_ref, schema):
     try:
         bigquery_client.get_table(table_ref)
         print(f"Table {table_ref.table_id} already exists.")
-    except:
+    except Exception:
         table = bigquery.Table(table_ref, schema=schema)
         bigquery_client.create_table(table)
         print(f"Created table {table_ref.table_id}.")
@@ -82,7 +84,7 @@ for table_name, table_ref in table_refs.items():
 
 # Obtener todos los blobs (archivos) del bucket
 bucket = storage_client.bucket(bucket_name)
-blobs = bucket.list_blobs()
+blobs = list(bucket.list_blobs())
 
 # Validar si el texto es un JSON válido
 def is_valid_json(json_text):
@@ -107,7 +109,7 @@ def extract_info(data):
         "name": data.get("name"),
         "url_picture": data.get("url_picture"),
         "affiliation": data.get("affiliation"),
-        "organization": str(data.get("organization")),  # Convertir a STRING
+        "organization": str(data.get("organization")),
         "email_domain": data.get("email_domain"),
         "citedby": data.get("citedby"),
         "citedby5y": data.get("citedby5y"),
@@ -146,12 +148,25 @@ def extract_info(data):
     return info_autores, info_publicaciones, info_coautores
 
 # Procesar cada blob y extraer la información
-def process_blob(blob):
+def process_blob(blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock):
     try:
         json_text = blob.download_as_text()
         if is_valid_json(json_text):
             data = json.loads(json_text)
-            return extract_info(data)
+            info_autores, info_publicaciones, info_coautores = extract_info(data)
+
+            # Filtrar información ya existente
+            with lock:
+                info_autores = [autor for autor in info_autores if autor["scholar_id"] not in existing_scholar_ids]
+                info_publicaciones = [pub for pub in info_publicaciones if pub["author_pub_id"] not in existing_publication_ids]
+                info_coautores = [coauthor for coauthor in info_coautores if coauthor["coauthor_scholar_id"] not in existing_coauthor_ids]
+
+                # Actualizar los sets de IDs existentes para evitar duplicaciones en futuros hilos
+                existing_scholar_ids.update(autor["scholar_id"] for autor in info_autores)
+                existing_publication_ids.update(pub["author_pub_id"] for pub in info_publicaciones)
+                existing_coauthor_ids.update(coauthor["coauthor_scholar_id"] for coauthor in info_coautores)
+
+            return info_autores, info_publicaciones, info_coautores
         else:
             print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
             return [], [], []
@@ -199,16 +214,14 @@ existing_scholar_ids = get_existing_ids(table_refs["Info_Autores"], "scholar_id"
 existing_publication_ids = get_existing_ids(table_refs["Info_Publicaciones"], "author_pub_id")
 existing_coauthor_ids = get_existing_ids(table_refs["Info_Coautores"], "coauthor_scholar_id")
 
+# Lock para sincronizar el acceso a los IDs existentes
+lock = Lock()
+
 # Procesar blobs en paralelo y extraer información
 with ThreadPoolExecutor(max_workers=10) as executor:
-    futures = [executor.submit(process_blob, blob) for blob in blobs]
+    futures = [executor.submit(process_blob, blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock) for blob in blobs]
     for future in as_completed(futures):
         info_autores, info_publicaciones, info_coautores = future.result()
-        # Filtrar información ya existente
-        info_autores = [autor for autor in info_autores if autor["scholar_id"] not in existing_scholar_ids]
-        info_publicaciones = [pub for pub in info_publicaciones if pub["author_pub_id"] not in existing_publication_ids]
-        info_coautores = [coauthor for coauthor in info_coautores if coauthor["coauthor_scholar_id"] not in existing_coauthor_ids]
-
         all_info_autores.extend(info_autores)
         all_info_publicaciones.extend(info_publicaciones)
         all_info_coautores.extend(info_coautores)
