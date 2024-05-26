@@ -1,69 +1,107 @@
-# README-Poblacion.md
 
-## Descripción del Código
+# Pipeline de Datos Académicos
 
-Este script tiene como objetivo cargar datos de archivos JSON almacenados en Google Cloud Storage (GCS) a tablas en Google BigQuery. Los datos corresponden a información de autores, publicaciones y coautores relacionados con la universidad.
+## Introducción
 
-## Requisitos Previos
+Este proyecto es un pipeline de datos diseñado para extraer, transformar y cargar (ETL) datos académicos en Google BigQuery. Los datos se almacenan en Google Cloud Storage en formato JSON e incluyen información sobre autores, publicaciones y coautores. El script procesa los datos en paralelo, los valida y los carga en tablas de BigQuery.
 
-1. **Credenciales de Google Cloud**: Asegúrese de tener configuradas las credenciales de Google Cloud. Si no está utilizando Cloud Shell, configure la ruta a sus credenciales:
-    ```python
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/service-account-file.json"
-    ```
+## Tabla de Contenidos
 
-2. **Clientes de BigQuery y Storage**: El script utiliza los clientes de BigQuery y Storage de Google Cloud.
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Características](#características)
+- [Dependencias](#dependencias)
+- [Configuración](#configuración)
+- [Documentación](#documentación)
+- [Ejemplos](#ejemplos)
+- [Solución de Problemas](#solución-de-problemas)
+- [Contribuidores](#contribuidores)
+- [Licencia](#licencia)
 
-3. **Configuración del Proyecto**: Asegúrese de tener los IDs del proyecto, dataset y bucket configurados correctamente:
-    ```python
-    project_id = 'ripa-1022'
-    dataset_id = 'universidad'
-    bucket_name = 'scholarly_data'
-    ```
+## Instalación
 
-## Funcionalidad
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/yourusername/scholarly-data-pipeline.git
+   cd scholarly-data-pipeline
+   ```
 
-### Inicialización
+2. **Configurar un entorno virtual e instalar dependencias:**
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
 
-1. **Clientes de BigQuery y Storage**: Inicializa los clientes necesarios.
-2. **Referencias a Tablas y Esquemas**: Define las referencias y esquemas de las tablas de BigQuery.
+3. **Configurar las credenciales de Google Cloud:**
+   Asegúrate de tener un archivo de clave de cuenta de servicio de Google Cloud y configura la variable de entorno `GOOGLE_APPLICATION_CREDENTIALS`:
+   ```bash
+   export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-file.json"
+   ```
 
-### Creación de Tablas
+## Uso
 
-Las tablas `Info_Autores`, `Info_Publicaciones` y `Info_Coautores` se crean en BigQuery si no existen.
-
-### Procesamiento de Archivos JSON
-
-1. **Descargar Blobs**: Se listan y descargan todos los blobs del bucket de GCS.
-2. **Validación y Extracción de Datos**: Se validan y extraen datos de los archivos JSON descargados.
-3. **Filtrado de Datos Existentes**: Se obtienen los IDs ya existentes en las tablas de BigQuery para evitar duplicados.
-
-### Carga de Datos a BigQuery
-
-1. **Agrupar Datos en Lotes**: Los datos extraídos se agrupan en lotes de tamaño fijo.
-2. **Cargar Datos en Paralelo**: Se cargan los datos en BigQuery en paralelo utilizando un `ThreadPoolExecutor`.
-
-## Detalles del Código
-
-### Funciones Clave
-
-- **create_table_if_not_exists**: Crea una tabla en BigQuery si no existe.
-- **is_valid_json**: Verifica si un texto es un JSON válido.
-- **extract_info**: Extrae información de autores, publicaciones y coautores de los datos JSON.
-- **process_blob**: Procesa un blob (archivo JSON) descargado de GCS.
-- **load_data_to_bigquery**: Carga datos a una tabla de BigQuery desde un archivo temporal.
-- **get_existing_ids**: Obtiene los IDs existentes de una tabla de BigQuery.
-- **batch_and_load_data**: Agrupa datos en lotes y los carga a BigQuery.
-
-### Estructura del Script
-
-1. **Configuración Inicial**: Inicializa clientes y define configuraciones.
-2. **Creación de Tablas**: Verifica y crea tablas en BigQuery.
-3. **Procesamiento de Datos**: Descarga, valida, extrae y filtra datos JSON.
-4. **Carga de Datos**: Agrupa y carga datos en BigQuery en paralelo.
-
-## Ejecución
-
-Para ejecutar el script, simplemente asegúrese de tener las dependencias necesarias instaladas y ejecute el script en su entorno Python configurado con las credenciales y permisos adecuados para acceder a Google Cloud Storage y Google BigQuery.
-
+Ejecuta el script para iniciar el proceso ETL:
 ```bash
-python script.py
+python Script_poblacion.py
+```
+
+## Características
+
+- **Procesamiento en Paralelo:** Utiliza `ThreadPoolExecutor` para el procesamiento concurrente de archivos JSON.
+- **Validación de Datos:** Verifica que los archivos JSON sean válidos antes de procesarlos.
+- **Integración con BigQuery:** Crea las tablas necesarias y carga los datos en BigQuery.
+- **Actualizaciones Incrementales:** Solo se procesan y cargan los registros nuevos.
+
+## Dependencias
+
+- `google-cloud-bigquery`
+- `google-cloud-storage`
+- `concurrent.futures`
+- `threading`
+- `os`
+- `json`
+
+## Configuración
+
+### Configuración de BigQuery y Cloud Storage
+
+- **ID del Proyecto:** Configurado en el script como `project_id = 'ripa-1022'`.
+- **ID del Dataset:** Configurado en el script como `dataset_id = 'scholarly'`.
+- **Bucket de Almacenamiento:** Configurado en el script como `bucket_name = 'scholarly_data'`.
+
+### Esquemas de Tablas de BigQuery
+
+El script define esquemas para tres tablas: `Info_Autores`, `Info_Publicaciones` y `Info_Coautores`. Estos esquemas se utilizan para configurar las tablas si no existen.
+
+## Documentación
+
+Los componentes principales del script son:
+
+- **Inicialización:** Configuración de clientes de BigQuery y Storage.
+- **Definiciones de Esquemas:** Esquemas para las tablas de BigQuery.
+- **Creación de Tablas:** Asegura que las tablas necesarias se creen si no existen.
+- **Extracción y Validación de Datos:** Descarga y valida archivos JSON desde Cloud Storage.
+- **Transformación de Datos:** Extrae información relevante de los archivos JSON.
+- **Carga de Datos:** Carga datos en las tablas de BigQuery en lotes.
+- **Procesamiento Concurrente:** Utiliza hilos para procesar múltiples archivos simultáneamente.
+
+## Ejemplos
+
+Ejemplo de ejecución del script:
+```bash
+python Script_poblacion.py
+```
+
+## Solución de Problemas
+
+### Problemas Comunes
+
+1. **Error de JSON Inválido:** Asegúrate de que todos los archivos JSON en el bucket de Cloud Storage estén correctamente formateados.
+2. **Permisos de BigQuery:** Asegúrate de que tu cuenta de servicio tenga los permisos necesarios para crear tablas y cargar datos en BigQuery.
+3. **Problemas de Red:** Asegúrate de tener una conexión a internet estable para interactuar con los servicios de Google Cloud.
+
+### Registros
+
+El script imprime registros en la consola para varias etapas del procesamiento, como la creación de tablas, validación de datos y carga. Revisa la salida de la consola para cualquier mensaje de error o actualizaciones de estado.
+
