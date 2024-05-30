@@ -71,7 +71,7 @@ if [ $actualizar = "y" ]; then
     echo "Creando tabla de autores con categorias"
     bq query --use_legacy_sql=false \
     "create or replace table scholarly.authors_categories as
-    SELECT p.id_gs, p.short_js,s.journal,s.id_area, s.area_name, s.id_category,s.categories  
+    SELECT p.scholar_id, p.short_js,s.journal,s.id_area, s.area_name, s.id_category,s.categories  
     FROM ripa-1022.scholarly.pubs_journal p, ripa-1022.scholarly.scimago s
     where p.short_js = s.journal_short"
 else
