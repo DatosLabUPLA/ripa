@@ -14,19 +14,19 @@ storage_client = storage.Client()
 
 # Define el ID del proyecto y los datasets de BigQuery
 project_id = 'ripa-1022'
-dataset_id = 'scholarly'
+dataset_id = 'ripa'
 bucket_name = 'scholarly_data'
 
 # Define las referencias a las tablas
 table_refs = {
-    "Info_Autores": bigquery_client.dataset(dataset_id).table("Info_Autores"),
-    "Info_Publicaciones": bigquery_client.dataset(dataset_id).table("Info_Publicaciones"),
-    "Info_Coautores": bigquery_client.dataset(dataset_id).table("Info_Coautores")
+    "gs_authors": bigquery_client.dataset(dataset_id).table("gs_authors"),
+    "gs_publications": bigquery_client.dataset(dataset_id).table("gs_publications"),
+    "gs_coauthors": bigquery_client.dataset(dataset_id).table("gs_coauthors")
 }
 
 # Configura los esquemas de las tablas
 schemas = {
-    "Info_Autores": [
+    "gs_authors": [
         bigquery.SchemaField("container_type", "STRING"),
         bigquery.SchemaField("scholar_id", "STRING"),
         bigquery.SchemaField("source", "STRING"),
@@ -42,7 +42,7 @@ schemas = {
         bigquery.SchemaField("i10index", "INTEGER"),
         bigquery.SchemaField("i10index5y", "INTEGER"),
     ],
-    "Info_Publicaciones": [
+    "gs_publications": [
         bigquery.SchemaField("scholar_id", "STRING"),
         bigquery.SchemaField("container_type", "STRING"),
         bigquery.SchemaField("source", "STRING"),
@@ -53,7 +53,7 @@ schemas = {
         bigquery.SchemaField("num_citations", "INTEGER"),
         bigquery.SchemaField("citedby_url", "STRING"),
     ],
-    "Info_Coautores": [
+    "gs_coauthors": [
         bigquery.SchemaField("scholar_id", "STRING"),
         bigquery.SchemaField("coauthor_scholar_id", "STRING"),
         bigquery.SchemaField("name", "STRING"),
@@ -63,9 +63,9 @@ schemas = {
 
 # Configura los jobs de carga
 load_job_configs = {
-    "Info_Autores": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["Info_Autores"]),
-    "Info_Publicaciones": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["Info_Publicaciones"]),
-    "Info_Coautores": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["Info_Coautores"])
+    "gs_authors": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["gs_authors"]),
+    "gs_publications": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["gs_publications"]),
+    "gs_coauthors": bigquery.LoadJobConfig(source_format=bigquery.SourceFormat.NEWLINE_DELIMITED_JSON, schema=schemas["gs_coauthors"])
 }
 
 # Crear tablas si no existen
@@ -97,9 +97,9 @@ def is_valid_json(json_text):
 
 # Extraer información del JSON y convertirlo en los registros necesarios
 def extract_info(data):
-    info_autores = []
-    info_publicaciones = []
-    info_coautores = []
+    gs_authors = []
+    gs_publications = []
+    gs_coauthors = []
 
     # Extraer información del autor
     autor = {
@@ -118,7 +118,7 @@ def extract_info(data):
         "i10index": data.get("i10index"),
         "i10index5y": data.get("i10index5y")
     }
-    info_autores.append(autor)
+    gs_authors.append(autor)
 
     # Extraer información de las publicaciones
     for pub in data.get("publications", []):
@@ -133,7 +133,7 @@ def extract_info(data):
             "num_citations": pub.get("num_citations"),
             "citedby_url": pub.get("citedby_url"),
         }
-        info_publicaciones.append(publicacion)
+        gs_publications.append(publicacion)
 
     # Extraer información de los coautores
     for coauthor in data.get("coauthors", []):
@@ -143,9 +143,9 @@ def extract_info(data):
             "name": coauthor.get("name"),
             "affiliation": coauthor.get("affiliation"),
         }
-        info_coautores.append(coautor)
+        gs_coauthors.append(coautor)
     
-    return info_autores, info_publicaciones, info_coautores
+    return gs_authors, gs_publications, gs_coauthors
 
 # Procesar cada blob y extraer la información
 def process_blob(blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock):
@@ -153,20 +153,20 @@ def process_blob(blob, existing_scholar_ids, existing_publication_ids, existing_
         json_text = blob.download_as_text()
         if is_valid_json(json_text):
             data = json.loads(json_text)
-            info_autores, info_publicaciones, info_coautores = extract_info(data)
+            gs_authors, gs_publications, gs_coauthors = extract_info(data)
 
             # Filtrar información ya existente
             with lock:
-                info_autores = [autor for autor in info_autores if autor["scholar_id"] not in existing_scholar_ids]
-                info_publicaciones = [pub for pub in info_publicaciones if pub["author_pub_id"] not in existing_publication_ids]
-                info_coautores = [coauthor for coauthor in info_coautores if coauthor["coauthor_scholar_id"] not in existing_coauthor_ids]
+                gs_authors = [autor for autor in gs_authors if autor["scholar_id"] not in existing_scholar_ids]
+                gs_publications = [pub for pub in gs_publications if pub["author_pub_id"] not in existing_publication_ids]
+                gs_coauthors = [coauthor for coauthor in gs_coauthors if coauthor["coauthor_scholar_id"] not in existing_coauthor_ids]
 
                 # Actualizar los sets de IDs existentes para evitar duplicaciones en futuros hilos
-                existing_scholar_ids.update(autor["scholar_id"] for autor in info_autores)
-                existing_publication_ids.update(pub["author_pub_id"] for pub in info_publicaciones)
-                existing_coauthor_ids.update(coauthor["coauthor_scholar_id"] for coauthor in info_coautores)
+                existing_scholar_ids.update(autor["scholar_id"] for autor in gs_authors)
+                existing_publication_ids.update(pub["author_pub_id"] for pub in gs_publications)
+                existing_coauthor_ids.update(coauthor["coauthor_scholar_id"] for coauthor in gs_coauthors)
 
-            return info_autores, info_publicaciones, info_coautores
+            return gs_authors, gs_publications, gs_coauthors
         else:
             print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
             return [], [], []
@@ -205,14 +205,14 @@ def get_existing_ids(table_ref, id_column):
     return {row[id_column] for row in results}
 
 # Descargar, validar y extraer información de los archivos JSON
-all_info_autores = []
-all_info_publicaciones = []
-all_info_coautores = []
+all_gs_authors = []
+all_gs_publications = []
+all_gs_coauthors = []
 
 # Obtener los IDs ya existentes
-existing_scholar_ids = get_existing_ids(table_refs["Info_Autores"], "scholar_id")
-existing_publication_ids = get_existing_ids(table_refs["Info_Publicaciones"], "author_pub_id")
-existing_coauthor_ids = get_existing_ids(table_refs["Info_Coautores"], "coauthor_scholar_id")
+existing_scholar_ids = get_existing_ids(table_refs["gs_authors"], "scholar_id")
+existing_publication_ids = get_existing_ids(table_refs["gs_publications"], "author_pub_id")
+existing_coauthor_ids = get_existing_ids(table_refs["gs_coauthors"], "coauthor_scholar_id")
 
 # Lock para sincronizar el acceso a los IDs existentes
 lock = Lock()
@@ -221,10 +221,10 @@ lock = Lock()
 with ThreadPoolExecutor(max_workers=10) as executor:
     futures = [executor.submit(process_blob, blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock) for blob in blobs]
     for future in as_completed(futures):
-        info_autores, info_publicaciones, info_coautores = future.result()
-        all_info_autores.extend(info_autores)
-        all_info_publicaciones.extend(info_publicaciones)
-        all_info_coautores.extend(info_coautores)
+        gs_authors, gs_publications, gs_coauthors = future.result()
+        all_gs_authors.extend(gs_authors)
+        all_gs_publications.extend(gs_publications)
+        all_gs_coauthors.extend(gs_coauthors)
 
 # Agrupar datos en lotes y cargar en BigQuery
 def batch_and_load_data(data, table_ref, job_config):
@@ -236,9 +236,9 @@ def batch_and_load_data(data, table_ref, job_config):
 # Cargar datos en las tablas de BigQuery en paralelo
 with ThreadPoolExecutor(max_workers=3) as executor:
     future_to_table = {
-        executor.submit(batch_and_load_data, all_info_autores, table_refs["Info_Autores"], load_job_configs["Info_Autores"]): "Info_Autores",
-        executor.submit(batch_and_load_data, all_info_publicaciones, table_refs["Info_Publicaciones"], load_job_configs["Info_Publicaciones"]): "Info_Publicaciones",
-        executor.submit(batch_and_load_data, all_info_coautores, table_refs["Info_Coautores"], load_job_configs["Info_Coautores"]): "Info_Coautores"
+        executor.submit(batch_and_load_data, all_gs_authors, table_refs["gs_authors"], load_job_configs["gs_authors"]): "gs_authors",
+        executor.submit(batch_and_load_data, all_gs_publications, table_refs["gs_publications"], load_job_configs["gs_publications"]): "gs_publications",
+        executor.submit(batch_and_load_data, all_gs_coauthors, table_refs["gs_coauthors"], load_job_configs["gs_coauthors"]): "gs_coauthors"
     }
     for future in as_completed(future_to_table):
         table_name = future_to_table[future]
