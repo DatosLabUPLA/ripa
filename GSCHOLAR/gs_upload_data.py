@@ -9,10 +9,10 @@ from threading import Lock
 # Configura la ruta a las credenciales de Google Cloud (solo si no estás usando Cloud Shell)
 # os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "path/to/your/service-account-file.json"
 
-# Inicializa los clientes de BigQuery y Storage
+# Inicializa el cliente de BigQuery
 bigquery_client = bigquery.Client()
 
-# Define el ID del proyecto y los datasets de BigQuery
+# Define el ID del proyecto y el dataset de BigQuery
 project_id = 'ripa-1022'
 dataset_id = 'ripa'
 
@@ -81,10 +81,6 @@ def create_table_if_not_exists(table_ref, schema):
 for table_name, table_ref in table_refs.items():
     create_table_if_not_exists(table_ref, schemas[table_name])
 
-# Obtener todos los blobs (archivos) del bucket
-bucket = storage_client.bucket(bucket_name)
-blobs = list(bucket.list_blobs())
-
 # Validar si el texto es un JSON válido
 def is_valid_json(json_text):
     try:
@@ -146,10 +142,11 @@ def extract_info(data):
     
     return gs_authors, gs_publications, gs_coauthors
 
-# Procesar cada blob y extraer la información
-def process_blob(blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock):
+# Procesar cada archivo JSON y extraer la información
+def process_json_file(file_path, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock):
     try:
-        json_text = blob.download_as_text()
+        with open(file_path, 'r') as file:
+            json_text = file.read()
         if is_valid_json(json_text):
             data = json.loads(json_text)
             gs_authors, gs_publications, gs_coauthors = extract_info(data)
@@ -167,10 +164,10 @@ def process_blob(blob, existing_scholar_ids, existing_publication_ids, existing_
 
             return gs_authors, gs_publications, gs_coauthors
         else:
-            print(f'Omitido el archivo inválido: gs://{bucket_name}/{blob.name}')
+            print(f'Omitido el archivo inválido: {file_path}')
             return [], [], []
     except Exception as e:
-        print(f'Error al procesar el archivo gs://{bucket_name}/{blob.name}: {e}')
+        print(f'Error al procesar el archivo {file_path}: {e}')
         return [], [], []
 
 # Cargar datos a BigQuery en lotes
@@ -211,9 +208,15 @@ existing_coauthor_ids = get_existing_ids(table_refs["gs_coauthors"], "coauthor_s
 # Lock para sincronizar el acceso a los IDs existentes
 lock = Lock()
 
-# Procesar blobs en paralelo y extraer información
+# Directorio con los archivos JSON
+json_files_directory = '/path/to/json/files'
+
+# Listar todos los archivos JSON en el directorio
+json_files = [os.path.join(json_files_directory, file) for file in os.listdir(json_files_directory) if file.endswith('.json')]
+
+# Procesar archivos JSON en paralelo y extraer información
 with ThreadPoolExecutor(max_workers=10) as executor:
-    futures = [executor.submit(process_blob, blob, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock) for blob in blobs]
+    futures = [executor.submit(process_json_file, json_file, existing_scholar_ids, existing_publication_ids, existing_coauthor_ids, lock) for json_file in json_files]
     for future in as_completed(futures):
         gs_authors, gs_publications, gs_coauthors = future.result()
         all_gs_authors.extend(gs_authors)
