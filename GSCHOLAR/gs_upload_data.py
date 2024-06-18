@@ -209,10 +209,18 @@ existing_coauthor_ids = get_existing_ids(table_refs["gs_coauthors"], "coauthor_s
 lock = Lock()
 
 # Directorio con los archivos JSON
-json_files_directory = '/path/to/json/files'
+json_files_directory = 'DATOS_COMPLETOS'  # Cambia esta ruta a la correcta
 
-# Listar todos los archivos JSON en el directorio
-json_files = [os.path.join(json_files_directory, file) for file in os.listdir(json_files_directory) if file.endswith('.json')]
+# Verificar si el directorio existe
+if not os.path.exists(json_files_directory):
+    raise FileNotFoundError(f'El directorio {json_files_directory} no existe.')
+
+# Recorrer todas las subcarpetas y listar todos los archivos JSON
+json_files = []
+for root, dirs, files in os.walk(json_files_directory):
+    for file in files:
+        if file.endswith('.json'):
+            json_files.append(os.path.join(root, file))
 
 # Procesar archivos JSON en paralelo y extraer información
 with ThreadPoolExecutor(max_workers=10) as executor:
