@@ -4,6 +4,7 @@ import os  # Importación del módulo os para operaciones de archivo y directori
 import time  # Importación del módulo time para medir el tiempo
 from datetime import datetime
 from scholarly import scholarly, ProxyGenerator  # Importación de clases y funciones específicas de los módulos scholarly y ProxyGenerator
+
 def get_instituciones():
     institutions_to_extract = set()  # Conjunto para almacenar las instituciones a extraer
     with open('organizaciones.csv', newline='') as csvfile:  # Abrir el archivo de instituciones en modo lectura
@@ -11,6 +12,7 @@ def get_instituciones():
         for row in reader:  # Iterar sobre cada fila en el archivo CSV
             institutions_to_extract.add(row[0])
     return institutions_to_extract
+
 def get_instituciones_completas():
     completed_institutions = set()
     with open('organizaciones_completas.csv', newline='') as csvfile:
@@ -18,9 +20,10 @@ def get_instituciones_completas():
         for row in reader:
             completed_institutions.add(row[0])
     return completed_institutions
+
 def get_autores_completados(dominio):
     autores = set()
-    institution_folder = os.path.join('DATOS_COMPLETOS',dominio)
+    institution_folder = os.path.join('DATOS_COMPLETOS', dominio)
     if not os.path.exists(institution_folder):
         os.makedirs(institution_folder)
     for filename in os.listdir(institution_folder):
@@ -30,6 +33,7 @@ def get_autores_completados(dominio):
             autor = filename.split('.')[0]
             autores.add(autor)
     return autores
+
 def get_autores(org_number):
     pg = ProxyGenerator()
     success = pg.ScraperAPI('a04593990d15c798a5477e1f7804a66b') #cambiar por una cuenta con creditos
@@ -38,10 +42,12 @@ def get_autores(org_number):
     authors = scholarly.search_author_by_organization(org_number)
     authors_id = {author['scholar_id'] for author in authors}
     return authors_id
+
 def add_inst_completas(org_number):
     with open('organizaciones_completas.csv', 'a', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow([org_number])
+        
 def get_domino(org_number):
     author = scholarly.search_author_id(org_number)
     dominio = author['email_domain'].split('@')[1].split('.')[-2]
@@ -50,7 +56,7 @@ def get_domino(org_number):
 
 def save_authors(authors, institution_name,dominio):
     # Reemplazar caracteres no deseados en el nombre de la institución para el nombre de la carpeta
-    institution_folder = os.path.join('DATOS_COMPLETOS',dominio.replace(" ", "_"))
+    institution_folder = os.path.join('DATOS_COMPLETOS', dominio.replace(" ", "_"))
     
     # Verificar si la carpeta de la institución existe, si no, crearla
     if not os.path.exists(institution_folder):
@@ -100,7 +106,6 @@ def main():
                 print(f'Institución completada: {institution_name}')
                 continue
             
-            
             save_authors(authors, institution_name,dominio)  # Guardar los autores en archivos JSON separados
             if dominio is not None:
                 print(dominio)
@@ -110,4 +115,4 @@ def main():
             print(f'Error al extraer autores de la institución: {e}')
             # Guardar autores en archivos JSON separados
             # Guardar los autores en archivos JSON
-main()  # Llamar a la función principal para iniciar el proceso de extracción de autores
+main()
