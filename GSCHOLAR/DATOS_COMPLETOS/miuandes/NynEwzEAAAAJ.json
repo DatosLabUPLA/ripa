@@ -1,0 +1,709 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NynEwzEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Gustavo Funes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NynEwzEAAAAJ&citpid=2",
+    "affiliation": "Universidad de los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "Fisica",
+        "optica",
+        "turbulencia"
+    ],
+    "email_domain": "@uandes.cl",
+    "homepage": "http://ing.uandes.cl/academicos/funes-gustavo/",
+    "citedby": 268,
+    "citedby5y": 148,
+    "hindex": 10,
+    "hindex5y": 7,
+    "i10index": 10,
+    "i10index5y": 5,
+    "cites_per_year": {
+        "2007": 1,
+        "2008": 2,
+        "2009": 2,
+        "2010": 3,
+        "2011": 8,
+        "2012": 8,
+        "2013": 3,
+        "2014": 7,
+        "2015": 18,
+        "2016": 31,
+        "2017": 20,
+        "2018": 17,
+        "2019": 24,
+        "2020": 19,
+        "2021": 26,
+        "2022": 39,
+        "2023": 24,
+        "2024": 16
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7T7o27QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Dami\u00e1n Gulich",
+            "affiliation": "Professor, Facultad de Ingenier\u00eda - UNLP. CIOp, CONICET"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4wSoWR8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Luciano Zunino (L. Zunino)",
+            "affiliation": "Independent Researcher at CIOp (CONICET - CIC - UNLP), Argentina"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0W-BzeAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jaime A. Anguita",
+            "affiliation": "Professor, Universidad de los Andes - Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orbital-angular-momentum crosstalk and temporal fading in a terrestrial laser link using single-mode fiber coupling",
+                "pub_year": "2015",
+                "citation": "Optics express 23 (18), 23133-23142, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:qjMakFHDy7sC",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2645609458578181147",
+            "cites_id": [
+                "2645609458578181147"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Behavior of the laser beam wandering variance with the turbulent path length",
+                "pub_year": "2007",
+                "citation": "Optics communications 272 (2), 476-479, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 28,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871412740008898966",
+            "cites_id": [
+                "4871412740008898966"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Synthesis of anisotropic optical turbulence at the laboratory",
+                "pub_year": "2016",
+                "citation": "Optics letters 41 (24), 5696-5699, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:5nxA0vEk-isC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16749484834018669755",
+            "cites_id": [
+                "16749484834018669755"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Turbulence-induced persistence in laser beam wandering",
+                "pub_year": "2015",
+                "citation": "Optics Letters 40 (13), 3145-3148, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 24,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17194124936132504704",
+            "cites_id": [
+                "17194124936132504704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Angle-of-arrival variance\u2019s dependence on the aperture size for indoor convective turbulence",
+                "pub_year": "2007",
+                "citation": "Optics Communications 277 (2), 241-246, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7660859437470990380",
+            "cites_id": [
+                "7660859437470990380"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Deep learning for image-based classification of OAM modes in laser beams propagating through convective turbulence",
+                "pub_year": "2019",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VIII \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:4DMP91E08xMC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8603763858286781906",
+            "cites_id": [
+                "8603763858286781906"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Beam wandering statistics of twin thin laser beam propagation under generalized atmospheric conditions",
+                "pub_year": "2012",
+                "citation": "Optics Express 20 (25), 27766-27780, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6963722985570975258",
+            "cites_id": [
+                "6963722985570975258"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimation of Cn2 based on scintillation of fixed targets imaged through atmospheric turbulence",
+                "pub_year": "2015",
+                "citation": "Optics Letters 40 (23), 5642-5645, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12160608100626040457",
+            "cites_id": [
+                "12160608100626040457"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental confirmation of long-memory correlations in star-wander data",
+                "pub_year": "2014",
+                "citation": "Optics letters 39 (13), 3718-3721, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7516633105640381160",
+            "cites_id": [
+                "7516633105640381160"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On the cancellation of OAM beams propagating through convective turbulence",
+                "pub_year": "2017",
+                "citation": "Optics Letters 42 (9), 1836-1839, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9631656679000953436",
+            "cites_id": [
+                "9631656679000953436"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On a quasi-wavelet model of refractive index fluctuations due to atmospheric turbulence",
+                "pub_year": "2015",
+                "citation": "Optics Express 23 (25), 31627-31639, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10894270714295429444",
+            "cites_id": [
+                "10894270714295429444"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterizing inertial and convective optical turbulence by detrended fluctuation analysis",
+                "pub_year": "2013",
+                "citation": "Remote Sensing of Clouds and the Atmosphere XVIII; and Optics in Atmospheric \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16603510029668505801",
+            "cites_id": [
+                "16603510029668505801"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating the optimal sampling rate using wavelet transform: an application to optical turbulence",
+                "pub_year": "2013",
+                "citation": "Optics Express 21 (13), 15230-15236, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:roLk4NBRz8UC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7794792824784952571",
+            "cites_id": [
+                "7794792824784952571"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Turbulence-induced power drops as extreme events",
+                "pub_year": "2019",
+                "citation": "Optics and Lasers in Engineering 116, 111-115, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:4TOpqqG69KYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11441927858181585761",
+            "cites_id": [
+                "11441927858181585761"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Retrieving atmospheric turbulence features from differential laser tracking motion data",
+                "pub_year": "2012",
+                "citation": "Optics in Atmospheric Propagation and Adaptive Systems XV 8535, 30-40, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15403060318814391779",
+            "cites_id": [
+                "15403060318814391779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of Hermite-Gaussian modes in vortex beams affected by convective turbulence",
+                "pub_year": "2020",
+                "citation": "Waves in Random and Complex Media, 1-11, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17602060704819710887",
+            "cites_id": [
+                "17602060704819710887"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Singular beams based on tangential phase warp",
+                "pub_year": "2019",
+                "citation": "Optics Letters 44 (15), 3769-3772, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11236924163299333174",
+            "cites_id": [
+                "11236924163299333174"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of multiple coaxial optical vortices with a Shack-Hartman sensor in atmospheric turbulence",
+                "pub_year": "2018",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VII \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3144657747693079118",
+            "cites_id": [
+                "3144657747693079118"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Singular Warped Beams Controlled by Tangent Phase Modulation",
+                "pub_year": "2021",
+                "citation": "Photonics 8 (8), 343, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6199370284242157169",
+            "cites_id": [
+                "6199370284242157169"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Turbulence characterization by studying laser beam wandering in a differential tracking motion setup",
+                "pub_year": "2009",
+                "citation": "Optics in Atmospheric Propagation and Adaptive Systems XII 7476, 81-88, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2305107135266359884",
+            "cites_id": [
+                "2305107135266359884"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Angle-of-arrival variance behavior and scale filtering in indoor turbulence",
+                "pub_year": "2006",
+                "citation": "Thirteenth Joint International Symposium on Atmospheric and Ocean Optics \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3120344052638385931",
+            "cites_id": [
+                "3120344052638385931"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis of practical fractional vortex beams at far field",
+                "pub_year": "2022",
+                "citation": "Optics & Laser Technology 156, 108480, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:IWHjjKOFINEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11561912439713641187",
+            "cites_id": [
+                "11561912439713641187"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dynamics of fractional vortex beams at fraunhofer diffraction zone",
+                "pub_year": "2022",
+                "citation": "Photonics 9 (7), 479, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8645758321183625107",
+            "cites_id": [
+                "8645758321183625107"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "High frequency multifractality in return intervals from fading induced by turbulence",
+                "pub_year": "2021",
+                "citation": "Fractals 29 (02), 2150049, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:dhFuZR0502QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9591069133699416862",
+            "cites_id": [
+                "9591069133699416862"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complete wavefront reconstruction of perturbed singular beams by single-pixel phase retrieval",
+                "pub_year": "2020",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans IX \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4161042242987637540",
+            "cites_id": [
+                "4161042242987637540"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scintillation of extended objects in anisotropic turbulence",
+                "pub_year": "2017",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:kNdYIx-mwKoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14636998571616635731",
+            "cites_id": [
+                "14636998571616635731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Desarrollo, an\u00e1lisis y aplicaci\u00f3n de nuevos modelos para la propagaci\u00f3n l\u00e1ser en medios turbulentos",
+                "pub_year": "2014",
+                "citation": "Universidad Nacional de La Plata, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14881085717499448903",
+            "cites_id": [
+                "14881085717499448903"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "About Goldbach strong conjecture",
+                "pub_year": "2007",
+                "citation": "arXiv preprint arXiv:0708.3704, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1900836109449288329",
+            "cites_id": [
+                "1900836109449288329"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of Hermite-Gaussian modes in vortex beams affected by convective turbulence",
+                "pub_year": "2019",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VIII \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:Wp0gIr-vW9MC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Phase retrieval of Laguerre-Gaussian beams through atmospheric turbulence by binary amplitude modulation",
+                "pub_year": "2019",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VIII \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:aqlVkmm33-oC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analysis and mitigation of turbulence-induced distortions using adaptive optics for improved communication signal detection",
+                "pub_year": "2019",
+                "citation": "Laser Communication and Propagation through the Atmosphere and Oceans VIII \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:qxL8FJ1GzNcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Complex wavefront reconstruction by binary amplitude modulation",
+                "pub_year": "2018",
+                "citation": "Latin America Optics and Photonics Conference, W4C. 3, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:_kc_bZDykSQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Accurate Optical Vortex Identification in the Presence of Distortions Using a Shack-Hartmann Sensor",
+                "pub_year": "2018",
+                "citation": "Laser Science, JTu2A. 82, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:Zph67rFs4hoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enforcing energy balance in coherently superimposed optical vortices",
+                "pub_year": "2018",
+                "citation": "IEEE Photonics Journal 10 (2), 1-12, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy equalization of a set of coherent OAM states by means of optimal phase gratings",
+                "pub_year": "2016",
+                "citation": "Frontiers in Optics, FTh5E. 4, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Laboratory synthesis of atmospheric anisotropic turbulence",
+                "pub_year": "2016",
+                "citation": "Propagation Through and Characterization of Atmospheric and Oceanic \u2026, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A quasi-wavelet model for the turbulent refractive index",
+                "pub_year": "2014",
+                "citation": "Propagation Through and Characterization of Distributed Volume Turbulence \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "La multifractalidad y el efecto de la turbulencia en la din\u00e1mica ca\u00f3tica de un l\u00e1ser de HeNe",
+                "pub_year": "2013",
+                "citation": "II Jornadas de Investigaci\u00f3n y Transferencia de la Facultad de Ingenier\u00eda, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An algorithmic implementation of the Pi function based on a new sieve",
+                "pub_year": "2008",
+                "citation": "arXiv preprint arXiv:0802.3770, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hidden Symmetries Among Primes",
+                "pub_year": "2008",
+                "citation": "Visual Mathematics, 0-0, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An elementary sieve",
+                "pub_year": "2007",
+                "citation": "arXiv preprint arXiv:0708.3709, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Behavior of a laser beam wandering with turbulent path length",
+                "pub_year": "2006",
+                "citation": "Thirteenth Joint International Symposium on Atmospheric and Ocean Optics \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Espectro roto-vibracional del HCl",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "NynEwzEAAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 0
+    }
+}

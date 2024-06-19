@@ -1,0 +1,107 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "UIuDIB8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Yolanda Matamala",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=UIuDIB8AAAAJ&citpid=1",
+    "affiliation": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n",
+    "organization": 3702576657308349741,
+    "interests": [
+        "energy systems",
+        "electricity",
+        "stackelberg problems",
+        "microgrids"
+    ],
+    "email_domain": "@ucsc.cl",
+    "citedby": 54,
+    "citedby5y": 54,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 17,
+        "2023": 24,
+        "2024": 13
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "miCMtj4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe Feijoo",
+            "affiliation": "PUCV - Past: PNNL-JGCRI, JHU, MIT"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "zcsC9EMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Zarrar Khan",
+            "affiliation": "Joint Global Change Research Institute (JGCRI) - Pacific Northwest National Laboratory (PNNL)"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A two-stage stochastic Stackelberg model for microgrid operation with chance constraints for renewable energy generation uncertainty",
+                "pub_year": "2021",
+                "citation": "Applied Energy 303, 117608, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "UIuDIB8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 43,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9270681699178529399",
+            "cites_id": [
+                "9270681699178529399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Chilean pathways for mid-century carbon neutrality under high renewable potential",
+                "pub_year": "2022",
+                "citation": "Journal of Cleaner Production 379, 134483, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "UIuDIB8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4407197954236082343",
+            "cites_id": [
+                "4407197954236082343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Probabilistic feasibility assessment of sequestration reliance for climate targets",
+                "pub_year": "2023",
+                "citation": "Energy 272, 127160, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "UIuDIB8AAAAJ:qjMakFHDy7sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17945326058915178110",
+            "cites_id": [
+                "17945326058915178110"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "hpAd2AoAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Hugo Nu\u00f1ez Delafuente",
+    "affiliation": "Universidad Cat\u00f3lica del Maule",
+    "organization": 12968600147058256171,
+    "interests": [
+        "Fraud Detection",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP"
+    ],
+    "email_domain": "@ucm.cl",
+    "citedby": 15,
+    "citedby5y": 15,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2023": 6,
+        "2024": 9
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A hybrid algorithm of ML and XAI to prevent breast cancer: a strategy to support decision making",
+                "pub_year": "2023",
+                "citation": "Cancers 15 (9), 2443, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "hpAd2AoAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1459269525904796299",
+            "cites_id": [
+                "1459269525904796299"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel strategy to classify chronic patients at risk: a hybrid machine learning approach",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (17), 3053, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hpAd2AoAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6905561312991914454",
+            "cites_id": [
+                "6905561312991914454"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An intelligent system for patients\u2019 well-being: A multi-criteria decision-making approach",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (21), 3956, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "hpAd2AoAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14795392221361364611",
+            "cites_id": [
+                "14795392221361364611"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensemble Approach Using k-Partitioned Isolation Forests for the Detection of Stock Market Manipulation",
+                "pub_year": "2024",
+                "citation": "Mathematics 12 (9), 1336, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hpAd2AoAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ensemble Approach Using k-Partitioned Isolation Forests for the Detection of Stock Market Manipulation",
+                "pub_year": "2024",
+                "citation": "Mathematics 12 (9), 1-18, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "hpAd2AoAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

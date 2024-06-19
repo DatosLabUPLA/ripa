@@ -1,0 +1,81 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "2ipTuEIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Joaqu\u00edn Hern\u00e1ndez Y\u00e9venes",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2ipTuEIAAAAJ&citpid=1",
+    "affiliation": "MSc in Astronomy, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "Supermassive Black Holes",
+        "Active Galactic Nuclei",
+        "Galaxy Surveys"
+    ],
+    "email_domain": "@udec.cl",
+    "homepage": "http://joacoh.github.io/",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Event horizon and environs (ether): A curated database for eht and ngeht targets and science",
+                "pub_year": "2023",
+                "citation": "Galaxies 11 (1), 15, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "2ipTuEIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15462789357085503249",
+            "cites_id": [
+                "15462789357085503249"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WISE2MBH: A scaling-based algorithm for probing supermassive black hole masses through WISE catalogs",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2405.18336, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "2ipTuEIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "WISE2MBH. A scaling-based algorithm for probing supermassive black hole masses through WISE photometry.",
+                "pub_year": "2024",
+                "citation": "Universidad de Concepci\u00f3n, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "2ipTuEIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "N3yurc8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Prachi Chavan",
+    "affiliation": "Ph.D. candidate, Universidad Diego Portales",
+    "organization": 12216913016116922734,
+    "interests": [
+        "comets",
+        "asteroids",
+        "meteorites",
+        "protoplanetary disks",
+        "photovoltaics"
+    ],
+    "email_domain": "@mail.udp.cl",
+    "homepage": "https://www.linkedin.com/in/prachi-chavan-astro39/",
+    "citedby": 7,
+    "citedby5y": 7,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resolving the binary components of the outbursting protostar HBC 494 with ALMA",
+                "pub_year": "2023",
+                "citation": "Monthly Notices of the Royal Astronomical Society 523 (4), 4970-4991, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "N3yurc8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5397246751009151616",
+            "cites_id": [
+                "5397246751009151616"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Azimuthal temperature variations in ISO-Oph 2 from multifrequency ALMA observations",
+                "pub_year": "2023",
+                "citation": "Monthly Notices of the Royal Astronomical Society 526 (1), 1545-1558, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "N3yurc8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6878831577886555518",
+            "cites_id": [
+                "6878831577886555518"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Multi-frequency analysis of protoplanetary disks in the Ophiuchus star-forming region",
+                "pub_year": "2023",
+                "citation": "ALMA at 10 years: Past, 5, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "N3yurc8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "NcL8EhYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jos\u00e9 Manuel Valente",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=NcL8EhYAAAAJ&citpid=1",
+    "affiliation": "Universidad de Los Andes",
+    "organization": 6615366460316766280,
+    "interests": [
+        "Data Analytics",
+        "Business Analytics",
+        "Data Science",
+        "Machine Learning"
+    ],
+    "email_domain": "@miuandes.cl",
+    "citedby": 56,
+    "citedby5y": 56,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 11,
+        "2022": 15,
+        "2023": 19,
+        "2024": 11
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SVR-FFS: A novel forward feature selection approach for high-frequency time series forecasting using support vector regression",
+                "pub_year": "2020",
+                "citation": "Expert Systems with Applications 160, 113729, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "NcL8EhYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9583716262972231172",
+            "cites_id": [
+                "9583716262972231172"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

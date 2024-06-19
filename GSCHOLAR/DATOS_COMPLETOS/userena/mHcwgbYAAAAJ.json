@@ -1,0 +1,54 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "mHcwgbYAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Luciano I. Poblete",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mHcwgbYAAAAJ&citpid=1",
+    "affiliation": "Universidad de La Serena",
+    "organization": 6030355530770144394,
+    "interests": [
+        "Computational Fluid Dynamics"
+    ],
+    "email_domain": "@userena.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "vLjigV0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ernesto Castillo",
+            "affiliation": "Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Enhanced numerical modeling of natural heat convective phase change for generalized non-Newtonian fluids at high Rayleigh number",
+                "pub_year": "2024",
+                "citation": "International Journal of Heat and Mass Transfer 228, 125642, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "mHcwgbYAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
