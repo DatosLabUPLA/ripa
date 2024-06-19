@@ -2,6 +2,7 @@ import os
 import csv
 import json
 import tempfile
+import datetime
 from google.cloud import bigquery
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
@@ -40,6 +41,7 @@ schemas = {
         bigquery.SchemaField("hindex5y", "INTEGER"),
         bigquery.SchemaField("i10index", "INTEGER"),
         bigquery.SchemaField("i10index5y", "INTEGER"),
+        bigquery.SchemaField("load_date", "DATETIME", mode="REQUIRED"),
     ],
     "gs_publications": [
         bigquery.SchemaField("scholar_id", "STRING"),
@@ -51,12 +53,15 @@ schemas = {
         bigquery.SchemaField("author_pub_id", "STRING"),
         bigquery.SchemaField("num_citations", "INTEGER"),
         bigquery.SchemaField("citedby_url", "STRING"),
+        bigquery.SchemaField("load_date", "DATETIME", mode="REQUIRED"),
+        
     ],
     "gs_coauthors": [
         bigquery.SchemaField("scholar_id", "STRING"),
         bigquery.SchemaField("coauthor_scholar_id", "STRING"),
         bigquery.SchemaField("name", "STRING"),
         bigquery.SchemaField("affiliation", "STRING"),
+        bigquery.SchemaField("load_date", "DATETIME", mode="REQUIRED"),
     ]
 }
 
@@ -111,7 +116,8 @@ def extract_info(data):
         "hindex": data.get("hindex"),
         "hindex5y": data.get("hindex5y"),
         "i10index": data.get("i10index"),
-        "i10index5y": data.get("i10index5y")
+        "i10index5y": data.get("i10index5y"),
+        "load_date": datetime.datetime.now()
     }
     gs_authors.append(autor)
 
@@ -127,6 +133,7 @@ def extract_info(data):
             "author_pub_id": pub.get("author_pub_id"),
             "num_citations": pub.get("num_citations"),
             "citedby_url": pub.get("citedby_url"),
+            "load_date": datetime.datetime.now()
         }
         gs_publications.append(publicacion)
 
@@ -137,6 +144,7 @@ def extract_info(data):
             "coauthor_scholar_id": coauthor.get("scholar_id"),
             "name": coauthor.get("name"),
             "affiliation": coauthor.get("affiliation"),
+            "load_date": datetime.datetime.now()
         }
         gs_coauthors.append(coautor)
     
