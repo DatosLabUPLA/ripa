@@ -1,0 +1,55 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "YEUP1XgAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "IGNACIO MONTENEGRO-ROJAS",
+    "affiliation": "PhD Student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Mechanobiology",
+        "Computational Modelling",
+        "Cell Migration"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A computational framework for testing hypotheses of the minimal mechanical requirements for cell aggregation using early annual killifish embryogenesis as a model",
+                "pub_year": "2023",
+                "citation": "Frontiers in Cell and Developmental Biology 11, 959611, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "YEUP1XgAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12828177390897481217",
+            "cites_id": [
+                "12828177390897481217"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "VaYGEwMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Juan Jos\u00e9 Molina Mej\u00eda",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VaYGEwMAAAAJ&citpid=1",
+    "affiliation": "Matem\u00e1tico, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Machine learning",
+        "Deep learning",
+        "Inverse problem",
+        "Reconstruction of images"
+    ],
+    "email_domain": "@uc.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the dynamics of the frequency bias in neural networks",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2405.14957, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "VaYGEwMAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CConnect: Synergistic Convolutional Regularization for Cartesian T2* Mapping",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2404.18182, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "VaYGEwMAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,794 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4quSKooAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jorge G\u00f3mez Mir",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=4quSKooAAAAJ&citpid=3",
+    "affiliation": "Universidad de los Andes, Chile",
+    "organization": 6615366460316766280,
+    "interests": [
+        "High Performance CMOS",
+        "Neuromorphic Computing",
+        "Spice Modeling",
+        "Emerging Memories"
+    ],
+    "email_domain": "@uandes.cl",
+    "citedby": 906,
+    "citedby5y": 897,
+    "hindex": 16,
+    "hindex5y": 16,
+    "i10index": 24,
+    "i10index5y": 24,
+    "cites_per_year": {
+        "2018": 5,
+        "2019": 21,
+        "2020": 75,
+        "2021": 120,
+        "2022": 225,
+        "2023": 292,
+        "2024": 161
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "glw0_RkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Suman Datta",
+            "affiliation": "Joseph M. Pettit Chair Professor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "QmTLo58AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Sourav Dutta",
+            "affiliation": "Assistant Professor, University of Texas at Dallas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oVz2tJMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Asif Khan",
+            "affiliation": "Assistant Professor, ECE and MSE, Georgia Tech"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "7--rnDMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kai Ni",
+            "affiliation": "University of Notre Dame"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Iw35OOoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Angel Abusleme",
+            "affiliation": "Associate Professor, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "5gyHl_kAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ioannis Vourkas",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda, Valpara\u00edso, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ocNmU2QAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Abhishek Khanna",
+            "affiliation": "University of Notre Dame"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "oHGeyDQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antonio Rubio",
+            "affiliation": "Professor of Electrical Engineering (UPC)"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "nPTJtJUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Benjamin Grisafe",
+            "affiliation": "University of Notre Dame"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Ultrathin ferroic HfO2\u2013ZrO2 superlattice gate stack for advanced transistors",
+                "pub_year": "2022",
+                "citation": "Nature 604 (7904), 65-71, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:iH-uZ7U-co4C",
+            "num_citations": 149,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18003443459774671635",
+            "cites_id": [
+                "18003443459774671635"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Supervised learning in all FeFET-based spiking neural network: Opportunities and challenges",
+                "pub_year": "2020",
+                "citation": "Frontiers in neuroscience 14, 634, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:M3ejUd6NZC8C",
+            "num_citations": 81,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=963501143692067723",
+            "cites_id": [
+                "963501143692067723"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Programmable coupled oscillators for synchronized locomotion",
+                "pub_year": "2019",
+                "citation": "Nature communications 10 (1), 3299, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 73,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8679962765726537320",
+            "cites_id": [
+                "8679962765726537320"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental demonstration of ferroelectric spiking neurons for unsupervised clustering",
+                "pub_year": "2018",
+                "citation": "2018 IEEE International Electron Devices Meeting (IEDM), 13.3. 1-13.3. 4, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 70,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4491687577372367622",
+            "cites_id": [
+                "4491687577372367622"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Double-gate W-doped amorphous indium oxide transistors for monolithic 3D capacitorless gain cell eDRAM",
+                "pub_year": "2020",
+                "citation": "2020 IEEE International Electron Devices Meeting (IEDM), 28.3. 1-28.3. 4, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:dhFuZR0502QC",
+            "num_citations": 53,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=154882979508275864",
+            "cites_id": [
+                "154882979508275864"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental demonstration of phase transition nano-oscillator based Ising machine",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Electron Devices Meeting (IEDM), 37.8. 1-37.8. 4, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11189359169470210142",
+            "cites_id": [
+                "11189359169470210142"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Neuro-mimetic dynamics of a ferroelectric FET-based spiking neuron",
+                "pub_year": "2019",
+                "citation": "IEEE Electron Device Letters 40 (7), 1213-1216, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15306476521380895346",
+            "cites_id": [
+                "15306476521380895346"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring memristor multi-level tuning dependencies on the applied pulse properties via a low cost instrumentation setup",
+                "pub_year": "2019",
+                "citation": "IEEE Access 7, 59413-59421, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 35,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5076904003119880402",
+            "cites_id": [
+                "5076904003119880402"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BEOL-compatible superlattice FEFET analog synapse with improved linearity and symmetry of weight update",
+                "pub_year": "2022",
+                "citation": "IEEE Transactions on Electron Devices 69 (4), 2094-2100, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:hFOr9nPyWt4C",
+            "num_citations": 33,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15857368309690675922",
+            "cites_id": [
+                "15857368309690675922"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "BEOL compatible superlattice FerroFET-based high precision analog weight cell with superior linearity and symmetry",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Electron Devices Meeting (IEDM), 19.6. 1-19.6. 4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:TQgYirikUcIC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1737190003235870388",
+            "cites_id": [
+                "1737190003235870388"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Biologically plausible ferroelectric quasi-leaky integrate and fire neuron",
+                "pub_year": "2019",
+                "citation": "2019 Symposium on VLSI Technology, T140-T141, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8685886525042119013",
+            "cites_id": [
+                "8685886525042119013"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A swarm optimization solver based on ferroelectric spiking neural networks",
+                "pub_year": "2019",
+                "citation": "Frontiers in neuroscience 13, 458889, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:5nxA0vEk-isC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8815759294765627666",
+            "cites_id": [
+                "8815759294765627666"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage divider for self-limited analog state programing of memristors",
+                "pub_year": "2019",
+                "citation": "IEEE Transactions on Circuits and Systems II: Express Briefs 67 (4), 620-624, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:WF5omc3nYNoC",
+            "num_citations": 22,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18089067132048427071",
+            "cites_id": [
+                "18089067132048427071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Characterization and modeling of 22 nm FDSOI cryogenic RF CMOS",
+                "pub_year": "2021",
+                "citation": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits 7 \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:qUcmZB5y_30C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17823161747122379472",
+            "cites_id": [
+                "17823161747122379472"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Hysteresis-free negative capacitance in the multi-domain scenario for logic applications",
+                "pub_year": "2019",
+                "citation": "2019 IEEE International Electron Devices Meeting (IEDM), 7.1. 1-7.1. 4, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:Zph67rFs4hoC",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14658815999125795108",
+            "cites_id": [
+                "14658815999125795108"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed on-sensor compute system for AR/VR devices: A semi-analytical simulation framework for power estimation",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2203.07474, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:e5wmG9Sq2KIC",
+            "num_citations": 18,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14107965508455486399",
+            "cites_id": [
+                "14107965508455486399"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comprehensive predictive modeling of resistive switching devices using a bias-dependent window function approach",
+                "pub_year": "2020",
+                "citation": "Solid-State Electronics 170, 107833, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:YOwf2qJgpHMC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8936290010486314593",
+            "cites_id": [
+                "8936290010486314593"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the voltage divider approach for accurate memristor state tuning",
+                "pub_year": "2017",
+                "citation": "2017 IEEE 8th Latin American Symposium on Circuits & Systems (LASCAS), 1-4, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3605612249562644448",
+            "cites_id": [
+                "3605612249562644448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Lifelong learning with monolithic 3D ferroelectric ternary content-addressable memory",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Electron Devices Meeting (IEDM), 1-4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:TFP_iSt0sucC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4521602384489897686",
+            "cites_id": [
+                "4521602384489897686"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Augmented reality-the next frontier of image sensors and compute systems",
+                "pub_year": "2022",
+                "citation": "2022 IEEE International Solid-State Circuits Conference (ISSCC) 65, 426-428, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:_Qo2XoVZTnwC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16394300909945414103",
+            "cites_id": [
+                "16394300909945414103"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cryogenic RF CMOS on 22nm FDSOI Platform with Record fT=495GHz and fMAX=497GHz",
+                "pub_year": "2021",
+                "citation": "2021 Symposium on VLSI Technology, 1-2, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:IWHjjKOFINEC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6269063407801779121",
+            "cites_id": [
+                "6269063407801779121"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Spoken vowel classification using synchronization of phase transition nano-oscillators",
+                "pub_year": "2019",
+                "citation": "2019 Symposium on VLSI Technology, T128-T129, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:roLk4NBRz8UC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5846765987840089859",
+            "cites_id": [
+                "5846765987840089859"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Autonomous audio heater car: A comprehensive project-based analog design experience",
+                "pub_year": "2018",
+                "citation": "The International Journal of Electrical Engineering & Education 55 (2), 155-167, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13749255549961347019",
+            "cites_id": [
+                "13749255549961347019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring the \u201cresistance change per energy unit\u201d as universal performance parameter for resistive switching devices",
+                "pub_year": "2020",
+                "citation": "Solid-State Electronics 165, 107748, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:MXK_kJrjxJIC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3393924836189869343",
+            "cites_id": [
+                "3393924836189869343"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Steep slope ferroelectric field effect transistor",
+                "pub_year": "2019",
+                "citation": "2019 Electron Devices Technology and Manufacturing Conference (EDTM), 59-61, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5727913728188356421",
+            "cites_id": [
+                "5727913728188356421"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Higher-k zirconium doped hafnium oxide (HZO) trigate transistors with higher DC and RF performance and improved reliability",
+                "pub_year": "2021",
+                "citation": "2021 Symposium on VLSI Technology, 1-2, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:ZeXyd9-uunAC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=72135152580511764",
+            "cites_id": [
+                "72135152580511764"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardiac Muscle Cell\u2010Based Coupled Oscillator Network for Collective Computing",
+                "pub_year": "2021",
+                "citation": "Advanced Intelligent Systems 3 (4), 2000253, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:QIV2ME_5wuYC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13824801118075181631",
+            "cites_id": [
+                "13824801118075181631"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Computational associative memory based on monolithically integrated metal-oxide thin film transistors for update-frequent search applications",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Electron Devices Meeting (IEDM), 37.6. 1-37.6. 4, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:HDshCWvjkbEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1706004978340938307",
+            "cites_id": [
+                "1706004978340938307"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy-efficient edge inference on multi-channel streaming data in 28nm HKMG FeFET technology",
+                "pub_year": "2019",
+                "citation": "2019 symposium on VLSI technology, T38-T39, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:Se3iqnhoufwC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=965815988118393335",
+            "cites_id": [
+                "965815988118393335"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Experimental measurements on resistive switching devices: Gaining hands-on experience",
+                "pub_year": "2018",
+                "citation": "2018 7th International Conference on Modern Circuits and Systems \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=975554548377154180",
+            "cites_id": [
+                "975554548377154180"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Siracusa: A Low-Power On-Sensor RISC-V SoC for Extended Reality Visual Processing in 16nm CMOS",
+                "pub_year": "2023",
+                "citation": "ESSCIRC 2023-IEEE 49th European Solid State Circuits Conference (ESSCIRC \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:M3NEmzRMIkIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5327580946941113008",
+            "cites_id": [
+                "5327580946941113008"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Significance of multi and few domain ferroelectric switching dynamics for steep-slope non-hysteretic ferroelectric field effect transistor",
+                "pub_year": "2019",
+                "citation": "2019 Device Research Conference (DRC), 247-248, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=285604763781885029",
+            "cites_id": [
+                "285604763781885029"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Atomic-scale ferroic HfO2-ZrO2 superlattice gate stack for advanced transistors",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:L8Ckcad2t8MC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10416382936491682832",
+            "cites_id": [
+                "10416382936491682832"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Differential charge boost in hysteretic ferroelectric\u2013dielectric heterostructure capacitors at steady state",
+                "pub_year": "2021",
+                "citation": "Applied Physics Letters 118 (12), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:7PzlFSSx8tAC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16832969470167085905",
+            "cites_id": [
+                "16832969470167085905"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Large\u2010Scale Cardiac Muscle Cell\u2010Based Coupled Oscillator Network for Vertex Coloring Problem",
+                "pub_year": "2023",
+                "citation": "Advanced Intelligent Systems 5 (5), 2200356, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:maZDTaKrznsC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11957184790767050607",
+            "cites_id": [
+                "11957184790767050607"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resistive switching behavior seen from the energy point of view",
+                "pub_year": "2018",
+                "citation": "2018 IEEE 24th International Symposium on On-Line Testing And Robust System \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14086452346772605196",
+            "cites_id": [
+                "14086452346772605196"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage divider for self-limited analog state programing of memristors",
+                "pub_year": "2020",
+                "citation": "2020 IEEE International Symposium on Circuits and Systems (ISCAS), 1-1, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:4DMP91E08xMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15164184468035037148",
+            "cites_id": [
+                "15164184468035037148"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Siracusa: A 16 nm Heterogenous RISC-V SoC for Extended Reality With At-MRAM Neural Engine",
+                "pub_year": "2024",
+                "citation": "IEEE Journal of Solid-State Circuits, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estimating Power, Performance, and Area for On-Sensor Deployment of AR/VR Workloads Using an Analytical Framework",
+                "pub_year": "2024",
+                "citation": "ACM Transactions on Design Automation of Electronic Systems, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:RGFaLdJalmkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Cardiac Muscle-Cell-Based Coupled Oscillator Network for Collective Computing and Related Methods",
+                "pub_year": "2022",
+                "citation": "US Patent App. 17/407,604, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:isC4tDSrTZIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional Oxide-Based Electronics for Logic, Memory, and RF Applications",
+                "pub_year": "2021",
+                "citation": "PQDT-Global, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:j3f4tGmQtD8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Functional oxide-based electronics for logic, memory, and RF applications",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:RHpTSmoSYBkC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Voltage Divider for Self-Limited Analog State Programing of Memristors",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:4JMBOYKVnBMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "2021 Index IEEE Journal on Exploratory Solid-State Computational Devices and Circuits Vol. 7",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "4quSKooAAAAJ:mB3voiENLucC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 18,
+        "not_available": 8
+    }
+}

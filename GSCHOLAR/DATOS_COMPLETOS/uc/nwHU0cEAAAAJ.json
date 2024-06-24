@@ -1,0 +1,89 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "nwHU0cEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camila Vera Villa",
+    "affiliation": "Master Student at Department of Computer Science, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Computing",
+        "Deep Learning",
+        "Urban Informatics",
+        "Neuro Informatics"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning to cluster urban areas: two competitive approaches and an empirical validation",
+                "pub_year": "2022",
+                "citation": "EPJ Data Science 11 (1), 62, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "nwHU0cEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8540957079705549950",
+            "cites_id": [
+                "8540957079705549950"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "SpatialCluster: A Python library for urban clustering",
+                "pub_year": "2024",
+                "citation": "SoftwareX 26, 101739, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "nwHU0cEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Learning to cluster urban areas: two competitive approaches and an empirical validation",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "nwHU0cEAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "San Pedro de la Paz, un umbral metropolitano: Opciones de conectividad.",
+                "pub_year": "2012",
+                "citation": "Universidad de Concepci\u00f3n., 2012"
+            },
+            "filled": false,
+            "author_pub_id": "nwHU0cEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

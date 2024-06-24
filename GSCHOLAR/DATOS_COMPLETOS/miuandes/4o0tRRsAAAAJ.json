@@ -1,0 +1,109 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "4o0tRRsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "FRANCISCO JAVIER ESPA\u00d1A",
+    "affiliation": "Researcher, Universidad de los Andes Chile",
+    "organization": 6615366460316766280,
+    "interests": [
+        "Environmental Economics",
+        "Climate Change",
+        "Impact Evaluation"
+    ],
+    "email_domain": "@miuandes.cl",
+    "citedby": 17,
+    "citedby5y": 17,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 9,
+        "2024": 6
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "As3fty8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "William Ellis Foster",
+            "affiliation": "Professor of Agricultural and Resource Economics, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "GhUvakIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Oscar Melo",
+            "affiliation": "Associate Professor. Agricultural and Resource Economics, Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "K9F7h2EAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Rodrigo A Arriagada",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Forest plantation subsidies: Impact evaluation of the Chilean case",
+                "pub_year": "2022",
+                "citation": "Forest Policy and Economics 137, 102696, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "4o0tRRsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3499762647291986986",
+            "cites_id": [
+                "3499762647291986986"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A scenario-specific nexus modelling toolkit to identify trade-offs in the promotion of sustainable irrigated agriculture in Ecuador, a Belt and Road country",
+                "pub_year": "2023",
+                "citation": "Journal of Cleaner Production 413, 137350, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "4o0tRRsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7259259079438616019",
+            "cites_id": [
+                "7259259079438616019"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Impact of the Forest Subsidy Program: An ex Post Assessment of Chilean Plantations",
+                "pub_year": "2020",
+                "citation": "PQDT-Global, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "4o0tRRsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

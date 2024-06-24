@@ -1,0 +1,92 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "FQzQSC8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicanor Carrasco-Vargas",
+    "affiliation": "PhD student, Pontifical Catholic University of Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@mat.uc.cl",
+    "homepage": "https://nicanorcarrascovargas.github.io/",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The geometric subgroup membership problem",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2303.14820, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "FQzQSC8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15822641053851137247",
+            "cites_id": [
+                "15822641053851137247"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective dynamical systems beyond dimension zero and factors of SFTs",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2401.07973, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "FQzQSC8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17426184164026643879",
+            "cites_id": [
+                "17426184164026643879"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Undecidability of dynamical properties of SFTs and sofic subshifts on  and other groups",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2401.10347, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "FQzQSC8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The characterization of infinite Eulerian graphs, a short and computable proof",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2305.17998, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "FQzQSC8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

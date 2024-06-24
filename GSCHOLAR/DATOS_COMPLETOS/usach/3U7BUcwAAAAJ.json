@@ -1,0 +1,74 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3U7BUcwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Carvajal",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3U7BUcwAAAAJ&citpid=1",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [],
+    "email_domain": "@usach.cl",
+    "homepage": "https://youtube.com/@diegousach/",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 2,
+        "2022": 0,
+        "2023": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Surface anisotropy in a magnetic cylinder induced by the displacement of a vortex core",
+                "pub_year": "2019",
+                "citation": "Journal of Magnetism and Magnetic Materials 475, 271-275, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "3U7BUcwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13998807982742271522,15617917540366674760",
+            "cites_id": [
+                "13998807982742271522",
+                "15617917540366674760"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Orbit-like trajectory of the vortex core in ferrimagnetic dots close to the compensation point",
+                "pub_year": "2020",
+                "citation": "Results in Physics 19, 103598, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3U7BUcwAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3161355586907621097,13432657104754807187",
+            "cites_id": [
+                "3161355586907621097",
+                "13432657104754807187"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

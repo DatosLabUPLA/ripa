@@ -1,0 +1,88 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "VYOGp1kAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Ignacio Bustos M\u00fcller",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=VYOGp1kAAAAJ&citpid=1",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Regolith geology",
+        "Exogenous processes",
+        "REE exploration",
+        "Strategic minerals",
+        "Geochemistry"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 9,
+    "citedby5y": 9,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 5,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9XH_N3oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos Jorge Marquardt Rom\u00e1n",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_Tg9LxgAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Pedro Filipe Oliveira Cordeiro",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Regolith-hosted rare earth exploration in the Chilean Coastal Range of the Central Andes",
+                "pub_year": "2022",
+                "citation": "Journal of Geochemical Exploration 234, 106934, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "VYOGp1kAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14077435943143022647",
+            "cites_id": [
+                "14077435943143022647"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploraci\u00f3n de tierras raras hospedadas en regolito en la Cordillera de la Costa de los Andes centrales",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "VYOGp1kAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
