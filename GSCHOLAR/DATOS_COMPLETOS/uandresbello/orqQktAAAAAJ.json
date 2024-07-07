@@ -1,0 +1,73 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "orqQktAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Cristina Mu\u00f1oz-Rehbein",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=orqQktAAAAAJ&citpid=1",
+    "affiliation": "Ph.D student, Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Bioinformatics",
+        "metagenomics",
+        "marine microbiology."
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sa8zURMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Juan A. Ugalde",
+            "affiliation": "Center for Bioinformatics and Integrative Biology, Universidad Andres Bello"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "SNz4keUAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carlos J Blondel",
+            "affiliation": "Universidad Andres Bello"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Whole-genome sequencing reveals changes in genomic diversity and distinctive repertoires of T3SS and T6SS effector candidates in Chilean clinical Campylobacter strains",
+                "pub_year": "2023",
+                "citation": "Frontiers in cellular and infection microbiology 13, 1208825, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "orqQktAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18089763986625126884",
+            "cites_id": [
+                "18089763986625126884"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

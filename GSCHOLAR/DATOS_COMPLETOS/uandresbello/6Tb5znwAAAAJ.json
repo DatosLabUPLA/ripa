@@ -1,0 +1,78 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6Tb5znwAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Williams Garcia Argote",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6Tb5znwAAAAJ&citpid=1",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Qu\u00edmica Computacional"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2020": 1,
+        "2021": 0,
+        "2022": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Estudio te\u00f3rico de la actividad antioxidante de compuestos arom\u00e1ticos con bases de Schiff heteroc\u00edclicas sustituidos en posiciones META y PARA",
+                "pub_year": "2019",
+                "citation": "Revista de la Sociedad Qu\u00edmica del Per\u00fa 85 (2), 242-257, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "6Tb5znwAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=68790376954539623",
+            "cites_id": [
+                "68790376954539623"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revisiting the potential-energy surface of C n Be 3n+ 2 H 2n+ 2 2+(n= 2\u20134) clusters: are planar pentacoordinate carbon structures the global minima?",
+                "pub_year": "2023",
+                "citation": "Physical Chemistry Chemical Physics 25 (30), 20235-20240, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "6Tb5znwAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "THEORETICAL STUDY OF THE ANTIOXIDANT ACTIVITY OF AROMATIC COMPOUNDS WITH HETEROCYCLIC SCHIFF BASES SUBSTITUTED IN META AND PARA POSITIONS",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "6Tb5znwAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

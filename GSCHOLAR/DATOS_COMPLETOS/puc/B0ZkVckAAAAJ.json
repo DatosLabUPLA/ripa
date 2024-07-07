@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "B0ZkVckAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio Calder\u00f3n",
+    "affiliation": "Ph. D. Student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Fire Dynamics",
+        "CFD",
+        "Fire Safety Engineering"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ZVNmS2gAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Wolfram Jahn",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding Compartmentation Failure for High-Rise Timber Buildings",
+                "pub_year": "2024",
+                "citation": "Fire 7 (6), 190, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "B0ZkVckAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7174360943441141727",
+            "cites_id": [
+                "7174360943441141727"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Assessment of the Performance of FireFOAM in Simulating a Real-Scale Fire Scenario Using High Resolution Data",
+                "pub_year": "2023",
+                "citation": "Fire 6 (10), 375, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "B0ZkVckAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Intuitive explanation of numerical diffusion with implicit scheme for advection equation",
+                "pub_year": "2022",
+                "citation": "Eng. Math. Lett. 2022, Article ID 2, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "B0ZkVckAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

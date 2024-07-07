@@ -1,0 +1,294 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "AXOIzmcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Fuica",
+    "affiliation": "Postdoc, Facultad de Matem\u00e1ticas, Pontificia Universidad Cat\u00f3lica de Chile.",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Numerical Analysis",
+        "Optimal Control Problems",
+        "Singular Data"
+    ],
+    "email_domain": "@mat.uc.cl",
+    "citedby": 70,
+    "citedby5y": 69,
+    "hindex": 5,
+    "hindex5y": 5,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 15,
+        "2022": 9,
+        "2023": 31,
+        "2024": 12
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for optimal control problems involving the Stokes system and Dirac measures",
+                "pub_year": "2021",
+                "citation": "Applied Mathematics & Optimization 84, 1717-1750, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8916990720319234654",
+            "cites_id": [
+                "8916990720319234654"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Adaptive finite element methods for sparse PDE-constrained optimization",
+                "pub_year": "2020",
+                "citation": "IMA Journal of Numerical Analysis 40 (3), 2106-2142, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:WF5omc3nYNoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17672015070707351704",
+            "cites_id": [
+                "17672015070707351704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An adaptive FEM for the pointwise tracking optimal control problem of the Stokes equations",
+                "pub_year": "2019",
+                "citation": "SIAM Journal on Scientific Computing 41 (5), A2967-A2998, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12932919533033537063",
+            "cites_id": [
+                "12932919533033537063"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Darcy\u2019s problem coupled with the heat equation under singular forcing: analysis and discretization",
+                "pub_year": "2024",
+                "citation": "IMA Journal of Numerical Analysis, drad094, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:roLk4NBRz8UC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10713372336329729860",
+            "cites_id": [
+                "10713372336329729860"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for an optimal control problem with a bilinear state equation",
+                "pub_year": "2022",
+                "citation": "Journal of Optimization Theory and Applications 194 (2), 543-569, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052140725341230369",
+            "cites_id": [
+                "6052140725341230369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Posteriori Error Estimates for a Distributed Optimal Control Problem of the Stationary Navier--Stokes Equations",
+                "pub_year": "2021",
+                "citation": "SIAM Journal on Control and Optimization 59 (4), 2898-2923, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15025615137610450693",
+            "cites_id": [
+                "15025615137610450693"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An a posteriori error analysis of an elliptic optimal control problem in measure space",
+                "pub_year": "2019",
+                "citation": "Computers & Mathematics with Applications 77 (10), 2659-2675, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13486067396201458068",
+            "cites_id": [
+                "13486067396201458068"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Optimal Control Problem for the Navier\u2013Stokes Equations with Point Sources",
+                "pub_year": "2023",
+                "citation": "Journal of Optimization Theory and Applications 196 (2), 590-616, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3270247008772829133",
+            "cites_id": [
+                "3270247008772829133"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for a pointwise tracking optimal control problem of a semilinear elliptic equation",
+                "pub_year": "2022",
+                "citation": "SIAM Journal on Control and Optimization 60 (3), 1763-1790, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6730796981621717553",
+            "cites_id": [
+                "6730796981621717553"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates in W1, p\u00d7 Lp spaces for the Stokes system with Dirac measures",
+                "pub_year": "2021",
+                "citation": "Computers & Mathematics with Applications 94, 47-59, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13810244041497894779",
+            "cites_id": [
+                "13810244041497894779"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A posteriori error estimates for semilinear optimal control problems",
+                "pub_year": "2021",
+                "citation": "ESAIM: Mathematical Modelling and Numerical Analysis 55 (5), 2293-2322, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15069242908777429989",
+            "cites_id": [
+                "15069242908777429989"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A pointwise tracking optimal control problem for the stationary Navier--Stokes equations",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2309.14511, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10521959250959707413",
+            "cites_id": [
+                "10521959250959707413"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A DPG method for linear quadratic optimal control problems",
+                "pub_year": "2024",
+                "citation": "Computers & Mathematics with Applications 166, 106-117, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Bilinear optimal control for the fractional Laplacian: analysis and discretization",
+                "pub_year": "2024",
+                "citation": "SIAM Journal on Numerical Analysis 62 (3), 1344-1371, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:UebtZRa9Y70C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mixed finite element methods for elliptic obstacle problems",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2406.09605, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:hqOjcs7Dif8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Error estimates for a bilinear optimal control problem of Maxwell's equations",
+                "pub_year": "2024",
+                "citation": "arXiv preprint arXiv:2405.05532, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:Se3iqnhoufwC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fractional, semilinear, and sparse optimal control: a priori error bounds",
+                "pub_year": "2023",
+                "citation": "arXiv preprint arXiv:2312.08335, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AXOIzmcAAAAJ:LkGwnXOMwfcC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "AuVErkEAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Regaldiz",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Endocrinology and immunology"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 11,
+    "citedby5y": 11,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2023": 2,
+        "2024": 9
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gut microbiota short-chain fatty acids and their impact on the host thyroid function and diseases",
+                "pub_year": "2023",
+                "citation": "Frontiers in Endocrinology 14, 1192216, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "AuVErkEAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8094801914961915071",
+            "cites_id": [
+                "8094801914961915071"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gut microbiota short-chain fatty acids and their impact on the host thyroid function and diseases",
+                "pub_year": "2023",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AuVErkEAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A study of the effect of a cafeteria diet on glucose metabolism of the offspring gestated under maternal hypothyroxinemia.",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "AuVErkEAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

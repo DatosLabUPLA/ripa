@@ -1,0 +1,79 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "G2pcpIsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Fernanda Weinstein",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Psycholinguistics",
+        "social neuroscience"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 3,
+        "2024": 2
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Procesamiento ling\u00fc\u00edstico y emocional de agresiones verbales.",
+                "pub_year": "2021",
+                "citation": "Revista de Sociolog\u00eda 36 (1), 2021"
+            },
+            "filled": false,
+            "author_pub_id": "G2pcpIsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5835102499585208165",
+            "cites_id": [
+                "5835102499585208165"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modality effects in the cultural evolution of language: An experimental iterated learning approach",
+                "pub_year": "2019",
+                "citation": "Onom\u00e1zein, 103-125, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "G2pcpIsAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modality effects in the cultural evolution of language: An experimental approach",
+                "pub_year": "2016",
+                "citation": "The University of Edinburgh, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "G2pcpIsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1684AZUAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alvaro Prado Romo",
+    "affiliation": "Universidad Cat\u00f3lica del Norte",
+    "organization": 17255630398072300451,
+    "interests": [
+        "NMPC",
+        "Robust Control",
+        "Reinforcement Lear",
+        "Mobile Rob\u00f3tics",
+        "Precision Agriculture"
+    ],
+    "email_domain": "@ucn.cl",
+    "citedby": 1,
+    "citedby5y": 1,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Localizaci\u00f3n simult\u00e1nea y mapeo para control de un robot m\u00f3vil aut\u00f3nomo usando escaneo de nube de puntos LiDAR y m\u00e9todos de aprendizaje de m\u00e1quina",
+                "pub_year": "2023",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 31, 0-0, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1684AZUAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8992390456163767526",
+            "cites_id": [
+                "8992390456163767526"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Posicionamiento de ayuda visual utilizando compresi\u00f3n de nube de puntos y c\u00e1maras RGB-D para manipuladores rob\u00f3ticos",
+                "pub_year": "2023",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 31, 0-0, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1684AZUAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Clasificaci\u00f3n de calidad de manzana para monitoreo de cosechabilidad utilizando visi\u00f3n por computador y algoritmos de aprendizaje profundo",
+                "pub_year": "2023",
+                "citation": "Ingeniare. Revista chilena de ingenier\u00eda 31, 0-0, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "1684AZUAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

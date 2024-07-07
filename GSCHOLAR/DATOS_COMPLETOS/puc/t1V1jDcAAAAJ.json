@@ -1,0 +1,141 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "t1V1jDcAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alejandro Mallea",
+    "affiliation": "Student, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Theoretical Computer Science"
+    ],
+    "email_domain": "@ing.puc.cl",
+    "citedby": 253,
+    "citedby5y": 89,
+    "hindex": 4,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2011": 7,
+        "2012": 10,
+        "2013": 17,
+        "2014": 27,
+        "2015": 29,
+        "2016": 28,
+        "2017": 26,
+        "2018": 18,
+        "2019": 23,
+        "2020": 24,
+        "2021": 12,
+        "2022": 10,
+        "2023": 12,
+        "2024": 8
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "On blank nodes",
+                "pub_year": "2011",
+                "citation": "International semantic web conference, 421-437, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 118,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5271483789317495321",
+            "cites_id": [
+                "5271483789317495321"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Everything you always wanted to know about blank nodes",
+                "pub_year": "2014",
+                "citation": "Journal of Web Semantics 27, 42-69, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 106,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7796564360286056280",
+            "cites_id": [
+                "7796564360286056280"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Revisiting blank nodes in RDF to avoid the semantic mismatch with SPARQL",
+                "pub_year": "2010",
+                "citation": "RDF Next Steps Workshop, 26-27, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2092787394907325690",
+            "cites_id": [
+                "2092787394907325690"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The Semantic Web\u2013ISWC 2011",
+                "pub_year": "2011",
+                "citation": "Springer, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1536061565828725566",
+            "cites_id": [
+                "1536061565828725566"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Proof of Sch\u00fctzenberger\u2019s Theorem",
+                "pub_year": "2012",
+                "citation": "Pontificia Universidad Cat\u00f3lica de Chile, Santiago, Chile, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8339885290667023535",
+            "cites_id": [
+                "8339885290667023535"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Understanding the structure of RDF data: a practical study",
+                "pub_year": "2009",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "t1V1jDcAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 2,
+        "not_available": 0
+    }
+}

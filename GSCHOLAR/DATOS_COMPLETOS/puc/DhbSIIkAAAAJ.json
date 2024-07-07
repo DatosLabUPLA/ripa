@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DhbSIIkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Nicol\u00e1s Carrasco-Astudillo",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DhbSIIkAAAAJ&citpid=3",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [],
+    "email_domain": "@uc.cl",
+    "citedby": 3,
+    "citedby5y": 3,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2023": 1,
+        "2024": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "uH6s_YEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Lemus-Romani",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing retaining walls through reinforcement learning approaches and metaheuristic techniques",
+                "pub_year": "2023",
+                "citation": "Mathematics 11 (9), 2104, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "DhbSIIkAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9919919764445201597",
+            "cites_id": [
+                "9919919764445201597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Electrochemical analysis of carbon steel embedded in mortars with pretreated copper tailings as supplementary cementitious material",
+                "pub_year": "2024",
+                "citation": "International Journal of Electrochemical Science 19 (6), 100584, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "DhbSIIkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Influence of Copper Tailings on the Mechanical and Electrochemical Properties of Reinforced Mortar",
+                "citation": "Available at SSRN 4501288, 0"
+            },
+            "filled": false,
+            "author_pub_id": "DhbSIIkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

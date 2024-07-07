@@ -1,0 +1,84 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "31M31x4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "PABLO ARANEDA",
+    "affiliation": "Pontifical Catholic University of Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "heuristic_search",
+        "BOA*"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 10,
+    "citedby5y": 10,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 5,
+        "2023": 3,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploiting learned policies in focal search",
+                "pub_year": "2021",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 12 (1), 2-10, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "31M31x4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3160075143336917928",
+            "cites_id": [
+                "3160075143336917928"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Focal Discrepancy Search for Learned Heuristics",
+                "pub_year": "2022",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 15 (1 \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "31M31x4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7523740076039648652",
+            "cites_id": [
+                "7523740076039648652"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finding a Small, Diverse Subset of the Pareto Solution Set in Bi-Objective Search",
+                "pub_year": "2024",
+                "citation": "Proceedings of the International Symposium on Combinatorial Search 17, 255-256, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "31M31x4AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "vSYn9fIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Diego Pasmi\u00f1o",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=vSYn9fIAAAAJ&citpid=2",
+    "affiliation": "Alumnus, Universidad de Concepci\u00f3n",
+    "organization": 4555896482842878823,
+    "interests": [
+        "MRI",
+        "Image Processing",
+        "Signal Processing",
+        "Biometrics",
+        "Machine Learning"
+    ],
+    "email_domain": "@udec.cl",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Flickr-PAD: New Face High-Resolution Presentation Attack Detection Database",
+                "pub_year": "2023",
+                "citation": "2023 11th International Workshop on Biometrics and Forensics (IWBF), 1-6, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "vSYn9fIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15626661583294966214",
+            "cites_id": [
+                "15626661583294966214"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparison of baseline correction algorithms for in vivo 1H\u2010MRS",
+                "pub_year": "2024",
+                "citation": "NMR in Biomedicine, e5203, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "vSYn9fIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Determining the Segmentation Type Impact on an ID Card Fraud Detection System",
+                "pub_year": "2024",
+                "citation": "Science and Information Conference, 544-555, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "vSYn9fIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Face Image Quality Estimation on Presentation Attack Detection",
+                "pub_year": "2023",
+                "citation": "Iberoamerican Congress on Pattern Recognition, 358-373, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "vSYn9fIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Baseline correction algorithm for quantification of in vivo 1H-MRS.",
+                "pub_year": "2023",
+                "citation": "Universidad de Concepci\u00f3n., 2023"
+            },
+            "filled": false,
+            "author_pub_id": "vSYn9fIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 1,
+        "not_available": 2
+    }
+}

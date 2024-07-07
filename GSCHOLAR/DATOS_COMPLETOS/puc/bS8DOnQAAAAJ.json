@@ -1,0 +1,156 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "bS8DOnQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Camilo Campos-Vald\u00e9s",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bS8DOnQAAAAJ&citpid=2",
+    "affiliation": "Universidad de Talca, Pontificia Universidad Cat\u00f3lica de Chile.",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Operations Research",
+        "Combinatorial Optimization",
+        "Data Mining"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 51,
+    "citedby5y": 37,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2016": 9,
+        "2017": 3,
+        "2018": 2,
+        "2019": 10,
+        "2020": 7,
+        "2021": 4,
+        "2022": 6,
+        "2023": 9,
+        "2024": 1
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "9XlvJEIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo \u00c1lvarez-Miranda",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "3nSUa2sAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Claudia Rahmann",
+            "affiliation": "Department of Electrical Engineering, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "BPVbhToAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Morales Quiroga",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V2IQltIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jordi Pereira",
+            "affiliation": "UPF - Barcelona School of Management"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Robust unit commitment including frequency stability constraints",
+                "pub_year": "2016",
+                "citation": "Energies 9 (11), 957, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "bS8DOnQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 26,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1048374772912325074",
+            "cites_id": [
+                "1048374772912325074"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage robust UC including a novel scenario-based uncertainty model for wind power applications",
+                "pub_year": "2015",
+                "citation": "Energy Conversion and Management 101, 94-105, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "bS8DOnQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 21,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5009936630163659060",
+            "cites_id": [
+                "5009936630163659060"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The impact of candidates\u2019 profile and campaign decisions in electoral results: A data analytics approach",
+                "pub_year": "2021",
+                "citation": "Mathematics 9 (8), 902, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "bS8DOnQAAAAJ:WF5omc3nYNoC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11408088002683748253",
+            "cites_id": [
+                "11408088002683748253"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A multi-criteria pen for drawing fair districts: When democratic and demographic fairness matter",
+                "pub_year": "2020",
+                "citation": "Mathematics 8 (9), 1404, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "bS8DOnQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6791140685915265704",
+            "cites_id": [
+                "6791140685915265704"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Aspect-combining functions for modular MapReduce solutions",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "bS8DOnQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

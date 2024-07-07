@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "ghf-x8sAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Richard Soria Mora",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ghf-x8sAAAAJ&citpid=1",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Deep learning",
+        "anomaly detection"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "homepage": "https://www.unab.cl/",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 1,
+        "2023": 2,
+        "2024": 5
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Outlier vehicle trajectory detection using deep autoencoders in Santiago, Chile",
+                "pub_year": "2023",
+                "citation": "Sensors 23 (3), 1440, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "ghf-x8sAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 7,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7858090756077977058",
+            "cites_id": [
+                "7858090756077977058"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detection of Anomalous Pollution Sensors Using Deep Learning Strategies",
+                "pub_year": "2020",
+                "citation": "IOP Conference Series: Earth and Environmental Science 503 (1), 012032, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "ghf-x8sAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2569343901141961027",
+            "cites_id": [
+                "2569343901141961027"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Outlier Detection on Vehicle Trajectories in Santiago, Chile using Unsupervised Deep Learning",
+                "pub_year": "2019",
+                "citation": "2019 38th International Conference of the Chilean Computer Science Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "ghf-x8sAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
