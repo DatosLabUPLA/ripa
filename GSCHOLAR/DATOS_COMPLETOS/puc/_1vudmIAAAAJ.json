@@ -1,0 +1,147 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "_1vudmIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Andres Leonel Huerta Perez",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_1vudmIAAAAJ&citpid=2",
+    "affiliation": "Assistant Professor, Pontificia Universidad Catolica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Transport phenomena",
+        "CFD",
+        "cryogenics",
+        "energy storage"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://github.com/felipehuerta17",
+    "citedby": 123,
+    "citedby5y": 121,
+    "hindex": 4,
+    "hindex5y": 4,
+    "i10index": 4,
+    "i10index5y": 4,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 5,
+        "2020": 6,
+        "2021": 22,
+        "2022": 26,
+        "2023": 31,
+        "2024": 31
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "DsFBEX8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Ricardo P\u00e9rez Correa",
+            "affiliation": "Professor in Chemical Engineering, Pontificia Universidad Cat\u00f3lica de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A realistic vapour phase heat transfer model for the weathering of LNG stored in large tanks",
+                "pub_year": "2019",
+                "citation": "Energy 174, 280-291, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2905463667069101483",
+            "cites_id": [
+                "2905463667069101483"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD modelling of the isobaric evaporation of cryogenic liquids in storage tanks",
+                "pub_year": "2021",
+                "citation": "International Journal of Heat and Mass Transfer 176, 121419, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2382228802763800822",
+            "cites_id": [
+                "2382228802763800822"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Analytical solutions for the isobaric evaporation of pure cryogens in storage tanks",
+                "pub_year": "2019",
+                "citation": "International Journal of Heat and Mass Transfer 143, 118536, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6769091915962570696",
+            "cites_id": [
+                "6769091915962570696"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimizing ethanol recovery in a spinning cone column",
+                "pub_year": "2018",
+                "citation": "Journal of the Taiwan Institute of Chemical Engineers 83, 1-9, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13118583552502100420",
+            "cites_id": [
+                "13118583552502100420"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "CFD modelling of the non-isobaric evaporation of cryogenic liquids in storage tanks",
+                "pub_year": "2024",
+                "citation": "Applied Energy 356, 122420, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17406577614603818765",
+            "cites_id": [
+                "17406577614603818765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A non-equilibrium evaporation model for pure cryogens stored in closed tanks with pressure build-up",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "_1vudmIAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "1N_JoR0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jer\u00f3nimo Lira",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=1N_JoR0AAAAJ&citpid=1",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Density Functional Theory",
+        "Chemical reactivity"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 2,
+    "citedby5y": 2,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of substituents on 3(S)-amino-1-hydroxy-3,4-dihydroquinolin-2(1H)-one: a DFT study",
+                "pub_year": "2019",
+                "citation": "Theoretical Chemistry Accounts 138 (1), 20, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "1N_JoR0AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6197866117455663678",
+            "cites_id": [
+                "6197866117455663678"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Performance tests on the CPU and GPU clusters using N-body simulation [Pruebas de Rendimiento Sobre el Cl\u00faster de CPUs y GPUs Empleando Simulaci\u00f3n N-body]",
+                "pub_year": "2018",
+                "citation": "Latin American and Caribbean Consortium of Engineering Institutions, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "1N_JoR0AAAAJ:blknAaTinKkC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

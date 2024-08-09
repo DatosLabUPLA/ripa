@@ -1,0 +1,85 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "uTu9XvMAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Henry M. Zapata",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Power Electronic"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 6,
+    "citedby5y": 6,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2022": 2,
+        "2023": 4
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Control of cascaded multilevel converter for wave energy applications",
+                "pub_year": "2022",
+                "citation": "Energies 16 (1), 71, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uTu9XvMAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1417495578112675699",
+            "cites_id": [
+                "1417495578112675699"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Modular Multilevel Converter for a Linear Generator for Wave Energy Converter",
+                "pub_year": "2022",
+                "citation": "Energies 15 (17), 6346, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "uTu9XvMAAAAJ:qjMakFHDy7sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11065645676495503679",
+            "cites_id": [
+                "11065645676495503679"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model of a permanent magnet linear generator",
+                "pub_year": "2019",
+                "citation": "IECON 2019-45th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "uTu9XvMAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17932584082739621735",
+            "cites_id": [
+                "17932584082739621735"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "7Olhg0EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Francisco Yuraszeck",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7Olhg0EAAAAJ&citpid=1",
+    "affiliation": "Universidad Andr\u00e9s Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Scheduling",
+        "Metaheuristics",
+        "Constraint Programming",
+        "Integer Programming"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 54,
+    "citedby5y": 54,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 12,
+        "2022": 12,
+        "2023": 14,
+        "2024": 14
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HAHVs30AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo Mej\u00eda",
+            "affiliation": "Profesor Asociado, Universidad de La Sabana, Bogot\u00e1, Colombia"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "pP-egDcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mariona Vil\u00e0",
+            "affiliation": "EAE Business School"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "V2IQltIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jordi Pereira",
+            "affiliation": "UPF - Barcelona School of Management"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Q6kmQY0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felix Mohr",
+            "affiliation": "Universidad de La Sabana - Colombia"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A self-tuning variable neighborhood search algorithm and an effective decoding scheme for open shop scheduling problems with travel/setup times",
+                "pub_year": "2020",
+                "citation": "European Journal of Operational Research 285 (2), 484-496, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "7Olhg0EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 39,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17800061832798894088",
+            "cites_id": [
+                "17800061832798894088"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel constraint programming decomposition approach for the total flow time fixed group shop scheduling problem",
+                "pub_year": "2022",
+                "citation": "Mathematics 10 (3), 329, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "7Olhg0EAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8425131715076933719",
+            "cites_id": [
+                "8425131715076933719"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single and parallel machine scheduling with variable release dates",
+                "pub_year": "2021",
+                "citation": "arXiv preprint arXiv:2103.01785, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "7Olhg0EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12209473442905674800",
+            "cites_id": [
+                "12209473442905674800"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A constraint programming formulation of the multi-mode resource-constrained project scheduling problem for the flexible job shop scheduling problem",
+                "pub_year": "2023",
+                "citation": "IEEE Access, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7Olhg0EAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4551842145234785067",
+            "cites_id": [
+                "4551842145234785067"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A competitive constraint programming approach for the group shop scheduling problem",
+                "pub_year": "2023",
+                "citation": "Procedia Computer Science 220, 946-951, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "7Olhg0EAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1451363065681868548",
+            "cites_id": [
+                "1451363065681868548"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

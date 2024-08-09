@@ -1,0 +1,356 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "SbBAYOkAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Carlos G\u00f3mez-Pantoja",
+    "affiliation": "Assistant Professor, Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Parallel Computing",
+        "Load Balancing",
+        "Social Computing",
+        "Information Retrieval"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 166,
+    "citedby5y": 37,
+    "hindex": 8,
+    "hindex5y": 4,
+    "i10index": 7,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2007": 1,
+        "2008": 9,
+        "2009": 9,
+        "2010": 8,
+        "2011": 10,
+        "2012": 20,
+        "2013": 8,
+        "2014": 24,
+        "2015": 13,
+        "2016": 4,
+        "2017": 12,
+        "2018": 5,
+        "2019": 5,
+        "2020": 5,
+        "2021": 13,
+        "2022": 5,
+        "2023": 8,
+        "2024": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "New caching techniques for web search engines",
+                "pub_year": "2010",
+                "citation": "Proceedings of the 19th ACM international symposium on high performance \u2026, 2010"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 56,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2069136823610402087",
+            "cites_id": [
+                "2069136823610402087"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Integrating heterogeneous sources for predicting question temporal anchors across Yahoo! Answers",
+                "pub_year": "2019",
+                "citation": "Information fusion 50, 112-125, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:ULOm3_A8WrAC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17588388813836013416",
+            "cites_id": [
+                "17588388813836013416"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Scheduling intersection queries in term partitioned inverted files",
+                "pub_year": "2008",
+                "citation": "Euro-Par 2008\u2013Parallel Processing: 14th International Euro-Par Conference \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2852223758609000375",
+            "cites_id": [
+                "2852223758609000375"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Load balancing distributed inverted files",
+                "pub_year": "2007",
+                "citation": "Proceedings of the 9th annual ACM international workshop on Web information \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16728997466793279015",
+            "cites_id": [
+                "16728997466793279015"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Search clicks analysis for discovering temporally anchored questions in community question answering",
+                "pub_year": "2016",
+                "citation": "Expert Systems with Applications 50, 89-99, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:ufrVoPGSRksC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17279368005610941528",
+            "cites_id": [
+                "17279368005610941528"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Location cache for web queries",
+                "pub_year": "2009",
+                "citation": "Proceedings of the 18th ACM conference on Information and knowledge \u2026, 2009"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10393017839778760671",
+            "cites_id": [
+                "10393017839778760671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A search engine accepting on-line updates",
+                "pub_year": "2007",
+                "citation": "Euro-Par 2007 Parallel Processing: 13th International Euro-Par Conference \u2026, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2335843486868577920",
+            "cites_id": [
+                "2335843486868577920"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Distributed query processing on compressed graphs using k2-trees",
+                "pub_year": "2013",
+                "citation": "String Processing and Information Retrieval: 20th International Symposium \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4360183331966291882",
+            "cites_id": [
+                "4360183331966291882"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fault-tolerant cache service for web search engines: Radic evaluation",
+                "pub_year": "2012",
+                "citation": "Euro-Par 2012 Parallel Processing: 18th International Conference, Euro-Par \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:KlAtU1dfN6UC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10945444080191843369",
+            "cites_id": [
+                "10945444080191843369"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An evaluation of fault-tolerant query processing for web search engines",
+                "pub_year": "2011",
+                "citation": "Euro-Par 2011 Parallel Processing: 17th International Conference, Euro-Par \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:qjMakFHDy7sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2013911085484441236",
+            "cites_id": [
+                "2013911085484441236"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Load balancing distributed inverted files: Query ranking",
+                "pub_year": "2008",
+                "citation": "16th Euromicro Conference on Parallel, Distributed and Network-Based \u2026, 2008"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7504402625361301752",
+            "cites_id": [
+                "7504402625361301752"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building a Text Messaging-Based System to Support Low-Cost Automation in Household Agriculture",
+                "pub_year": "2020",
+                "citation": "2020 Congreso Estudiantil de Electr\u00f3nica y Electricidad (INGELECTRA), 1-5, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:9ZlFYXVOiuMC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16813929372147575012",
+            "cites_id": [
+                "16813929372147575012"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A fault-tolerant cache service for web search engines",
+                "pub_year": "2012",
+                "citation": "2012 IEEE 10th International Symposium on Parallel and Distributed \u2026, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10896621538434511202",
+            "cites_id": [
+                "10896621538434511202"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Crowdsourcing-based System for Monitoring EM Radiation Exposure in Chile.",
+                "pub_year": "2018",
+                "citation": "SSN, 32-34, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:Zph67rFs4hoC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10978659749575469824",
+            "cites_id": [
+                "10978659749575469824"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Servicios de cache distribuidos para motores de b\u00fasqueda web",
+                "pub_year": "2014",
+                "citation": "Universidad de Chile, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13742433687253349850",
+            "cites_id": [
+                "13742433687253349850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Prototyping an Information-Centric Network for IoT",
+                "pub_year": "2016",
+                "citation": "SSN 2016, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:5nxA0vEk-isC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sobre la factibilidad de detectar consultas en r\u00e1faga utilizando redes neuronales artificiales",
+                "pub_year": "2012",
+                "citation": "LACNEM, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Un algoritmo on-line para un scheduler en Internet",
+                "pub_year": "2006",
+                "citation": "Una perspectiva de la inteligencia artificial en su 50 aniversario: Campus \u2026, 2006"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:mVmsd5A6BfQC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A New Algorithm for the m-Machine Problem",
+                "pub_year": "2005",
+                "citation": "IFORS, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Overview of metaheuristics methods in compilation",
+                "pub_year": "2005",
+                "citation": "MICAI 2005: Advances in Artificial Intelligence: 4th Mexican International \u2026, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "SbBAYOkAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 3,
+        "not_available": 2
+    }
+}

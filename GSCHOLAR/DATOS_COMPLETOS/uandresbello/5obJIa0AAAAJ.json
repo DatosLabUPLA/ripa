@@ -1,0 +1,160 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "5obJIa0AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Shirin Azadi",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5obJIa0AAAAJ&citpid=1",
+    "affiliation": "Universidad Andr\u00e9s Bello, Researcher",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Power Electronics",
+        "Drives"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 8,
+    "citedby5y": 8,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2019": 1,
+        "2020": 1,
+        "2021": 1,
+        "2022": 0,
+        "2023": 1,
+        "2024": 4
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jV_yH-oAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "alireza davari",
+            "affiliation": "Associate  Professor, Shahid Rajaee Teacher Training University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "tq6ihy0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Cristian Garcia",
+            "affiliation": "Universidad de Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "KZ5TMuAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jose Rodriguez",
+            "affiliation": "Professor, Engineering Faculty, Universidad San Sebastian"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Discrete Optimization of Weighting Factor in Model Predictive Control of Induction Motor",
+                "pub_year": "2023",
+                "citation": "IEEE Open Journal of the Industrial Electronics Society 4, 573-582, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11289995473207205504",
+            "cites_id": [
+                "11289995473207205504"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Reducing variation of switching frequency in finite-state predictive torque of three-phase induction motor",
+                "pub_year": "2019",
+                "citation": "2019 10th International Power Electronics, Drive Systems and Technologies \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16367073687380497688",
+            "cites_id": [
+                "16367073687380497688"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Extended Kalman Filter as the Prediction Model in Sensorless Predictive Control of Induction Motor",
+                "pub_year": "2023",
+                "citation": "2023 IEEE International Conference on Predictive Control of Electrical \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "FCS-Model Predictive Control of a Quadratic Buck Converter for more Efficient Data Centers",
+                "pub_year": "2023",
+                "citation": "2023 IEEE 17th International Conference on Compatibility, Power Electronics \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Online Discrete Optimization of Weighting Factor in Model Predictive Torque and Flux Control of Induction Motor",
+                "pub_year": "2022",
+                "citation": "IECON 2022\u201348th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Simplified Finite Set Model Predictive Control with DC Link Voltage Prediction for the Approach of Electric Vehicle Applications",
+                "pub_year": "2021",
+                "citation": "2021 IEEE International Conference on Predictive Control of Electrical \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DC Voltage Drop Compensation in Automotive Drives by Finite Set Model Predictive Control",
+                "pub_year": "2021",
+                "citation": "2021 12th Power Electronics, Drive Systems, and Technologies Conference \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "5obJIa0AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

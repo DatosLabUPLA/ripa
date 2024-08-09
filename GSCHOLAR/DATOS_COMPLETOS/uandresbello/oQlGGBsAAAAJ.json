@@ -1,0 +1,105 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "oQlGGBsAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Vincent Depassier",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oQlGGBsAAAAJ&citpid=1",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "simulation",
+        "virtual reality"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 4,
+    "citedby5y": 4,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 1,
+        "2023": 2
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ur7hayAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Leon",
+            "affiliation": "Academic, Department of Computer Science, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "s2x6-ogAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Carola Blazquez",
+            "affiliation": "Professor, Universidad Andres Bello, Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "HCN1ZeEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Romina Torres",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improvements of a topological map-matching algorithm in post-processing mode",
+                "pub_year": "2020",
+                "citation": "2020 39th International Conference of the Chilean Computer Science Society \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "oQlGGBsAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5850081844375327349",
+            "cites_id": [
+                "5850081844375327349"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A human-centric cyber security training tool for prioritizing MSNAs",
+                "pub_year": "2023",
+                "citation": "2023 38th IEEE/ACM International Conference on Automated Software \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "oQlGGBsAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A virtual platform skin tears learning tool",
+                "pub_year": "2021",
+                "citation": "2021 40th International Conference of the Chilean Computer Science Society \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "oQlGGBsAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

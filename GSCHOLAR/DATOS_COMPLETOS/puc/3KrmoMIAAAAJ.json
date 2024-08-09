@@ -1,0 +1,102 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "3KrmoMIAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rayen Valdivia",
+    "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Nanotechnology",
+        "vaccines",
+        "natural products",
+        "mathematical modeling"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 18,
+    "citedby5y": 18,
+    "hindex": 3,
+    "hindex5y": 3,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {
+        "2021": 1,
+        "2022": 6,
+        "2023": 8,
+        "2024": 3
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The importance of nanocarrier design and composition for an efficient nanoparticle-mediated transdermal vaccination",
+                "pub_year": "2021",
+                "citation": "Vaccines 9 (12), 1420, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "3KrmoMIAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7171030610835081680",
+            "cites_id": [
+                "7171030610835081680"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimization of physicochemical properties of novel multiple nanoemulsion for complex food matrices through iterative mathematical modelling",
+                "pub_year": "2020",
+                "citation": "Journal of food engineering 276, 109883, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "3KrmoMIAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12598371377893537079",
+            "cites_id": [
+                "12598371377893537079"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Innovative multiple nanoemulsion (W/O/W) based on Chilean honeybee pollen improves their permeability, antioxidant and antibacterial activity",
+                "pub_year": "2023",
+                "citation": "Food Research International 168, 112767, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "3KrmoMIAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020253433824743034",
+            "cites_id": [
+                "18020253433824743034"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparative pharmacokinetic evaluation of nanoparticle-based vs. conventional pharmaceuticals containing statins in attenuating dyslipidaemia",
+                "pub_year": "2024",
+                "citation": "Naunyn-Schmiedeberg's Archives of Pharmacology, 1-10, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "3KrmoMIAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

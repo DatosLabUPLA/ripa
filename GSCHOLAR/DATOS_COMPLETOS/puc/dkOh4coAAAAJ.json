@@ -1,0 +1,308 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "dkOh4coAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Pablo Messina",
+    "affiliation": "PhD Student, PUC Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "computer vision",
+        "nlp",
+        "medical imaging",
+        "chest x-rays",
+        "radiology reports"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://www.linkedin.com/in/pablo-messina-3b027a58/",
+    "citedby": 287,
+    "citedby5y": 281,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2017": 1,
+        "2018": 5,
+        "2019": 16,
+        "2020": 41,
+        "2021": 30,
+        "2022": 61,
+        "2023": 86,
+        "2024": 46
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Content-based artwork recommendation: integrating painting metadata with neural and manually-engineered visual features",
+                "pub_year": "2019",
+                "citation": "User Modeling and User-Adapted Interaction 29 (2), 251-290, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 76,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9532174314189431440",
+            "cites_id": [
+                "9532174314189431440"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The effect of explanations and algorithmic accuracy on visual recommender systems of artistic images",
+                "pub_year": "2019",
+                "citation": "Proceedings of the 24th International Conference on Intelligent User \u2026, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:qjMakFHDy7sC",
+            "num_citations": 60,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4602157644614280897",
+            "cites_id": [
+                "4602157644614280897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A survey on deep learning and explainability for automatic report generation from medical images",
+                "pub_year": "2022",
+                "citation": "ACM Computing Surveys (CSUR) 54 (10s), 1-40, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 49,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16068217954678035852",
+            "cites_id": [
+                "16068217954678035852"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Comparing neural and attractiveness-based visual features for artwork recommendation",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 2nd workshop on deep learning for recommender systems, 55-59, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:ufrVoPGSRksC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16916269678585610690",
+            "cites_id": [
+                "16916269678585610690"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic and HCI aspects for explaining recommendations of artistic images",
+                "pub_year": "2020",
+                "citation": "ACM Transactions on Interactive Intelligent Systems (TiiS) 10 (4), 1-31, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:UeHWp8X0CEIC",
+            "num_citations": 15,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5344213059404000479",
+            "cites_id": [
+                "5344213059404000479"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Exploring content-based artwork recommendation with metadata and visual features",
+                "pub_year": "2017",
+                "citation": "arXiv preprint arXiv:1706.05786, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 13,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16318664839638331259",
+            "cites_id": [
+                "16318664839638331259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Curatornet: Visually-aware recommendation of art images",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2009.04426, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1456394915785839293",
+            "cites_id": [
+                "1456394915785839293"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Inspecting state of the art performance and NLP metrics in image-based medical report generation",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2011.09257, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2798659226500396513",
+            "cites_id": [
+                "2798659226500396513"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Do Better ImageNet Models Transfer Better... for Image Recommendation?",
+                "pub_year": "2018",
+                "citation": "arXiv preprint arXiv:1807.09870, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2495189299327511902",
+            "cites_id": [
+                "2495189299327511902"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PUC Chile team at VQA-Med 2021: approaching VQA as a classification task via fine-tuning a pretrained CNN.",
+                "pub_year": "2021",
+                "citation": "CLEF (Working Notes), 1346-1351, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7422182663593765857",
+            "cites_id": [
+                "7422182663593765857"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A survey on deep learning and explainability for automatic image-based medical report generation",
+                "pub_year": "2020",
+                "citation": "arXiv preprint arXiv:2010.10563, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3694052742430310799",
+            "cites_id": [
+                "3694052742430310799"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Towards Explanations for Visual Recommender Systems of Artistic Images.",
+                "pub_year": "2018",
+                "citation": "IntRS@ RecSys, 69-73, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:Y0pCki6q_DkC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10076152561885149269",
+            "cites_id": [
+                "10076152561885149269"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Two-stage Conditional Chest X-ray Radiology Report Generation",
+                "pub_year": "2022",
+                "citation": "MedNeurIPS 2022, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7290380528220877259",
+            "cites_id": [
+                "7290380528220877259"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "PUC Chile team at TBT Task: Diagnosis of Tuberculosis Type using segmented CT scans.",
+                "pub_year": "2021",
+                "citation": "CLEF (Working Notes), 1336-1345, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8590002470569118322",
+            "cites_id": [
+                "8590002470569118322"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithmic and HCI Aspects for Explaining Recommendations of Artistic Images",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:WF5omc3nYNoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "DRAFT, published",
+                "pub_year": "2020",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:W7OEmFMy1HYC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Algorithms for visual art recommendation: leveraging visual features, metadata and implicit feedback",
+                "pub_year": "2019",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "dkOh4coAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "Jr2CVa8AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Marcelo E.  Reyes",
+    "affiliation": "Faculty of Engineering, Universidad del B\u00edo-B\u00edo, Chile. PhD Student, Doctoral Program in Engineering",
+    "organization": 8365100606562762008,
+    "interests": [],
+    "email_domain": "@alumnos.ubiobio.cl",
+    "citedby": 175,
+    "citedby5y": 73,
+    "hindex": 4,
+    "hindex5y": 3,
+    "i10index": 3,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2014": 2,
+        "2015": 27,
+        "2016": 24,
+        "2017": 23,
+        "2018": 26,
+        "2019": 14,
+        "2020": 8,
+        "2021": 17,
+        "2022": 15,
+        "2023": 14,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "R-2faK0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "roberto ramirez",
+            "affiliation": "University of Talca"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "_ZXZKREAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Espinosa Neira",
+            "affiliation": "Universidad Cat\u00f3lica de la Sant\u00edsima Concepci\u00f3n - Depto. de Ing. El\u00e9ctrica - Profesor Asistente"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel hybrid finite control set model predictive control scheme with reduced switching",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Industrial Electronics 61 (11), 5912-5920, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 104,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3452952668902191765",
+            "cites_id": [
+                "3452952668902191765"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Predictive controller for a three-phase/single-phase voltage source converter cell",
+                "pub_year": "2014",
+                "citation": "IEEE Transactions on Industrial Informatics 10 (3), 1878-1889, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:d1gkVwhDpl0C",
+            "num_citations": 45,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6994503957604750306",
+            "cites_id": [
+                "6994503957604750306"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An efficiency comparison between a 18 pulses diode rectifier and a multi-cell AFE rectifier operating with FCS\u2014MPC",
+                "pub_year": "2014",
+                "citation": "IECON 2014-40th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2014"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 11,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=324766501734059229",
+            "cites_id": [
+                "324766501734059229"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite control set-model predictive control applied to multicell rectifiers",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:UeHWp8X0CEIC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14063393650192055412",
+            "cites_id": [
+                "14063393650192055412"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Feedback Quantizer and Non Linear Control Applied to Multi-Cell AFE Rectifier",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:W7OEmFMy1HYC",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6990303241387923357",
+            "cites_id": [
+                "6990303241387923357"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "An Experimental Comparison Between an Arduino Due and a DSP-based Delfino LaunchPad board",
+                "pub_year": "2022",
+                "citation": "2022 41st International Conference of the Chilean Computer Science Society \u2026, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:eQOLeE2rZwMC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4072514768744404671",
+            "cites_id": [
+                "4072514768744404671"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A performance and efficiency comparison of an AFE rectifier with Finite Control Set\u2013Model Predictive Control and Feedback Quantizer",
+                "pub_year": "2021",
+                "citation": "2021 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4727467373306169747",
+            "cites_id": [
+                "4727467373306169747"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Control Set\u2014Model Predictive Control with Non-Spread Spectrum and Reduced Switching Frequency Applied to Multi-Cell Rectifiers",
+                "pub_year": "2021",
+                "citation": "Energies 14 (19), 6045, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755868795979503977",
+            "cites_id": [
+                "3755868795979503977"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A Synchronization Algorithm Evaluation Tool for Three-Phase Power Systems",
+                "pub_year": "2023",
+                "citation": "2023 IEEE CHILEAN Conference on Electrical, Electronics Engineering \u2026, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:8k81kl-MbHgC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Finite Control Set\u2013Model Predictive Control with Improved Harmonic Rejection applied to Multi-Cell AFE Rectifier",
+                "pub_year": "2020",
+                "citation": "2020 International Symposium on Power Electronics, Electrical Drives \u2026, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improved steady state and transient behavior of static power converters by means of an operating mode identifier algorithm",
+                "pub_year": "2013",
+                "citation": "IECON 2013-39th Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:9yKSN-GCB0IC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A novel hybrid finite control set model predictive control scheme with reduced switching",
+                "pub_year": "2013",
+                "citation": "IECON 2013 - Annual Conference of the IEEE Industrial Electronics Society \u2026, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "Jr2CVa8AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

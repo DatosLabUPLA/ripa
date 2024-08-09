@@ -1,0 +1,322 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "cuuN440AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Ignacio D\u00edaz-Franulic",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Ion channels"
+    ],
+    "email_domain": "@unab.cl",
+    "citedby": 360,
+    "citedby5y": 291,
+    "hindex": 10,
+    "hindex5y": 9,
+    "i10index": 10,
+    "i10index5y": 9,
+    "cites_per_year": {
+        "2014": 1,
+        "2015": 4,
+        "2016": 18,
+        "2017": 12,
+        "2018": 34,
+        "2019": 36,
+        "2020": 41,
+        "2021": 58,
+        "2022": 66,
+        "2023": 59,
+        "2024": 31
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "p7_WRcAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Fernando Danilo Gonzalez Nilo, PhD",
+            "affiliation": "Director Center for Bioinformatics and Integrative Biology, Universidad Andres Bello, Santiago"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gKLx7fYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "david naranjo",
+            "affiliation": "Universidad de Valparaiso"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bxbOE0AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Romina V. Sep\u00falveda",
+            "affiliation": "Universidad Andres Bello"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "feuxRSEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Horacio Poblete",
+            "affiliation": "CBSM, Universidad de Talca, Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Thermally activated TRP channels: molecular sensors for temperature detection",
+                "pub_year": "2018",
+                "citation": "Physical biology 15 (2), 021001, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 94,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8775121896087345384",
+            "cites_id": [
+                "8775121896087345384"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Allosterism and structure in thermally activated transient receptor potential channels",
+                "pub_year": "2016",
+                "citation": "Annual review of biophysics 45 (1), 371-398, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:Y0pCki6q_DkC",
+            "num_citations": 58,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5538277682944757291",
+            "cites_id": [
+                "5538277682944757291"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pore size matters for potassium channel conductance",
+                "pub_year": "2016",
+                "citation": "Journal of General Physiology 148 (4), 277-291, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:zYLM7Y9cAGgC",
+            "num_citations": 51,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4785790527012372597",
+            "cites_id": [
+                "4785790527012372597"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Pore dimensions and the role of occupancy in unitary conductance of Shaker K channels",
+                "pub_year": "2015",
+                "citation": "Journal of General Physiology 146 (2), 133-146, 2015"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 31,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5185751364772612170",
+            "cites_id": [
+                "5185751364772612170"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effective pore size and radius of capture for K+ ions in K-channels",
+                "pub_year": "2016",
+                "citation": "Scientific reports 6 (1), 19893, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:IjCSPb-OGe4C",
+            "num_citations": 27,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4215364999258412897",
+            "cites_id": [
+                "4215364999258412897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Structure-driven pharmacology of transient receptor potential channel vanilloid 1",
+                "pub_year": "2016",
+                "citation": "Molecular Pharmacology 90 (3), 300-308, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:LkGwnXOMwfcC",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11236668307659055081",
+            "cites_id": [
+                "11236668307659055081"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A folding reaction at the C-terminal domain drives temperature sensing in TRPM8 channels",
+                "pub_year": "2020",
+                "citation": "Proceedings of the National Academy of Sciences 117 (33), 20298-20304, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:MXK_kJrjxJIC",
+            "num_citations": 23,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16942369510900374807",
+            "cites_id": [
+                "16942369510900374807"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Novel TRPV1 channel agonists with faster and more potent analgesic properties than capsaicin",
+                "pub_year": "2020",
+                "citation": "Frontiers in Pharmacology 11, 1040, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:8k81kl-MbHgC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6597937107993272868",
+            "cites_id": [
+                "6597937107993272868"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Trans-toxin ion-sensitivity of charybdotoxin-blocked potassium-channels reveals unbinding transitional states",
+                "pub_year": "2019",
+                "citation": "Elife 8, e46170, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:5nxA0vEk-isC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4049771926701248888",
+            "cites_id": [
+                "4049771926701248888"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "K+ conduction and Mg2+ blockade in a shaker Kv-channel single point mutant with an unusually high conductance",
+                "pub_year": "2012",
+                "citation": "Biophysical journal 103 (6), 1198-1207, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:WF5omc3nYNoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766006041079481681",
+            "cites_id": [
+                "8766006041079481681"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Gating-induced large aqueous volumetric remodeling and aspartate tolerance in the voltage sensor domain of Shaker K+ channels",
+                "pub_year": "2018",
+                "citation": "Proceedings of the National Academy of Sciences 115 (32), 8203-8208, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:hqOjcs7Dif8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17330082217479624051",
+            "cites_id": [
+                "17330082217479624051"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Knockdown of myo-inositol transporter SMIT1 normalizes cholinergic and glutamatergic function in an immortalized cell line established from the cerebral cortex of a trisomy 16 \u2026",
+                "pub_year": "2017",
+                "citation": "Neurotoxicity Research 32, 614-623, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:_FxGoFyzp5QC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238274374201454647",
+            "cites_id": [
+                "9238274374201454647"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Binding of \u03ba-Conotoxin-PVIIA to Open and Closed Shaker K-Channels Are Differentially Affected by the Ionic Strength",
+                "pub_year": "2020",
+                "citation": "Marine drugs 18 (11), 533, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:3fE2CSJIrl8C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9735185146238598016",
+            "cites_id": [
+                "9735185146238598016"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Mg2+ Blockade in a Kv Potassium Channel Mutant having an Unusually High Conductance",
+                "pub_year": "2012",
+                "citation": "Biophysical Journal 102 (3), 677a, 2012"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:roLk4NBRz8UC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Efecto de la Normalizaci\u00f3n de la Expresi\u00f3n del Transportador Na+/Mioinositol SMIT1 sobre la funci\u00f3n colin\u00e9rgica de una L\u00ednea Celular Neuronal derivada de Corteza Cerebral de la \u2026",
+                "pub_year": "2007",
+                "citation": "Universidad de Chile, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:0EnyYjriUFMC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sensing Pain and Temperature",
+                "citation": "AND GENETICS, 44, 0"
+            },
+            "filled": false,
+            "author_pub_id": "cuuN440AAAAJ:ufrVoPGSRksC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 5,
+        "not_available": 0
+    }
+}

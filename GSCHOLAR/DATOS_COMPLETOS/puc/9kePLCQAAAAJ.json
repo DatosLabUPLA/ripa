@@ -1,0 +1,745 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "9kePLCQAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rodrigo A. Carrasco",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9kePLCQAAAAJ&citpid=5",
+    "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Approximation and Online Algorithms",
+        "Optimal Control",
+        "Discrete Mathematics",
+        "Combinatorial Optimization"
+    ],
+    "email_domain": "@uc.cl",
+    "homepage": "https://www.raxlab.science/",
+    "citedby": 240,
+    "citedby5y": 156,
+    "hindex": 9,
+    "hindex5y": 9,
+    "i10index": 9,
+    "i10index5y": 7,
+    "cites_per_year": {
+        "2005": 2,
+        "2006": 1,
+        "2007": 6,
+        "2008": 3,
+        "2009": 5,
+        "2010": 0,
+        "2011": 4,
+        "2012": 1,
+        "2013": 7,
+        "2014": 7,
+        "2015": 6,
+        "2016": 15,
+        "2017": 15,
+        "2018": 11,
+        "2019": 11,
+        "2020": 18,
+        "2021": 30,
+        "2022": 38,
+        "2023": 40,
+        "2024": 18
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "r49_E2cAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Clifford Stein",
+            "affiliation": "Professor of IEOR and CS, Columbia University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "C-UQNIoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Garud N. Iyengar",
+            "affiliation": "Columbia University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1wxreSIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Amit Chakraborty",
+            "affiliation": "Head, Predictive Analytics, Siemens Corporation, Corporate Technology"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gyXLZUYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ioannis Akrotirianakis",
+            "affiliation": "Lecturer, Princeton University"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "4z-0TvkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "SUSANA VER\u00d3NICA Mondschein",
+            "affiliation": "Industrial Engineering Department, University of Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "fXywRK4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javiera Barrera",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jkovdhYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gonzalo A. Ruz",
+            "affiliation": "Professor, Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "ycyK8QkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Anthony D. Cho Lo",
+            "affiliation": "Universidad Mayor"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Mm1CJHEAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Eduardo Moreno",
+            "affiliation": "Faculty of Engineering and Sciences, Universidad Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "gWCcWh0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gianpiero Canessa",
+            "affiliation": "Scania"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Alc-aWoAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Kirk Pruhs",
+            "affiliation": "Professor of Computer Science, University of Pittsburgh"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RLQdY5AAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jos\u00e9 Verschae",
+            "affiliation": "Associate Professor, Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "MSWk9YIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ricardo Carelli",
+            "affiliation": "Profesor de Ingenier\u00eda de Control"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "JRMCEqIAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Felipe A. Asenjo",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "bOcyriQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alexis Tejeda",
+            "affiliation": "National Radio Astronomy Observatory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Agw4Zs0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Avarias",
+            "affiliation": "Software Engineer, Joint ALMA Observatory"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "1y_gro0AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Toledo",
+            "affiliation": "ALMA"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "RG9y4EQAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Mauricio Galleguillos",
+            "affiliation": "Universidad Adolfo Iba\u00f1ez, Facultad de Ingenier\u00eda y Ciencias"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "sysQUHsAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Javier Lopatin",
+            "affiliation": "Universidad Adolfo Ib\u00e1\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "jD2EYe8AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Ignacio Fuentes",
+            "affiliation": "Universidad de Las Am\u00e9ricas"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "AZJzkNAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Susana Eyheramendy",
+            "affiliation": "Professor of Statistics, U Adolfo Iba\u00f1ez"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "S2EpBmkAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Tito Homem-de-Mello",
+            "affiliation": "Professor. School of Business. Universidad Adolfo Iba\u00f1ez."
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "na3ScswAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Bernardo Pagnoncelli",
+            "affiliation": "Associate Professor, SKEMA Business School"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fault detection and isolation in cooperative mobile robots using multilayer architecture and dynamic observers",
+                "pub_year": "2011",
+                "citation": "Robotica 29 (4), 555-562, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:9yKSN-GCB0IC",
+            "num_citations": 32,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6697878024796773554",
+            "cites_id": [
+                "6697878024796773554"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demand shaping in an electrical power grid using day ahead market and real time market prices",
+                "pub_year": "2018",
+                "citation": "US Patent 9,899,837, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:86PQX7AUzd4C",
+            "num_citations": 30,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=708700975008263278",
+            "cites_id": [
+                "708700975008263278"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource Cost Aware Scheduling",
+                "pub_year": "2018",
+                "citation": "European Journal of Operational Research, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:FPJr55Dyh1AC",
+            "num_citations": 20,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13482183402919205362",
+            "cites_id": [
+                "13482183402919205362"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Demand shaping in an electrical power grid",
+                "pub_year": "2017",
+                "citation": "US Patent 9,735,579, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:PVjk1bu6vJQC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16491966858278457897",
+            "cites_id": [
+                "16491966858278457897"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy logic based nonlinear kalman filter applied to mobile robots modelling",
+                "pub_year": "2004",
+                "citation": "Fuzzy Systems, 2004. Proceedings. 2004 IEEE International Conference on 3 \u2026, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 16,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7302626532277719953,7698259150262254443,13937950307883658685",
+            "cites_id": [
+                "7302626532277719953",
+                "7698259150262254443",
+                "13937950307883658685"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operating Room Scheduling under Waiting Time Constraints: the Chilean GES Plan",
+                "pub_year": "2020",
+                "citation": "Annals of Operations Research, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:5qfkUJPXOUwC",
+            "num_citations": 14,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13591423759813748580",
+            "cites_id": [
+                "13591423759813748580"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "The online set aggregation problem",
+                "pub_year": "2018",
+                "citation": "LATIN 2018: Theoretical Informatics: 13th Latin American Symposium, Buenos \u2026, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:ClCfbGk0d_YC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10267162970213432850",
+            "cites_id": [
+                "10267162970213432850"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-based fault detection and diagnosis in ALMA subsystems",
+                "pub_year": "2016",
+                "citation": "Observatory Operations: Strategies, Processes, and Systems VI 9910, 919-929, 2016"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:-FonjvnnhkoC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5841163470028955032",
+            "cites_id": [
+                "5841163470028955032"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dealing with Uncertain Surgery Times in Operating Room Scheduling",
+                "pub_year": "2022",
+                "citation": "European Journal of Operational Research, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:4fGpz3EwCPoC",
+            "num_citations": 10,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11282806611531080589",
+            "cites_id": [
+                "11282806611531080589"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Real-time fleet management decision support system with security constraints",
+                "pub_year": "2020",
+                "citation": "Top 28 (3), 728-748, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:rmuvC79q63oC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3745103540861879635",
+            "cites_id": [
+                "3745103540861879635"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Single machine scheduling with job-dependent convex cost and arbitrary precedence constraints",
+                "pub_year": "2013",
+                "citation": "Operations Research Letters 41 (5), 436-441, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:ufrVoPGSRksC",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15786271428127645517",
+            "cites_id": [
+                "15786271428127645517"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Nonlinear state estimation in mobile robots using a fuzzy observer",
+                "pub_year": "2005",
+                "citation": "IFAC Proceedings Volumes 38 (1), 613-618, 2005"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 9,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14430962154149189056",
+            "cites_id": [
+                "14430962154149189056"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy aware scheduling for weighted completion time and weighted tardiness",
+                "pub_year": "2011",
+                "citation": "arXiv preprint arXiv:1110.0685, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 8,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13981916600232587065",
+            "cites_id": [
+                "13981916600232587065"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Slow Degradation Fault Detection in a Harsh Environment",
+                "pub_year": "2020",
+                "citation": "IEEE Access 8, 175904 - 175920, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:kh2fBNsKQNwC",
+            "num_citations": 6,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16554686924323255806",
+            "cites_id": [
+                "16554686924323255806"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Improving prescriptive maintenance by incorporating post-prognostic information through chance constraints",
+                "pub_year": "2022",
+                "citation": "IEEE Access 10, 55924-55932, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:GtLg2Ama23sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15404995571568083583",
+            "cites_id": [
+                "15404995571568083583"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Layered Architecture for Fault Detection and Isolation in Cooperative Mobile Robots",
+                "pub_year": "2007",
+                "citation": "European Control Conference, 2950-2955, 2007"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:Tyk-4Ss8FVUC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12258557181670077552,8470789570824860541,11223166994457262017,6698544527763429552",
+            "cites_id": [
+                "12258557181670077552",
+                "8470789570824860541",
+                "11223166994457262017",
+                "6698544527763429552"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Sistema de Guiado para un robot m\u00f3vil basado en l\u00f3gica difusa",
+                "pub_year": "2002",
+                "citation": "XV Congreso de la Asociaci\u00f3n Chilena de Control Autom\u00e1tico, 2002"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:qjMakFHDy7sC",
+            "num_citations": 5,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5531755208753412992,16131713565195567035",
+            "cites_id": [
+                "5531755208753412992",
+                "16131713565195567035"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Optimal decisions for salvage logging after wildfires",
+                "pub_year": "2020",
+                "citation": "Omega: The International Journal of Management Science, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:_axFR9aDTf0C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5447056295363205175,13782612433671971772",
+            "cites_id": [
+                "5447056295363205175",
+                "13782612433671971772"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "ALMA Engineering Fault Detection Framework",
+                "pub_year": "2018",
+                "citation": "Observatory Operations: Strategies, Processes, and Systems, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:hCrLmN-GePgC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11896138875183167964",
+            "cites_id": [
+                "11896138875183167964"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "\u201cQueen Bee\u201d genetic optimization of an heuristic based fuzzy control scheme for a mobile robot",
+                "pub_year": "2003",
+                "citation": "First IEEE LatinAmerican Conference on Robotics and Automation, 1-7, 2003"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:IjCSPb-OGe4C",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17636566267195304320,16876828472053710731",
+            "cites_id": [
+                "17636566267195304320",
+                "16876828472053710731"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Using smartphone photographs of the Moon to acquaint students with non-Euclidean geometry",
+                "pub_year": "2021",
+                "citation": "American Journal of Physics 89 (12), 1079-1085, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:bz8QjSJIRt4C",
+            "num_citations": 3,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6619785939073412550",
+            "cites_id": [
+                "6619785939073412550"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Detecci\u00f3n y Diagn\u00f3stico de Fallas en Robots M\u00f3viles Cooperativos",
+                "pub_year": "2004",
+                "citation": "Pontificia Universidad Catolica de Chile, 2004"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:YsMSGLbcyi4C",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11759846465243060928",
+            "cites_id": [
+                "11759846465243060928"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Approximation algorithm for resource-constrained project scheduling problems with net present value objective",
+                "pub_year": "2022",
+                "citation": "arXiv preprint arXiv:2209.02029, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:FAceZFleit8C",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14016304137474285692",
+            "cites_id": [
+                "14016304137474285692"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "A RUL Estimation System from Clustered Run-to-Failure Degradation Signals",
+                "pub_year": "2022",
+                "citation": "Sensors 22 (14), 5323, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:_FM0Bhl9EiAC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4067853877542376999",
+            "cites_id": [
+                "4067853877542376999"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Astronomical Scheduling in the Era of Big Observatories",
+                "pub_year": "2020",
+                "citation": "Astronomical Data Analysis Software and Systems XXVII 522, 219, 2020"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:YohjEiUPhakC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5375253696311306359",
+            "cites_id": [
+                "5375253696311306359"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Operating room scheduling with variable procedure times",
+                "pub_year": "2017",
+                "citation": "Proceedings of the 13th workshop on models and algorithms for planning and \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:e_rmSamDkqQC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4069518948356421092",
+            "cites_id": [
+                "4069518948356421092"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Resource Cost Aware Scheduling Problems",
+                "pub_year": "2013",
+                "citation": "Columbia University, 2013"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:_FxGoFyzp5QC",
+            "num_citations": 1,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8119910409791537045",
+            "cites_id": [
+                "8119910409791537045"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Is the change deforestation? Using time-series analysis of satellite data to disentangle deforestation from other forest degradation causes",
+                "pub_year": "2024",
+                "citation": "Remote Sensing Applications: Society and Environment, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:NXb4pA-qfm4C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Equipo, sistema y m\u00e9todo para administrar \u00f3ptimamente la energ\u00eda en una red de uso domiciliario e industrial.",
+                "pub_year": "2021",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:anf4URPfarAC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-based Slow Degradation Fault Detection and Diagnosis in ALMA's Intermediate Frequency Processors",
+                "pub_year": "2017",
+                "citation": "Proc. of the XXVII Astronomical Data Analysis Software and System Conference \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:HbR8gkJAVGIC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Model-free Approach to Fault Detection for Feature Identification and Dimensionality Reduction at ALMA",
+                "pub_year": "2017",
+                "citation": "Proc. of the XXVII Astronomical Data Analysis Software and System Conference \u2026, 2017"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:xtoqd-5pKcoC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Energy aware scheduling: minimizing total energy cost and completion time by \u03b1-points and \u03b1-speeds",
+                "pub_year": "2011",
+                "citation": "Proc. of the 10th Workshop on Models and Algorithms for Planning and \u2026, 2011"
+            },
+            "filled": false,
+            "author_pub_id": "9kePLCQAAAAJ:eQOLeE2rZwMC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 6,
+        "not_available": 0
+    }
+}

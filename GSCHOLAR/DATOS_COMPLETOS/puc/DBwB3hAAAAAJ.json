@@ -1,0 +1,99 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "DBwB3hAAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Felipe Guinez",
+    "affiliation": "School of Engineering, Pontificia Universidad Cat\u00f3lica de Chile",
+    "organization": 7459009050823923954,
+    "interests": [
+        "Tecnologia del hormigon",
+        "sustentabilidad",
+        "carbono neutralidad"
+    ],
+    "email_domain": "@uc.cl",
+    "citedby": 48,
+    "citedby5y": 48,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2019": 2,
+        "2020": 5,
+        "2021": 12,
+        "2022": 6,
+        "2023": 16,
+        "2024": 7
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Monotonic and cyclic behaviour of wood frame shear walls for mid-height timber buildings",
+                "pub_year": "2019",
+                "citation": "Engineering Structures 189, 100-110, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "DBwB3hAAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 46,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11112273377371145682",
+            "cites_id": [
+                "11112273377371145682"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Fuzzy inference system for predicting functional service life of concrete pavements in airports",
+                "pub_year": "2022",
+                "citation": "Infrastructures 7 (12), 162, 2022"
+            },
+            "filled": false,
+            "author_pub_id": "DBwB3hAAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 2,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=821984586781746592",
+            "cites_id": [
+                "821984586781746592"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Effect of mix dosage on rubberized concrete mechanical performance: A multivariable prediction model towards design provisions",
+                "pub_year": "2024",
+                "citation": "Journal of Building Engineering 90, 109451, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "DBwB3hAAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Seismic response of wood frame shear walls with sturdy end studs and strong hold-down anchorages and design implications",
+                "pub_year": "2018",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "DBwB3hAAAAAJ:d1gkVwhDpl0C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

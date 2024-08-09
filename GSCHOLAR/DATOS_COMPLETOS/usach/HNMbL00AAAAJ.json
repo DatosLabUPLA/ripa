@@ -1,0 +1,68 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "HNMbL00AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Rub\u00e9n Montecinos Barros",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=HNMbL00AAAAJ&citpid=2",
+    "affiliation": "Universidad de Santiago de Chile",
+    "organization": 605437563739143535,
+    "interests": [
+        "Educaci\u00f3n Cient\u00edfica"
+    ],
+    "email_domain": "@usach.cl",
+    "citedby": 12,
+    "citedby5y": 12,
+    "hindex": 1,
+    "hindex5y": 1,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2020": 2,
+        "2021": 3,
+        "2022": 6,
+        "2023": 1
+    },
+    "coauthors": [],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Anthraquinone Derivative Reduces Tau Oligomer Progression by Inhibiting Cysteine\u2010Cysteine Interaction",
+                "pub_year": "2019",
+                "citation": "ChemistryOpen 8 (5), 554-559, 2019"
+            },
+            "filled": false,
+            "author_pub_id": "HNMbL00AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 12,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12769520914816410250",
+            "cites_id": [
+                "12769520914816410250"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Construction of color-magnitude diagrams using real astronomical data for teaching at school",
+                "pub_year": "2023",
+                "citation": "European Journal of Physics, 2023"
+            },
+            "filled": false,
+            "author_pub_id": "HNMbL00AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

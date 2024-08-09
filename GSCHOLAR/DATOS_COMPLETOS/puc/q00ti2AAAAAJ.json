@@ -1,0 +1,127 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "q00ti2AAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Jos\u00e9 Tom\u00e1s Marquinez",
+    "affiliation": "Profesor Instructor Adjunto, Depto. Ciencia de la Computaci\u00f3n, Pontificia Universidad Cat\u00f3lica de",
+    "organization": 7459009050823923954,
+    "interests": [
+        "ICU",
+        "Approximate Dynamic Programming",
+        "Capacity Management",
+        "Education",
+        "Collaboration"
+    ],
+    "email_domain": "@ing.puc.cl",
+    "citedby": 44,
+    "citedby5y": 41,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 2,
+    "i10index5y": 2,
+    "cites_per_year": {
+        "2018": 2,
+        "2019": 2,
+        "2020": 6,
+        "2021": 7,
+        "2022": 6,
+        "2023": 10,
+        "2024": 9
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "INBSXpMAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "miguel nussbaum",
+            "affiliation": "Pontificia Universidad Catolica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "UiorjeYAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "ALEJANDRO CATALDO",
+            "affiliation": "Pontificia Universidad Cat\u00f3lica de Chile"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "q3KKrMcAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Antoine Saur\u00e9",
+            "affiliation": "Associate Professor, Telfer School of Management, University of Ottawa"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Building arguments: key to collaborative scaffolding",
+                "pub_year": "2018",
+                "citation": "Interactive Learning Environments 26 (3), 355-371, 2018"
+            },
+            "filled": false,
+            "author_pub_id": "q00ti2AAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 25,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2463477747915897377",
+            "cites_id": [
+                "2463477747915897377"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identifying proactive ICU patient admission, transfer and diversion policies in a public-private hospital network",
+                "pub_year": "2021",
+                "citation": "European Journal of Operational Research 295 (1), 306-320, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "q00ti2AAAAAJ:2osOgNQ5qMEC",
+            "num_citations": 19,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16777803057576821448",
+            "cites_id": [
+                "16777803057576821448"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Dise\u00f1o y gesti\u00f3n de pol\u00edticas p\u00fablicas para la red de salud p\u00fablica chilena",
+                "pub_year": "2022",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q00ti2AAAAAJ:qjMakFHDy7sC",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Collpad 2, un scaffold colaborativo: su impacto en el aprendizaje de geometr\u00eda",
+                "pub_year": "2016",
+                "citation": ""
+            },
+            "filled": false,
+            "author_pub_id": "q00ti2AAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 1
+    }
+}

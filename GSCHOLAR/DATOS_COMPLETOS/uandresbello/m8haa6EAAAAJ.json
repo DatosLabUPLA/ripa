@@ -1,0 +1,105 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "m8haa6EAAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Matias Vargas Mar\u00edn",
+    "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=m8haa6EAAAAJ&citpid=1",
+    "affiliation": "Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Computer Science"
+    ],
+    "email_domain": "@uandresbello.edu",
+    "citedby": 21,
+    "citedby5y": 21,
+    "hindex": 2,
+    "hindex5y": 2,
+    "i10index": 1,
+    "i10index5y": 1,
+    "cites_per_year": {
+        "2021": 3,
+        "2022": 5,
+        "2023": 8,
+        "2024": 5
+    },
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ur7hayAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Roberto Leon",
+            "affiliation": "Academic, Department of Computer Science, Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "0IWBYMwAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Alejandra Urtubia",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "Ke-tzn4AAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Elizabeth Montero",
+            "affiliation": "Universidad T\u00e9cnica Federico Santa Mar\u00eda"
+        },
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "NQZ6oKAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Jorge Soto-Delgado",
+            "affiliation": "Universidad Andr\u00e9s Bello, Vi\u00f1a del Mar"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Identification of chemical markers to detect abnormal wine fermentation using support vector machines",
+                "pub_year": "2021",
+                "citation": "Computers & Chemical Engineering 145, 107158, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "m8haa6EAAAAJ:u5HHmVD_uO8C",
+            "num_citations": 17,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5816856441966557894",
+            "cites_id": [
+                "5816856441966557894"
+            ]
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Development of computational approaches with a fragment-based drug design strategy: In silico hsp90 inhibitors discovery",
+                "pub_year": "2021",
+                "citation": "International Journal of Molecular Sciences 22 (24), 13226, 2021"
+            },
+            "filled": false,
+            "author_pub_id": "m8haa6EAAAAJ:u-x6o8ySG0sC",
+            "num_citations": 4,
+            "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14724766126875196431",
+            "cites_id": [
+                "14724766126875196431"
+            ]
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}

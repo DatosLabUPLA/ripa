@@ -1,0 +1,65 @@
+{
+    "container_type": "Author",
+    "filled": [
+        "basics",
+        "indices",
+        "counts",
+        "coauthors",
+        "publications",
+        "public_access"
+    ],
+    "scholar_id": "6yh6bS4AAAAJ",
+    "source": "AUTHOR_PROFILE_PAGE",
+    "name": "Alvaro Gonzalez-Holgado",
+    "affiliation": "Professor Universidad Andres Bello",
+    "organization": 13542589241086358186,
+    "interests": [
+        "Innovacion"
+    ],
+    "email_domain": "@unab.cl",
+    "hindex": 0,
+    "hindex5y": 0,
+    "i10index": 0,
+    "i10index5y": 0,
+    "cites_per_year": {},
+    "coauthors": [
+        {
+            "container_type": "Author",
+            "filled": [],
+            "scholar_id": "T-qTkdAAAAAJ",
+            "source": "CO_AUTHORS_LIST",
+            "name": "Gustavo Gatica",
+            "affiliation": "Professor Universidad Andres Bello - Universidad de Santiago de Chile"
+        }
+    ],
+    "publications": [
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Conceptual Model for Retail Distribution in Nanostores: The case of the Southwest of Barranquilla, Colombia",
+                "pub_year": "2024",
+                "citation": "Procedia Computer Science 231, 520-525, 2024"
+            },
+            "filled": false,
+            "author_pub_id": "6yh6bS4AAAAJ:u5HHmVD_uO8C",
+            "num_citations": 0
+        },
+        {
+            "container_type": "Publication",
+            "source": "AUTHOR_PUBLICATION_ENTRY",
+            "bib": {
+                "title": "Descripci\u00f3n de gesti\u00f3n participativa en organizaciones econ\u00f3micas de la regi\u00f3n Metropolitana",
+                "pub_year": "2000",
+                "citation": "Universidad Cat\u00f3lica Silva Henr\u00edquez, 2000"
+            },
+            "filled": false,
+            "author_pub_id": "6yh6bS4AAAAJ:u-x6o8ySG0sC",
+            "num_citations": 0
+        }
+    ],
+    "public_access": {
+        "available": 0,
+        "not_available": 0
+    }
+}
