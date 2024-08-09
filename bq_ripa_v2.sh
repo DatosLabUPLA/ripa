@@ -17,8 +17,8 @@ cd ~
 # Instrucciones previas
 echo "--------------------------"
 echo "INSTRUCCIONES PREVIAS V2"
-echo "1) Antes de continuar, asegurese de haber creado el dataset scholarly en BigQuery"
-echo "2) Asegurese de haber eliminado las tablas pubs, authors y coauthors en el dataset scholarly"
+echo "1) Antes de continuar, asegurese de haber creado el dataset ripa en BigQuery"
+echo "2) Asegurese de haber eliminado las tablas pubs, authors y coauthors en el dataset ripa"
 echo "--------------------------"
 
 # Pregunta si desea actualizar los datos
@@ -32,12 +32,12 @@ if [ $actualizar = "y" ]; then
     # Scimago 
     echo "Cargando datos a BigQuery - Scimago"
     cd ripa/APP\ PROCESA\ DATOS/
-    bq load --source_format=CSV --field_delimiter="tab" --skip_leading_rows=1 scholarly.scimago scimago_journals_categories.csv id_journal:STRING,journal:STRING,journal_short:STRING,id_journal2:STRING,id_area:STRING,area_name:STRING,id_category:STRING,categories:STRING;
+    bq load --source_format=CSV --field_delimiter="tab" --skip_leading_rows=1 ripa.ripa_scimago scimago_journals_categories.csv id_journal:STRING,journal:STRING,journal_short:STRING,id_journal2:STRING,id_area:STRING,area_name:STRING,id_category:STRING,categories:STRING;
 
     # Tabla pubs_journal
-    echo "Creando tabla de publicaciones con el nombre del pubs_journal"
+    echo "Creando tabla de publicaciones con el nombre del ripa_pubs_journal"
     bq query --use_legacy_sql=false \
-    "create or replace TABLE scholarly.pubs_journal as
+    "create or replace TABLE ripa.ripa_pubs_journal as
     SELECT scholar_id, lower(
       regexp_replace(
         replace(
@@ -64,15 +64,15 @@ if [ $actualizar = "y" ]; then
           ),r'([0-9]+)',''
         )
       ) as short_js
-    from scholarly.Info_Publicaciones
+    from ripa.gs_publications
     "
 
     # Tabla authors_categories
     echo "Creando tabla de autores con categorias"
     bq query --use_legacy_sql=false \
-    "create or replace table scholarly.authors_categories as
+    "create or replace table ripa.ripa_authors_categories as
     SELECT p.scholar_id, p.short_js,s.journal,s.id_area, s.area_name, s.id_category,s.categories  
-    FROM ripa-1022.scholarly.pubs_journal p, ripa-1022.scholarly.scimago s
+    FROM ripa-1022.ripa.ripa_pubs_journal p, ripa-1022.ripa.ripa_scimago s
     where p.short_js = s.journal_short"
 else
     echo "No se actualizarán los datos"
