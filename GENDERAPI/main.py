@@ -87,7 +87,7 @@ def connect_to_bigquery():
 def insert_to_bigquery(data: dict):
     client = connect_to_bigquery()
     dataset_id = "ripa"
-    table_id = "ripa_gs_genero"
+    table_id = "ripa_gs_gender"
     table_ref = client.dataset(dataset_id).table(table_id)
 
     # Check if the table exists and get it. If not, create it.

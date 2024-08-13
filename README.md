@@ -78,10 +78,10 @@ chmod +x bq_ripa_v2.sh
 
 ### Tabla API Gender
 Tablas involucradas:
-- ripa_gs_genero
+- ripa_gs_gender
 
 #### Atualizar datos
-Despues de actualizar la tabla de `gs_authors` se debe actualizar la tabla de `ripa_gs_genero` con los nuevos datos, para ello se debe ejecutar la siguiente consulta SQL que devuelve los autores que no tienen genero asignado.
+Despues de actualizar la tabla de `gs_authors` se debe actualizar la tabla de `ripa_gs_gender` con los nuevos datos, para ello se debe ejecutar la siguiente consulta SQL que devuelve los autores que no tienen genero asignado.
 
 ```sql
 SELECT 
@@ -90,7 +90,7 @@ SELECT
 FROM 
     `ripa-1022.ripa.gs_authors` a
 LEFT JOIN 
-    `ripa-1022.ripa.ripa_gs_genero` g
+    `ripa-1022.ripa.ripa_gs_gender` g
 ON 
     a.scholar_id = g.id_autor_gs
 WHERE 
