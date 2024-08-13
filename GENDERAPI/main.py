@@ -34,14 +34,14 @@ def format_data(gender_data: dict, author_data: dict) -> dict:
     try:
         to_format = {
             'id_autor_gs': author_data['id_autor_gs'],
+            'gender': gender_data['gender'],
+            'probability': gender_data['probability'],
             'full_name': gender_data['input']['full_name'],
-            'country': gender_data['input']['country'],
-            'result_found': gender_data['result_found'],
             'first_name': gender_data['first_name'],
             'last_name': gender_data['last_name'],
-            'probability': gender_data['probability'],
-            'gender': gender_data['gender'],
             'samples': gender_data['details']['samples'],
+            'result_found': gender_data['result_found'],
+            'country': gender_data['input']['country'],
         }
     except KeyError as e:
         print(f"KeyError: {e}")  # Mostrar el error para entender qué campo falta
@@ -63,7 +63,7 @@ def get_authors() -> dict:
     # response_ripa = requests.get(url_ripa)
 
     # leer desde json local
-    with open("genero_input_2.json", "r", encoding='utf-8') as file:
+    with open("genero_input.json", "r", encoding='utf-8') as file:
         data = json.load(file)
         return data
 
@@ -86,8 +86,8 @@ def connect_to_bigquery():
 # inserta datos en bigquery en el nodo genero_gs que esta dentro del nodo gscholar que esta dentro del nodo ripa-1022, si no existe, crealo.
 def insert_to_bigquery(data: dict):
     client = connect_to_bigquery()
-    dataset_id = "gscholar"
-    table_id = "genero_gs"
+    dataset_id = "ripa"
+    table_id = "ripa_gs_genero"
     table_ref = client.dataset(dataset_id).table(table_id)
 
     # Check if the table exists and get it. If not, create it.
@@ -96,10 +96,10 @@ def insert_to_bigquery(data: dict):
     except NotFound:
         # If the table does not exist, create it with the desired schema.
         schema = [
-            bigquery.SchemaField("id_autor_gs", "INTEGER", mode="REQUIRED"),
-            bigquery.SchemaField("full_name", "STRING", mode="REQUIRED"),
-            bigquery.SchemaField("country", "STRING", mode="REQUIRED"),
-            bigquery.SchemaField("result_found", "BOOLEAN", mode="REQUIRED"),
+            bigquery.SchemaField("id_autor_gs", "STRING", mode="NULLABLE", ),
+            bigquery.SchemaField("full_name", "STRING", mode="NULLABLE"),
+            bigquery.SchemaField("country", "STRING", mode="NULLABLE"),
+            bigquery.SchemaField("result_found", "BOOLEAN", mode="NULLABLE"),
             bigquery.SchemaField("first_name", "STRING", mode="NULLABLE"),
             bigquery.SchemaField("last_name", "STRING", mode="NULLABLE"),
             bigquery.SchemaField("probability", "FLOAT", mode="NULLABLE"),
@@ -140,8 +140,6 @@ def finish_json_file():
         # Agregar el cierre de arreglo JSON
         file.write(b"\n]")
 
-
-
 def save_to_csv(data: dict):
     with open("genero.csv", mode='a', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=data.keys())
@@ -181,37 +179,38 @@ def init_files():
         writer = csv.DictWriter(file, fieldnames=headers)
         writer.writeheader()
 
-def save_to_log(data: str, time: datetime):
+def save_to_log(data: str):
+    current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     with open("log.txt", "a", encoding='utf-8') as file:
-        file.write(f"{time}: {data}\n")
+        file.write(f"{current_time}: {data}\n")
 
 def main():
     # Guardar el tiempo de inicio
-    save_to_log("Inicio del proceso", datetime.now().strftime('%H:%M:%S'))
+    save_to_log("Inicio del proceso")
 
     # Inicializar archivos
     init_files()
 
     authors = get_authors()
-    save_to_log(f"Total de autores: {len(authors)}", datetime.now().strftime('%H:%M:%S'))
+    save_to_log(f"Total de autores: {len(authors)}")
     print(f"Total de autores: {len(authors)}")
 
-    save_to_log(f"Inicio iteración de autores", datetime.now().strftime('%H:%M:%S'))
+    save_to_log(f"Inicio iteración de autores")
     for author in authors:
-        save_to_log(f"Procesado autor: {author['id_autor_gs']}", datetime.now().strftime('%H:%M:%S'))
+        save_to_log(f"Procesado autor: {author['id_autor_gs']}")
         print(f"id_gs: {author['id_autor_gs']} - autor: {author['autor']}")
         gender_data = get_gender(author['autor'])
         formatted_data = format_data(gender_data, author)
-        #insert_to_bigquery(formatted_data)
+        insert_to_bigquery(formatted_data)
         save_to_file(formatted_data)
         save_to_csv(formatted_data)
-    save_to_log(f"Fin iteración de autores", datetime.now().strftime('%H:%M:%S'))
+    save_to_log(f"Fin iteración de autores")
 
     # Finalizar correctamente el archivo JSON
     finish_json_file()
     
     # imprimir el tiempo de finalización
-    save_to_log("Fin del proceso", datetime.now().strftime('%H:%M:%S'))
+    save_to_log("Fin del proceso")
 
     autors = get_authors()
 
