@@ -78,7 +78,26 @@ chmod +x bq_ripa_v2.sh
 
 ### Tabla API Gender
 Tablas involucradas:
+- ripa_gs_genero
 
+#### Atualizar datos
+Despues de actualizar la tabla de `gs_authors` se debe actualizar la tabla de `ripa_gs_genero` con los nuevos datos, para ello se debe ejecutar la siguiente consulta SQL que devuelve los autores que no tienen genero asignado.
+
+```sql
+SELECT 
+    a.scholar_id as id_autor_gs,
+    a.name as autor
+FROM 
+    `ripa-1022.ripa.gs_authors` a
+LEFT JOIN 
+    `ripa-1022.ripa.ripa_gs_genero` g
+ON 
+    a.scholar_id = g.id_autor_gs
+WHERE 
+    g.id_autor_gs IS NULL;
+```
+
+Se debe descargar esta consulta como JSON, renombrar el archivo a `genero_input.json` y subirlo a la carpeta `GENDERAPI`. Luego se debe ejecutrar el script ubicado en `GENDERAPI\main.py`, consultara el archivo y a la API de GenderAPI y los subirá directamente a BigQuery y generará un archivo CSV y un JSON con la misma información y dejando registro en el `log.txt`.
 
 ### Tablas RIPA
 Tablas involucradas:
